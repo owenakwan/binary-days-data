@@ -20,7 +20,7 @@ import requests
 
 CT = ZoneInfo("America/Chicago")
 OUT_DIR = os.environ.get("OUT_DIR") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "out")
-HOURS = 48
+HOURS = 72
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 
 FEEDS = [
