@@ -37,7 +37,7 @@ MIN_BUY = 1_000           # skip tiny trades
 MIN_SELL = 10_000
 MAX_FETCH = int(os.environ.get("MAX_FETCH", "4000"))   # safety cap per run
 BIOTECH_SIC = {"2833", "2834", "2835", "2836", "8731"}
-UA = {"User-Agent": f"binary-days insider data {os.environ.get('SEC_CONTACT', '').strip() or 'contact via github.com/owenakwan'}",
+UA = {"User-Agent": f"binary-days insider data {os.environ.get('SEC_CONTACT', '').encode('ascii', 'ignore').decode().strip() or 'contact via github.com/owenakwan'}",
       "Accept-Encoding": "gzip, deflate"}
 S = requests.Session()
 S.headers.update(UA)
