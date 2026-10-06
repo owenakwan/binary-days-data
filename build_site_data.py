@@ -177,6 +177,7 @@ def load_spreadsheet():
     if not os.path.exists(XLSX):
         log("[warn] spreadsheet not found; catalysts list will only contain discovered items")
         return []
+    today = dt.datetime.now(CT).date()
     wb = load_workbook(XLSX, data_only=True, read_only=True)
     ws = wb["Catalysts"] if "Catalysts" in wb.sheetnames else wb.worksheets[0]
     header, out = None, []
