@@ -122,6 +122,56 @@ def norm_company(s):
     return re.sub(r"[^a-z0-9 ]", " ", re.sub(r"\s+", " ", s)).strip()
 
 
+MONTH_NAMES = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+MON3 = {m: i for i, m in enumerate(MONTH_NAMES, 1)}
+MON_RE = r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?"
+
+
+def month_end(y, m):
+    return dt.date(y + (m == 12), m % 12 + 1, 1) - dt.timedelta(days=1)
+
+
+def infer_window(text, start, end, today):
+    """Read guidance like 'By end of Oct', 'Q4 2026', '2H 2026', 'Early Nov', 'Dec 2026' or 'Any day' as a
+    date window (same rules as market_brief.py), so 'could report any day' catalysts show as window open."""
+    if end or not text:
+        return start, end
+    t = str(text).strip().lower().replace("–", "-")
+    yr = re.search(r"\b(20\d\d)\b", t)
+    y = int(yr.group(1)) if yr else today.year
+    def year_for(mo):
+        return y if yr or month_end(y, mo) >= today - dt.timedelta(days=60) else y + 1
+    if re.search(r"\bany ?day\b|\boverdue\b|\bimminent\b", t):
+        return today - dt.timedelta(days=30), today + dt.timedelta(days=30)
+    m = re.search(r"\bq([1-4])\b", t)
+    if m:
+        q = int(m.group(1))
+        s, e = dt.date(y, 3 * q - 2, 1), month_end(y, 3 * q)
+        if "late" in t: s = s + dt.timedelta(days=45)
+        elif "early" in t: e = s + dt.timedelta(days=30)
+        elif "mid" in t: s, e = s + dt.timedelta(days=25), s + dt.timedelta(days=65)
+        return s, e
+    m = re.search(r"\b([12])h\b|\bh([12])\b|\b(first|second) half\b", t)
+    if m:
+        h = 1 if (m.group(1) or m.group(2) or "") == "1" or m.group(3) == "first" else 2
+        return (dt.date(y, 1, 1), dt.date(y, 6, 30)) if h == 1 else (dt.date(y, 7, 1), dt.date(y, 12, 31))
+    if re.search(r"year[- ]?end|end of (the )?year", t):
+        return max(dt.date(y, 7, 1), today - dt.timedelta(days=60)), dt.date(y, 12, 31)
+    m = re.search(r"\b(early|mid|late)[- ]?" + MON_RE, t)
+    if m:
+        mo = MON3[m.group(2)]; yy = year_for(mo)
+        lo, hi = {"early": (1, 10), "mid": (11, 20), "late": (21, 31)}[m.group(1)]
+        return dt.date(yy, mo, lo), (dt.date(yy, mo, hi) if hi < 28 else month_end(yy, mo))
+    m = re.search(r"\bby (the )?(end of )?" + MON_RE, t)
+    if m:
+        mo = MON3[m.group(3)]; e = month_end(year_for(mo), mo)
+        return e - dt.timedelta(days=60), e
+    m = re.fullmatch(MON_RE + r",? (20\d\d)", t)
+    if m:
+        mo = MON3[m.group(1)]
+        return dt.date(y, mo, 1), month_end(y, mo)
+    return start, end
+
 # ----------------------------------------------------------------------------- spreadsheet
 def load_spreadsheet():
     if not os.path.exists(XLSX):
@@ -141,14 +191,16 @@ def load_spreadsheet():
         if not tk or str(rec.get("Status") or "").strip().lower() == "resolved":
             continue
         raw = rec.get("Date")
+        date_text = to_date(raw).strftime("%b %d, %Y") if isinstance(raw, (dt.date, dt.datetime)) else str(raw or "").strip()
+        start, end = infer_window(date_text, to_date(rec.get("Sort Date")) or to_date(raw), to_date(rec.get("End Date")), today)
         out.append({
             "ticker": tk,
             "company": str(rec.get("Company") or "").strip(),
             "search": str(rec.get("Search Name") or rec.get("Company") or tk).strip(),
             "catalyst": str(rec.get("Catalyst") or "").strip(),
-            "date_text": to_date(raw).strftime("%b %d, %Y") if isinstance(raw, (dt.date, dt.datetime)) else str(raw or "").strip(),
-            "sort": iso(to_date(rec.get("Sort Date")) or to_date(raw)),
-            "end": iso(to_date(rec.get("End Date"))),
+            "date_text": date_text,
+            "sort": iso(start),
+            "end": iso(end),
             "type": str(rec.get("Type") or "").strip(),
             "status": str(rec.get("Status") or "").strip(),
             "notes": str(rec.get("Notes") or "").strip(),
