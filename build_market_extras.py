@@ -102,18 +102,26 @@ def update_profiles(symbols, today):
 
 # ----------------------------------------------------------------------------- earnings moves
 def daily_closes(sym):
+    """[(date, close, volume)] for the last year."""
     try:
         r = requests.get(f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}", params={"range": "1y", "interval": "1d"}, headers=UA, timeout=15)
         res = r.json()["chart"]["result"][0]
-        closes = res["indicators"]["quote"][0]["close"]
+        q = res["indicators"]["quote"][0]
         days = [dt.datetime.fromtimestamp(t, dt.timezone.utc).date().isoformat() for t in res["timestamp"]]
-        return [(d, c) for d, c in zip(days, closes) if c]
+        return [(d, c, v or 0) for d, c, v in zip(days, q["close"], q["volume"]) if c]
     except Exception:  # noqa: BLE001
         return []
 
 
 def move_stats(series, past_reports):
+    """None for stocks nobody can sensibly trade: under $2, under $5M a day traded, or with split/data glitches."""
     if len(series) < 40:
+        return None
+    last30 = series[-30:]
+    if series[-1][1] < 2 or sum(c * v for _, c, v in last30) / len(last30) < 5_000_000:
+        return None
+    series = [(d, c) for d, c, _ in series]
+    if max(abs(series[i][1] / series[i - 1][1] - 1) for i in range(1, len(series))) > 1.2:
         return None
     rets = [(series[i][0], series[i][1] / series[i - 1][1] - 1) for i in range(1, len(series))]
     last30 = [r for _, r in rets[-30:]]
@@ -139,7 +147,7 @@ def move_stats(series, past_reports):
 
 def update_moves(today, profiles):
     prev = load("earnings_moves.json", {})
-    if prev.get("date") == today.isoformat() and prev.get("items"):
+    if prev.get("date") == today.isoformat() and prev.get("items") and prev.get("v") == 2:
         log("Earnings moves: already built today")
         return
     earn = load("earnings.json", {})
@@ -162,7 +170,7 @@ def update_moves(today, profiles):
         time.sleep(0.12)
     top = sorted(items.items(), key=lambda kv: -kv[1]["move"])[:10]
     log("Most volatile reporters: " + ", ".join(f"{s} ±{v['move']}% ({v['date']})" for s, v in top))
-    save("earnings_moves.json", {"date": today.isoformat(), "updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "items": items})
+    save("earnings_moves.json", {"v": 2, "date": today.isoformat(), "updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "items": items})
 
 
 def main():
