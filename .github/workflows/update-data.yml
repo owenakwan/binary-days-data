@@ -65,6 +65,13 @@ jobs:
           OUT_DIR: out
         run: python build_news.py
 
+      - name: Company profiles and earnings volatility
+        continue-on-error: true
+        env:
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          OUT_DIR: out
+        run: python build_market_extras.py
+
       - name: Publish to the data branch (one commit, replaced each run)
         run: |
           cd out
