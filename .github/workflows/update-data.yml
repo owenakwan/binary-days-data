@@ -72,6 +72,12 @@ jobs:
           OUT_DIR: out
         run: python build_market_extras.py
 
+      - name: Which ETFs hold each stock (once a day)
+        continue-on-error: true
+        env:
+          OUT_DIR: out
+        run: python build_etf_holdings.py
+
       - name: Publish to the data branch (one commit, replaced each run)
         run: |
           cd out
