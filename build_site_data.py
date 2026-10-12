@@ -323,7 +323,7 @@ READOUT_QUERIES = [
 ]
 ANNOUNCE_RE = re.compile(r"\b(to|will)\s+(announce|report|present|share|unveil|host|release|disclose|hold)\b", re.I)
 EVENT_RE = re.compile(r"top-?line|clinical data|\bdata\b|results|readout|investor (call|event|day)|r&d day|webcast", re.I)
-SKIP_RE = re.compile(r"bQ[1-4]b|Q[1-4] ?FY|results call|financial results|quarter(ly)?\b|fiscal|earnings|annual (general |shareholders' )?meeting|inducement|dividend|first patient|enrollment|dosed", re.I)
+SKIP_RE = re.compile(r"\bQ[1-4]\b|Q[1-4] ?FY|results call|financial results|quarter(ly)?\b|fiscal|earnings|annual (general |shareholders' )?meeting|inducement|dividend|first patient|enrollment|dosed", re.I)
 WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
 MONTH_DAY = re.compile(rf"\b({MONTHS})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\b(?:,?\s+(20\d\d))?", re.I)
 TIME_RE = re.compile(r"\b(\d{1,2}(?::\d{2})?\s*(?:a\.?m\.?|p\.?m\.?))\s*(?:\(?\s*(ET|EDT|EST|PT|PDT|PST|CT|CDT|CST)\b)?", re.I)
