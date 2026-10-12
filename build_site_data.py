@@ -311,6 +311,147 @@ def adcomm_calendar(today, known):
     return out
 
 
+# ----------------------------------------------------------------------------- company-announced readouts
+# "X to Announce Topline Data on Oct. 12", "X to Host Investor Call to Share Phase 3 Results" - usually only 1-3 days' notice.
+READOUT_QUERIES = [
+    '"to announce" topline data', '"to announce" top-line data', '"to report" topline results', '"to report" top-line',
+    '"to host" "investor call" topline', '"to host" "conference call" topline results', '"to host" "investor call" data phase',
+    '"to present" topline data', '"to unveil" clinical data', '"to share" topline results', '"to host" "R&D day"',
+    '"investor event" "clinical data" to host', '"to report" data phase 3 "webcast"',
+]
+ANNOUNCE_RE = re.compile(r"\b(to|will)\s+(announce|report|present|share|unveil|host|release|disclose|hold)\b", re.I)
+EVENT_RE = re.compile(r"top-?line|clinical data|\bdata\b|results|readout|investor (call|event|day)|r&d day|webcast", re.I)
+SKIP_RE = re.compile(r"financial results|quarter(ly)?\b|fiscal|earnings|annual (general |shareholders' )?meeting|inducement|dividend|first patient|enrollment|dosed", re.I)
+WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+MONTH_DAY = re.compile(rf"\b({MONTHS})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\b(?:,?\s+(20\d\d))?", re.I)
+TIME_RE = re.compile(r"\b(\d{1,2}(?::\d{2})?\s*(?:a\.?m\.?|p\.?m\.?))\s*(?:\(?\s*(ET|EDT|EST|PT|PDT|PST|CT|CDT|CST)\b)?", re.I)
+NEAR_RE = re.compile(r"will host|to host|webcast|conference call|investor call|investor event|will (announce|report|present|release)|to (announce|report|present|release)", re.I)
+
+
+def dates_in(text, base):
+    """Every (position, date) in text. Month-day without a year gets the year that puts it nearest after `base`.
+    'today' / 'tomorrow' / weekday names are read relative to `base` (the day the release came out)."""
+    out = []
+    for m in MONTH_DAY.finditer(text):
+        try:
+            mo = dt.datetime.strptime(m.group(1)[:3].title(), "%b").month
+            day = int(m.group(2))
+            if m.group(3):
+                d = dt.date(int(m.group(3)), mo, day)
+            else:
+                d = dt.date(base.year, mo, day)
+                if d < base - dt.timedelta(days=3):
+                    d = dt.date(base.year + 1, mo, day)
+            out.append((m.start(), d))
+        except ValueError:
+            continue
+    low = text.lower()
+    for m in re.finditer(r"\btoday\b", low):
+        out.append((m.start(), base))
+    for m in re.finditer(r"\btomorrow\b", low):
+        out.append((m.start(), base + dt.timedelta(days=1)))
+    for i, w in enumerate(WEEKDAYS):
+        for m in re.finditer(rf"\b{w}\b", low):
+            out.append((m.start(), base + dt.timedelta(days=(i - base.weekday()) % 7)))
+    return out
+
+
+def pick_date(text, base, today, horizon=45):
+    """The event date: the date mentioned closest to 'will host' / 'webcast' / 'to announce' wording."""
+    cands = [(p, d) for p, d in dates_in(text, base) if today <= d <= today + dt.timedelta(days=horizon)]
+    if not cands:
+        return None, ""
+    anchors = [m.start() for m in NEAR_RE.finditer(text)] or [0]
+    pos, d = min(cands, key=lambda c: min(abs(c[0] - a) for a in anchors))
+    t = TIME_RE.search(text[max(0, pos - 20): pos + 140])
+    when = (t.group(1).replace(" ", "").lower() + (" " + t.group(2).upper() if t.group(2) else "")) if t else ""
+    return d, when
+
+
+def page_text(url):
+    try:
+        r = SESSION.get(url, timeout=20, allow_redirects=True)
+        if not r.ok:
+            return ""
+        txt = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", r.text, flags=re.S | re.I)
+        txt = html.unescape(re.sub(r"<[^>]+>", " ", txt))
+        return re.sub(r"\s+", " ", txt)
+    except Exception:  # noqa: BLE001
+        return ""
+
+
+def release_text(ticker, title, published):
+    """Full press-release text for an undated headline: find the same story in Finnhub's company news and open it."""
+    start = (published or dt.date.today()) - dt.timedelta(days=4)
+    news = finnhub("company-news", symbol=ticker, **{"from": start.isoformat(), "to": dt.date.today().isoformat()}) or []
+    want = set(re.findall(r"[a-z0-9]{4,}", title.lower()))
+    best, score = None, 0.0
+    for n in news if isinstance(news, list) else []:
+        have = set(re.findall(r"[a-z0-9]{4,}", (n.get("headline") or "").lower()))
+        s = len(want & have) / (len(want) or 1)
+        if s > score:
+            best, score = n, s
+    if not best or score < 0.5:
+        return ""
+    return (best.get("summary") or "") + " " + page_text(best.get("url") or "")
+
+
+def ticker_for(text, title, by_name):
+    m = EXCH_TICKER.search(text)
+    if m:
+        return m.group(1)
+    head = norm_company(title)
+    for n, t in by_name:
+        if head.startswith(n + " ") or head == n:
+            return t
+    return None
+
+
+def readout_events(today, names, by_name, known):
+    found, undated, seen = {}, [], set()
+    for q in READOUT_QUERIES:
+        for it in google_news(q + " when:10d"):
+            title = re.sub(r"\s+-\s+[^-]{2,60}$", "", it["title"])
+            if title.lower()[:90] in seen:
+                continue
+            seen.add(title.lower()[:90])
+            if not (ANNOUNCE_RE.search(title) and EVENT_RE.search(title)) or SKIP_RE.search(title):
+                continue
+            ticker = ticker_for(it["text"], title, by_name)
+            if not ticker:
+                continue
+            pub = it["published"].astimezone(CT).date() if it["published"] else today
+            d, when = pick_date(title, pub, today)
+            row = {"ticker": ticker, "company": names.get(ticker, ""), "type": "Data / investor event", "headline": title,
+                   "link": it["link"], "source": it["source"] or "Google News", "published": pub.isoformat()}
+            if d:
+                row.update(date=d.isoformat(), time=when)
+                found.setdefault((ticker, d.isoformat()), row)
+            else:
+                undated.append((row, pub))
+        time.sleep(0.8)
+    # Headlines without a date ("Mirum to Host Investor Call to Share Topline Results"): read the release itself
+    looked = set()
+    for row, pub in undated[:25]:
+        if row["ticker"] in looked or any(k[0] == row["ticker"] for k in found):
+            continue
+        looked.add(row["ticker"])
+        text = release_text(row["ticker"], row["headline"], pub)
+        if not text:
+            continue
+        a = NEAR_RE.search(text)
+        d, when = pick_date(text[max(0, a.start() - 400): a.start() + 600] if a else text[:3000], pub, today)
+        if d:
+            row.update(date=d.isoformat(), time=when)
+            found.setdefault((row["ticker"], d.isoformat()), row)
+        time.sleep(1.1)
+    out = [r for k, r in found.items() if k not in known]
+    log(f"Company-announced data events ahead: {len(out)} ({len(undated)} undated headlines, {len(looked)} releases opened)")
+    for r in out:
+        log(f"   {r['date']} {r.get('time', '')} {r['ticker']}: {r['headline'][:100]}")
+    return sorted(out, key=lambda r: (r["date"], r["ticker"]))
+
+
 # ----------------------------------------------------------------------------- earnings
 def monday(d):
     return d - dt.timedelta(days=d.weekday())
@@ -413,6 +554,10 @@ def main():
             cats = []
     known = {(c["ticker"], c["sort"]) for c in cats if c["sort"]}
     disc = discover(today, names, by_name, known) + adcomm_calendar(today, known)
+    try:
+        disc += readout_events(today, names, by_name, known)
+    except Exception as e:  # noqa: BLE001  (never let the new scanner break the board)
+        log(f"[warn] readout scan failed: {e}")
     disc.sort(key=lambda r: (r["date"], r["ticker"]))
     write("catalysts.json", {
         "sample": False,
