@@ -318,6 +318,8 @@ READOUT_QUERIES = [
     '"to host" "investor call" topline', '"to host" "conference call" topline results', '"to host" "investor call" data phase',
     '"to present" topline data', '"to unveil" clinical data', '"to share" topline results', '"to host" "R&D day"',
     '"investor event" "clinical data" to host', '"to report" data phase 3 "webcast"',
+    '"to host" "conference call" data', '"to host" "investor conference call"', '"report updated data"', '"to host" webcast "clinical data"',
+    '"to present" "new data" investor', '"to host" "virtual investor event"',
 ]
 ANNOUNCE_RE = re.compile(r"\b(to|will)\s+(announce|report|present|share|unveil|host|release|disclose|hold)\b", re.I)
 EVENT_RE = re.compile(r"top-?line|clinical data|\bdata\b|results|readout|investor (call|event|day)|r&d day|webcast", re.I)
@@ -346,12 +348,13 @@ def dates_in(text, base):
         except ValueError:
             continue
     low = text.lower()
-    for m in re.finditer(r"\btoday\b", low):
+    # "today announced ..." is when the release came out, not the event; a weekday followed by a real date defers to that date
+    for m in re.finditer(r"\btoday\b(?!\s*(?:announced|reported|said|provided|issued|unveiled|shared|released))", low):
         out.append((m.start(), base))
     for m in re.finditer(r"\btomorrow\b", low):
         out.append((m.start(), base + dt.timedelta(days=1)))
     for i, w in enumerate(WEEKDAYS):
-        for m in re.finditer(rf"\b{w}\b", low):
+        for m in re.finditer(rf"\b{w}\b(?!,?\s+(?:{MONTHS.lower()})\b)", low):
             out.append((m.start(), base + dt.timedelta(days=(i - base.weekday()) % 7)))
     return out
 
@@ -407,10 +410,20 @@ def ticker_for(text, title, by_name):
     return None
 
 
+READOUT_CACHE = os.path.join(OUT, "readout_cache.json")
+
+
 def readout_events(today, names, by_name, known):
+    """Some companies announce a data event weeks ahead (Verastem: Sep 8 for Oct 14), so look back 45 days.
+    Releases already read are remembered in readout_cache.json; ones with no date found are re-read once a day."""
+    try:
+        with open(READOUT_CACHE, encoding="utf-8") as f:
+            cache = json.load(f)
+    except (OSError, ValueError):
+        cache = {}
     found, undated, seen = {}, [], set()
     for q in READOUT_QUERIES:
-        for it in google_news(q + " when:10d"):
+        for it in google_news(q + " when:45d"):
             title = re.sub(r"\s+-\s+[^-]{2,60}$", "", it["title"])
             if title.lower()[:90] in seen:
                 continue
@@ -431,22 +444,35 @@ def readout_events(today, names, by_name, known):
                 undated.append((row, pub))
         time.sleep(0.8)
     # Headlines without a date ("Mirum to Host Investor Call to Share Topline Results"): read the release itself
-    looked = set()
-    for row, pub in undated[:25]:
-        if row["ticker"] in looked or any(k[0] == row["ticker"] for k in found):
+    looked, opened = set(), 0
+    for row, pub in undated:
+        key = row["ticker"] + "|" + row["headline"].lower()[:90]
+        if key in looked:
             continue
-        looked.add(row["ticker"])
-        text = release_text(row["ticker"], row["headline"], pub)
-        if not text:
+        looked.add(key)
+        hit = cache.get(key)
+        if hit and (hit.get("date") or hit.get("checked") == today.isoformat()):
+            d = to_date(hit.get("date")) if hit.get("date") else None
+            when = hit.get("time", "")
+        elif opened < 30:
+            opened += 1
+            text = release_text(row["ticker"], row["headline"], pub)
+            a = NEAR_RE.search(text) if text else None
+            # any date in the release (not only future ones) so the cache stays valid; filter to upcoming below
+            d, when = pick_date(text[max(0, a.start() - 400): a.start() + 600] if a else text[:3000], pub, pub, horizon=120) if text else (None, "")
+            cache[key] = {"date": d.isoformat() if d else None, "time": when, "checked": today.isoformat()}
+            time.sleep(1.1)
+        else:
             continue
-        a = NEAR_RE.search(text)
-        d, when = pick_date(text[max(0, a.start() - 400): a.start() + 600] if a else text[:3000], pub, today)
-        if d:
+        if d and today <= d <= today + dt.timedelta(days=60):
             row.update(date=d.isoformat(), time=when)
             found.setdefault((row["ticker"], d.isoformat()), row)
-        time.sleep(1.1)
+    keep = {k: v for k, v in cache.items() if (v.get("date") or v.get("checked", "")) >= (today - dt.timedelta(days=90)).isoformat()}
+    os.makedirs(OUT, exist_ok=True)
+    with open(READOUT_CACHE, "w", encoding="utf-8") as f:
+        json.dump(keep, f, separators=(",", ":"))
     out = [r for k, r in found.items() if k not in known]
-    log(f"Company-announced data events ahead: {len(out)} ({len(undated)} undated headlines, {len(looked)} releases opened)")
+    log(f"Company-announced data events ahead: {len(out)} ({len(undated)} undated headlines, {opened} releases opened this run)")
     for r in out:
         log(f"   {r['date']} {r.get('time', '')} {r['ticker']}: {r['headline'][:100]}")
     return sorted(out, key=lambda r: (r["date"], r["ticker"]))
