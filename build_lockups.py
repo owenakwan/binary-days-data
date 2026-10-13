@@ -12,6 +12,7 @@ those details are only in the prospectus, so every date here is marked as an est
 import datetime as dt
 import json
 import os
+import re
 import sys
 import time
 from zoneinfo import ZoneInfo
@@ -23,6 +24,7 @@ OUT = os.path.join(OUT_DIR, "lockups.json")
 CT = ZoneInfo("America/Chicago")
 KEY = os.environ.get("FINNHUB_KEY", "").strip()
 LOCKUP_DAYS = 180
+SPAC = re.compile(r"acquisition|merger corp|blank check|\bspac\b|capital corp\b", re.I)
 
 
 def finnhub(path, **params):
@@ -72,6 +74,9 @@ def main():
     for r in rows:
         sym = (r.get("symbol") or "").strip().upper()
         if not sym or sym in seen or (r.get("status") or "").lower() not in ("priced", ""):
+            continue
+        # SPAC shells ($10 units, "Acquisition Corp") hold cash until a merger; their lock-ups don't move anything
+        if SPAC.search(r.get("name") or "") or (sym.endswith(("U", "R", "W")) and ipo_price(r.get("price")) == 10):
             continue
         try:
             ipo = dt.date.fromisoformat(r["date"])
