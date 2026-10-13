@@ -323,6 +323,8 @@ READOUT_QUERIES = [
 ]
 ANNOUNCE_RE = re.compile(r"\b(to|will)\s+(announce|report|present|share|unveil|host|release|disclose|hold)\b", re.I)
 EVENT_RE = re.compile(r"top-?line|clinical data|\bdata\b|results|readout|investor (call|event|day)|r&d day|webcast", re.I)
+BIO_HINT = re.compile(r"clinical|trial|phase|topline|top-line|patients|fda|pdufa|drug|therap|dose|cohort|study|r&d day|oncolog|biotech|pharma|bio\b|"
+                      r"genetic|medical|health|vaccine|antibod|sciences", re.I)
 SKIP_RE = re.compile(r"\bQ[1-4]\b|Q[1-4] ?FY|results call|financial results|quarter(ly)?\b|fiscal|earnings|annual (general |shareholders' )?meeting|inducement|dividend|first patient|enrollment|dosed", re.I)
 WEEKDAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
 MONTH_DAY = re.compile(rf"\b({MONTHS})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\b(?:,?\s+(20\d\d))?", re.I)
@@ -428,7 +430,7 @@ def readout_events(today, names, by_name, known):
             if title.lower()[:90] in seen:
                 continue
             seen.add(title.lower()[:90])
-            if not (ANNOUNCE_RE.search(title) and EVENT_RE.search(title)) or SKIP_RE.search(title):
+            if not (ANNOUNCE_RE.search(title) and EVENT_RE.search(title) and BIO_HINT.search(title)) or SKIP_RE.search(title):
                 continue
             ticker = ticker_for(it["text"], title, by_name)
             if not ticker:
