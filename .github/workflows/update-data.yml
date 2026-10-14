@@ -83,7 +83,7 @@ jobs:
         env:
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
           OUT_DIR: out
-        run: python build_lockups.py
+        run: python build_lockups.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
 
       - name: Publish to the data branch (one commit, replaced each run)
         run: |
