@@ -78,6 +78,12 @@ jobs:
           OUT_DIR: out
         run: python build_etf_holdings.py
 
+      - name: Economic calendar
+        continue-on-error: true
+        env:
+          OUT_DIR: out
+        run: python build_econ.py
+
       - name: Lock-up expirations (listing scan every run until caught up; odds once a day)
         continue-on-error: true
         env:
