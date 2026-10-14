@@ -135,7 +135,8 @@ def scan_listings(today, budget_s):
     want = []
     for v in rows:
         t = str(v["ticker"]).upper()
-        if v["cik_str"] < NEW_CIK or "-" in t or (len(t) == 5 and t[-1] in "WUR"):
+        # skip warrants/units/rights and 5-letter OTC foreign tickers (…Y ADRs, …F ordinaries)
+        if v["cik_str"] < NEW_CIK or "-" in t or (len(t) == 5 and t[-1] in "WURYF"):
             continue
         store["names"][t] = v["title"]
         # new names: check now; ones with no listing date yet (not trading): re-check weekly
