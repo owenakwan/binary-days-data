@@ -78,10 +78,11 @@ jobs:
           OUT_DIR: out
         run: python build_etf_holdings.py
 
-      - name: IPO lock-up expirations (once a day)
+      - name: Lock-up expirations (listing scan every run until caught up; odds once a day)
         continue-on-error: true
         env:
           FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
           OUT_DIR: out
         run: python build_lockups.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
 
