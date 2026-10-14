@@ -167,7 +167,7 @@ def listings(store, ipo_map, start, end):
     """Every listing between two dates: IPOs from Finnhub plus SPAC mergers / direct listings from the scan."""
     out = {s: v for s, v in ipo_map.items() if start <= v["listed"] <= end}
     for t, d in store["dates"].items():
-        if not d or t in out:
+        if not d or t in out or (len(t) == 5 and t[-1] in "WURYF"):
             continue
         try:
             day = dt.date.fromisoformat(d)
