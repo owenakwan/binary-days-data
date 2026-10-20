@@ -176,11 +176,11 @@ def main():
     try:
         with open(CACHE, encoding="utf-8") as f:
             cache = json.load(f)
-        if cache.get("_v") != 3:
+        if cache.get("_v") != 4:
             cache = {}
     except (OSError, ValueError):
         cache = {}
-    cache["_v"] = 3
+    cache["_v"] = 4
     start = today - dt.timedelta(days=LOOKBACK_DAYS)
     hits = {}
     for q in PHRASES:
