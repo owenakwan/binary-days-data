@@ -143,7 +143,11 @@ def extract(text, filed):
         if start == end and not re.search(r"pdufa|action date|meeting|conference|webcast|presentation", s, re.I):
             continue   # exact dates are usually "as of December 31" or a cash-runway date, unless it's a PDUFA / meeting
         low = s.lower()
-        kind = ("FDA decision" if re.search(r"pdufa|action date|approval decision|fda decision", low)
+        # what the time phrase belongs to: "(re)submit ... by end of 2026, FDA decision by mid-2027" -> the first date is the filing
+        sub = re.search(r"\b(re)?submi(t|ssion)|\bfile (an?|the|its)? ?(nda|bla|maa)|\b(nda|bla|maa) (filing|submission)", low)
+        when_at = low.find(label.lower().split()[-1])
+        kind = ("FDA filing" if sub and (when_at < 0 or sub.start() < when_at)
+                else "FDA decision" if re.search(r"pdufa|action date|approval decision|fda decision", low)
                 else "Topline data" if re.search(r"top-?line", low) else "Initial data" if re.search(r"initial|interim|preliminary", low) else "Data")
         ctx = sents[i - 1].strip()[-160:] if i and len(s) < 90 else ""
         out.append({"kind": kind, "start": start.isoformat(), "end": end.isoformat(), "when": label, "text": s[:420], "ctx": ctx})
@@ -179,11 +183,11 @@ def main():
     try:
         with open(CACHE, encoding="utf-8") as f:
             cache = json.load(f)
-        if cache.get("_v") != 4:
+        if cache.get("_v") != 5:
             cache = {}
     except (OSError, ValueError):
         cache = {}
-    cache["_v"] = 4
+    cache["_v"] = 5
     start = today - dt.timedelta(days=LOOKBACK_DAYS)
     hits = {}
     jobs = [(q, start, "8-K,10-Q,10-K") for q in PHRASES] + [(q, today - dt.timedelta(days=120), "8-K") for q in RESULT_PHRASES]
