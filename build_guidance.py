@@ -125,7 +125,7 @@ def extract(text, filed):
         s = s.strip()
         if len(s) < 25 or len(s) > 700 or BOILER_RE.search(s):
             continue
-        if RESULT_RE.search(s) and not re.search(r"expect|anticipat|on track|plan(s|ned)? to", s, re.I):
+        if RESULT_RE.search(s) and not re.search(r"(if|whether|could|would|may|potential(ly)?)", s, re.I):
             results.append(s[:300])
         if not (EVENT_RE.search(s) and GUIDE_RE.search(s)):
             continue
@@ -135,6 +135,10 @@ def extract(text, filed):
         start, end, label = w
         if (end - start).days > 200 or end < filed - dt.timedelta(days=20):
             continue   # too vague ("in 2027") or already past when written
+        if end <= filed + dt.timedelta(days=3):
+            continue   # about the filing day itself (e.g. "today announced topline results"), not a future event
+        if start == end and not re.search(r"pdufa|action date|meeting|conference|webcast|presentation", s, re.I):
+            continue   # exact dates are usually "as of December 31" or a cash-runway date, unless it's a PDUFA / meeting
         low = s.lower()
         kind = ("FDA decision" if re.search(r"pdufa|action date|approval decision|fda decision", low)
                 else "Topline data" if re.search(r"top-?line", low) else "Initial data" if re.search(r"initial|interim|preliminary", low) else "Data")
@@ -172,11 +176,11 @@ def main():
     try:
         with open(CACHE, encoding="utf-8") as f:
             cache = json.load(f)
-        if cache.get("_v") != 2:
+        if cache.get("_v") != 3:
             cache = {}
     except (OSError, ValueError):
         cache = {}
-    cache["_v"] = 2
+    cache["_v"] = 3
     start = today - dt.timedelta(days=LOOKBACK_DAYS)
     hits = {}
     for q in PHRASES:
