@@ -125,7 +125,7 @@ def extract(text, filed):
         s = s.strip()
         if len(s) < 25 or len(s) > 700 or BOILER_RE.search(s):
             continue
-        if RESULT_RE.search(s) and not re.search(r"(if|whether|could|would|may|potential(ly)?)", s, re.I):
+        if RESULT_RE.search(s) and not re.search(r"\b(if|whether|could|would|may|potential(ly)?)\b", s, re.I):
             results.append(s[:300])
         if not (EVENT_RE.search(s) and GUIDE_RE.search(s)):
             continue
