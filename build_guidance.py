@@ -146,7 +146,8 @@ def extract(text, filed):
 NOT_NAMES = {"phase", "topline", "top-line", "data", "results", "expected", "quarter", "fourth", "third", "second", "first", "trial", "study",
              "company", "fda", "the", "this", "with", "from", "pivotal", "initial", "interim", "report", "reports", "anticipated", "patients",
              "program", "clinical", "readout", "half", "year", "track", "plans", "planned", "expects", "expect", "following", "completed",
-             "enrollment", "including", "additional", "submission", "approval", "decision", "target", "action", "date", "pdufa", "bla", "nda"}
+             "enrollment", "including", "additional", "submission", "approval", "decision", "target", "action", "date", "pdufa", "bla", "nda",
+             "crl", "sec", "cash", "nasdaq", "nyse", "inc", "ceo", "cfo", "usd", "eps"}
 
 
 def program_names(text):
