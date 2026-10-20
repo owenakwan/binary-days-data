@@ -78,6 +78,13 @@ jobs:
           OUT_DIR: out
         run: python build_etf_holdings.py
 
+      - name: Guided catalysts from SEC filings (every company)
+        continue-on-error: true
+        env:
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+          OUT_DIR: out
+        run: python build_guidance.py
+
       - name: Economic calendar
         continue-on-error: true
         env:
