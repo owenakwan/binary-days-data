@@ -37,6 +37,9 @@ PHRASES = [
     "results are expected in the fourth quarter", "data are expected in the fourth quarter", "are expected in the fourth quarter",
     "topline data results are expected", "data is expected in", "expected to read out", "expects to announce topline", "anticipates reporting topline",
 ]
+# Results wording, so a readout that happened is noticed even when the release has no guidance phrases in it
+RESULT_PHRASES = ["primary endpoint", "co-primary endpoints", "announces positive topline", "announces topline", "topline results from",
+                  "did not meet", "statistically significant", "complete response letter", "FDA approval of"]
 BIO_SIC = {"2833", "2834", "2835", "2836", "8731", "8733", "3841", "3845", "8071", "2830"}
 MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
 MON_RE = r"(january|february|march|april|may|june|july|august|september|october|november|december)"
@@ -164,8 +167,8 @@ def program_names(text):
     return out
 
 
-def efts(q, start, end, page):
-    params = {"q": f'"{q}"', "dateRange": "custom", "startdt": start.isoformat(), "enddt": end.isoformat(), "forms": "8-K,10-Q,10-K", "from": page * 100}
+def efts(q, start, end, page, forms="8-K,10-Q,10-K"):
+    params = {"q": f'"{q}"', "dateRange": "custom", "startdt": start.isoformat(), "enddt": end.isoformat(), "forms": forms, "from": page * 100}
     r = requests.get("https://efts.sec.gov/LATEST/search-index?" + urllib.parse.urlencode(params), headers=UA, timeout=30)
     r.raise_for_status()
     return r.json().get("hits", {})
@@ -183,10 +186,11 @@ def main():
     cache["_v"] = 4
     start = today - dt.timedelta(days=LOOKBACK_DAYS)
     hits = {}
-    for q in PHRASES:
+    jobs = [(q, start, "8-K,10-Q,10-K") for q in PHRASES] + [(q, today - dt.timedelta(days=120), "8-K") for q in RESULT_PHRASES]
+    for q, since, forms in jobs:
         for page in range(5):
             try:
-                h = efts(q, start, today, page)
+                h = efts(q, since, today, page, forms)
             except Exception as e:  # noqa: BLE001
                 log("search failed:", q, e)
                 break
