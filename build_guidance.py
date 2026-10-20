@@ -34,6 +34,8 @@ PHRASES = [
     "topline data in the fourth quarter", "topline data in the first quarter", "readout expected", "data readout",
     "initial data expected", "interim data expected", "data expected in the fourth quarter", "results expected in the fourth quarter",
     "PDUFA target action date", "PDUFA goal date", "target action date of", "on track to report",
+    "results are expected in the fourth quarter", "data are expected in the fourth quarter", "are expected in the fourth quarter",
+    "topline data results are expected", "data is expected in", "expected to read out", "expects to announce topline", "anticipates reporting topline",
 ]
 BIO_SIC = {"2833", "2834", "2835", "2836", "8731", "8733", "3841", "3845", "8071", "2830"}
 MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
@@ -43,9 +45,10 @@ ORD = {"first": 1, "1st": 1, "second": 2, "2nd": 2, "third": 3, "3rd": 3, "fourt
 EVENT_RE = re.compile(r"top-?line|data|results|readout|read out|pdufa|action date|approval decision|fda decision", re.I)
 GUIDE_RE = re.compile(r"expect|anticipat|on track|plan(s|ned)? to|guid|projected|scheduled", re.I)
 BOILER_RE = re.compile(r"forward-looking|risks and uncertainties|could cause actual results|undue reliance", re.I)
-RESULT_RE = re.compile(r"announce[sd]? (positive )?top-?line (data|results)|reported (positive )?top-?line|met (its |the |both |all )?(co-)?primary endpoint|"
-                       r"achieved (its |the |both |all )?(co-)?primary|did not meet|failed to meet|missed (its |the )?primary|"
-                       r"(fda )?(approved|approval of)|complete response letter", re.I)
+RESULT_RE = re.compile(r"announce[sd]? (positive |negative )?top-?line|reported (positive )?top-?line|positive top-?line (data|results)|top-?line (data|results) from (the|its|our)|"
+                       r"\bmet (\w+ ){0,3}(co-)?primary (efficacy )?end ?points?|achieved (\w+ ){0,3}(co-)?primary (efficacy )?end ?points?|"
+                       r"did not (meet|achieve)|failed to (meet|achieve)|missed (\w+ ){0,2}primary|statistically significant (improvement|reduction)|"
+                       r"\bfda (has )?approved\b|received (fda )?approval|complete response letter", re.I)
 
 
 def log(*a): print(*a, file=sys.stderr)
@@ -122,7 +125,7 @@ def extract(text, filed):
         s = s.strip()
         if len(s) < 25 or len(s) > 700 or BOILER_RE.search(s):
             continue
-        if RESULT_RE.search(s) and not GUIDE_RE.search(s):
+        if RESULT_RE.search(s) and not re.search(r"expect|anticipat|on track|plan(s|ned)? to", s, re.I):
             results.append(s[:300])
         if not (EVENT_RE.search(s) and GUIDE_RE.search(s)):
             continue
@@ -140,6 +143,22 @@ def extract(text, filed):
     return out, results[:12]
 
 
+NOT_NAMES = {"phase", "topline", "top-line", "data", "results", "expected", "quarter", "fourth", "third", "second", "first", "trial", "study",
+             "company", "fda", "the", "this", "with", "from", "pivotal", "initial", "interim", "report", "reports", "anticipated", "patients",
+             "program", "clinical", "readout", "half", "year", "track", "plans", "planned", "expects", "expect", "following", "completed",
+             "enrollment", "including", "additional", "submission", "approval", "decision", "target", "action", "date", "pdufa", "bla", "nda"}
+
+
+def program_names(text):
+    """Drug and trial names in a sentence: APOLLO, RAP-219, DURAVYU, bitopertin, KSI-101 (lowercased)."""
+    out = set()
+    for w in re.findall(r"\b([A-Z]{3,}[A-Z0-9-]*|[A-Za-z]+-\d+[A-Za-z0-9]*|[a-z]{5,}(?:mab|nib|tide|gene|stat|tinib|ciclib|parib|vir|ine|ide|ant|ast)\b|[a-z]+(?:mab|tinib))\b", text):
+        lw = w.lower()
+        if lw not in NOT_NAMES and len(lw) >= 4:
+            out.add(lw)
+    return out
+
+
 def efts(q, start, end, page):
     params = {"q": f'"{q}"', "dateRange": "custom", "startdt": start.isoformat(), "enddt": end.isoformat(), "forms": "8-K,10-Q,10-K", "from": page * 100}
     r = requests.get("https://efts.sec.gov/LATEST/search-index?" + urllib.parse.urlencode(params), headers=UA, timeout=30)
@@ -152,8 +171,11 @@ def main():
     try:
         with open(CACHE, encoding="utf-8") as f:
             cache = json.load(f)
+        if cache.get("_v") != 2:
+            cache = {}
     except (OSError, ValueError):
         cache = {}
+    cache["_v"] = 2
     start = today - dt.timedelta(days=LOOKBACK_DAYS)
     hits = {}
     for q in PHRASES:
@@ -191,6 +213,8 @@ def main():
         try:
             filed = dt.date.fromisoformat(h["filed"])
             ev, res = extract(doc_text(url), filed)
+            if not h["form"].startswith("8-K"):
+                res = []   # only 8-Ks count as "it read out"; 10-Qs re-describe old results
             cache[_id] = {**h, "url": url, "events": ev, "results": res}
         except Exception as e:  # noqa: BLE001
             log("read failed:", url, e)
@@ -198,24 +222,27 @@ def main():
         read += 1
         time.sleep(0.12)
     cutoff = (today - dt.timedelta(days=LOOKBACK_DAYS + 30)).isoformat()
-    cache = {k: v for k, v in cache.items() if (v.get("filed") or "") >= cutoff}
+    cache = {k: v for k, v in cache.items() if k == "_v" or (v.get("filed") or "") >= cutoff}
     os.makedirs(OUT_DIR, exist_ok=True)
     with open(CACHE, "w", encoding="utf-8") as f:
         json.dump(cache, f, separators=(",", ":"))
 
     # results announced (a later filing says it read out) -> the guided event before it is done
     done = {}
-    for v in cache.values():
-        if v.get("results"):
-            done.setdefault(v["ticker"], []).append(v["filed"])
+    for k, v in cache.items():
+        if k != "_v" and v.get("results"):
+            done.setdefault(v["ticker"], []).append((v["filed"], " ".join(v["results"]).lower()))
     items, seen = [], set()
-    for v in sorted(cache.values(), key=lambda v: v.get("filed") or "", reverse=True):   # newest guidance first
+    for v in sorted((v for k, v in cache.items() if k != "_v"), key=lambda v: v.get("filed") or "", reverse=True):   # newest guidance first
         for e in v.get("events") or []:
             end = dt.date.fromisoformat(e["end"])
             if end < today - dt.timedelta(days=3):
                 continue
-            # read out already: a results filing after this guidance, inside or right before the window
-            if any(d > v["filed"] and d >= (dt.date.fromisoformat(e["start"]) - dt.timedelta(days=45)).isoformat() for d in done.get(v["ticker"], [])):
+            # read out already: a later 8-K reports results for the same drug / trial (APOLLO, RAP-219, bitopertin…),
+            # filed inside or shortly before the window. Companies with several programs keep the other ones.
+            names = program_names(e["text"] + " " + e.get("ctx", ""))
+            window_from = (dt.date.fromisoformat(e["start"]) - dt.timedelta(days=45)).isoformat()
+            if any(d > v["filed"] and d >= window_from and (not names or any(n in txt for n in names)) for d, txt in done.get(v["ticker"], [])):
                 continue
             key = (v["ticker"], e["kind"], e["when"])
             if key in seen:
