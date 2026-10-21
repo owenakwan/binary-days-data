@@ -473,6 +473,16 @@ def readout_events(today, names, by_name, known):
     os.makedirs(OUT, exist_ok=True)
     with open(READOUT_CACHE, "w", encoding="utf-8") as f:
         json.dump(keep, f, separators=(",", ":"))
+    # Keep events found on earlier runs until their date passes: news search results shift from run to run,
+    # so an announced event (ENTA, Oct 21) shouldn't vanish just because today's search didn't return it.
+    try:
+        with open(os.path.join(OUT, "catalysts.json"), encoding="utf-8") as f:
+            prev = json.load(f).get("discovered") or []
+    except (OSError, ValueError):
+        prev = []
+    for r in prev:
+        if r.get("type") == "Data / investor event" and r.get("ticker") and (r.get("date") or "") >= today.isoformat():
+            found.setdefault((r["ticker"], r["date"]), r)
     out = [r for k, r in found.items() if k not in known]
     log(f"Company-announced data events ahead: {len(out)} ({len(undated)} undated headlines, {opened} releases opened this run)")
     for r in out:
