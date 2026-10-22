@@ -484,7 +484,7 @@ def readout_events(today, names, by_name, known):
     for q in SUBMISSION_QUERIES:
         for it in google_news(q + " when:100d"):
             title = re.sub(r"\s+-\s+[^-]{2,60}$", "", it["title"])
-            if not SUBMIT_TITLE.search(title) or re.search(r"\baccept|\bapprov|\bplan|\bexpect|\bintend|\bwill\b", title, re.I):
+            if not SUBMIT_TITLE.search(title) or re.search(r"\baccept|\bapprov|\bplan|\bexpect|\bintend|\bwill\b|pre-(nda|bla)|\b(start|begin|initiat)", title, re.I):
                 continue
             ticker = ticker_for(it["text"], title, by_name)
             if not ticker or not it["published"]:
