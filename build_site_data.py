@@ -415,6 +415,12 @@ def ticker_for(text, title, by_name):
 READOUT_CACHE = os.path.join(OUT, "readout_cache.json")
 
 
+SUBMISSION_QUERIES = ['"submits New Drug Application"', '"submitted New Drug Application"', '"submission of New Drug Application"', '"submits Biologics License Application"',
+                      '"submitted Biologics License Application"', '"NDA submission" FDA', '"BLA submission" FDA', '"resubmits" NDA', '"completes submission" NDA']
+SUBMIT_TITLE = re.compile(r"\b(submit(s|ted)?|submission|resubmi(ts|tted|ssion)|files?|filed)\b.*\b(new drug application|biologics license application|nda|bla|snda|sbla)\b"
+                          r"|\b(nda|bla|new drug application|biologics license application)\b.*\b(submi(ts|tted|ssion)|resubmi(ts|tted|ssion)|filing)\b", re.I)
+
+
 def readout_events(today, names, by_name, known):
     """Some companies announce a data event weeks ahead (Verastem: Sep 8 for Oct 14), so look back 45 days.
     Releases already read are remembered in readout_cache.json; ones with no date found are re-read once a day."""
@@ -473,6 +479,24 @@ def readout_events(today, names, by_name, known):
     os.makedirs(OUT, exist_ok=True)
     with open(READOUT_CACHE, "w", encoding="utf-8") as f:
         json.dump(keep, f, separators=(",", ":"))
+    # Drug applications submitted (press releases, often never filed with the SEC): the FDA decides whether to accept
+    # the filing within 60 days and companies usually announce it on days 60-74 (BHVN +25-45% on Oct 22).
+    for q in SUBMISSION_QUERIES:
+        for it in google_news(q + " when:100d"):
+            title = re.sub(r"\s+-\s+[^-]{2,60}$", "", it["title"])
+            if not SUBMIT_TITLE.search(title) or re.search(r"\baccept|\bapprov|\bplan|\bexpect|\bintend|\bwill\b", title, re.I):
+                continue
+            ticker = ticker_for(it["text"], title, by_name)
+            if not ticker or not it["published"]:
+                continue
+            pub = it["published"].astimezone(CT).date()
+            due = pub + dt.timedelta(days=60)
+            if due < today - dt.timedelta(days=10) or (ticker, "acc") in found:
+                continue
+            found[(ticker, "acc")] = {"ticker": ticker, "company": names.get(ticker, ""), "type": "FDA acceptance (est.)", "date": due.isoformat(),
+                                      "time": "", "headline": f"FDA decision on accepting the filing, usually ~day 60-74 after the {pub:%b} {pub.day} submission: {title}",
+                                      "link": it["link"], "source": it["source"] or "Google News", "published": pub.isoformat()}
+        time.sleep(0.8)
     # Keep events found on earlier runs until their date passes: news search results shift from run to run,
     # so an announced event (ENTA, Oct 21) shouldn't vanish just because today's search didn't return it.
     try:
@@ -481,8 +505,8 @@ def readout_events(today, names, by_name, known):
     except (OSError, ValueError):
         prev = []
     for r in prev:
-        if r.get("type") == "Data / investor event" and r.get("ticker") and (r.get("date") or "") >= today.isoformat():
-            found.setdefault((r["ticker"], r["date"]), r)
+        if r.get("type") in ("Data / investor event", "FDA acceptance (est.)") and r.get("ticker") and (r.get("date") or "") >= (today - dt.timedelta(days=14)).isoformat():
+            found.setdefault((r["ticker"], "acc" if r["type"].startswith("FDA acceptance") else r["date"]), r)
     out = [r for k, r in found.items() if k not in known]
     log(f"Company-announced data events ahead: {len(out)} ({len(undated)} undated headlines, {opened} releases opened this run)")
     for r in out:
