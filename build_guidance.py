@@ -41,8 +41,8 @@ PHRASES = [
 # Results wording, so a readout that happened is noticed even when the release has no guidance phrases in it
 RESULT_PHRASES = ["primary endpoint", "co-primary endpoints", "announces positive topline", "announces topline", "topline results from",
                   "did not meet", "statistically significant", "complete response letter", "FDA approval of"]
-SUBMITTED_RE = re.compile(r"(submitted|completed (the )?submission of|announced (the )?submission of|has submitted|filed) (an? |the |its |our )?"
-                          r"(new drug application|biologics license application|supplemental|(?s?nda)?|(?bla)?|nda|bla|sbla|snda|resubmission)", re.I)
+SUBMITTED_RE = re.compile(r"\b(submitted|completed (the )?submission of|announced (the )?submission of|has submitted|filed) (an? |the |its |our )?"
+                          r"(new drug application|biologics license application|supplemental (new drug|biologics)|\(?s?nda\)?|\(?s?bla\)?|resubmission)", re.I)
 BIO_SIC = {"2833", "2834", "2835", "2836", "8731", "8733", "3841", "3845", "8071", "2830"}
 MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
 MON_RE = r"(january|february|march|april|may|june|july|august|september|october|november|december)"
