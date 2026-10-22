@@ -34,12 +34,15 @@ PHRASES = [
     "topline data in the fourth quarter", "topline data in the first quarter", "readout expected", "data readout",
     "initial data expected", "interim data expected", "data expected in the fourth quarter", "results expected in the fourth quarter",
     "PDUFA target action date", "PDUFA goal date", "target action date of", "on track to report",
+    "submitted a New Drug Application", "submitted a Biologics License Application", "submission of a New Drug Application", "submitted an NDA", "submitted a BLA",
     "results are expected in the fourth quarter", "data are expected in the fourth quarter", "are expected in the fourth quarter",
     "topline data results are expected", "data is expected in", "expected to read out", "expects to announce topline", "anticipates reporting topline",
 ]
 # Results wording, so a readout that happened is noticed even when the release has no guidance phrases in it
 RESULT_PHRASES = ["primary endpoint", "co-primary endpoints", "announces positive topline", "announces topline", "topline results from",
                   "did not meet", "statistically significant", "complete response letter", "FDA approval of"]
+SUBMITTED_RE = re.compile(r"(submitted|completed (the )?submission of|announced (the )?submission of|has submitted|filed) (an? |the |its |our )?"
+                          r"(new drug application|biologics license application|supplemental|(?s?nda)?|(?bla)?|nda|bla|sbla|snda|resubmission)", re.I)
 BIO_SIC = {"2833", "2834", "2835", "2836", "8731", "8733", "3841", "3845", "8071", "2830"}
 MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
 MON_RE = r"(january|february|march|april|may|june|july|august|september|october|november|december)"
@@ -130,6 +133,22 @@ def extract(text, filed):
             continue
         if RESULT_RE.search(s) and not re.search(r"\b(if|whether|could|would|may|potential(ly)?)\b", s, re.I):
             results.append(s[:300])
+        # A drug application went in: the FDA decides whether to accept it for review within 60 days, and companies
+        # usually announce acceptance around days 60-74 (BHVN +25-45% on Oct 22). Window: 55-80 days after submission.
+        if SUBMITTED_RE.search(s) and not re.search(r"\b(plan|expect|anticipat|intend|will|on track|if)\w*\b", s, re.I):
+            sub_day = None
+            for m in re.finditer(rf"\b{MON_RE}\s+(\d{{1,2}}),?\s+(20\d\d)\b", s.lower()):
+                try:
+                    sub_day = dt.date(int(m.group(3)), MONTHS.index(m.group(1)) + 1, int(m.group(2)))
+                    break
+                except ValueError:
+                    continue
+            if sub_day is None and re.search(r"\btoday\b|\brecently\b|\bhas submitted\b", s, re.I):
+                sub_day = filed
+            if sub_day and filed - dt.timedelta(days=90) <= sub_day <= filed:
+                a, b = sub_day + dt.timedelta(days=55), sub_day + dt.timedelta(days=80)
+                out.append({"kind": "FDA acceptance", "start": a.isoformat(), "end": b.isoformat(),
+                            "when": f"{a:%b} {a.day}–{b:%b} {b.day}, {b.year} (submitted {sub_day:%b} {sub_day.day})", "text": s[:420], "ctx": ""})
         if not (EVENT_RE.search(s) and GUIDE_RE.search(s)):
             continue
         w = window(s, filed)
@@ -183,11 +202,11 @@ def main():
     try:
         with open(CACHE, encoding="utf-8") as f:
             cache = json.load(f)
-        if cache.get("_v") != 5:
+        if cache.get("_v") != 6:
             cache = {}
     except (OSError, ValueError):
         cache = {}
-    cache["_v"] = 5
+    cache["_v"] = 6
     start = today - dt.timedelta(days=LOOKBACK_DAYS)
     hits = {}
     jobs = [(q, start, "8-K,10-Q,10-K") for q in PHRASES] + [(q, today - dt.timedelta(days=120), "8-K") for q in RESULT_PHRASES]
