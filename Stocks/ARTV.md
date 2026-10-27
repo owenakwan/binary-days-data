@@ -1,13 +1,16 @@
 ---
 ticker: ARTV
-company: "Artiva Biotherapeutics Inc"
+company: "Artiva Biotherapeutics, Inc."
 tags: [catalyst, biotech]
 ---
 
-# ARTV · Artiva Biotherapeutics Inc
+# ARTV · Artiva Biotherapeutics, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ARTV)
 
+- ✅ **Mon Nov 9** · ARTV · Data expected November 9, 2026 — _A window the company gave, not an exact day._
+    - 📏 $6.16 · MC $288M · options ±21% by Nov 20 · volatility 73% · usual day ±2.9% · biggest day +91% / −28%
+    - Source: [ARTV SEC 8-K (2026-10-27)](https://www.sec.gov/Archives/edgar/data/1817241/000119312526432806/d102135dex991.htm) — "In light of the decision to discontinue AlloNK development, Artiva no longer plans to present its previously announced clinical data at ACR Convergence 2026 and will cancel its investor webcast scheduled for November 9, "
 - ❓ **Wed Nov 18** · ARTV · Earnings
     - Source: Finnhub earnings calendar
 

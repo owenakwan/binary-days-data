@@ -1,11 +1,11 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Tue Oct 27, 07:09 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 07:47 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 19
 - ❓ **now–Oct 27** · [[PFE]] · ESMO Congress, Madrid — _Only on your sheet; not in the company's filings._
-    - 📏 $29.79 · MC $156.7B · options ±2% by Oct 30 · volatility 18% · usual day ±1.0% · biggest day +5% / −3%
+    - 📏 $29.79 · MC $156.7B · options ±6% by Oct 30 · volatility 18% · usual day ±1.0% · biggest day +5% / −3%
 
 ## Week of Oct 26
 - 📐 **Tue Oct 27** · [[AVLN]] · IPO lock-up ends
@@ -54,6 +54,8 @@ Updated Tue Oct 27, 07:09 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Sun Nov 8** · [[THYP]] · SPAC merger / direct listing lock-up ends
 
 ## Week of Nov 9
+- ✅ **Mon Nov 9** · [[ARTV]] · Data expected November 9, 2026 — _A window the company gave, not an exact day._
+    - 📏 $6.16 · MC $288M · options ±21% by Nov 20 · volatility 73% · usual day ±2.9% · biggest day +91% / −28%
 - 📐 **Mon Nov 9** · [[FRVO]] · IPO lock-up ends
 - 📐 **Mon Nov 9** · [[GMRS]] · IPO lock-up ends
 - 📐 **Tue Nov 10** · [[AIAI]] · IPO lock-up ends
@@ -81,7 +83,7 @@ Updated Tue Oct 27, 07:09 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 
 ## Week of Nov 16
 - 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
-- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits NDA for Anaphylm Subl — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits Anaphylm NDA to FDA — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $3.97 · MC $579M · options ±16% by Nov 20 · volatility 57% · usual day ±2.6% · biggest day +39% / −37%
 - 📐 **Mon Nov 16** · [[LCLN]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[OPTH]] · IPO lock-up ends

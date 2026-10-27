@@ -1,6 +1,6 @@
 # Today · Tuesday, October 27
 
-Updated Tue Oct 27, 07:09 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 07:47 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
@@ -36,7 +36,7 @@ Updated Tue Oct 27, 07:09 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Windows closing within a week (could land any day)
 
 - ❓ **now–Oct 27** · [[PFE]] · ESMO Congress, Madrid — _Only on your sheet; not in the company's filings._
-    - 📏 $29.79 · MC $156.7B · options ±2% by Oct 30 · volatility 18% · usual day ±1.0% · biggest day +5% / −3%
+    - 📏 $29.79 · MC $156.7B · options ±6% by Oct 30 · volatility 18% · usual day ±1.0% · biggest day +5% / −3%
 - ✅ **now–Oct 31** · [[DMAC]] · Initial data expected October 2026 — _A window the company gave, not an exact day._
     - 📏 $8.74 · MC $424M · options ±25% by Nov 20 · volatility 55% · usual day ±2.3% · biggest day +13% / −14%
 - ✅ **now–Oct 31** · [[GANX]] · Data expected October 2026 — _A window the company gave, not an exact day._
