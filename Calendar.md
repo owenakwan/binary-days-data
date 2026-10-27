@@ -1,0 +1,387 @@
+# Catalyst calendar (next 10 weeks)
+
+Updated Mon Oct 26, 09:04 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+
+
+## Week of Oct 19
+- ❓ **now–Oct 27** · [[PFE]] · ESMO Congress, Madrid — _Only on your sheet; not in the company's filings._
+
+## Week of Oct 26
+- ✅ **now–Oct 31** · [[DMAC]] · Initial data expected October 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Oct 31** · [[GANX]] · Data expected October 2026 — _A window the company gave, not an exact day._
+- ✅ **Mon Oct 26** · [[INCY]] · Incyte to present new data on oncology portfolio at ESMO 2026
+- ✅ **now–Oct 31** · [[IVVD]] · Data expected October 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Oct 31** · [[MANE]] · Topline data expected October 2026 — _A window the company gave, not an exact day._
+- ✅ **Mon Oct 26** · [[ORKA]] · Oruka Therapeutics to Report Week 16 EVERLAST-B Phase 2b Data for ORKA-001 in Plaque Psoriasis on October 26, 2026
+- 📐 **Mon Oct 26** · [[PS]] · IPO lock-up ends
+- 📐 **Mon Oct 26** · [[PSUS]] · SPAC merger / direct listing lock-up ends
+- ✅ **now–Oct 31** · [[RARE]] · Data expected October 2026 — _A window the company gave, not an exact day._
+- 📐 **Tue Oct 27** · [[AVLN]] · IPO lock-up ends
+- ✅ **Tue Oct 27** · [[BEAM]] · Beam Therapeutics to Present Initial Data from Phase 1/2 Trial of BEAM-301 in Glycogen Storage Disease Type Ia (GSDIa) at the ESGCT 33rd Ann
+- ✅ **Tue Oct 27** · [[LBRX]] · LB Pharmaceuticals to Host In-Person and Virtual R&D Day on
+- 📐 **Tue Oct 27** · [[SBMT]] · IPO lock-up ends
+- ✅ **Wed Oct 28** · [[CHRS]] · Coherus Oncology to Host Webcast to Disclose Interim Tagmokitug Clinical Data on October 28, 2026
+- 📐 **Wed Oct 28** · [[COAG]] · IPO lock-up ends
+- 📐 **Wed Oct 28** · [[SPTX]] · IPO lock-up ends
+- ✅ **Fri Oct 30** · [[INO]] · FDA decision (ino-3107)
+- 📐 **Fri Oct 30** · [[PVLA]] · FDA decision on accepting the filing, usually ~day 60-74 after the Aug 31 submission: Palvella Therapeutics Completes Rolling Submission of  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- ✅ **Sun Nov 1** · [[AGIO]] · FDA decision
+- 📐 **Sun Nov 1** · [[PONO]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sun Nov 1** · [[QURE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 2 submission: uniQure Submits BLA for Gene Therapy in Huntington Dise — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+
+## Week of Nov 2
+- 📐 **Mon Nov 2** · [[REA]] · IPO lock-up ends
+- 📐 **Tue Nov 3** · [[HAWK]] · IPO lock-up ends
+- 📐 **Tue Nov 3** · [[SUJA]] · IPO lock-up ends
+- 📐 **Wed Nov 4** · [[ENHA]] · SPAC merger / direct listing lock-up ends
+- 📐 **Wed Nov 4** · [[MOBI]] · IPO lock-up ends
+- 📐 **Wed Nov 4** · [[ODTX]] · IPO lock-up ends
+- 📐 **Sat Nov 7** · [[BLTE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 8 submission: Belite Bio Announces Submission of New Drug Application — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Sat Nov 7** · [[BOT]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sat Nov 7** · [[SHFH]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sat Nov 7** · [[VDTA]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sat Nov 7** · [[WSE]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sun Nov 8** · [[THYP]] · SPAC merger / direct listing lock-up ends
+
+## Week of Nov 9
+- 📐 **Mon Nov 9** · [[FRVO]] · IPO lock-up ends
+- 📐 **Mon Nov 9** · [[GMRS]] · IPO lock-up ends
+- 📐 **Tue Nov 10** · [[AIAI]] · IPO lock-up ends
+- 📐 **Tue Nov 10** · [[BXDC]] · IPO lock-up ends
+- 📐 **Tue Nov 10** · [[CBRS]] · IPO lock-up ends
+- 📐 **Tue Nov 10** · [[EROK]] · IPO lock-up ends
+- 📐 **Tue Nov 10** · [[MWC]] · IPO lock-up ends
+- 📐 **Wed Nov 11** · [[BHYP]] · SPAC merger / direct listing lock-up ends
+- 📐 **Wed Nov 11** · [[DUKR]] · IPO lock-up ends
+- 📐 **Wed Nov 11** · [[EXYN]] · IPO lock-up ends
+- ✅ **Wed Nov 11** · [[TEVA]] · Teva Pharmaceutical Industries Ltd. to Host R&D Day on November 11, 2026
+- 📐 **Wed Nov 11** · [[VIDA]] · IPO lock-up ends
+- ✅ **Thu Nov 12** · [[OBIO]] · Orchestra BioMed to host R&D Day on Nov 12 show...
+- ✅ **Thu Nov 12** · [[ZLAB]] · Zai Lab to Present Data From First Clinical Trial Evaluating ZL-1503, an IL-13/IL-31Rα Bispecific Antibody, for Atopic Diseases
+- ✅ **Sat Nov 14** · [[BTAI]] · FDA decision (bxcl501, serenity)
+- ✅ **Sat Nov 14** · [[CRBP]] · Corbus Pharmaceuticals to Present Late Breaking CRB-913 Data from Canyon-1 Study at Obesity Week® 2026
+- ✅ **Sat Nov 14** · [[CYTK]] · FDA decision
+- ✅ **Sat Nov 14** · [[SMMT]] · FDA decision
+
+## Week of Nov 16
+- 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
+- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits Anaphylm NDA to FDA — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Mon Nov 16** · [[LCLN]] · IPO lock-up ends
+- 📐 **Mon Nov 16** · [[OPTH]] · IPO lock-up ends
+- 📐 **Mon Nov 16** · [[RACC]] · IPO lock-up ends
+- 📐 **Tue Nov 17** · [[APUR]] · SPAC merger / direct listing lock-up ends
+- 📐 **Tue Nov 17** · [[CNXU]] · IPO lock-up ends
+- 📐 **Tue Nov 17** · [[OCTV]] · SPAC merger / direct listing lock-up ends
+- 📐 **Wed Nov 18** · [[PNSB]] · SPAC merger / direct listing lock-up ends
+- ✅ **Sun Nov 22** · [[CAPR]] · FDA decision (hope-3)
+- 📐 **Sun Nov 22** · [[GOSS]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 23 submission: Gossamer Bio Submits New Drug Application to U.S. FDA  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Sun Nov 22** · [[KPET]] · SPAC merger / direct listing lock-up ends
+- ✅ **Sun Nov 22** · [[SVRA]] · FDA decision
+
+## Week of Nov 23
+- 📐 **Mon Nov 23** · [[FDXF]] · SPAC merger / direct listing lock-up ends
+- 📐 **Mon Nov 23** · [[PWRL]] · SPAC merger / direct listing lock-up ends
+- 📐 **Wed Nov 25** · [[OBNK]] · SPAC merger / direct listing lock-up ends
+- ✅ **Wed Nov 25** · [[SNY]] · FDA decision
+- 📐 **Wed Nov 25** · [[VBNB]] · SPAC merger / direct listing lock-up ends
+- ✅ **Fri Nov 27** · [[BBIO]] · FDA decision (bbp-418, lgmd2i)
+- 📐 **Sat Nov 28** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: DBV Technologies Announces Submission of Biologics Lic — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- ✅ **Sat Nov 28** · [[PYPD]] · FDA decision
+- 📐 **Sat Nov 28** · [[UNCY]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: Unicycive Therapeutics resubmits oxylanthanum carbonat — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+
+## Week of Nov 30
+- 📐 **Mon Nov 30** · [[AADX]] · IPO lock-up ends
+- ✅ **Mon Nov 30** · [[COGT]] · FDA decision (bezuclastinib, gist)
+- 📐 **Mon Nov 30** · [[HYPG]] · SPAC merger / direct listing lock-up ends
+- ✅ **Mon Nov 30** · [[VRTX]] · FDA decision
+- ✅ **Mon Nov 30** · [[ZLAB]] · FDA decision (april, baff)
+- 📐 **Tue Dec 1** · [[CGEM]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 2 submission: Cullinan Therapeutics starts NDA submission for zipaler — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Tue Dec 1** · [[ETSS]] · SPAC merger / direct listing lock-up ends
+- 📐 **Tue Dec 1** · [[INIO]] · IPO lock-up ends
+- 📐 **Tue Dec 1** · [[LFTO]] · IPO lock-up ends
+- 📐 **Tue Dec 1** · [[QNT]] · IPO lock-up ends
+- 📐 **Tue Dec 1** · [[SSMR]] · IPO lock-up ends
+- ✅ **Thu Dec 3** · [[EXEL]] · FDA decision
+- 📐 **Fri Dec 4** · [[STOK]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 5 submission: Stoke Therapeutics aligns with FDA on zorevunersen NDA  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Sat Dec 5** · [[FRTT]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sat Dec 5** · [[NHIV]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sun Dec 6** · [[AIBZ]] · SPAC merger / direct listing lock-up ends
+- 📐 **Sun Dec 6** · [[ELOX]] · IPO lock-up ends
+- 📐 **Sun Dec 6** · [[WHK]] · IPO lock-up ends
+
+## Week of Dec 7
+- 📐 **Mon Dec 7** · [[ENRD]] · SPAC merger / direct listing lock-up ends
+- 📐 **Mon Dec 7** · [[EROC]] · IPO lock-up ends
+- 📐 **Mon Dec 7** · [[PBLS]] · IPO lock-up ends
+- 📐 **Tue Dec 8** · [[FRBT]] · IPO lock-up ends
+- 📐 **Wed Dec 9** · [[SPCX]] · IPO lock-up ends
+- ✅ **Sat Dec 12** · [[ANAB]] · FDA decision (imsidolimab)
+- ✅ **Sat Dec 12** · [[VNDA]] · FDA decision
+
+## Week of Dec 14
+- ❓ **Thu Dec 17** · [[CORT]] · FDA decision (relacorilant) — _Only one filing states this date._
+
+## Week of Dec 21
+- ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat)
+- ✅ **Wed Dec 23** · [[ACLX]] · FDA decision
+- ✅ **Wed Dec 23** · [[GILD]] · FDA decision
+- ✅ **Sun Dec 27** · [[PRAX]] · FDA decision (relutrigine, scn2a, scn8a)
+- ❓ **Sun Dec 27** · [[VTRS]] · FDA decision — _Only one filing states this date._
+
+## Week of Dec 28
+- ✅ **Wed Dec 30** · [[COGT]] · FDA decision (bezuclastinib)
+
+## Week of Jan 4
+- ✅ **Mon Jan 4** · [[NUVB]] · FDA decision (ibtrozi, nsclc, ros1, tki-)
+
+## Open windows: could land any day
+
+The company gave a window, not a day. Sorted by when the window closes.
+
+- ✅ **Nov 1–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
+- ❓ **now–Nov 25** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
+- ✅ **Nov 1–Nov 30** · [[ABOS]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
+- ✅ **Nov 1–Nov 30** · [[VANI]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
+- 📐 **Nov 17–Dec 12** · [[GOSS]] · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
+- 📐 **Nov 24–Dec 19** · [[DBVT]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
+- 📐 **Nov 24–Dec 19** · [[MLTX]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
+- ✅ **Dec 8–Dec 24** · [[RZLT]] · Topline data expected mid December 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ABCL]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ABSI]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ADCT]] · LOTIS-5 full Phase 3 data
+- ✅ **now–Dec 31** · [[AKBA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ALMS]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ALZN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ANAB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ANTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[APRE]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ARQT]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ARVN]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ASMB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ATAI]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ATTO]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[AUTL]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[AVIR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[AXSM]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[AZTR]] · Initial data expected by year end — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[BCRX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[BMEA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[BRNS]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CELC]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CLDX]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CLYM]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CMPS]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CMPX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CRVO]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CTMX]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ❓ **now–Dec 31** · [[CYBN]] · Phase 3 APPROACH topline — _Only on your sheet; not in the company's filings._
+- ✅ **now–Dec 31** · [[CYCN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[CYTK]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[DNLI]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[DTIL]] · Initial data expected year-end 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ELTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ENSC]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ENTA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ENTX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[EQ]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[EWTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[FDMT]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[GPCR]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[GUTS]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[HCWB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[HRMY]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[HROW]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[IDYA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[IMCR]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- ❓ **Nov 15–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
+- ✅ **now–Dec 31** · [[IMUX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[INBX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[IRLA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[IRON]] · FDA filing expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[JBIO]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[JSPR]] · Initial data expected by year-end 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[KNSA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **Dec 1–Dec 31** · [[KOD]] · Phase 3 PEAK, Pivotal Analysis 1 topline
+- ✅ **now–Dec 31** · [[KPTI]] · XPORT-MM-031 (EMN29) Phase 3 topline
+- ✅ **now–Dec 31** · [[KRYS]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[KYMR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[KYNB]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[KYTX]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[LGND]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[LONA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[LXEO]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[LXRX]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **Dec 1–Dec 31** · [[MBRX]] · Data expected December 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[MBX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[MIRM]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[MLTX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[MTVA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[NAMS]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[NMRA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ONCY]] · Initial data expected by year-end — _A window the company gave, not an exact day._
+- ✅ **Dec 1–Dec 31** · [[ORKA]] · Data expected December 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[PCRX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[PDSB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[PHAT]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[PMN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[PYXS]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[QNRX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[RAPP]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[REPL]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[RFL]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[RGNX]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ❓ **now–Dec 31** · [[ROIV]] · Phase 3 topline — _Only on your sheet; not in the company's filings._
+- ✅ **now–Dec 31** · [[RVMD]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[RZLT]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SABS]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SGMT]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SKYE]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SLDB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SLS]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SNDX]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SNSE]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SPRY]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[SRZN]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TARA]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TECX]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TENX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TEVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TGTX]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TPST]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TRDA]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TRVI]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TVRD]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[TYRA]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[VIR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[VNDA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[VSTM]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[XENE]] · Topline trial updates
+- ✅ **now–Dec 31** · [[XFOR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ZBIO]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ZNTL]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[ZURA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- 📐 **Dec 13–Jan 7** · [[CLNN]] · FDA acceptance expected Dec 13–Jan 7, 2027 (submitted Oct 19) — _A window the company gave, not an exact day._
+- 📐 **Dec 15–Jan 9** · [[SUPN]] · FDA acceptance expected Dec 15–Jan 9, 2027 (submitted Oct 21) — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Jan 31** · [[ANVS]] · Data expected January 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Jan 31** · [[SXTP]] · Data expected January 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[AKTS]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[ANNX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[ATYR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[AVIR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[BMEA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[CBIO]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[CRBP]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[CRVO]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[DYN]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[GUTS]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[INBX]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[IRLA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[KPRX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[LXRX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[MBRX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[MIRM]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[MTVA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[NMRA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[OCGN]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[OCUL]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[OLMA]] · OPERA-01 Phase 3 topline
+- ✅ **Jan 1–Mar 31** · [[ORKA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[PMN]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[PSTV]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[PTGX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[QNCX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[RAPP]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[RNAC]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[SLDB]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[STOK]] · Rolling NDA filing (Ph3 data guided Q3 2027)
+- ✅ **Jan 1–Mar 31** · [[TECX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[TRAX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[TRDA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[UPB]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[VERA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[VIR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[VRDN]] · FDA filing expected Q1 2027 — _A window the company gave, not an exact day._
+
+## Drug-company earnings
+
+- ❓ **Mon Oct 26** · [[ABOS]] · Earnings (before open)
+- ❓ **Mon Oct 26** · [[AQB]] · Earnings
+- ❓ **Mon Oct 26** · [[KNSA]] · Earnings
+- ❓ **Tue Oct 27** · [[AMRN]] · Earnings
+- ❓ **Tue Oct 27** · [[BIOQ]] · Earnings
+- ❓ **Tue Oct 27** · [[ICLR]] · Earnings (after close)
+- ❓ **Tue Oct 27** · [[IONS]] · Earnings
+- ❓ **Tue Oct 27** · [[IQV]] · Earnings (before open)
+- ❓ **Tue Oct 27** · [[NAUT]] · Earnings (before open)
+- ❓ **Tue Oct 27** · [[RGEN]] · Earnings (before open)
+- ❓ **Tue Oct 27** · [[SNDL]] · Earnings (before open)
+- ❓ **Wed Oct 28** · [[AVTR]] · Earnings (before open)
+- ❓ **Wed Oct 28** · [[BCYC]] · Earnings
+- ❓ **Wed Oct 28** · [[BIIB]] · Earnings (before open)
+- ❓ **Wed Oct 28** · [[CNSY]] · Earnings
+- ❓ **Wed Oct 28** · [[DAWN]] · Earnings
+- ❓ **Wed Oct 28** · [[MDXG]] · Earnings (after close)
+- ❓ **Wed Oct 28** · [[NUVL]] · Earnings
+- ❓ **Wed Oct 28** · [[VKTX]] · Earnings (after close)
+- ❓ **Wed Oct 28** · [[VNDA]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[AKBA]] · Earnings
+- ❓ **Thu Oct 29** · [[ALLO]] · Earnings
+- ❓ **Thu Oct 29** · [[ALNY]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[ATRA]] · Earnings
+- ❓ **Thu Oct 29** · [[AUPH]] · Earnings
+- ❓ **Thu Oct 29** · [[BBIO]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[BMY]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[CDNA]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[CDXS]] · Earnings
+- ❓ **Thu Oct 29** · [[CRDF]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[CRVS]] · Earnings
+- ❓ **Thu Oct 29** · [[DYN]] · Earnings
+- ❓ **Thu Oct 29** · [[EXEL]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[FATE]] · Earnings
+- ❓ **Thu Oct 29** · [[FTRE]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[FULC]] · Earnings
+- ❓ **Thu Oct 29** · [[GILD]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[ILMN]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[INCY]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[INDV]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[INSM]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[IRWD]] · Earnings
+- ❓ **Thu Oct 29** · [[KPTI]] · Earnings
+- ❓ **Thu Oct 29** · [[KURA]] · Earnings
+- ❓ **Thu Oct 29** · [[KYMR]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[LENZ]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[LGND]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[LLY]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[MRK]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[OPGN]] · Earnings
+- ❓ **Thu Oct 29** · [[PHAT]] · Earnings (before open)
+- ❓ **Thu Oct 29** · [[PRTA]] · Earnings
+- ❓ **Thu Oct 29** · [[PTCT]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[SNDX]] · Earnings
+- ❓ **Thu Oct 29** · [[SUPN]] · Earnings (after close)
+- ❓ **Thu Oct 29** · [[TARA]] · Earnings
+- ❓ **Thu Oct 29** · [[VXRT]] · Earnings
+- ❓ **Thu Oct 29** · [[WST]] · Earnings (before open)
+- ❓ **Fri Oct 30** · [[ABBV]] · Earnings (before open)
+- ❓ **Fri Oct 30** · [[DMRA]] · Earnings
+- ❓ **Fri Oct 30** · [[OABI]] · Earnings (before open)
+- ❓ **Fri Oct 30** · [[PRME]] · Earnings
+- ❓ **Fri Oct 30** · [[REGN]] · Earnings (before open)
+- ❓ **Mon Nov 2** · [[ABVC]] · Earnings
+- ❓ **Mon Nov 2** · [[ALDX]] · Earnings
+- ❓ **Mon Nov 2** · [[AXSM]] · Earnings (before open)
+- ❓ **Mon Nov 2** · [[CMPS]] · Earnings
+- ❓ **Mon Nov 2** · [[DTIL]] · Earnings
+- ❓ **Mon Nov 2** · [[EBS]] · Earnings (after close)
+- ❓ **Mon Nov 2** · [[GNLX]] · Earnings
+- ❓ **Mon Nov 2** · [[HOWL]] · Earnings
+- ❓ **Mon Nov 2** · [[IDYA]] · Earnings
+- ❓ **Mon Nov 2** · [[JAZZ]] · Earnings (after close)
+- ❓ **Mon Nov 2** · [[KRYS]] · Earnings (before open)
+- ❓ **Mon Nov 2** · [[NBIX]] · Earnings (after close)
+- ❓ **Mon Nov 2** · [[RFL]] · Earnings
+- ❓ **Mon Nov 2** · [[RIGL]] · Earnings
+- ❓ **Mon Nov 2** · [[SLDB]] · Earnings
+- ❓ **Mon Nov 2** · [[SNOA]] · Earnings
+- ❓ **Mon Nov 2** · [[STOK]] · Earnings
