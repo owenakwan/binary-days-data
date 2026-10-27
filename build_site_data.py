@@ -210,6 +210,59 @@ def load_spreadsheet():
     return out
 
 
+# ----------------------------------------------------------------------------- FDA dates checked against SEC filings
+def sec_fda_dates(today):
+    """pdufa.json (build_pdufa.py): FDA decision dates the companies themselves state in their SEC filings."""
+    try:
+        with open(os.path.join(OUT, "pdufa.json"), encoding="utf-8") as f:
+            return [i for i in json.load(f).get("items") or [] if not i.get("decided")]
+    except (OSError, ValueError):
+        return []
+
+
+def sec_check(cats, sec, today):
+    """Fix the sheet's FDA dates with the company's own filings (MLYS: sheet said Oct 23, its filings say Dec 22)."""
+    by_t = {}
+    for i in sec:
+        by_t.setdefault(i["ticker"], []).append(i)
+    fixed = 0
+    for c in cats:
+        if not re.search(r"pdufa|fda decision|fda action", c["type"] + " " + c["catalyst"], re.I):
+            continue
+        tk = (re.findall(r"[A-Z]{1,5}", c["ticker"]) or [""])[0]
+        mine = by_t.get(tk) or []
+        if not mine or not c["sort"]:
+            continue
+        sd = dt.date.fromisoformat(c["sort"])
+        near = [i for i in mine if abs((dt.date.fromisoformat(i["date"]) - sd).days) <= 3]
+        if near:
+            c["verified"], c["sec_link"] = "SEC", near[0]["link"]
+            continue
+        words = (c["search"] + " " + c["catalyst"] + " " + c["notes"]).lower()
+        same = [i for i in mine if any(d in words for d in i.get("drugs") or [])] or mine
+        pick = min(same, key=lambda i: abs((dt.date.fromisoformat(i["date"]) - sd).days))
+        nd = dt.date.fromisoformat(pick["date"])
+        c["notes"] = f"Sheet said {c['date_text']}; {tk}'s own SEC filing ({pick['form']}, {pick['filed']}) says {nd:%b %d, %Y}. " + c["notes"]
+        c["date_text"], c["sort"], c["end"] = f"{nd:%a %b} {nd.day}", nd.isoformat(), None
+        c["verified"], c["sec_link"] = "moved", pick["link"]
+        fixed += 1
+        log(f"FDA date fixed from SEC filing: {tk} {sd} -> {nd}")
+    log(f"Sheet FDA dates checked against SEC filings: {fixed} corrected")
+
+
+def sec_new(sec, today, known_t):
+    """FDA dates in filings for companies the sheet doesn't list (AGIO, CYTK, ...)."""
+    out = []
+    for i in sec:
+        if i["ticker"] in known_t or i["date"] < today.isoformat():
+            continue
+        out.append({"ticker": i["ticker"], "company": i["company"], "date": i["date"], "type": "PDUFA",
+                    "headline": ("FDA decision" + (f" on {', '.join(i['drugs'][:2])}" if i.get("drugs") else "") + f" (from {i['ticker']}'s {i['form']})")[:240],
+                    "link": i["link"], "source": "SEC filing", "published": i["filed"], "verified": "SEC"})
+    log(f"FDA dates from SEC filings not on the sheet: {len(out)}")
+    return out
+
+
 # ----------------------------------------------------------------------------- discovery from news
 MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec"
 FULL_DATE = re.compile(rf"\b({MONTHS})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?,?\s+(20\d\d)\b", re.I)
@@ -614,13 +667,32 @@ def main():
             log(f"Using the previous catalyst list ({len(cats)} rows)")
         except (OSError, ValueError):
             cats = []
+    sec = sec_fda_dates(today)
+    sec_check(cats, sec, today)
     known = {(c["ticker"], c["sort"]) for c in cats if c["sort"]}
-    disc = discover(today, names, by_name, known) + adcomm_calendar(today, known)
+    sheet_t = {t for c in cats for t in re.findall(r"[A-Z]{1,5}", c["ticker"])}
+    disc = discover(today, names, by_name, known) + adcomm_calendar(today, known) + sec_new(sec, today, sheet_t)
     try:
         disc += readout_events(today, names, by_name, known)
     except Exception as e:  # noqa: BLE001  (never let the new scanner break the board)
         log(f"[warn] readout scan failed: {e}")
-    disc.sort(key=lambda r: (r["date"], r["ticker"]))
+    disc.sort(key=lambda r: (r["source"] != "SEC filing", r["date"], r["ticker"]))
+    # one row per FDA date, and news-found FDA dates that the company's own filings contradict are dropped
+    sec_dates = {}
+    for i in sec:
+        sec_dates.setdefault(i["ticker"], []).append(dt.date.fromisoformat(i["date"]))
+    seen, keep = set(), []
+    for r in disc:
+        t, d = r.get("ticker") or "", r.get("date") or ""
+        if r.get("type") == "PDUFA" and t:
+            if (t, d) in seen:
+                continue
+            if r.get("source") != "SEC filing" and t in sec_dates and d and all(abs((dt.date.fromisoformat(d[:10]) - x).days) > 3 for x in sec_dates[t]):
+                log(f"Dropped news FDA date {t} {d}: its SEC filings say {', '.join(map(str, sec_dates[t]))}")
+                continue
+            seen.add((t, d))
+        keep.append(r)
+    disc = sorted(keep, key=lambda r: (r["date"], r["ticker"]))
     write("catalysts.json", {
         "sample": False,
         "updated": dt.datetime.now(CT).isoformat(timespec="minutes"),
