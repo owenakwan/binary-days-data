@@ -22,14 +22,20 @@ OUT = os.path.join(OUT_DIR, "pdufa.json")
 CACHE = os.path.join(OUT_DIR, "pdufa_cache.json")
 LOOKBACK_DAYS = 330        # a standard review is ~10 months, and 10-Qs repeat the date every quarter
 BUDGET_S = 300             # time for reading new filings per run; the rest is picked up next run
-CACHE_V = 1
+CACHE_V = 2
 QUERIES = ["PDUFA", "target action date"]
 FORMS = "8-K,10-Q,10-K,6-K"
 
 KEY_RE = re.compile(r"pdufa|target action date|goal date|action date", re.I)
 DATE_RE = re.compile(rf"\b{MON_RE}\s+(\d{{1,2}}),?\s+(20\d\d)\b", re.I)
-DECIDED_RE = re.compile(r"\bfda (has )?approved\b|\bapproved by the (u\.s\. )?fda\b|received (u\.s\. )?(fda )?approval|\bfda approval of\b|complete response letter", re.I)
+DECIDED_RE = re.compile(r"\bfda\)? (has )?(approved|granted (full |accelerated |traditional )?approval)\b|\bapproved by the (u\.s\. )?(fda|food and drug administration)\b|"
+                        r"received (u\.s\. )?(fda )?approval|\bfda approval (of|for)\b|announce[sd]? (u\.s\. )?(fda )?approval|complete response letter", re.I)
 IFFY_RE = re.compile(r"\b(if|whether|could|would|may|potential(ly)?|upon)\b", re.I)
+JUNK_RE = re.compile(r"re-?authoriz|user fee programs?|\bpdufa (vi|vii|viii)\b|trademarks|forward-looking", re.I)   # boilerplate, not a drug's date
+NOT_DRUG = re.compile(r"ex-?99|\d{5,}|^(diego|globe|newswire|medicine|pharm|phar|blte|ex)$")   # file names and press-wire words, not drugs
+SKIP_TICKERS = {"RPRX"}   # royalty owners repeat their partners' dates (Nuvalent's, Zenas's) as their own
+DECISION_QUERIES = ["FDA approval", "approved by the FDA", "FDA approved", "complete response letter"]   # 8-K/6-K, so a decision is noticed
+DECISION_DAYS = 120
 
 
 def sheet_tickers():
@@ -42,8 +48,8 @@ def sheet_tickers():
         return set()
 
 
-def search(q, start, end, page):
-    params = {"q": f'"{q}"', "dateRange": "custom", "startdt": start.isoformat(), "enddt": end.isoformat(), "forms": FORMS, "from": page * 100}
+def search(q, start, end, page, forms=FORMS):
+    params = {"q": f'"{q}"', "dateRange": "custom", "startdt": start.isoformat(), "enddt": end.isoformat(), "forms": forms, "from": page * 100}
     r = requests.get("https://efts.sec.gov/LATEST/search-index?" + urllib.parse.urlencode(params), headers=UA, timeout=30)
     r.raise_for_status()
     return r.json().get("hits", {})
@@ -55,6 +61,8 @@ def extract(text, filed):
     for s in re.split(r"(?<=[.;])\s+(?=[A-Z•])|\s•\s", text):
         s = s.strip()
         if len(s) < 20 or len(s) > 900:
+            continue
+        if JUNK_RE.search(s):
             continue
         if DECIDED_RE.search(s) and not IFFY_RE.search(s):
             decided.append(s[:300])
@@ -117,7 +125,27 @@ def main():
                     break
                 time.sleep(0.12)
         end = start - dt.timedelta(days=1)
-    log(f"{len(hits)} filings mention an FDA action date in the last {LOOKBACK_DAYS} days")
+    # approval / rejection announcements, so a decision that came in (IONS approved Oct 20, 6 days early) drops the date
+    dated = {v["ticker"] for v in hits.values()}
+    for q in DECISION_QUERIES:
+        for page in range(5):
+            try:
+                h = search(q, today - dt.timedelta(days=DECISION_DAYS), today, page, "8-K,6-K")
+            except Exception as e:  # noqa: BLE001
+                log("search failed:", q, e)
+                break
+            rows = h.get("hits") or []
+            for x in rows:
+                src = x.get("_source") or {}
+                names = src.get("display_names") or []
+                m = re.search(r"\(([A-Z]{1,5})(?:[,)])", names[0]) if names else None
+                if m and m.group(1) in dated:
+                    hits.setdefault(x["_id"], {"ticker": m.group(1), "company": re.sub(r"\s+\(.*$", "", names[0]).strip(),
+                                               "form": src.get("form") or "", "filed": src.get("file_date"), "cik": (src.get("ciks") or [""])[0]})
+            if len(rows) < 100:
+                break
+            time.sleep(0.12)
+    log(f"{len(hits)} filings: FDA action dates in the last {LOOKBACK_DAYS} days, decisions in the last {DECISION_DAYS}")
 
     # sheet companies first, then newest filings, so the dates that matter are right on the first run
     order = sorted(hits.items(), key=lambda kv: (kv[1]["ticker"] not in sheet, -(dt.date.fromisoformat(kv[1]["filed"]).toordinal() if kv[1]["filed"] else 0)))
@@ -150,11 +178,13 @@ def main():
             by_t.setdefault(v["ticker"], []).append(v)
     items = []
     for t, fs in by_t.items():
+        if t in SKIP_TICKERS:
+            continue
         fs.sort(key=lambda v: v.get("filed") or "", reverse=True)
         stated = []   # (filed, date, names, sentence, filing)
         for v in fs:
             for d, s in v.get("dates") or []:
-                stated.append((v["filed"], d, program_names(s), s, v))
+                stated.append((v["filed"], d, {n for n in program_names(s) if not NOT_DRUG.search(n)}, s, v))
         kept = []
         for filed, d, names, s, v in stated:
             if d < (today - dt.timedelta(days=7)).isoformat():
