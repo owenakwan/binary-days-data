@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **Wed Oct 28** · CHRS · Coherus Oncology to Host Webcast to Disclose Interim Tagmokitug Clinical Data on October 28, 2026
     - 📏 $1.01 · MC $162M · options ±52% by Nov 20 · volatility 72% · usual day ±3.8% · biggest day +30% / −20%
-    - Source: [GlobeNewswire](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOckpYZHV0M3RxSG1yX2tTcVZqeWhQenBkQWdDYkxIS25xZEZIdmY3S1VGdmdSaFplcTlLRjJjcUZ0S0Q2MEh5d2h3Y1g0Vk0tNmVhZTlOWVllbjZIRjl2WE1aS000NU9EYnZqd0F5U3QzQWEtM2x4YUVGWGM5X0c2LXBpTGxrYXFsRXZzQ3JpQnVPQ0tXNm41QjZPRFprOGZXN1pJa1pMcE1CQVkxeFVmeUdpSXRaZnNPVGljeEtaeFRmOG1peDNwUWRtQnRhSTFPbERVU2RoLTU3V0tmM01hbVZKOW4wNE1BRlQxRE1wckF6c3dfRy15eTdJMDQ?oc=5) — "Coherus Oncology to Host Webcast to Disclose Interim Tagmokitug Clinical Data on October 28, 2026"
+    - Source: [Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMElDemhJZkM0eWdmLXh6eHdFaWdCa0pXSjlCYmlJSENWbVpRWlhFb2dQZ0RNeVpsTHg5aWhyenlzNUcteVJQZmNTNUZlOHJ4LXpVSDhjdE04WmFJNTFrYm84X19MRVp6VkpYbllIOHprMGRQOURKejdIX1NxcUlHeVU4YWhSSDZTUF9XZWtpYno?oc=5) — "Coherus Oncology to Host Webcast to Disclose Interim Tagmokitug Clinical Data on October 28, 2026"
 - ❓ **Mon Nov 9** · CHRS · Earnings
     - Source: Finnhub earnings calendar
 
