@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ❓ **Thu Nov 5** · SVRA · Earnings (after close)
     - Source: Finnhub earnings calendar
 - ✅ **Sun Nov 22** · SVRA · FDA decision
-    - 📏 $4.52 · MC $955M · options ±49% by Dec 18 · volatility 53% · usual day ±2.3% · biggest day +17% / −8%
+    - 📏 $4.52 · MC $955M · options ±55% by Dec 18 · volatility 53% · usual day ±2.3% · biggest day +17% / −8%
     - Source: [SVRA SEC 10-Q (2026-08-11) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1160308/000119312526344585/svra-20260630.htm) — "The FDA determined that the Company’s responses to recent information requests by the Agency during their review constituted a major amendment to the BLA, resulting in a three-month extension of the Prescription Drug User Fee Act ("PDUFA") target action date t"
     - Source: your sheet
 
