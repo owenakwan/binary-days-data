@@ -17,10 +17,14 @@ import re
 import shutil
 from zoneinfo import ZoneInfo
 
+import setup_stats
+
 CT = ZoneInfo("America/Chicago")
 OUT_DIR = os.environ.get("OUT_DIR", "out")
 VAULT = os.environ.get("VAULT_DIR", "vault_out")
 DAYS = 70   # 10 weeks ahead (covers the December FDA dates)
+BINARY = ("fda", "readout", "adcom", "acceptance")   # events that can make or break a stock
+STATS = {}   # ticker -> move stats (setup_stats.py)
 ICON = {"confirmed": "✅", "corrected": "🔧", "conflict": "⚠️", "single": "❓", "estimate": "📐"}
 WORD = {"confirmed": "confirmed", "corrected": "corrected (sheet was wrong)", "conflict": "sources disagree", "single": "one source only", "estimate": "estimated date"}
 
@@ -193,6 +197,12 @@ def main():
         json.dump({"updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "events": ev}, f, separators=(",", ":"), ensure_ascii=False)
     counts = {s: sum(e["status"] == s for e in ev) for s in ICON}
     print(f"Wrote verified.json: {len(ev)} events in the next {DAYS} days {counts}")
+    soon = (today + dt.timedelta(days=21)).isoformat()
+    binaries = [e for e in ev if e["kind"] in BINARY and (e["kind"] == "fda" or e["end"] <= soon)]
+    try:
+        STATS.update(setup_stats.update(binaries, prof))
+    except Exception as ex:  # noqa: BLE001  (never let the move stats break the vault)
+        print(f"[warn] move stats failed: {ex}")
     write_vault(ev, today)
     write_changes(prev, ev, today)
 
@@ -244,7 +254,9 @@ def md_line(e, link_ticker=True):
     else:
         when = f"{d:%a %b} {d.day}"
     t = f"[[{e['ticker']}]]" if link_ticker else e["ticker"]
-    return f"- {ICON[e['status']]} **{when}** · {t} · {e['title']}" + (f" — _{e['note']}_" if e["note"] else "")
+    out = f"- {ICON[e['status']]} **{when}** · {t} · {e['title']}" + (f" — _{e['note']}_" if e["note"] else "")
+    st = setup_stats.line(STATS.get(e["ticker"])) if e["kind"] in BINARY else ""
+    return out + (f"\n    - 📏 {st}" if st else "")
 
 
 def write_vault(ev, today):
@@ -327,6 +339,9 @@ Last update: {stamp}.
 - [[Calendar]]: every catalyst in the next 10 weeks, by week
 - [[Needs a second look]]: dates that are corrected, disputed, or rest on one source
 - `Stocks/`: one note per company, with every source and a quote from it
+
+📏 under a catalyst = how much it can move the stock: market cap (MC), the options-implied move to the first expiry
+after the event, 30-day volatility (annualized), the usual daily move (last 60 days) and the biggest one-day moves of the past year.
 
 {legend}
 
