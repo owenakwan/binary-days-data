@@ -188,11 +188,53 @@ def main():
         if k not in uniq or rank[e["status"]] < rank[uniq[k]["status"]]:
             uniq[k] = e
     ev = sorted(uniq.values(), key=lambda e: (e["date"], e["ticker"]))
+    prev = load("verified.json").get("events") or []   # last run's list, for the "What changed" note
     with open(os.path.join(OUT_DIR, "verified.json"), "w", encoding="utf-8") as f:
         json.dump({"updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "events": ev}, f, separators=(",", ":"), ensure_ascii=False)
     counts = {s: sum(e["status"] == s for e in ev) for s in ICON}
     print(f"Wrote verified.json: {len(ev)} events in the next {DAYS} days {counts}")
     write_vault(ev, today)
+    write_changes(prev, ev, today)
+
+
+def write_changes(prev, ev, today):
+    """What changed.md: new catalysts, moved dates, status changes and ones that dropped off, newest first (2 weeks kept)."""
+    if not prev:
+        return
+    key = lambda e: (e["ticker"], e["kind"], re.sub(r"\W+", " ", e["title"].lower())[:40])   # noqa: E731
+    old, new = {key(e): e for e in prev}, {key(e): e for e in ev}
+    lines = []
+    for k, e in new.items():
+        if e["kind"] in ("earnings",):
+            continue
+        o = old.get(k)
+        if not o:
+            lines.append(f"🆕 New: {md_line(e)[2:]}")
+        elif o["date"] != e["date"] and e["end"] == e["date"] and o["end"] == o["date"]:
+            lines.append(f"📆 Date moved {d_(o['date']):%b} {d_(o['date']).day} → {md_line(e)[2:]}")
+        elif o["status"] != e["status"]:
+            lines.append(f"{ICON[e['status']]} Now {WORD[e['status']]} (was {WORD[o['status']]}): {md_line(e)[2:]}")
+    for k, o in old.items():
+        if k not in new and o["kind"] != "earnings" and o["end"] >= today.isoformat():
+            lines.append(f"✔️ Dropped off (happened, decided or no longer in any source): {md_line(o)[2:]}")
+    path = os.path.join(VAULT, "What changed.md")
+    try:
+        body = open(path, encoding="utf-8").read().split("\n")[4:]
+    except OSError:
+        body = []
+    cutoff = (today - dt.timedelta(days=14)).isoformat()
+    # drop sections older than 2 weeks (a section runs from its "## date" header to the next one)
+    kept, keep = [], True
+    for b in body:
+        if b.startswith("## "):
+            keep = b[3:13] >= cutoff
+        if keep:
+            kept.append(b)
+    if lines:
+        kept = [f"## {dt.datetime.now(CT):%Y-%m-%d %I:%M %p} CT", ""] + [f"- {x}" for x in lines[:150]] + [""] + kept
+    head = ["# What changed", "", "New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.", ""]
+    open(path, "w", encoding="utf-8").write("\n".join(head + kept).rstrip() + "\n")
+    print(f"What changed: {len(lines)} changes this run")
 
 
 def md_line(e, link_ticker=True):
@@ -229,6 +271,28 @@ def write_vault(ev, today):
     lines += ["", "## Open windows: could land any day", "", "The company gave a window, not a day. Sorted by when the window closes.", ""] + [md_line(e) for e in wins]
     lines += ["", "## Drug-company earnings", ""] + [md_line(e) for e in main_ev if e["kind"] == "earnings"][:80]
     open(os.path.join(VAULT, "Calendar.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    # Today: today, tomorrow, the rest of this week, and windows closing within a week
+    tmr = today + dt.timedelta(days=1)
+    wk_end = today + dt.timedelta(days=6 - today.weekday())
+    def sect(title, es):
+        """Catalysts first; that day's drug-company earnings on one line underneath."""
+        cat = [e for e in es if e["kind"] != "earnings"]
+        earn = [e for e in es if e["kind"] == "earnings"]
+        if not es:
+            return []
+        out = [f"## {title}", ""] + [md_line(e) for e in cat]
+        if earn:
+            out.append("- 📊 Earnings: " + ", ".join(f"[[{e['ticker']}]]" + (" (pre)" if "before" in e["title"] else " (post)" if "after" in e["title"] else "") for e in earn))
+        return out + [""]
+    exact = [e for e in main_ev if e["end"] == e["date"]]
+    closing = sorted((e for e in main_ev if e["end"] != e["date"] and e["kind"] != "earnings" and d_(e["end"]) <= today + dt.timedelta(days=7)), key=lambda e: e["end"])
+    lines = [f"# Today · {today:%A, %B} {today.day}", "", f"Updated {stamp}. {legend}", ""]
+    lines += sect("Today", [e for e in exact if e["date"] == today.isoformat()])
+    lines += sect(f"Tomorrow · {tmr:%a %b} {tmr.day}", [e for e in exact if e["date"] == tmr.isoformat()])
+    lines += sect("Rest of this week", [e for e in exact if tmr.isoformat() < e["date"] <= wk_end.isoformat()])
+    lines += sect("Windows closing within a week (could land any day)", closing)
+    lines += ["See also: [[Calendar]] · [[What changed]] · [[Needs a second look]]"]
+    open(os.path.join(VAULT, "Today.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
     # Needs a second look
     look = [e for e in ev if e["status"] in ("conflict", "single", "corrected") and e["kind"] in ("fda", "readout", "adcom")]
     lines = ["# Needs a second look", "", f"Updated {stamp}. Dates where sources disagree, only one source says it, or the sheet was corrected.", ""]
@@ -258,7 +322,9 @@ def write_vault(ev, today):
 Rebuilt every 30 minutes from the Binary Days data (SEC filings, news, your spreadsheet, earnings and lock-up calendars).
 Last update: {stamp}.
 
-- [[Calendar]]: every catalyst in the next 8 weeks, by week
+- [[Today]]: today, tomorrow and the rest of this week on one page
+- [[What changed]]: new catalysts, moved dates, ones that dropped off (2 weeks of history)
+- [[Calendar]]: every catalyst in the next 10 weeks, by week
 - [[Needs a second look]]: dates that are corrected, disputed, or rest on one source
 - `Stocks/`: one note per company, with every source and a quote from it
 
