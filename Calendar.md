@@ -1,33 +1,48 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Mon Oct 26, 09:48 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Mon Oct 26, 10:01 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 19
 - ❓ **now–Oct 27** · [[PFE]] · ESMO Congress, Madrid — _Only on your sheet; not in the company's filings._
+    - 📏 $29.79 · MC $156.7B · options ±2% by Oct 30 · volatility 18% · usual day ±1.0% · biggest day +5% / −3%
 
 ## Week of Oct 26
 - ✅ **now–Oct 31** · [[DMAC]] · Initial data expected October 2026 — _A window the company gave, not an exact day._
+    - 📏 $8.74 · MC $424M · options ±25% by Nov 20 · volatility 55% · usual day ±2.3% · biggest day +13% / −14%
 - ✅ **now–Oct 31** · [[GANX]] · Data expected October 2026 — _A window the company gave, not an exact day._
+    - 📏 $1.15 · MC $55M · options ±35% by Nov 20 · volatility 66% · usual day ±3.0% · biggest day +31% / −44%
 - ✅ **Mon Oct 26** · [[INCY]] · Incyte to present new data on oncology portfolio at ESMO 2026
+    - 📏 $113.31 · MC $22.9B · options ±9% by Nov 20 · volatility 28% · usual day ±1.3% · biggest day +9% / −8%
 - ✅ **now–Oct 31** · [[IVVD]] · Data expected October 2026 — _A window the company gave, not an exact day._
+    - 📏 $0.59 · MC $179M · options ±65% by Nov 20 · volatility 120% · usual day ±5.3% · biggest day +35% / −21%
 - ✅ **now–Oct 31** · [[MANE]] · Topline data expected October 2026 — _A window the company gave, not an exact day._
+    - 📏 $137.39 · options ±14% by Nov 20 · volatility 77% · usual day ±3.1% · biggest day +48% / −14%
 - ✅ **Mon Oct 26** · [[ORKA]] · Oruka Therapeutics to Report Week 16 EVERLAST-B Phase 2b Data for ORKA-001 in Plaque Psoriasis on October 26, 2026
+    - 📏 $90.33 · MC $4.9B · options ±22% by Nov 20 · volatility 60% · usual day ±2.5% · biggest day +25% / −9%
 - 📐 **Mon Oct 26** · [[PS]] · IPO lock-up ends
 - 📐 **Mon Oct 26** · [[PSUS]] · SPAC merger / direct listing lock-up ends
 - ✅ **now–Oct 31** · [[RARE]] · Data expected October 2026 — _A window the company gave, not an exact day._
+    - 📏 $16.08 · MC $1.5B · volatility 59% · usual day ±3.1% · biggest day +16% / −44%
 - 📐 **Tue Oct 27** · [[AVLN]] · IPO lock-up ends
 - ✅ **Tue Oct 27** · [[BEAM]] · Beam Therapeutics to Present Initial Data from Phase 1/2 Trial of BEAM-301 in Glycogen Storage Disease Type Ia (GSDIa) at the ESGCT 33rd Ann
+    - 📏 $23.79 · MC $2.7B · options ±16% by Nov 20 · volatility 47% · usual day ±2.6% · biggest day +22% / −10%
 - ✅ **Tue Oct 27** · [[LBRX]] · LB Pharmaceuticals to Host In-Person and Virtual R&D Day on
+    - 📏 $39.34 · MC $1.1B · options ±16% by Nov 20 · volatility 59% · usual day ±2.7% · biggest day +15% / −8%
 - 📐 **Tue Oct 27** · [[SBMT]] · IPO lock-up ends
 - ✅ **Wed Oct 28** · [[CHRS]] · Coherus Oncology to Host Webcast to Disclose Interim Tagmokitug Clinical Data on October 28, 2026
+    - 📏 $1.01 · MC $162M · options ±52% by Nov 20 · volatility 72% · usual day ±3.8% · biggest day +30% / −20%
 - 📐 **Wed Oct 28** · [[COAG]] · IPO lock-up ends
 - 📐 **Wed Oct 28** · [[SPTX]] · IPO lock-up ends
 - ✅ **Fri Oct 30** · [[INO]] · FDA decision (ino-3107)
+    - 📏 $0.87 · MC $117M · options ±75% by Oct 30 · volatility 96% · usual day ±4.4% · biggest day +21% / −37%
 - 📐 **Fri Oct 30** · [[PVLA]] · FDA decision on accepting the filing, usually ~day 60-74 after the Aug 31 submission: Palvella Therapeutics Completes Rolling Submission of  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - 📏 $126.23 · MC $1.7B · options ±13% by Nov 20 · volatility 47% · usual day ±2.1% · biggest day +37% / −21%
 - ✅ **Sun Nov 1** · [[AGIO]] · FDA decision
+    - 📏 $36.85 · MC $1.9B · options ±20% by Nov 20 · volatility 47% · usual day ±1.9% · biggest day +19% / −51%
 - 📐 **Sun Nov 1** · [[PONO]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sun Nov 1** · [[QURE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 2 submission: uniQure Submits BLA for Gene Therapy in Huntington Dise — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - 📏 $21.65 · MC $1.6B · options ±25% by Nov 20 · volatility 143% · usual day ±2.8% · biggest day +78% / −49%
 
 ## Week of Nov 2
 - 📐 **Mon Nov 2** · [[REA]] · IPO lock-up ends
@@ -37,6 +52,7 @@ Updated Mon Oct 26, 09:48 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Wed Nov 4** · [[MOBI]] · IPO lock-up ends
 - 📐 **Wed Nov 4** · [[ODTX]] · IPO lock-up ends
 - 📐 **Sat Nov 7** · [[BLTE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 8 submission: Belite Bio Announces Submission of New Drug Application — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - 📏 $143.35 · MC $6.1B · volatility 38% · usual day ±2.3% · biggest day +13% / −10%
 - 📐 **Sat Nov 7** · [[BOT]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[SHFH]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[VDTA]] · SPAC merger / direct listing lock-up ends
@@ -55,17 +71,24 @@ Updated Mon Oct 26, 09:48 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Wed Nov 11** · [[DUKR]] · IPO lock-up ends
 - 📐 **Wed Nov 11** · [[EXYN]] · IPO lock-up ends
 - ✅ **Wed Nov 11** · [[TEVA]] · Teva Pharmaceutical Industries Ltd. to Host R&D Day on November 11, 2026
+    - 📏 $39.95 · options ±9% by Nov 13 · volatility 26% · usual day ±1.3% · biggest day +20% / −5%
 - 📐 **Wed Nov 11** · [[VIDA]] · IPO lock-up ends
 - ✅ **Thu Nov 12** · [[OBIO]] · Orchestra BioMed to host R&D Day on Nov 12 show...
+    - 📏 $5.55 · MC $328M · options ±20% by Nov 20 · volatility 50% · usual day ±3.0% · biggest day +20% / −9%
 - ✅ **Thu Nov 12** · [[ZLAB]] · Zai Lab to Present Data From First Clinical Trial Evaluating ZL-1503, an IL-13/IL-31Rα Bispecific Antibody, for Atopic Diseases
+    - 📏 $24.34 · options ±13% by Nov 20 · volatility 59% · usual day ±2.8% · biggest day +14% / −9%
 - ✅ **Sat Nov 14** · [[BTAI]] · FDA decision (bxcl501, serenity)
 - ✅ **Sat Nov 14** · [[CRBP]] · Corbus Pharmaceuticals to Present Late Breaking CRB-913 Data from Canyon-1 Study at Obesity Week® 2026
+    - 📏 $3.99 · MC $86M · options ±44% by Nov 20 · volatility 69% · usual day ±3.4% · biggest day +19% / −30%
 - ✅ **Sat Nov 14** · [[CYTK]] · FDA decision
+    - 📏 $60.73 · MC $8.5B · options ±11% by Nov 20 · volatility 29% · usual day ±1.6% · biggest day +17% / −10%
 - ✅ **Sat Nov 14** · [[SMMT]] · FDA decision
+    - 📏 $14.50 · MC $13.8B · options ±25% by Nov 20 · volatility 60% · usual day ±3.4% · biggest day +17% / −25%
 
 ## Week of Nov 16
 - 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits Anaphylm NDA to FDA — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - 📏 $3.97 · MC $579M · options ±24% by Nov 20 · volatility 57% · usual day ±2.6% · biggest day +39% / −37%
 - 📐 **Mon Nov 16** · [[LCLN]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[OPTH]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[RACC]] · IPO lock-up ends
@@ -74,27 +97,35 @@ Updated Mon Oct 26, 09:48 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Tue Nov 17** · [[OCTV]] · SPAC merger / direct listing lock-up ends
 - 📐 **Wed Nov 18** · [[PNSB]] · SPAC merger / direct listing lock-up ends
 - ✅ **Sun Nov 22** · [[CAPR]] · FDA decision (hope-3)
+    - 📏 $5.74 · MC $451M · options ±106% by Nov 27 · volatility 92% · usual day ±6.2% · biggest day +371% / −64%
 - 📐 **Sun Nov 22** · [[GOSS]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 23 submission: Gossamer Bio Submits New Drug Application to U.S. FDA  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - 📐 **Sun Nov 22** · [[KPET]] · SPAC merger / direct listing lock-up ends
 - ✅ **Sun Nov 22** · [[SVRA]] · FDA decision
+    - 📏 $4.52 · MC $955M · options ±49% by Dec 18 · volatility 53% · usual day ±2.3% · biggest day +17% / −8%
 
 ## Week of Nov 23
 - 📐 **Mon Nov 23** · [[FDXF]] · SPAC merger / direct listing lock-up ends
 - 📐 **Mon Nov 23** · [[PWRL]] · SPAC merger / direct listing lock-up ends
 - 📐 **Wed Nov 25** · [[OBNK]] · SPAC merger / direct listing lock-up ends
 - ✅ **Wed Nov 25** · [[SNY]] · FDA decision
+    - 📏 $41.79 · options ±9% by Dec 18 · volatility 25% · usual day ±1.0% · biggest day +5% / −6%
 - 📐 **Wed Nov 25** · [[VBNB]] · SPAC merger / direct listing lock-up ends
 - ✅ **Fri Nov 27** · [[BBIO]] · FDA decision (bbp-418, lgmd2i)
+    - 📏 $68.15 · MC $13.1B · options ±16% by Dec 18 · volatility 34% · usual day ±1.4% · biggest day +15% / −15%
 - 📐 **Sat Nov 28** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: DBV Technologies Announces Submission of Biologics Lic — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - ✅ **Sat Nov 28** · [[PYPD]] · FDA decision
+    - 📏 $5.29 · MC $105M · volatility 42% · usual day ±2.0% · biggest day +11% / −27%
 - 📐 **Sat Nov 28** · [[UNCY]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: Unicycive Therapeutics resubmits oxylanthanum carbonat — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 
 ## Week of Nov 30
 - 📐 **Mon Nov 30** · [[AADX]] · IPO lock-up ends
 - ✅ **Mon Nov 30** · [[COGT]] · FDA decision (bezuclastinib, gist)
+    - 📏 $30.91 · MC $5.3B · options ±29% by Dec 18 · volatility 39% · usual day ±2.0% · biggest day +119% / −9%
 - 📐 **Mon Nov 30** · [[HYPG]] · SPAC merger / direct listing lock-up ends
 - ✅ **Mon Nov 30** · [[VRTX]] · FDA decision
+    - 📏 $517.49 · MC $129.3B · volatility 25% · usual day ±1.4% · biggest day +8% / −5%
 - ✅ **Mon Nov 30** · [[ZLAB]] · FDA decision (april, baff)
+    - 📏 $24.34 · options ±13% by Nov 20 · volatility 59% · usual day ±2.8% · biggest day +14% / −9%
 - 📐 **Tue Dec 1** · [[CGEM]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 2 submission: Cullinan Therapeutics starts NDA submission for zipaler — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - 📐 **Tue Dec 1** · [[ETSS]] · SPAC merger / direct listing lock-up ends
 - 📐 **Tue Dec 1** · [[INIO]] · IPO lock-up ends
@@ -102,6 +133,7 @@ Updated Mon Oct 26, 09:48 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Tue Dec 1** · [[QNT]] · IPO lock-up ends
 - 📐 **Tue Dec 1** · [[SSMR]] · IPO lock-up ends
 - ✅ **Thu Dec 3** · [[EXEL]] · FDA decision
+    - 📏 $65.11 · MC $14.8B · options ±13% by Dec 18 · volatility 22% · usual day ±1.6% · biggest day +10% / −8%
 - 📐 **Fri Dec 4** · [[STOK]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 5 submission: Stoke Therapeutics aligns with FDA on zorevunersen NDA  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - 📐 **Sat Dec 5** · [[FRTT]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Dec 5** · [[NHIV]] · SPAC merger / direct listing lock-up ends
@@ -116,29 +148,39 @@ Updated Mon Oct 26, 09:48 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Tue Dec 8** · [[FRBT]] · IPO lock-up ends
 - 📐 **Wed Dec 9** · [[SPCX]] · IPO lock-up ends
 - ✅ **Sat Dec 12** · [[ANAB]] · FDA decision (imsidolimab)
+    - 📏 $48.77 · MC $1.4B · volatility 48% · usual day ±1.9% · biggest day +15% / −14%
 - ✅ **Sat Dec 12** · [[VNDA]] · FDA decision
+    - 📏 $3.94 · MC $260M · options ±41% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
 
 ## Week of Dec 14
 - ❓ **Thu Dec 17** · [[CORT]] · FDA decision (relacorilant) — _Only one filing states this date._
+    - 📏 $87.12 · MC $12.7B · options ±29% by Dec 18 · volatility 79% · usual day ±2.2% · biggest day +27% / −50%
 
 ## Week of Dec 21
 - ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat)
+    - 📏 $20.56 · MC $1.9B · options ±40% by Jan 15 · volatility 57% · usual day ±2.7% · biggest day +17% / −13%
 - ✅ **Wed Dec 23** · [[ACLX]] · FDA decision
 - ✅ **Wed Dec 23** · [[GILD]] · FDA decision
+    - 📏 $158.69 · MC $178.8B · options ±12% by Jan 15 · volatility 25% · usual day ±1.3% · biggest day +6% / −4%
 - ✅ **Sun Dec 27** · [[PRAX]] · FDA decision (relutrigine, scn2a, scn8a)
+    - 📏 $267.39 · MC $7.8B · options ±25% by Jan 15 · volatility 51% · usual day ±2.6% · biggest day +31% / −23%
 - ❓ **Sun Dec 27** · [[VTRS]] · FDA decision — _Only one filing states this date._
+    - 📏 $18.29 · MC $20.4B · options ±13% by Jan 15 · volatility 26% · usual day ±1.2% · biggest day +10% / −8%
 
 ## Week of Dec 28
 - ✅ **Wed Dec 30** · [[COGT]] · FDA decision (bezuclastinib)
+    - 📏 $30.91 · MC $5.3B · options ±29% by Dec 18 · volatility 39% · usual day ±2.0% · biggest day +119% / −9%
 
 ## Week of Jan 4
 - ✅ **Mon Jan 4** · [[NUVB]] · FDA decision (ibtrozi, nsclc, ros1, tki-)
+    - 📏 $4.51 · MC $1.6B · options ±35% by Jan 15 · volatility 50% · usual day ±2.7% · biggest day +49% / −25%
 
 ## Open windows: could land any day
 
 The company gave a window, not a day. Sorted by when the window closes.
 
 - ✅ **Nov 1–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
+    - 📏 $0.87 · volatility 119% · usual day ±4.1% · biggest day +152% / −23%
 - ❓ **now–Nov 25** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - ✅ **Nov 1–Nov 30** · [[ABOS]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
 - ✅ **Nov 1–Nov 30** · [[VANI]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
@@ -153,6 +195,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[ALMS]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ALZN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ANAB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - 📏 $48.77 · MC $1.4B · volatility 48% · usual day ±1.9% · biggest day +15% / −14%
 - ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ANTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[APRE]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -178,6 +221,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **now–Dec 31** · [[CYBN]] · Phase 3 APPROACH topline — _Only on your sheet; not in the company's filings._
 - ✅ **now–Dec 31** · [[CYCN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[CYTK]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+    - 📏 $60.73 · MC $8.5B · options ±11% by Nov 20 · volatility 29% · usual day ±1.6% · biggest day +17% / −10%
 - ✅ **now–Dec 31** · [[DNLI]] · Data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[DTIL]] · Initial data expected year-end 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ELTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -221,6 +265,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[NMRA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ONCY]] · Initial data expected by year-end — _A window the company gave, not an exact day._
 - ✅ **Dec 1–Dec 31** · [[ORKA]] · Data expected December 2026 — _A window the company gave, not an exact day._
+    - 📏 $90.33 · MC $4.9B · options ±22% by Nov 20 · volatility 60% · usual day ±2.5% · biggest day +25% / −9%
 - ✅ **now–Dec 31** · [[PCRX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[PDSB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[PHAT]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -247,6 +292,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[TECX]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TENX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TEVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - 📏 $39.95 · options ±9% by Nov 13 · volatility 26% · usual day ±1.3% · biggest day +20% / −5%
 - ✅ **now–Dec 31** · [[TGTX]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TPST]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TRDA]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
@@ -255,6 +301,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[TYRA]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[VIR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[VNDA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+    - 📏 $3.94 · MC $260M · options ±41% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
 - ✅ **now–Dec 31** · [[VSTM]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[XENE]] · Topline trial updates
 - ✅ **now–Dec 31** · [[XFOR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -265,6 +312,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - 📐 **Dec 15–Jan 9** · [[SUPN]] · FDA acceptance expected Dec 15–Jan 9, 2027 (submitted Oct 21) — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Jan 31** · [[ANVS]] · Data expected January 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Jan 31** · [[SXTP]] · Data expected January 2027 — _A window the company gave, not an exact day._
+    - 📏 $0.87 · volatility 119% · usual day ±4.1% · biggest day +152% / −23%
 - ✅ **Jan 1–Mar 31** · [[AKTS]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[ANNX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[ATYR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
@@ -272,6 +320,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **Jan 1–Mar 31** · [[BMEA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[CBIO]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[CRBP]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+    - 📏 $3.99 · MC $86M · options ±44% by Nov 20 · volatility 69% · usual day ±3.4% · biggest day +19% / −30%
 - ✅ **Jan 1–Mar 31** · [[CRVO]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[DYN]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[GUTS]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
@@ -287,6 +336,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **Jan 1–Mar 31** · [[OCUL]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[OLMA]] · OPERA-01 Phase 3 topline
 - ✅ **Jan 1–Mar 31** · [[ORKA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+    - 📏 $90.33 · MC $4.9B · options ±22% by Nov 20 · volatility 60% · usual day ±2.5% · biggest day +25% / −9%
 - ✅ **Jan 1–Mar 31** · [[PMN]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[PSTV]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[PTGX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
