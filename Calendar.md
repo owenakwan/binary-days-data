@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Tue Oct 27, 06:12 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 07:09 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 19
@@ -81,7 +81,7 @@ Updated Tue Oct 27, 06:12 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 
 ## Week of Nov 16
 - 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
-- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits Anaphylm NDA to FDA — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits NDA for Anaphylm Subl — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $3.97 · MC $579M · options ±16% by Nov 20 · volatility 57% · usual day ±2.6% · biggest day +39% / −37%
 - 📐 **Mon Nov 16** · [[LCLN]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[OPTH]] · IPO lock-up ends
@@ -297,6 +297,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[VNDA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
     - 📏 $3.94 · MC $260M · options ±37% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
 - ✅ **now–Dec 31** · [[VSTM]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[WVE]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[XENE]] · Topline trial updates
 - ✅ **now–Dec 31** · [[XFOR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ZBIO]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
