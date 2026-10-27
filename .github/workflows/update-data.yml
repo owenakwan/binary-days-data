@@ -106,6 +106,24 @@ jobs:
           OUT_DIR: out
         run: python build_lockups.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
 
+      - name: Cross-check every catalyst; Obsidian vault (vault branch, normal commits so Obsidian Git can pull)
+        continue-on-error: true
+        env:
+          OUT_DIR: out
+          VAULT_DIR: vault_out
+        run: |
+          REPO="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git clone -q --depth 1 --branch vault "$REPO" vault_out 2>/dev/null || { mkdir -p vault_out; git -C vault_out init -q -b vault; }
+          python build_vault.py
+          cd vault_out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Vault as of $(TZ=America/Chicago date '+%Y-%m-%d %H:%M %Z')"
+            git push -q "$REPO" HEAD:vault
+          fi
+
       - name: Publish to the data branch (one commit, replaced each run)
         run: |
           cd out
