@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-27 08:49 AM CT
+
+- 🆕 New: 📐 **Sat Dec 26** · [[ABBV]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 27 submission: AbbVie Submits Biologics License Application (BLA) for — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+
 ## 2026-10-27 07:47 AM CT
 
 - 🆕 New: ✅ **Mon Nov 9** · [[ARTV]] · Data expected November 9, 2026 — _A window the company gave, not an exact day._
