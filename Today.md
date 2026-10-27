@@ -1,6 +1,6 @@
 # Today · Tuesday, October 27
 
-Updated Tue Oct 27, 03:38 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 04:18 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
@@ -31,7 +31,7 @@ Updated Tue Oct 27, 03:38 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Sun Nov 1** · [[PONO]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sun Nov 1** · [[QURE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 2 submission: uniQure Submits BLA for Gene Therapy in Huntington Dise — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $21.65 · MC $1.6B · options ±22% by Nov 20 · volatility 143% · usual day ±2.8% · biggest day +78% / −49%
-- 📊 Earnings: [[AKBA]], [[ALLO]], [[ALNY]] (pre), [[ATRA]], [[AUPH]], [[BBIO]] (post), [[BMY]] (pre), [[CDNA]] (post), [[CDXS]], [[CRDF]] (post), [[CRVS]], [[DYN]], [[EXEL]] (post), [[FATE]], [[FTRE]] (pre), [[FULC]], [[GILD]] (post), [[ILMN]] (post), [[INCY]] (pre), [[INDV]] (pre), [[INSM]] (pre), [[IRWD]], [[KPTI]], [[KURA]], [[KYMR]] (pre), [[LENZ]] (pre), [[LGND]] (pre), [[LLY]] (pre), [[MRK]] (pre), [[OPGN]], [[PHAT]] (pre), [[PRTA]], [[PTCT]] (post), [[SNDX]], [[SUPN]] (post), [[TARA]], [[VXRT]], [[WST]] (pre), [[ABBV]] (pre), [[DMRA]], [[OABI]] (pre), [[PRME]], [[REGN]] (pre)
+- 📊 Earnings: [[AKBA]], [[ALLO]], [[ALNY]] (pre), [[ATRA]], [[AUPH]], [[BBIO]] (post), [[BMY]] (pre), [[CDNA]] (post), [[CDXS]], [[CRDF]] (post), [[CRVS]], [[DYN]], [[EXEL]] (post), [[FATE]], [[FTRE]] (pre), [[FULC]], [[GILD]] (post), [[ILMN]] (post), [[INCY]] (pre), [[INDV]] (pre), [[INSM]] (pre), [[IRWD]], [[KPTI]], [[KURA]], [[KYMR]] (pre), [[LENZ]] (pre), [[LGND]] (pre), [[LLY]] (pre), [[MRK]] (pre), [[OPGN]], [[PHAT]] (pre), [[PRTA]], [[PTCT]] (post), [[SUPN]] (post), [[TARA]], [[VXRT]], [[WST]] (pre), [[ABBV]] (pre), [[DMRA]], [[OABI]] (pre), [[PRME]], [[REGN]] (pre)
 
 ## Windows closing within a week (could land any day)
 

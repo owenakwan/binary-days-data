@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Tue Oct 27, 03:38 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 04:18 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 19
@@ -398,7 +398,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Thu Oct 29** · [[PHAT]] · Earnings (before open)
 - ❓ **Thu Oct 29** · [[PRTA]] · Earnings
 - ❓ **Thu Oct 29** · [[PTCT]] · Earnings (after close)
-- ❓ **Thu Oct 29** · [[SNDX]] · Earnings
 - ❓ **Thu Oct 29** · [[SUPN]] · Earnings (after close)
 - ❓ **Thu Oct 29** · [[TARA]] · Earnings
 - ❓ **Thu Oct 29** · [[VXRT]] · Earnings
@@ -428,3 +427,4 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Mon Nov 2** · [[TEM]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[ALKS]] · Earnings
 - ❓ **Tue Nov 3** · [[ALMR]] · Earnings
+- ❓ **Tue Nov 3** · [[AMGN]] · Earnings (after close)
