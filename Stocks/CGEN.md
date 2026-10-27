@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CGEN)
 
-- ❓ **Mon Nov 16** · CGEN · Earnings
+- ❓ **Mon Nov 9** · CGEN · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ❓ **Wed Nov 4** · CORT · Earnings
     - Source: Finnhub earnings calendar
 - ❓ **Thu Dec 17** · CORT · FDA decision (relacorilant) — _Only one filing states this date._
-    - 📏 $87.12 · MC $12.7B · options ±28% by Dec 18 · volatility 79% · usual day ±2.2% · biggest day +27% / −50%
+    - 📏 $87.06 · MC $12.7B · options ±28% by Dec 18 · volatility 79% · usual day ±2.2% · biggest day +27% / −50%
     - Source: [CORT SEC 8-K (2026-07-29)](https://www.sec.gov/Archives/edgar/data/1088856/000162828026050607/cort072926ex991pressrelease.htm) — "Relacorilant for patients with Cushing’s syndrome – New Drug Application for relacorilant resubmitted with a Prescription Drug User Fee Act (PDUFA) date of December 17, 2026"
 
 ## My notes

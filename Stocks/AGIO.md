@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AGIO)
 
 - ✅ **Sun Nov 1** · AGIO · FDA decision
-    - 📏 $36.85 · MC $1.9B · options ±20% by Nov 20 · volatility 47% · usual day ±1.9% · biggest day +19% / −51%
+    - 📏 $37.09 · MC $1.9B · options ±21% by Nov 20 · volatility 47% · usual day ±1.9% · biggest day +19% / −51%
     - Source: [AGIO SEC 8-K (2026-07-30) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1439222/000143922226000115/agio-73026xfyxex991earning.htm) — "sNDA for mitapivat granted FDA Priority Review in sickle cell disease with PDUFA goal date of November 1, 2026"
 - ❓ **Thu Nov 5** · AGIO · Earnings
     - Source: Finnhub earnings calendar

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TWST)
 
-- ❓ **Fri Nov 13** · TWST · Earnings (before open)
+- ❓ **Thu Nov 12** · TWST · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

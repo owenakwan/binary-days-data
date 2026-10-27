@@ -10,8 +10,8 @@ tags: [catalyst, biotech]
 
 - ❓ **Fri Oct 30** · ABBV · Earnings (before open)
     - Source: Finnhub earnings calendar
-- 📐 **Sat Dec 26** · ABBV · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 27 submission: AbbVie Submits Biologics License Application (BLA) for — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVRCcEk2U3NWNFUyQ2FMWDZ0a1JjZXpXTVdSTlhvOUktWUdQTXFCRk5MVjZBUUdCRHlfRU83dDlTbXJTTElZQ0RheGxyNjlVU3Y0aEhEZlVPVzdQdVoyZldEUjdrVlAtcnE3TmdVbWw2ZHBMbmZkTWZOUWluZ2p2NEtEQ1JLUi1lbXpnVG9meno3Qlo2cmxXQmI3RUdaalZ2QjVlNURYVXM?oc=5) — "FDA decision on accepting the filing, usually ~day 60-74 after the Oct 27 submission: AbbVie Submits Biologics License Application (BLA) for Etentamig to U.S. FDA for Adults Living With Relapsed/Refra"
+- 📐 **Sat Dec 26** · ABBV · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 27 submission: AbbVie Submits Biologics License Application for Etent — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - Source: [Investing News Network](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUEh3d2lyR19qNDh2Um9rNEtDNnphWTBGbURfbXhjUHczY1VjejNKdVl6aHZkdWxWZkljeFNxWEJpbUdFREZXakIxd196ajF6SFFHeF9OVnFfTHlHbEduOVQ1UVV3Wk53ci1Hc3kzbmh3NWxZVm5aMHhYZW9pUHRmLWR1YTNqM3poaGZ1YlRHeWtSUmhBQlBGcGx6Y1BmN3QtR2tjeURoMkRKY0doU3FWLXItcEtDbE1GQ1doRHVIUlVfLXNuUmJVdmh2TjJ4M3pPblhrZ2lsSEJVbC15aFdIdnB3YzBnV1pudVoxSA?oc=5) — "FDA decision on accepting the filing, usually ~day 60-74 after the Oct 27 submission: AbbVie Submits Biologics License Application for Etentamig to U.S. FDA for Adults Living With Relapsed/Refractory "
 
 ## My notes
 

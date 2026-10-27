@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · HROW · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [HROW SEC 8-K (2026-08-10)](https://www.sec.gov/Archives/edgar/data/1360214/000149315226036865/ex99-1.htm) — "• IHEEZO (QUELL): Topline data from QUELL, a prospective, randomized, multi-center clinical trial evaluating IHEEZO in patients undergoing intravitreal injections, are expected in the fourth quarter of 2026."
-- ❓ **Mon Nov 16** · HROW · Earnings
+- ❓ **Mon Nov 9** · HROW · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
