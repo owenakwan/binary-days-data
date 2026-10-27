@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Mon Oct 26, 11:11 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 12:18 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 19
@@ -8,27 +8,21 @@ Updated Mon Oct 26, 11:11 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
     - 📏 $29.79 · MC $156.7B · options ±2% by Oct 30 · volatility 18% · usual day ±1.0% · biggest day +5% / −3%
 
 ## Week of Oct 26
+- 📐 **Tue Oct 27** · [[AVLN]] · IPO lock-up ends
+- ✅ **Tue Oct 27** · [[BEAM]] · Beam Therapeutics to Present Initial Data from Phase 1/2 Trial of BEAM-301 in Glycogen Storage Disease Type Ia (GSDIa) at the ESGCT 33rd Ann
+    - 📏 $23.79 · MC $2.7B · options ±16% by Nov 20 · volatility 47% · usual day ±2.6% · biggest day +22% / −10%
 - ✅ **now–Oct 31** · [[DMAC]] · Initial data expected October 2026 — _A window the company gave, not an exact day._
     - 📏 $8.74 · MC $424M · options ±25% by Nov 20 · volatility 55% · usual day ±2.3% · biggest day +13% / −14%
 - ✅ **now–Oct 31** · [[GANX]] · Data expected October 2026 — _A window the company gave, not an exact day._
     - 📏 $1.15 · MC $55M · options ±35% by Nov 20 · volatility 66% · usual day ±3.0% · biggest day +31% / −44%
-- ✅ **Mon Oct 26** · [[INCY]] · Incyte to present new data on oncology portfolio at ESMO 2026
-    - 📏 $113.31 · MC $22.9B · options ±9% by Nov 20 · volatility 28% · usual day ±1.3% · biggest day +9% / −8%
 - ✅ **now–Oct 31** · [[IVVD]] · Data expected October 2026 — _A window the company gave, not an exact day._
     - 📏 $0.59 · MC $179M · options ±65% by Nov 20 · volatility 120% · usual day ±5.3% · biggest day +35% / −21%
-- ✅ **now–Oct 31** · [[MANE]] · Topline data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $137.39 · options ±14% by Nov 20 · volatility 77% · usual day ±3.1% · biggest day +48% / −14%
-- ✅ **Mon Oct 26** · [[ORKA]] · Oruka Therapeutics to Report Week 16 EVERLAST-B Phase 2b Data for ORKA-001 in Plaque Psoriasis on October 26, 2026
-    - 📏 $90.33 · MC $4.9B · options ±22% by Nov 20 · volatility 60% · usual day ±2.5% · biggest day +25% / −9%
-- 📐 **Mon Oct 26** · [[PS]] · IPO lock-up ends
-- 📐 **Mon Oct 26** · [[PSUS]] · SPAC merger / direct listing lock-up ends
-- ✅ **now–Oct 31** · [[RARE]] · Data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $16.08 · MC $1.5B · volatility 59% · usual day ±3.1% · biggest day +16% / −44%
-- 📐 **Tue Oct 27** · [[AVLN]] · IPO lock-up ends
-- ✅ **Tue Oct 27** · [[BEAM]] · Beam Therapeutics to Present Initial Data from Phase 1/2 Trial of BEAM-301 in Glycogen Storage Disease Type Ia (GSDIa) at the ESGCT 33rd Ann
-    - 📏 $23.79 · MC $2.7B · options ±16% by Nov 20 · volatility 47% · usual day ±2.6% · biggest day +22% / −10%
 - ✅ **Tue Oct 27** · [[LBRX]] · LB Pharmaceuticals to Host In-Person and Virtual R&D Day on
     - 📏 $39.34 · MC $1.1B · options ±16% by Nov 20 · volatility 59% · usual day ±2.7% · biggest day +15% / −8%
+- ✅ **now–Oct 31** · [[MANE]] · Topline data expected October 2026 — _A window the company gave, not an exact day._
+    - 📏 $137.39 · options ±14% by Nov 20 · volatility 77% · usual day ±3.1% · biggest day +48% / −14%
+- ✅ **now–Oct 31** · [[RARE]] · Data expected October 2026 — _A window the company gave, not an exact day._
+    - 📏 $16.08 · MC $1.5B · volatility 59% · usual day ±3.1% · biggest day +16% / −44%
 - 📐 **Tue Oct 27** · [[SBMT]] · IPO lock-up ends
 - ✅ **Wed Oct 28** · [[CHRS]] · Coherus Oncology to Host Webcast to Disclose Interim Tagmokitug Clinical Data on October 28, 2026
     - 📏 $1.01 · MC $162M · options ±52% by Nov 20 · volatility 72% · usual day ±3.8% · biggest day +30% / −20%
@@ -181,7 +175,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 
 - ✅ **Nov 1–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
     - 📏 $0.87 · volatility 119% · usual day ±4.1% · biggest day +152% / −23%
-- ❓ **now–Nov 25** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
+- ❓ **now–Nov 26** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - ✅ **Nov 1–Nov 30** · [[ABOS]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
 - ✅ **Nov 1–Nov 30** · [[VANI]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
 - 📐 **Nov 17–Dec 12** · [[GOSS]] · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
@@ -241,6 +235,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Nov 15–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
 - ✅ **now–Dec 31** · [[IMUX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[INBX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[INCY]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[IRLA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[IRON]] · FDA filing expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[JBIO]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -265,7 +260,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[NMRA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ONCY]] · Initial data expected by year-end — _A window the company gave, not an exact day._
 - ✅ **Dec 1–Dec 31** · [[ORKA]] · Data expected December 2026 — _A window the company gave, not an exact day._
-    - 📏 $90.33 · MC $4.9B · options ±22% by Nov 20 · volatility 60% · usual day ±2.5% · biggest day +25% / −9%
 - ✅ **now–Dec 31** · [[PCRX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[PDSB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[PHAT]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -336,7 +330,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **Jan 1–Mar 31** · [[OCUL]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[OLMA]] · OPERA-01 Phase 3 topline
 - ✅ **Jan 1–Mar 31** · [[ORKA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-    - 📏 $90.33 · MC $4.9B · options ±22% by Nov 20 · volatility 60% · usual day ±2.5% · biggest day +25% / −9%
 - ✅ **Jan 1–Mar 31** · [[PMN]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[PSTV]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[PTGX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
@@ -355,9 +348,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 
 ## Drug-company earnings
 
-- ❓ **Mon Oct 26** · [[ABOS]] · Earnings (before open)
-- ❓ **Mon Oct 26** · [[AQB]] · Earnings
-- ❓ **Mon Oct 26** · [[KNSA]] · Earnings
 - ❓ **Tue Oct 27** · [[AMRN]] · Earnings
 - ❓ **Tue Oct 27** · [[BIOQ]] · Earnings
 - ❓ **Tue Oct 27** · [[ICLR]] · Earnings (after close)
@@ -435,3 +425,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Mon Nov 2** · [[SLDB]] · Earnings
 - ❓ **Mon Nov 2** · [[SNOA]] · Earnings
 - ❓ **Mon Nov 2** · [[STOK]] · Earnings
+- ❓ **Mon Nov 2** · [[TEM]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[ALKS]] · Earnings
+- ❓ **Tue Nov 3** · [[ALMR]] · Earnings

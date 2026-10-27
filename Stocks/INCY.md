@@ -1,16 +1,15 @@
 ---
 ticker: INCY
-company: "Incyte Corp"
+company: "INCYTE CORP"
 tags: [catalyst, biotech]
 ---
 
-# INCY · Incyte Corp
+# INCY · INCYTE CORP
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=INCY)
 
-- ✅ **Mon Oct 26** · INCY · Incyte to present new data on oncology portfolio at ESMO 2026
-    - 📏 $113.31 · MC $22.9B · options ±9% by Nov 20 · volatility 28% · usual day ±1.3% · biggest day +9% / −8%
-    - Source: [TipRanks](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWdyOFZ3SDVUWlplRWtlMi1EU3pZazZLOXY5UUdyUTM3V3RNZjUwU2lkXzJ4RmhCSG9CRnpUeDg1U2hfZ1NiVWo4VmpBdjhOcEpXREZDWWJZZVFWT0x5dU4zTDdYZHVXU1c4dlRvNGgyUVFXZ1pWSE1ybW1DVno4UnZEUU5BcDVzV2k2djBQRXNSWUsyVC1ZWV8yTndVTkRGSlJsU0ozSzB0eXZvSHhTbQ?oc=5) — "Incyte to present new data on oncology portfolio at ESMO 2026"
+- ✅ **now–Dec 31** · INCY · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - Source: [INCY SEC 10-Q (2026-07-28)](https://www.sec.gov/Archives/edgar/data/879169/000087916926000056/incy-20260630.htm) — "Data from the Phase 3 studies are anticipated in the fourth quarter of 2026. 40 Table of Contents Asthma."
 - ❓ **Thu Oct 29** · INCY · Earnings (before open)
     - Source: Finnhub earnings calendar
 

@@ -1,18 +1,8 @@
-# Today · Monday, October 26
+# Today · Tuesday, October 27
 
-Updated Mon Oct 26, 11:11 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 12:18 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
-
-- ✅ **Mon Oct 26** · [[INCY]] · Incyte to present new data on oncology portfolio at ESMO 2026
-    - 📏 $113.31 · MC $22.9B · options ±9% by Nov 20 · volatility 28% · usual day ±1.3% · biggest day +9% / −8%
-- ✅ **Mon Oct 26** · [[ORKA]] · Oruka Therapeutics to Report Week 16 EVERLAST-B Phase 2b Data for ORKA-001 in Plaque Psoriasis on October 26, 2026
-    - 📏 $90.33 · MC $4.9B · options ±22% by Nov 20 · volatility 60% · usual day ±2.5% · biggest day +25% / −9%
-- 📐 **Mon Oct 26** · [[PS]] · IPO lock-up ends
-- 📐 **Mon Oct 26** · [[PSUS]] · SPAC merger / direct listing lock-up ends
-- 📊 Earnings: [[ABOS]] (pre), [[AQB]], [[KNSA]]
-
-## Tomorrow · Tue Oct 27
 
 - 📐 **Tue Oct 27** · [[AVLN]] · IPO lock-up ends
 - ✅ **Tue Oct 27** · [[BEAM]] · Beam Therapeutics to Present Initial Data from Phase 1/2 Trial of BEAM-301 in Glycogen Storage Disease Type Ia (GSDIa) at the ESGCT 33rd Ann
@@ -22,12 +12,16 @@ Updated Mon Oct 26, 11:11 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Tue Oct 27** · [[SBMT]] · IPO lock-up ends
 - 📊 Earnings: [[AMRN]], [[BIOQ]], [[ICLR]] (post), [[IONS]], [[IQV]] (pre), [[NAUT]] (pre), [[RGEN]] (pre), [[SNDL]] (pre)
 
-## Rest of this week
+## Tomorrow · Wed Oct 28
 
 - ✅ **Wed Oct 28** · [[CHRS]] · Coherus Oncology to Host Webcast to Disclose Interim Tagmokitug Clinical Data on October 28, 2026
     - 📏 $1.01 · MC $162M · options ±52% by Nov 20 · volatility 72% · usual day ±3.8% · biggest day +30% / −20%
 - 📐 **Wed Oct 28** · [[COAG]] · IPO lock-up ends
 - 📐 **Wed Oct 28** · [[SPTX]] · IPO lock-up ends
+- 📊 Earnings: [[AVTR]] (pre), [[BCYC]], [[BIIB]] (pre), [[CNSY]], [[DAWN]], [[MDXG]] (post), [[NUVL]], [[VKTX]] (post), [[VNDA]] (post)
+
+## Rest of this week
+
 - ✅ **Fri Oct 30** · [[INO]] · FDA decision (ino-3107)
     - 📏 $0.87 · MC $117M · options ±75% by Oct 30 · volatility 96% · usual day ±4.4% · biggest day +21% / −37%
 - 📐 **Fri Oct 30** · [[PVLA]] · FDA decision on accepting the filing, usually ~day 60-74 after the Aug 31 submission: Palvella Therapeutics Completes Rolling Submission of  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
@@ -37,7 +31,7 @@ Updated Mon Oct 26, 11:11 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Sun Nov 1** · [[PONO]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sun Nov 1** · [[QURE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 2 submission: uniQure Submits BLA for Gene Therapy in Huntington Dise — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $21.65 · MC $1.6B · options ±25% by Nov 20 · volatility 143% · usual day ±2.8% · biggest day +78% / −49%
-- 📊 Earnings: [[AVTR]] (pre), [[BCYC]], [[BIIB]] (pre), [[CNSY]], [[DAWN]], [[MDXG]] (post), [[NUVL]], [[VKTX]] (post), [[VNDA]] (post), [[AKBA]], [[ALLO]], [[ALNY]] (pre), [[ATRA]], [[AUPH]], [[BBIO]] (post), [[BMY]] (pre), [[CDNA]] (post), [[CDXS]], [[CRDF]] (post), [[CRVS]], [[DYN]], [[EXEL]] (post), [[FATE]], [[FTRE]] (pre), [[FULC]], [[GILD]] (post), [[ILMN]] (post), [[INCY]] (pre), [[INDV]] (pre), [[INSM]] (pre), [[IRWD]], [[KPTI]], [[KURA]], [[KYMR]] (pre), [[LENZ]] (pre), [[LGND]] (pre), [[LLY]] (pre), [[MRK]] (pre), [[OPGN]], [[PHAT]] (pre), [[PRTA]], [[PTCT]] (post), [[SNDX]], [[SUPN]] (post), [[TARA]], [[VXRT]], [[WST]] (pre), [[ABBV]] (pre), [[DMRA]], [[OABI]] (pre), [[PRME]], [[REGN]] (pre)
+- 📊 Earnings: [[AKBA]], [[ALLO]], [[ALNY]] (pre), [[ATRA]], [[AUPH]], [[BBIO]] (post), [[BMY]] (pre), [[CDNA]] (post), [[CDXS]], [[CRDF]] (post), [[CRVS]], [[DYN]], [[EXEL]] (post), [[FATE]], [[FTRE]] (pre), [[FULC]], [[GILD]] (post), [[ILMN]] (post), [[INCY]] (pre), [[INDV]] (pre), [[INSM]] (pre), [[IRWD]], [[KPTI]], [[KURA]], [[KYMR]] (pre), [[LENZ]] (pre), [[LGND]] (pre), [[LLY]] (pre), [[MRK]] (pre), [[OPGN]], [[PHAT]] (pre), [[PRTA]], [[PTCT]] (post), [[SNDX]], [[SUPN]] (post), [[TARA]], [[VXRT]], [[WST]] (pre), [[ABBV]] (pre), [[DMRA]], [[OABI]] (pre), [[PRME]], [[REGN]] (pre)
 
 ## Windows closing within a week (could land any day)
 
