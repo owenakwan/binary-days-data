@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Tue Oct 27, 12:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Oct 27, 01:41 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 19
@@ -83,7 +83,7 @@ Updated Tue Oct 27, 12:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 
 ## Week of Nov 16
 - 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
-- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits NDA for Anaphylm Subl — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits Anaphylm NDA to FDA — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $4.04 · MC $579M · options ±16% by Nov 20 · volatility 58% · usual day ±2.6% · biggest day +39% / −37%
 - 📐 **Mon Nov 16** · [[LCLN]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[OPTH]] · IPO lock-up ends
@@ -158,7 +158,7 @@ Updated Tue Oct 27, 12:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - ✅ **Wed Dec 23** · [[ACLX]] · FDA decision
 - ✅ **Wed Dec 23** · [[GILD]] · FDA decision
     - 📏 $158.00 · MC $178.8B · options ±12% by Jan 15 · volatility 25% · usual day ±1.3% · biggest day +6% / −4%
-- 📐 **Sat Dec 26** · [[ABBV]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 27 submission: AbbVie Submits Biologics License Application for Etent — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Sat Dec 26** · [[ABBV]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 27 submission: AbbVie Submits Biologics License Application (BLA) for — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - ✅ **Sun Dec 27** · [[PRAX]] · FDA decision (relutrigine, scn2a, scn8a)
     - 📏 $267.12 · MC $7.8B · options ±25% by Jan 15 · volatility 49% · usual day ±2.6% · biggest day +31% / −23%
 - ❓ **Sun Dec 27** · [[VTRS]] · FDA decision — _Only one filing states this date._
