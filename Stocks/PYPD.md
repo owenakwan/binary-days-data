@@ -10,9 +10,9 @@ tags: [catalyst, biotech]
 
 - ❓ **Wed Nov 11** · PYPD · Earnings
     - Source: Finnhub earnings calendar
-- ✅ **Sat Nov 28** · PYPD · FDA decision
-    - 📏 $5.77 · MC $105M · volatility 48% · usual day ±2.1% · biggest day +11% / −27%
-    - Source: [PYPD SEC 6-K (2026-10-01) + 2 more filings](https://www.sec.gov/Archives/edgar/data/1611842/000121390026105492/ea030731601ex99-1.htm) — "Food and Drug Administration (“FDA”) has accepted PolyPid’s NDA for D-PLEX₁₀₀ and granted Priority Review, with a Prescription Drug User Fee Act (“PDUFA”) goal date of November 28, 2026."
+- ✅ **Sat Nov 28** · PYPD · FDA decision (fidsa)
+    - 📏 $5.75 · MC $105M · volatility 48% · usual day ±2.1% · biggest day +11% / −27%
+    - Source: [PYPD SEC 6-K (2026-10-28) + 3 more filings](https://www.sec.gov/Archives/edgar/data/1611842/000121390026113107/ea030979101ex99-1.htm) — "Joseph, DPM, FIDSA All scheduled FDA interactions on track and aligned with D-PLEX₁₀₀ November 28, 2026 PDUFA goal date PolyPid introduces PD01B, a new product candidate targeting hyper-localized, controlled-release antibiotic treatment of diabetic foot infect"
 
 ## My notes
 

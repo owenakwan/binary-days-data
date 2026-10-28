@@ -2,6 +2,15 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-28 10:55 AM CT
+
+- 🆕 New: ✅ **Tue Nov 3** · [[ANNX]] · Annexon to Host Virtual Investor Event on November 3, 2026: Vonaprument for the Treatment of Geographic Atrophy - Highlighting Key Aspects o
+    - 📏 $3.99 · MC $646M · options ±43% by Nov 20 · volatility 75% · usual day ±2.8% · biggest day +27% / −10%
+- 🆕 New: ✅ **Sat Nov 28** · [[PYPD]] · FDA decision (fidsa)
+    - 📏 $5.75 · MC $105M · volatility 48% · usual day ±2.1% · biggest day +11% / −27%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Nov 28** · [[PYPD]] · FDA decision
+    - 📏 $5.75 · MC $105M · volatility 48% · usual day ±2.1% · biggest day +11% / −27%
+
 ## 2026-10-28 04:09 AM CT
 
 - 🆕 New: 📐 **Sat Dec 12** · [[HONA]] · SPAC merger / direct listing lock-up ends
