@@ -1,42 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Oct 27, 09:34 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Oct 28, 04:15 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Tuesday, October 27
-
-- ❓ [[BA]] The Boeing Company · before open · 2x: BOEG, BOEU
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-01-25
-- ❓ [[GLW]] Corning Incorporated · before open · 2x: GLWG
-    - Finnhub calendar: 2026-10-27
-- ❓ [[GLXY]] Galaxy Digital · before open · 2x: GLX, GLXU
-    - Finnhub calendar: 2026-10-27
-- ❓ [[PYPL]] PayPal Holdings, Inc. · before open · 2x: PYPG, PYPU
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-02-01
-- ❓ [[SOFI]] SoFi Technologies, Inc. · before open · 2x: SOFA, SOFC, SOFX
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-01-28
-- ❓ [[BBAI]] BigBear.ai Holdings, Inc. · after close · 2x: BAIG
-    - Finnhub calendar: 2026-10-27
-- ❓ [[HOOD]] Robinhood Markets, Inc. · after close · 2x: HODU, HOOC, HOOG
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-02-08
-- ❓ [[NXPI]] NXP Semiconductors N.V. · after close · 2x: NXPG
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-02-01
-- ❓ [[STX]] Seagate Technology Holdings plc · after close · 2x: STXL, STXU, STXX
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-01-25
-- ❓ [[TER]] Teradyne, Inc. · after close · 2x: TERC, TERG
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-02-01
-- ❓ [[UCTT]] Ultra Clean Holdings, Inc. · after close · 2x: UCTX
-    - Finnhub calendar: 2026-10-27
-    - Yahoo (estimate): 2027-02-22
 
 ## Wednesday, October 28
 
@@ -132,7 +99,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-10-30
 - ❓ [[UUUU]] Energy Fuels Inc. · time not given · 2x: UUUC, UUUG
     - Finnhub calendar: 2026-10-30
-    - Yahoo (confirmed): 2026-11-02
+    - Yahoo (estimate): 2026-10-30
 
 ## Monday, November 2
 
@@ -292,7 +259,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
     - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2026-11-05
+    - Yahoo (confirmed): 2026-11-09
 - ✅ [[U]] Unity Software Inc. · after close · 2x: UNX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -343,7 +310,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[OSS]] One Stop Systems, Inc. · time not given · 2x: OSSL
     - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2026-11-05
+    - Yahoo (confirmed): 2026-10-28
 - ✅ [[SMR]] NuScale Power Corporation · time not given · 2x: SMRX, SMU, SMUP
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05

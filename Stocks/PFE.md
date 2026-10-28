@@ -1,16 +1,13 @@
 ---
 ticker: PFE
-company: "Pfizer"
+company: "Pfizer Inc"
 tags: [catalyst, biotech]
 ---
 
-# PFE · Pfizer
+# PFE · Pfizer Inc
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PFE)
 
-- ❓ **now–Oct 27** · PFE · ESMO Congress, Madrid — _Only on your sheet; not in the company's filings._
-    - 📏 $29.80 · MC $156.7B · options ±2% by Oct 30 · volatility 18% · usual day ±1.0% · biggest day +5% / −3%
-    - Source: your sheet
 - ❓ **Tue Nov 3** · PFE · Earnings (before open)
     - Source: Finnhub earnings calendar
 

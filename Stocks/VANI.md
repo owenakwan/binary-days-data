@@ -1,7 +1,7 @@
 ---
 ticker: VANI
 company: "Vivani Medical, Inc."
-tags: [catalyst]
+tags: [catalyst, biotech]
 ---
 
 # VANI · Vivani Medical, Inc.
