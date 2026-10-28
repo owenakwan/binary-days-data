@@ -115,6 +115,7 @@ jobs:
           REPO="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
           git clone -q --depth 1 --branch vault "$REPO" vault_out 2>/dev/null || { mkdir -p vault_out; git -C vault_out init -q -b vault; }
           python build_vault.py
+          python build_earnings_check.py || echo "earnings check failed (the 2x email falls back to Yahoo only)"
           cd vault_out
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
