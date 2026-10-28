@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ALKS)
 
-- ❓ **Tue Nov 3** · ALKS · Earnings
+- ❓ **Tue Nov 3** · ALKS · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

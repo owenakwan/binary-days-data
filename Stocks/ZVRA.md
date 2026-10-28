@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ZVRA)
 
-- ❓ **Tue Nov 3** · ZVRA · Earnings
+- ❓ **Tue Nov 3** · ZVRA · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

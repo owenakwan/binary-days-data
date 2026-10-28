@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BNTX)
 
-- ❓ **Tue Nov 3** · BNTX · Earnings
+- ❓ **Tue Nov 3** · BNTX · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

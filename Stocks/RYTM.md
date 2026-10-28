@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RYTM)
 
-- ❓ **Tue Nov 3** · RYTM · Earnings
+- ❓ **Tue Nov 3** · RYTM · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
