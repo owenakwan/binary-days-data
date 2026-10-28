@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BMRN)
 
-- ❓ **Tue Nov 3** · BMRN · Earnings (after close)
+- ❓ **Mon Nov 2** · BMRN · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

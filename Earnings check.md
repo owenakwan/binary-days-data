@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Oct 28, 10:59 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Oct 28, 04:03 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -14,6 +14,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-10-28
     - Yahoo (confirmed): 2026-10-28
 - ✅ [[GEV]] GE Vernova Inc. · before open · 2x: GEVC, GEVG, GEVX
+    - Finnhub calendar: 2026-10-28
+    - Yahoo (confirmed): 2026-10-28
+- ✅ [[OSS]] One Stop Systems, Inc. · before open · 2x: OSSL
     - Finnhub calendar: 2026-10-28
     - Yahoo (confirmed): 2026-10-28
 - ✅ [[TEL]] TE Connectivity plc · before open · 2x: TELG
@@ -72,7 +75,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-10-29
 - ❓ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
     - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2026-10-29
+    - Yahoo (confirmed): 2026-11-05
 - ✅ [[MPWR]] Monolithic Power Systems, Inc. · after close · 2x: MPWC, MPWX
     - Finnhub calendar: 2026-10-29
     - Yahoo (confirmed): 2026-10-29
@@ -129,10 +132,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[DOCN]] DigitalOcean Holdings, Inc. · before open · 2x: OCNL
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
-- ✅✅ [[ETN]] Eaton Corporation plc · before open · 2x: ETNG
+- ✅ [[ETN]] Eaton Corporation plc · before open · 2x: ETNG
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
-    - company announcement: 2026-11-03 — [Eaton to announce third quarter 2026 earnings on November 3, 2026](https://finnhub.io/api/news?id=d707fd2218fae11c580a5984318d4cdb913790e49f2ad6f071114ca5dcd79e23)
 - ✅ [[SHOP]] Shopify Inc. · before open · 2x: SHPU
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
@@ -274,7 +276,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[ARM]] Arm Holdings plc · time not given · 2x: ARMA, ARMG
     - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-04
+    - Yahoo (estimate): 2026-11-05
 - ✅ [[CORZ]] Core Scientific, Inc. · time not given · 2x: COZX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -308,9 +310,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[OSCR]] Oscar Health, Inc. · time not given · 2x: OSCX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ❓ [[OSS]] One Stop Systems, Inc. · time not given · 2x: OSSL
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-10-28
 - ✅ [[SMR]] NuScale Power Corporation · time not given · 2x: SMRX, SMU, SMUP
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -335,10 +334,3 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[WULF]] TeraWulf Inc. · time not given · 2x: WULX
     - Finnhub calendar: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
-
-## Tuesday, November 10
-
-- ⚠️ [[QBTS]] D-Wave Quantum Inc. · time not given · 2x: QBTX, QUA — _Calendars said 2026-11-05; the company's release says 2026-11-10._
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2026-11-05
-    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finnhub.io/api/news?id=1a4087b269ecc6d22362c434d6a6e59264b8dc0c03ca790bfddba3bdd838a6ea)

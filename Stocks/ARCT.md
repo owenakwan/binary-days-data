@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ARCT)
 
-- ❓ **Wed Nov 11** · ARCT · Earnings
+- ❓ **Thu Nov 5** · ARCT · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

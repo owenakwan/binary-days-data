@@ -2,6 +2,16 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-28 03:58 PM CT
+
+- 🆕 New: 📐 **Nov 23–Dec 18** · [[DBVT]] · FDA acceptance expected Nov 23–Dec 18, 2026 (submitted Sep 29) — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Sat Dec 12** · [[VNDA]] · FDA decision (vnda, washington)
+    - 📏 $4.00 · MC $260M · options ±87% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[VNDA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+    - 📏 $4.00 · MC $260M · options ±87% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Dec 12** · [[VNDA]] · FDA decision
+    - 📏 $4.00 · MC $260M · options ±87% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
+
 ## 2026-10-28 10:55 AM CT
 
 - 🆕 New: ✅ **Tue Nov 3** · [[ANNX]] · Annexon to Host Virtual Investor Event on November 3, 2026: Vonaprument for the Treatment of Geographic Atrophy - Highlighting Key Aspects o
