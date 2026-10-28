@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Oct 27, 07:39 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Tue Oct 27, 07:55 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -40,10 +40,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Wednesday, October 28
 
-- ✅✅ [[APH]] Amphenol Corporation · before open · 2x: APHG, APHU
+- ✅ [[APH]] Amphenol Corporation · before open · 2x: APHG, APHU
     - Finnhub calendar: 2026-10-28
     - Yahoo (confirmed): 2026-10-28
-    - company announcement: 2026-10-28 — [Will Strong Earnings Growth Change Amphenol (APH) Stock Narrative](https://finnhub.io/api/news?id=48d439ff219b89dddf59d888aee5792a25c74a07b5016f6c9c31e130ddff2abe)
 - ✅ [[FLEX]] Flex Ltd. · before open · 2x: FLEL
     - Finnhub calendar: 2026-10-28
     - Yahoo (confirmed): 2026-10-28
@@ -160,10 +159,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Tuesday, November 3
 
-- ✅✅ [[DOCN]] DigitalOcean Holdings, Inc. · before open · 2x: OCNL
+- ✅ [[DOCN]] DigitalOcean Holdings, Inc. · before open · 2x: OCNL
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
-    - company announcement: 2026-11-03 — [DigitalOcean Announces Date of Third Quarter 2026 Earnings Conference Call](https://finnhub.io/api/news?id=9cf97b082ef72efe619981fe7c356e6f0d801146c3353fdfe97e66c863cb6d05)
 - ✅✅ [[ETN]] Eaton Corporation plc · before open · 2x: ETNG
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
@@ -258,18 +256,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Thursday, November 5
 
-- ✅✅ [[ACLS]] Axcelis Technologies, Inc. · before open · 2x: ACLZ
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Axcelis Announces Timing and Availability of Third Quarter 2026 Results and Conference Call](https://finnhub.io/api/news?id=74ca9484722c608631da5839111e427fd121abc75020a4cbd987b30e0328ced2)
 - ✅✅ [[ACMR]] ACM Research, Inc. · before open · 2x: ACMM
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
     - company announcement: 2026-11-05 — [ACM Research to Release Third Quarter 2026 Financial Results on November 5, 2026](https://finnhub.io/api/news?id=32d4b463ef11cbdb0ba3e2aab13f53d1b88b3105b217e1a7e95c23e912e2401f)
-- ✅✅ [[KEEL]] Keel Infrastructure Corp. · before open · 2x: KEEX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Keel Infrastructure Schedules Third Quarter 2026 Conference Call on November 5, 2026](https://finnhub.io/api/news?id=4d277f476355959a3d1a9b93180ed4beb56ff6cdc1c17332b72c71757baa1fb8)
 - ✅✅ [[MTSI]] MACOM Technology Solutions Holdings, Inc. · before open · 2x: MTSG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -309,6 +299,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[AAOI]] Applied Optoelectronics, Inc. · time not given · 2x: AAOG, AAOX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
+- ✅ [[ACLS]] Axcelis Technologies, Inc. · time not given · 2x: ACLZ
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ✅ [[AFRM]] Affirm Holdings, Inc. · time not given · 2x: AFRU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -324,11 +317,13 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[EOSE]] Eos Energy Enterprises, Inc. · time not given · 2x: EO, EOSU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅✅ [[IONQ]] IonQ, Inc. · time not given · 2x: IONC, IONL, IONX
+- ✅ [[IONQ]] IonQ, Inc. · time not given · 2x: IONC, IONL, IONX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [IonQ to Report Third Quarter 2026 Financial Results on November 5, 2026](https://finnhub.io/api/news?id=aacb8a0ec2099f3b5123bf782cc861e822957c220c6369d2f3ca245bda7ee9ad)
 - ✅ [[IREN]] IREN Limited · time not given · 2x: IRE, IREC, IREG
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[KEEL]] Keel Infrastructure Corp. · time not given · 2x: KEEX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
 - ✅ [[KTOS]] Kratos Defense & Security Solutions, Inc. · time not given · 2x: KTUP
@@ -340,10 +335,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[MP]] MP Materials Corp. · time not given · 2x: MPG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅✅ [[OPEN]] Opendoor Technologies Inc. · time not given · 2x: OPEX
+- ✅ [[OPEN]] Opendoor Technologies Inc. · time not given · 2x: OPEX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Opendoor 3Q26 Financial Open House on November 5, 2026](https://finnhub.io/api/news?id=fe999dcd4394fab706237c8da8f4c4cb16a13190919d2dcbe38307c3327759b6)
 - ✅ [[OSCR]] Oscar Health, Inc. · time not given · 2x: OSCX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -353,10 +347,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[SMR]] NuScale Power Corporation · time not given · 2x: SMRX, SMU, SMUP
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅✅ [[UMAC]] Unusual Machines, Inc. · time not given · 2x: UMAL
+- ✅ [[UMAC]] Unusual Machines, Inc. · time not given · 2x: UMAL
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Unusual Machines to Announce Third Quarter 2026 Financial Results and Provide Corporate Update](https://finnhub.io/api/news?id=368ed281fcc47dddceecb932566411b6a0f80b8474401b410db9907ceb1846ce)
 - ❓ [[USAR]] USA Rare Earth, Inc. · time not given · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
@@ -381,4 +374,4 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ⚠️ [[QBTS]] D-Wave Quantum Inc. · time not given · 2x: QBTX, QUA — _Calendars said 2026-11-05; the company's release says 2026-11-10._
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
-    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finance.yahoo.com/technology/articles/d-wave-quantum-report-third-110000982.html?.tsrc=rss)
+    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finnhub.io/api/news?id=1a4087b269ecc6d22362c434d6a6e59264b8dc0c03ca790bfddba3bdd838a6ea)
