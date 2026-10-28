@@ -84,6 +84,8 @@ def get(path, **params):
 def announcement(t, name, near):
     """The company's own 'to announce results on <date>' headline, if there is one: (date, hour, title, link)."""
     items = (get("/api/news", s=t).get("items") or [])
+    if not items:
+        return "failed"   # the news lookup failed: don't let the calendars alone pass it
     word = (name or t).split()[0].lower()
     best = None
     for i in items:
@@ -113,6 +115,9 @@ def check(t, cal_row, today):
     nx = e.get("next") or {}
     name = e.get("name") or t
     ann = announcement(t, name, today)
+    failed = ann == "failed" or not e
+    if failed:
+        ann = None
     srcs = []
     fin_date = cal_row[1] if cal_row else None
     if fin_date:
@@ -127,9 +132,11 @@ def check(t, cal_row, today):
         status = "announced" if ann[0] == date else "conflict"
         date, hour = ann[0], ann[1] or hour
     else:
-        status = "confirmed" if y_conf else "estimate"
-    return t, {"date": date, "hour": hour, "status": status, "name": name, "sources": srcs,
-               "note": (f"Calendars said {fin_date or nx.get('date')}; the company's release says {ann[0]}." if status == "conflict" else ""), "at": time.time()}
+        status = "confirmed" if y_conf and not failed else "estimate"
+    note = (f"Calendars said {fin_date or nx.get('date')}; the company's release says {ann[0]}." if status == "conflict"
+            else "A lookup failed; checking again next run." if failed else "")
+    return t, {"date": date, "hour": hour, "status": status, "name": name, "sources": srcs, "note": note,
+               "at": 0 if failed else time.time()}   # failed lookups are re-checked on the next run
 
 
 def main():
@@ -152,12 +159,10 @@ def main():
     now = time.time()
     keep = {t: v for t, v in prev.items() if t in rows and now - v.get("at", 0) < MAX_AGE_H * 3600 and v.get("date") >= today.isoformat()}
     todo = [t for t in rows if t not in keep]
-    t0 = time.time()
+    todo.sort(key=lambda t: rows[t][1])   # soonest reports first
     with ThreadPoolExecutor(3) as ex:
-        for t, v in ex.map(lambda t: check(t, rows[t], today), todo):
+        for t, v in ex.map(lambda t: check(t, rows[t], today), todo):   # keep every result (a time cut here once dropped ACHR / QBTS)
             keep[t] = v
-            if time.time() - t0 > 240:
-                break
     with open(os.path.join(OUT_DIR, "earnings_check.json"), "w", encoding="utf-8") as f:
         json.dump({"updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "items": keep}, f, separators=(",", ":"), ensure_ascii=False)
     counts = {s: sum(v["status"] == s for v in keep.values()) for s in ("announced", "confirmed", "conflict", "estimate")}
