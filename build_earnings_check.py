@@ -29,6 +29,7 @@ API = "https://binary-days-api.binary-days-api.workers.dev"
 NASDAQ_DIR = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqtraded.txt"
 DAYS = 10
 MAX_AGE_H = 3
+CHECK_V = 2   # bump when the checking rules change, so cached results are redone
 ALIAS = {"apple": "AAPL", "alphabet": "GOOGL", "google": "GOOGL", "nvidia": "NVDA", "amazon": "AMZN", "microsoft": "MSFT", "meta": "META",
          "tesla": "TSLA", "netflix": "NFLX", "broadcom": "AVGO", "palantir": "PLTR", "brkb": "BRK-B", "coinbase": "COIN", "oracle": "ORCL"}
 NOT_CO = {"daily", "target", "long", "short", "china", "bitcoin", "ether", "copper", "gold", "silver", "india", "memory", "dram", "space", "quantum"}
@@ -89,10 +90,14 @@ def announcement(t, name, near):
     word = (name or t).split()[0].lower()
     best = None
     for i in items:
-        text = f"{i.get('title', '')}. {i.get('summary', '')}"
-        if not (t in text or word in text.lower()):
+        # only the company's own release counts: its headline starts with the company's name ("Aehr Test Systems to
+        # Announce ... on November 2"). Analyst articles that mention the date ("Will Strong Earnings Growth Change
+        # Amphenol...") don't.
+        title = i.get("title", "")
+        if not title.lower().startswith(word) or len(word) < 3:
             continue
-        m = ANNOUNCE_RE.search(text)
+        text = f"{title}. {i.get('summary', '')}"
+        m = ANNOUNCE_RE.search(title)
         if not m:
             continue
         pub = (i.get("time") or "")[:10]
@@ -153,7 +158,8 @@ def main():
     rows = {r[0]: r for r in cal.get("rows") or [] if r[0] in lev and today.isoformat() <= r[1] <= end}
     try:
         with open(os.path.join(OUT_DIR, "earnings_check.json"), encoding="utf-8") as f:
-            prev = json.load(f).get("items") or {}
+            j = json.load(f)
+            prev = (j.get("items") or {}) if j.get("v") == CHECK_V else {}   # rules changed: check everything again
     except (OSError, ValueError):
         prev = {}
     now = time.time()
@@ -164,7 +170,7 @@ def main():
         for t, v in ex.map(lambda t: check(t, rows[t], today), todo):   # keep every result (a time cut here once dropped ACHR / QBTS)
             keep[t] = v
     with open(os.path.join(OUT_DIR, "earnings_check.json"), "w", encoding="utf-8") as f:
-        json.dump({"updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "items": keep}, f, separators=(",", ":"), ensure_ascii=False)
+        json.dump({"v": CHECK_V, "updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "items": keep}, f, separators=(",", ":"), ensure_ascii=False)
     counts = {s: sum(v["status"] == s for v in keep.values()) for s in ("announced", "confirmed", "conflict", "estimate")}
     print(f"Earnings check: {len(keep)} stocks with 2x ETFs report by {end} {counts}; {len(todo)} checked this run")
     write_note(keep, lev, today)
