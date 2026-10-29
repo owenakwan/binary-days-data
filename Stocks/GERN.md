@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GERN)
 
-- ❓ **Wed Nov 4** · GERN · Earnings
+- ❓ **Wed Nov 4** · GERN · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PRGO)
 
-- ❓ **Wed Nov 4** · PRGO · Earnings
+- ❓ **Wed Nov 4** · PRGO · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

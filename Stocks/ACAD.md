@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ACAD)
 
-- ❓ **Wed Nov 4** · ACAD · Earnings
+- ❓ **Wed Nov 4** · ACAD · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

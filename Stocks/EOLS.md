@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=EOLS)
 
-- ❓ **Wed Nov 4** · EOLS · Earnings
+- ❓ **Wed Nov 4** · EOLS · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

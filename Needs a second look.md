@@ -1,6 +1,6 @@
 # Needs a second look
 
-Updated Wed Oct 28, 03:58 PM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
+Updated Wed Oct 28, 07:46 PM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
 
 
 ## ❓ One source only (6)
@@ -11,4 +11,4 @@ Updated Wed Oct 28, 03:58 PM CT. Dates where sources disagree, only one source s
 - ❓ **Thu Dec 17** · [[CORT]] · FDA decision (relacorilant) — _Only one filing states this date._
     - 📏 $86.28 · MC $12.7B · options ±31% by Dec 18 · volatility 79% · usual day ±2.2% · biggest day +27% / −50%
 - ❓ **Sun Dec 27** · [[VTRS]] · FDA decision — _Only one filing states this date._
-    - 📏 $18.77 · MC $20.4B · options ±12% by Jan 15 · volatility 26% · usual day ±1.2% · biggest day +10% / −8%
+    - 📏 $18.77 · MC $20.4B · options ±12% by Jan 15 · volatility 27% · usual day ±1.3% · biggest day +10% / −8%

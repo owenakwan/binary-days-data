@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GRAL)
 
-- ❓ **Wed Nov 4** · GRAL · Earnings
+- ❓ **Wed Nov 4** · GRAL · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes
