@@ -2,6 +2,20 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-29 06:35 PM CT
+
+- 🆕 New: ✅ **now–Dec 10** · [[BHVN]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[IMRX]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Fri Nov 27** · [[BBIO]] · FDA decision (ascend-attr, bbp-418, lgmd2i, participant)
+    - 📏 $70.73 · MC $13.1B · options ±15% by Dec 18 · volatility 31% · usual day ±1.4% · biggest day +15% / −15%
+- 📆 Date moved Nov 29 → 📐 **Sat Nov 28** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: DBV Technologies Announces Submission of Biologics Lic — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[RZLT]] · FDA filing expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[EXEL]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[PTCT]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Fri Nov 27** · [[BBIO]] · FDA decision (bbp-418, lgmd2i)
+    - 📏 $70.73 · MC $13.1B · options ±15% by Dec 18 · volatility 31% · usual day ±1.4% · biggest day +15% / −15%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Thu Dec 3** · [[EXEL]] · FDA decision
+
 ## 2026-10-29 09:05 AM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[INSM]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
