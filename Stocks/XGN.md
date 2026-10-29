@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=XGN)
 
-- ❓ **Mon Nov 16** · XGN · Earnings
+- ❓ **Tue Nov 10** · XGN · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

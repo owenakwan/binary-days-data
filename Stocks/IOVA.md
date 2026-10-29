@@ -8,9 +8,9 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IOVA)
 
-- ✅ **Thu Oct 29** · IOVA · Iovance Biotherapeutics to Host Webcast on Positive Data
-    - 📏 $10.32 · MC $6.4B · options ±19% by Oct 30 · volatility 147% · usual day ±5.0% · biggest day +43% / −30%
-    - Source: [GlobeNewswire](https://news.google.com/rss/articles/CBMi0gJBVV95cUxORUtHS2pqeGpnWlFNSkVpMFlqUnNYSnhFeW5QMEZUNUh4RTVtNEtXem9RY0R4MzV1N3MzWnYza1pEV05IcTZYRjMyUTFaOWo0RE5Vb2tUOVhhbXZ6YThFQWR0OTVSV0pRVFVla2d5My1GYVpuRkJQakluVzZ1WEJtVVoxVl9wQ2lNUkdvMFhURjhkaDRlSC03UC1PaXVEWlZkaGVDcldOMW13X1FfUWhhdWJ6Wkc1bVg0SVk2TEZSTVE1ZUpTWmJKYjVKS2Q0M2taNW5fMjhRSFFVeEd4UnZaV3VjVXJNUi05anpPTEZCSW9QMnhhMEZteWJ2OG5DNnpLOEJUSURxOWFmZDM1RHJDaUhnUkp6ZEtLR2g1WlJuRnZ0LTVTdU4ydzFSQjJaU0RROVo0MnI4cGR0RnJndkJEUmhFNFlVYUIyU25vNlhldmJrZw?oc=5) — "Iovance Biotherapeutics to Host Webcast on Positive Data"
+- ✅ **Thu Oct 29** · IOVA · Iovance Biotherapeutics to Host Webcast on Positive Data for TIL Therapy in Metastatic Non-Small Cell Lung Cancer (mNSCLC) and Broader Preci
+    - 📏 $9.70 · MC $6.4B · options ±7% by Oct 30 · volatility 161% · usual day ±5.1% · biggest day +43% / −35%
+    - Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTZEZHZPbHJBZVllZmRjQjBwdXFLRkNBVGhHTDExRURpMURsUVNBZ0JSR2NoUUw3eFVhMEw2MU44N1pIa0t6RlB2dmRvclNuaHZvY2pCa2N4UEZKVUZoUEMzdHRXd1YyNXZTYXVhVUhMWGp2bTY2MjdkRk9kVU11anhzcFVYR3RxZklTQmQ4YW8wUEZvanNrR2RFLWx2dFRqQjc4QkNXV1NNZw?oc=5) — "Iovance Biotherapeutics to Host Webcast on Positive Data for TIL Therapy in Metastatic Non-Small Cell Lung Cancer (mNSCLC) and Broader Precision Medicine Strategy"
 - ❓ **Thu Nov 5** · IOVA · Earnings
     - Source: Finnhub earnings calendar
 

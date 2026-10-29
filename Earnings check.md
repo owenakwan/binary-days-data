@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Oct 29, 09:09 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Oct 29, 02:36 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -171,19 +171,26 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[VIAV]] Viavi Solutions Inc. · after close · 2x: VIAG
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
+- ❓ [[UUUU]] Energy Fuels Inc. · time not given · 2x: UUUC, UUUG
+    - Finnhub calendar: 2026-11-04
+    - Yahoo (estimate): 2026-10-30
 
 ## Thursday, November 5
 
+- ✅✅ [[ACMR]] ACM Research, Inc. · before open · 2x: ACMM
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+    - company announcement: 2026-11-05 — [ACM Research to Release Third Quarter 2026 Financial Results on November 5, 2026](https://finnhub.io/api/news?id=32d4b463ef11cbdb0ba3e2aab13f53d1b88b3105b217e1a7e95c23e912e2401f)
 - ✅✅ [[MTSI]] MACOM Technology Solutions Holdings, Inc. · before open · 2x: MTSG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [MACOM to Report Fourth Quarter and Fiscal Year 2026 Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/macom-report-fourth-quarter-fiscal-123000248.html?.tsrc=rss)
+    - company announcement: 2026-11-05 — [MACOM to Report Fourth Quarter and Fiscal Year 2026 Financial Results on November 5, 2026](https://finnhub.io/api/news?id=0a748f207771dc8a23b063dfb194f7d3bfcd6a7b2695ad836b82bf84e3d670f6)
 - ✅ [[AKAM]] Akamai Technologies, Inc. · after close · 2x: AKAL
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[CART]] Maplebear Inc. · after close · 2x: CARX
     - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2026-11-05
+    - Yahoo (confirmed): 2026-10-29
 - ✅ [[LITE]] Lumentum Holdings Inc. · after close · 2x: LITC, LITG, LITU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -193,7 +200,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ⚠️ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX — _Calendars said 2026-10-29; the company's release says 2026-11-05._
     - Finnhub calendar: 2026-10-29
     - Yahoo (estimate): 2026-10-29
-    - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/monster-beverage-report-financial-results-120500004.html?.tsrc=rss)
+    - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finnhub.io/api/news?id=6d82b0222c8e1d8e899951b203ccf680d45cc336ea3a5698684cd85e80efa6c5)
 - ✅ [[NET]] Cloudflare, Inc. · after close · 2x: NETG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -208,9 +215,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[TDC]] Teradata Corporation · after close · 2x: TDCL
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ❓ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2026-11-05
 - ✅ [[U]] Unity Software Inc. · after close · 2x: UNX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -220,10 +224,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[ACLS]] Axcelis Technologies, Inc. · time not given · 2x: ACLZ
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅✅ [[ACMR]] ACM Research, Inc. · time not given · 2x: ACMM
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [ACM Research to Release Third Quarter 2026 Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/acm-research-release-third-quarter-200500787.html?.tsrc=rss)
 - ✅ [[AFRM]] Affirm Holdings, Inc. · time not given · 2x: AFRU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05

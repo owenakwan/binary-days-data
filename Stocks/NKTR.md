@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=NKTR)
 
-- ❓ **Thu Nov 5** · NKTR · Earnings (after close)
+- ❓ **Thu Nov 12** · NKTR · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes
