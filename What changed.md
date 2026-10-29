@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-29 02:05 AM CT
+
+- 🆕 New: ✅ **Thu Oct 29** · [[IOVA]] · Iovance Biotherapeutics to Host Webcast on Positive Data for TIL Therapy in Metastatic Non-Small Cell Lung Cancer (mNSCLC) and Broader Preci
+    - 📏 $14.81 · MC $6.4B · options ±6% by Oct 30 · volatility 100% · usual day ±4.5% · biggest day +43% / −16%
+- 🆕 New: 📐 **Mon Nov 23** · [[NTCS]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Sun Dec 13** · [[BITA]] · SPAC merger / direct listing lock-up ends
+
 ## 2026-10-28 07:46 PM CT
 
 - 📆 Date moved Nov 28 → 📐 **Sun Nov 29** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 30 submission: DBV Technologies Submits FDA Biologics License Applica — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
