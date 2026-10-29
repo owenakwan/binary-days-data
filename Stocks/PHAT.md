@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PHAT)
 
 - ✅ **now–Dec 31** · PHAT · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-    - Source: [PHAT SEC 8-K (2026-07-30)](https://www.sec.gov/Archives/edgar/data/1783183/000119312526324865/d114879dex991.htm) — "Topline results from the 12-week blinded treatment portion of the trial are expected during the fourth quarter of 2026."
+    - Source: [PHAT SEC 8-K (2026-10-29)](https://www.sec.gov/Archives/edgar/data/1783183/000119312526436959/d180192dex991.htm) — "Phathom expects to report topline results during the fourth quarter 2026 for the 12-week blinded treatment portion of its Phase 2 pHalcon-EoE-201 trial evaluating VOQUEZNA in patients with Eosinophilic Esophagitis (EoE)."
 - ❓ **Thu Oct 29** · PHAT · Earnings (before open)
     - Source: Finnhub earnings calendar
 

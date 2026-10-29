@@ -2,6 +2,22 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-29 09:05 AM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[INSM]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[KYMR]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Thu Nov 5** · [[IMUX]] · Immunic to Host Virtual Progressive Multiple Sclerosis R&D Day on November 5, 2026
+    - 📏 $8.08 · MC $101M · options ±33% by Nov 20 · volatility 86% · usual day ±3.6% · biggest day +17% / −15%
+- 🆕 New: ✅ **Sat Dec 12** · [[VNDA]] · FDA decision
+    - 📏 $4.21 · MC $260M · options ±35% by Dec 18 · volatility 37% · usual day ±2.0% · biggest day +41% / −20%
+- 🆕 New: 📐 **Dec 22–Jan 16** · [[RFL]] · FDA acceptance expected Dec 22–Jan 16, 2027 (submitted Oct 28) — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Dec 23–Jan 17** · [[RFL]] · FDA acceptance expected Dec 23–Jan 17, 2027 (submitted Oct 29) — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[INCY]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[KYMR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[RFL]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Dec 12** · [[VNDA]] · FDA decision (vnda, washington)
+    - 📏 $4.21 · MC $260M · options ±35% by Dec 18 · volatility 37% · usual day ±2.0% · biggest day +41% / −20%
+
 ## 2026-10-29 02:05 AM CT
 
 - 🆕 New: ✅ **Thu Oct 29** · [[IOVA]] · Iovance Biotherapeutics to Host Webcast on Positive Data for TIL Therapy in Metastatic Non-Small Cell Lung Cancer (mNSCLC) and Broader Preci

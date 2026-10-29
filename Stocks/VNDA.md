@@ -8,9 +8,9 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=VNDA)
 
-- ✅ **Sat Dec 12** · VNDA · FDA decision (vnda, washington)
-    - 📏 $4.00 · MC $260M · options ±39% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
-    - Source: [VNDA SEC 8-K (2026-10-28) + 4 more filings](https://www.sec.gov/Archives/edgar/data/1347178/000162828026067886/vnda8-k10282026exhibit991.htm) — "PDUFA target action date of December 12, 2026 WASHINGTON – October 28, 2026 – Vanda Pharmaceuticals Inc. (Vanda) (Nasdaq: VNDA) today announced financial and operational results for the third quarter ended September 30, 2026. “We are pleased with the strong re"
+- ✅ **Sat Dec 12** · VNDA · FDA decision
+    - 📏 $4.21 · MC $260M · options ±35% by Dec 18 · volatility 37% · usual day ±2.0% · biggest day +41% / −20%
+    - Source: [VNDA SEC 10-Q (2026-10-29) + 5 more filings](https://www.sec.gov/Archives/edgar/data/1347178/000134717826000002/vnda-20260930.htm) — "• The Biologics License Application (BLA) for Quimilza™ in Generalized Pustular Psoriasis (GPP) is under review by the FDA with a Prescription Drug User Fee Act (PDUFA) target action date of December 12, 2026."
 
 ## My notes
 
