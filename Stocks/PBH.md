@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PBH)
 
-- ❓ **Thu Nov 5** · PBH · Earnings
+- ❓ **Thu Nov 5** · PBH · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

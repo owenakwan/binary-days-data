@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CORT)
 
-- ❓ **Tue Nov 3** · CORT · Earnings
+- ❓ **Tue Nov 3** · CORT · Earnings (after close)
     - Source: Finnhub earnings calendar
 - ❓ **Thu Dec 17** · CORT · FDA decision (relacorilant) — _Only one filing states this date._
     - 📏 $85.95 · MC $12.7B · options ±30% by Dec 18 · volatility 78% · usual day ±2.2% · biggest day +27% / −50%

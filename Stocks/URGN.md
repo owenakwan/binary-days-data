@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=URGN)
 
-- ❓ **Wed Nov 4** · URGN · Earnings
+- ❓ **Wed Nov 4** · URGN · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

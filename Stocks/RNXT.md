@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RNXT)
 
-- ❓ **Thu Nov 5** · RNXT · Earnings
+- ❓ **Thu Nov 5** · RNXT · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

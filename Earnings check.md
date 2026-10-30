@@ -1,51 +1,51 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Oct 29, 06:39 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Oct 29, 09:57 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Thursday, October 29
 
-- ✅ [[CAT]] Caterpillar Inc. · before open · 2x: CATG
+- ❓ [[CAT]] Caterpillar Inc. · before open · 2x: CATG
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[ENTG]] Entegris, Inc. · before open · 2x: ENTL
+    - Yahoo (estimate): 2027-01-27
+- ❓ [[ENTG]] Entegris, Inc. · before open · 2x: ENTL
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[LLY]] Eli Lilly and Company · before open · 2x: ELIL, LLYX
+    - Yahoo (estimate): 2027-02-08
+- ❓ [[LLY]] Eli Lilly and Company · before open · 2x: ELIL, LLYX
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[AMZN]] Amazon.com, Inc. · after close · 2x: AMAA, AMZG, AMZU
+    - Yahoo (estimate): 2027-02-02
+- ❓ [[AMZN]] Amazon.com, Inc. · after close · 2x: AMAA, AMZG, AMZU
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[AXTI]] AXT, Inc. · after close · 2x: AXTC, AXTL, AXTU
+    - Yahoo (estimate): 2027-02-03
+- ❓ [[AXTI]] AXT, Inc. · after close · 2x: AXTC, AXTL, AXTU
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[COIN]] Coinbase Global, Inc. · after close · 2x: COIG, COIX, CONL
+    - Yahoo (estimate): 2027-02-17
+- ❓ [[COIN]] Coinbase Global, Inc. · after close · 2x: COIG, COIX, CONL
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[INTC]] Intel Corporation · after close · 2x: INT, INTW, LINT
+    - Yahoo (estimate): 2027-02-03
+- ❓ [[INTC]] Intel Corporation · after close · 2x: INT, INTW, LINT
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[MPWR]] Monolithic Power Systems, Inc. · after close · 2x: MPWC, MPWX
+    - Yahoo (estimate): 2027-01-20
+- ❓ [[MPWR]] Monolithic Power Systems, Inc. · after close · 2x: MPWC, MPWX
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[MSTR]] Strategy Inc · after close · 2x: MSTC, MSTP, MSTU
+    - Yahoo (estimate): 2027-02-03
+- ❓ [[MSTR]] Strategy Inc · after close · 2x: MSTC, MSTP, MSTU
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[RBLX]] Roblox Corporation · after close · 2x: RBLU
+    - Yahoo (estimate): 2027-02-03
+- ❓ [[RBLX]] Roblox Corporation · after close · 2x: RBLU
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[RDDT]] Reddit, Inc. · after close · 2x: RDDC, RDTL
+    - Yahoo (estimate): 2027-02-03
+- ❓ [[RDDT]] Reddit, Inc. · after close · 2x: RDDC, RDTL
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[RIVN]] Rivian Automotive, Inc. · after close · 2x: RIVC, RVNL
+    - Yahoo (estimate): 2027-02-03
+- ❓ [[RIVN]] Rivian Automotive, Inc. · after close · 2x: RIVC, RVNL
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
-- ✅ [[SNDK]] Sandisk Corporation · after close · 2x: SNDC, SNDG, SNDU
+    - Yahoo (estimate): 2027-02-10
+- ❓ [[SNDK]] Sandisk Corporation · after close · 2x: SNDC, SNDG, SNDU
     - Finnhub calendar: 2026-10-29
-    - Yahoo (confirmed): 2026-10-29
+    - Yahoo (estimate): 2027-01-27
 
 ## Friday, October 30
 
@@ -68,7 +68,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[FN]] Fabrinet · after close · 2x: FNG
     - Finnhub calendar: 2026-11-02
     - Yahoo (confirmed): 2026-11-02
-    - company announcement: 2026-11-02 — [Fabrinet to Announce First Quarter Fiscal Year 2027 Financial Results on November 2, 2026](https://finnhub.io/api/news?id=9f758dc9513699ad1637e96a799ba3e962efef8bf4089752a2aa88006414a172)
+    - company announcement: 2026-11-02 — [Fabrinet to Announce First Quarter Fiscal Year 2027 Financial Results on November 2, 2026](https://finance.yahoo.com/markets/stocks/articles/fabrinet-announce-first-quarter-fiscal-201500308.html?.tsrc=rss)
 - ✅ [[ON]] ON Semiconductor Corporation · after close · 2x: ONG, ONX
     - Finnhub calendar: 2026-11-02
     - Yahoo (confirmed): 2026-11-02
@@ -168,25 +168,65 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[TPL]] Texas Pacific Land Corporation · after close · 2x: TPLX
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
+- ✅ [[UUUU]] Energy Fuels Inc. · after close · 2x: UUUC, UUUG
+    - Finnhub calendar: 2026-11-04
+    - Yahoo (confirmed): 2026-11-04
 - ✅ [[VIAV]] Viavi Solutions Inc. · after close · 2x: VIAG
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
-- ❓ [[UUUU]] Energy Fuels Inc. · time not given · 2x: UUUC, UUUG
-    - Finnhub calendar: 2026-11-04
-    - Yahoo (estimate): 2026-10-30
 
 ## Thursday, November 5
 
+- ✅ [[ACLS]] Axcelis Technologies, Inc. · before open · 2x: ACLZ
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅✅ [[ACMR]] ACM Research, Inc. · before open · 2x: ACMM
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+    - company announcement: 2026-11-05 — [ACM Research to Release Third Quarter 2026 Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/acm-research-release-third-quarter-200500787.html?.tsrc=rss)
+- ✅ [[CORZ]] Core Scientific, Inc. · before open · 2x: COZX
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[EOSE]] Eos Energy Enterprises, Inc. · before open · 2x: EO, EOSU
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[KEEL]] Keel Infrastructure Corp. · before open · 2x: KEEX
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ✅✅ [[MTSI]] MACOM Technology Solutions Holdings, Inc. · before open · 2x: MTSG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
     - company announcement: 2026-11-05 — [MACOM to Report Fourth Quarter and Fiscal Year 2026 Financial Results on November 5, 2026](https://finnhub.io/api/news?id=0a748f207771dc8a23b063dfb194f7d3bfcd6a7b2695ad836b82bf84e3d670f6)
+- ✅ [[OSCR]] Oscar Health, Inc. · before open · 2x: OSCX
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[U]] Unity Software Inc. · before open · 2x: UNX
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[AAOI]] Applied Optoelectronics, Inc. · after close · 2x: AAOG, AAOX
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[AFRM]] Affirm Holdings, Inc. · after close · 2x: AFRU
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ✅ [[AKAM]] Akamai Technologies, Inc. · after close · 2x: AKAL
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[CART]] Maplebear Inc. · after close · 2x: CARX
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
+- ✅ [[IONQ]] IonQ, Inc. · after close · 2x: IONC, IONL, IONX
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[IREN]] IREN Limited · after close · 2x: IRE, IREC, IREG
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[KTOS]] Kratos Defense & Security Solutions, Inc. · after close · 2x: KTUP
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[LASR]] nLIGHT, Inc. · after close · 2x: LASC
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ✅ [[LITE]] Lumentum Holdings Inc. · after close · 2x: LITC, LITG, LITU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -195,15 +235,24 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ⚠️ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX — _Calendars said 2026-10-29; the company's release says 2026-11-05._
     - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2026-10-29
+    - Yahoo (estimate): 2027-02-24
     - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finnhub.io/api/news?id=6d82b0222c8e1d8e899951b203ccf680d45cc336ea3a5698684cd85e80efa6c5)
+- ✅ [[MP]] MP Materials Corp. · after close · 2x: MPG
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ✅ [[NET]] Cloudflare, Inc. · after close · 2x: NETG
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
+- ✅ [[OPEN]] Opendoor Technologies Inc. · after close · 2x: OPEX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
 - ✅✅ [[QNT]] Quantinuum Inc. · after close · 2x: QNTU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
     - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finnhub.io/api/news?id=d42298a670bd8f64e36dc9022d463394d78c3fbc85fc9521a39700845d32abe9)
+- ✅ [[SMR]] NuScale Power Corporation · after close · 2x: SMRX, SMU, SMUP
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ✅✅ [[SOUN]] SoundHound AI, Inc. · after close · 2x: SOUX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -211,64 +260,15 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[TDC]] Teradata Corporation · after close · 2x: TDCL
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅ [[U]] Unity Software Inc. · after close · 2x: UNX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[AAOI]] Applied Optoelectronics, Inc. · time not given · 2x: AAOG, AAOX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[ACLS]] Axcelis Technologies, Inc. · time not given · 2x: ACLZ
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅✅ [[ACMR]] ACM Research, Inc. · time not given · 2x: ACMM
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [ACM Research to Release Third Quarter 2026 Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/acm-research-release-third-quarter-200500787.html?.tsrc=rss)
-- ✅ [[AFRM]] Affirm Holdings, Inc. · time not given · 2x: AFRU
+- ✅ [[UMAC]] Unusual Machines, Inc. · after close · 2x: UMAL
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[ARM]] Arm Holdings plc · time not given · 2x: ARMA, ARMG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
-- ✅ [[CORZ]] Core Scientific, Inc. · time not given · 2x: COZX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
 - ❓ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
-- ✅ [[EOSE]] Eos Energy Enterprises, Inc. · time not given · 2x: EO, EOSU
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[IONQ]] IonQ, Inc. · time not given · 2x: IONC, IONL, IONX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[IREN]] IREN Limited · time not given · 2x: IRE, IREC, IREG
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[KEEL]] Keel Infrastructure Corp. · time not given · 2x: KEEX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[KTOS]] Kratos Defense & Security Solutions, Inc. · time not given · 2x: KTUP
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[LASR]] nLIGHT, Inc. · time not given · 2x: LASC
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[MP]] MP Materials Corp. · time not given · 2x: MPG
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[OPEN]] Opendoor Technologies Inc. · time not given · 2x: OPEX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[OSCR]] Oscar Health, Inc. · time not given · 2x: OSCX
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[SMR]] NuScale Power Corporation · time not given · 2x: SMRX, SMU, SMUP
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
-- ✅ [[UMAC]] Unusual Machines, Inc. · time not given · 2x: UMAL
-    - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
 - ❓ [[USAR]] USA Rare Earth, Inc. · time not given · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05

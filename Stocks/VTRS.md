@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=VTRS)
 
-- ❓ **Thu Nov 5** · VTRS · Earnings
+- ❓ **Thu Nov 5** · VTRS · Earnings (before open)
     - Source: Finnhub earnings calendar
 - ❓ **Sun Dec 27** · VTRS · FDA decision — _Only one filing states this date._
     - 📏 $19.20 · MC $20.4B · options ±13% by Jan 15 · volatility 27% · usual day ±1.3% · biggest day +10% / −8%

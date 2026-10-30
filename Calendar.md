@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Thu Oct 29, 06:35 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Thu Oct 29, 09:53 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 26
@@ -425,7 +425,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 3** · [[BNTX]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[BOLD]] · Earnings
 - ❓ **Tue Nov 3** · [[CNTA]] · Earnings
-- ❓ **Tue Nov 3** · [[CORT]] · Earnings
+- ❓ **Tue Nov 3** · [[CORT]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[CPRX]] · Earnings
 - ❓ **Tue Nov 3** · [[DVAX]] · Earnings
 - ❓ **Tue Nov 3** · [[GBIO]] · Earnings
@@ -436,4 +436,4 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 3** · [[NXTC]] · Earnings
 - ❓ **Tue Nov 3** · [[OCS]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[PFE]] · Earnings (before open)
-- ❓ **Tue Nov 3** · [[RARE]] · Earnings
+- ❓ **Tue Nov 3** · [[RARE]] · Earnings (after close)

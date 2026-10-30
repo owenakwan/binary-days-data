@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=VCEL)
 
-- ❓ **Thu Nov 5** · VCEL · Earnings
+- ❓ **Thu Nov 5** · VCEL · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
