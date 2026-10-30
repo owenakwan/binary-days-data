@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-30 11:42 AM CT
+
+- 🆕 New: ✅ **now–Dec 11** · [[ABOS]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Wed Nov 25** · [[SNY]] · FDA decision
+
 ## 2026-10-30 04:58 AM CT
 
 - 🆕 New: 📐 **Mon Dec 14** · [[CAES]] · IPO lock-up ends

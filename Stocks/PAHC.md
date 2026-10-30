@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PAHC)
 
-- ❓ **Wed Nov 11** · PAHC · Earnings
+- ❓ **Wed Nov 4** · PAHC · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

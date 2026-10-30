@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ❓ **Thu Nov 5** · VTRS · Earnings (before open)
     - Source: Finnhub earnings calendar
 - ❓ **Sun Dec 27** · VTRS · FDA decision — _Only one filing states this date._
-    - 📏 $19.20 · MC $20.4B · options ±15% by Jan 15 · volatility 27% · usual day ±1.3% · biggest day +10% / −8%
+    - 📏 $19.10 · MC $20.4B · options ±12% by Jan 15 · volatility 26% · usual day ±1.2% · biggest day +10% / −8%
     - Source: [VTRS SEC 8-K (2026-08-06)](https://www.sec.gov/Archives/edgar/data/1792044/000179204426000037/exhibit991-2q26earningsrel.htm) — "The FDA has assigned a PDUFA goal date of December 27, 2026."
 
 ## My notes

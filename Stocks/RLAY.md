@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RLAY)
 
-- ❓ **Wed Nov 11** · RLAY · Earnings
+- ❓ **Wed Nov 4** · RLAY · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

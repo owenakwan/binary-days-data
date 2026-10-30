@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Fri Oct 30, 05:02 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Fri Oct 30, 11:46 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -30,9 +30,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[ON]] ON Semiconductor Corporation · after close · 2x: ONG, ONX
     - Finnhub calendar: 2026-11-02
     - Yahoo (confirmed): 2026-11-02
-- ✅ [[PLTR]] Palantir Technologies Inc. · after close · 2x: PLTG, PLTL, PLTU
-    - Finnhub calendar: 2026-11-02
-    - Yahoo (confirmed): 2026-11-02
 
 ## Tuesday, November 3
 
@@ -60,10 +57,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[DUOL]] Duolingo, Inc. · after close · 2x: DUOG
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
-- ✅✅ [[NVTS]] Navitas Semiconductor Corporation · after close · 2x: NVTC, NVTX
+- ✅ [[NVTS]] Navitas Semiconductor Corporation · after close · 2x: NVTC, NVTX
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
-    - company announcement: 2026-11-03 — [Navitas Semiconductor to Report Q3 2026 Financial Results on Tuesday, November 3, 2026](https://finance.yahoo.com/markets/stocks/articles/navitas-semiconductor-report-q3-2026-200500390.html?.tsrc=rss)
 - ✅ [[OUST]] Ouster, Inc. · after close · 2x: OUSL
     - Finnhub calendar: 2026-11-03
     - Yahoo (confirmed): 2026-11-03
