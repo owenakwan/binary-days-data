@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-30 04:58 AM CT
+
+- 🆕 New: 📐 **Mon Dec 14** · [[CAES]] · IPO lock-up ends
+
 ## 2026-10-29 06:35 PM CT
 
 - 🆕 New: ✅ **now–Dec 10** · [[BHVN]] · Data expected in the coming weeks — _A window the company gave, not an exact day._

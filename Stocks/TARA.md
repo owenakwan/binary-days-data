@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · TARA · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [TARA SEC 8-K (2026-08-11)](https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea029923601ex99-1.htm) — "THRIVE-3, the Company’s registrational Phase 3 clinical trial, is ongoing, and the Company expects to report interim results in the fourth quarter of 2026."
-- ❓ **Thu Oct 29** · TARA · Earnings
-    - Source: Finnhub earnings calendar
 
 ## My notes
 

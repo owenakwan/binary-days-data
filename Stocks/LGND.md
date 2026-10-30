@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · LGND · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [LGND SEC 10-Q (2026-08-07)](https://www.sec.gov/Archives/edgar/data/886163/000088616326000044/lgnd-20260630.htm) — "The Company expects to complete enrollment of the Phase 3 ELAINE-3 clinical trial in the fourth quarter of 2026 and to have topline data in the second half of 2027."
-- ❓ **Thu Oct 29** · LGND · Earnings (before open)
-    - Source: Finnhub earnings calendar
 
 ## My notes
 

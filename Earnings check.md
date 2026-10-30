@@ -1,51 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Oct 29, 09:57 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Fri Oct 30, 05:02 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Thursday, October 29
-
-- ❓ [[CAT]] Caterpillar Inc. · before open · 2x: CATG
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-01-27
-- ❓ [[ENTG]] Entegris, Inc. · before open · 2x: ENTL
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-08
-- ❓ [[LLY]] Eli Lilly and Company · before open · 2x: ELIL, LLYX
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-02
-- ❓ [[AMZN]] Amazon.com, Inc. · after close · 2x: AMAA, AMZG, AMZU
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-03
-- ❓ [[AXTI]] AXT, Inc. · after close · 2x: AXTC, AXTL, AXTU
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-17
-- ❓ [[COIN]] Coinbase Global, Inc. · after close · 2x: COIG, COIX, CONL
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-03
-- ❓ [[INTC]] Intel Corporation · after close · 2x: INT, INTW, LINT
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-01-20
-- ❓ [[MPWR]] Monolithic Power Systems, Inc. · after close · 2x: MPWC, MPWX
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-03
-- ❓ [[MSTR]] Strategy Inc · after close · 2x: MSTC, MSTP, MSTU
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-03
-- ❓ [[RBLX]] Roblox Corporation · after close · 2x: RBLU
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-03
-- ❓ [[RDDT]] Reddit, Inc. · after close · 2x: RDDC, RDTL
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-03
-- ❓ [[RIVN]] Rivian Automotive, Inc. · after close · 2x: RIVC, RVNL
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-10
-- ❓ [[SNDK]] Sandisk Corporation · after close · 2x: SNDC, SNDG, SNDU
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-01-27
 
 ## Friday, October 30
 
@@ -233,10 +191,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[MCHP]] Microchip Technology Incorporated · after close · 2x: MCHG, MCHU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ⚠️ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX — _Calendars said 2026-10-29; the company's release says 2026-11-05._
-    - Finnhub calendar: 2026-10-29
-    - Yahoo (estimate): 2027-02-24
-    - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finnhub.io/api/news?id=6d82b0222c8e1d8e899951b203ccf680d45cc336ea3a5698684cd85e80efa6c5)
 - ✅ [[MP]] MP Materials Corp. · after close · 2x: MPG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -287,3 +241,32 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[WULF]] TeraWulf Inc. · time not given · 2x: WULX
     - Finnhub calendar: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
+
+## Monday, November 9
+
+- ✅ [[PLUG]] Plug Power Inc. · before open · 2x: PLUL
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+- ✅✅ [[ACHR]] Archer Aviation Inc. · after close · 2x: ACHX, ARCX
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+    - company announcement: 2026-11-09 — [Archer To Report Third Quarter 2026 Operating Update and Financial Results on November 9th, 2026](https://finnhub.io/api/news?id=a4380fa43ebbd3ab48fe34f18965036af6cf7cb703886494197ee1d4c7d0c5cb)
+- ✅ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+- ✅ [[ASTS]] AST SpaceMobile, Inc. · time not given · 2x: ASTG, ASTT, ASTX
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+- ✅ [[CEG]] Constellation Energy Corporation · time not given · 2x: CEGX
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+- ✅ [[HIMS]] Hims & Hers Health, Inc. · time not given · 2x: HIMC, HIMZ
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+- ✅✅ [[ONTO]] Onto Innovation Inc. · time not given · 2x: ONTX
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+    - company announcement: 2026-11-09 — [Onto Innovation to Report Third Quarter 2026 Financial Results on November 9, 2026](https://finance.yahoo.com/markets/stocks/articles/onto-innovation-report-third-quarter-203000970.html?.tsrc=rss)
+- ✅ [[RKLB]] Rocket Lab Corporation · time not given · 2x: RKLX, RKX
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09

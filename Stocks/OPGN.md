@@ -8,8 +8,6 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=OPGN)
 
-- ❓ **Thu Oct 29** · OPGN · Earnings
-    - Source: Finnhub earnings calendar
 - ❓ **Tue Nov 17** · OPGN · Earnings
     - Source: Finnhub earnings calendar
 
