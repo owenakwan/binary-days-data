@@ -1,15 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Fri Oct 30, 07:42 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sat Oct 31, 01:30 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Friday, October 30
-
-- ❓ [[XOM]] ExxonMobil Holdings Corporation · before open · 2x: XOMX
-    - Finnhub calendar: 2026-10-30
-    - Yahoo (estimate): 2027-01-28
 
 ## Monday, November 2
 
@@ -150,7 +144,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[MTSI]] MACOM Technology Solutions Holdings, Inc. · before open · 2x: MTSG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [MACOM to Report Fourth Quarter and Fiscal Year 2026 Financial Results on November 5, 2026](https://finnhub.io/api/news?id=0a748f207771dc8a23b063dfb194f7d3bfcd6a7b2695ad836b82bf84e3d670f6)
+    - company announcement: 2026-11-05 — [MACOM to Report Fourth Quarter and Fiscal Year 2026 Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/macom-report-fourth-quarter-fiscal-123000248.html?.tsrc=rss)
 - ✅ [[OSCR]] Oscar Health, Inc. · before open · 2x: OSCX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -266,3 +260,30 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[RKLB]] Rocket Lab Corporation · time not given · 2x: RKLX, RKX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
+
+## Tuesday, November 10
+
+- ✅ [[AMPX]] Amprius Technologies, Inc. · after close · 2x: AMPU
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+- ✅✅ [[RGTI]] Rigetti Computing, Inc. · after close · 2x: RGTC, RGTU, RGTX
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+    - company announcement: 2026-11-10 — [Rigetti Computing to Report Third Quarter 2026 Financial Results and Host Conference Call on November 10, 2026](https://finnhub.io/api/news?id=a144629be548283ada19920d39f68b862f1774dfa286a3c2f0c06ca4d726452e)
+- ✅ [[BTDR]] Bitdeer Technologies Group · time not given · 2x: BTDL
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+- ✅ [[CRWV]] CoreWeave, Inc. · time not given · 2x: CRWG, CRWU, CRWX
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+- ✅✅ [[FLY]] Firefly Aerospace Inc. · time not given · 2x: FLYT
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+    - company announcement: 2026-11-10 — [Firefly Aerospace to Announce Third Quarter 2026 Financial Results on November 10, 2026](https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-announce-third-quarter-201500287.html?.tsrc=rss)
+- ✅✅ [[QBTS]] D-Wave Quantum Inc. · time not given · 2x: QBTX, QUA
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finnhub.io/api/news?id=1a4087b269ecc6d22362c434d6a6e59264b8dc0c03ca790bfddba3bdd838a6ea)
+- ❓ [[SBET]] Sharplink, Inc. · time not given · 2x: SBTU
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (estimate): 2026-11-10

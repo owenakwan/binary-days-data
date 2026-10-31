@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MNOV)
 
-- ❓ **now–Nov 29** · MNOV · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
+- ❓ **now–Nov 30** · MNOV · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
     - Source: your sheet
 - ❓ **Wed Nov 11** · MNOV · Earnings
     - Source: Finnhub earnings calendar

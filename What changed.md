@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-10-31 01:26 AM CT
+
+- 📆 Date moved Nov 28 → 📐 **Sun Nov 29** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 30 submission: DBV Technologies Submits FDA Biologics License Applica — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 🆕 New: 📐 **Tue Dec 15** · [[FCBM]] · IPO lock-up ends
+- 🆕 New: 📐 **Tue Dec 15** · [[FISN]] · IPO lock-up ends
+- 🆕 New: 📐 **Tue Dec 15** · [[KARD]] · IPO lock-up ends
+
 ## 2026-10-30 11:42 AM CT
 
 - 🆕 New: ✅ **now–Dec 11** · [[ABOS]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
