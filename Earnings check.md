@@ -1,15 +1,15 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Fri Oct 30, 04:08 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Fri Oct 30, 07:42 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Friday, October 30
 
-- ✅ [[XOM]] ExxonMobil Holdings Corporation · before open · 2x: XOMX
+- ❓ [[XOM]] ExxonMobil Holdings Corporation · before open · 2x: XOMX
     - Finnhub calendar: 2026-10-30
-    - Yahoo (confirmed): 2026-10-30
+    - Yahoo (estimate): 2027-01-28
 
 ## Monday, November 2
 
@@ -168,6 +168,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[CART]] Maplebear Inc. · after close · 2x: CARX
     - Finnhub calendar: 2026-11-05
+    - Yahoo (estimate): 2026-11-05
 - ✅ [[IONQ]] IonQ, Inc. · after close · 2x: IONC, IONL, IONX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -198,7 +199,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[QNT]] Quantinuum Inc. · after close · 2x: QNTU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/quantinuum-report-third-quarter-financial-200500029.html?.tsrc=rss)
+    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finnhub.io/api/news?id=d42298a670bd8f64e36dc9022d463394d78c3fbc85fc9521a39700845d32abe9)
 - ✅ [[SMR]] NuScale Power Corporation · after close · 2x: SMRX, SMU, SMUP
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -217,7 +218,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (estimate): 2026-11-05
 - ❓ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
     - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-06
+    - Yahoo (estimate): 2026-11-05
 - ❓ [[USAR]] USA Rare Earth, Inc. · time not given · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
@@ -227,13 +228,13 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[MRNA]] Moderna, Inc. · before open · 2x: MRNX
     - Finnhub calendar: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
-- ✅ [[OKLO]] Oklo Inc. · time not given · 2x: OKLC, OKLL
+- ✅ [[OKLO]] Oklo Inc. · before open · 2x: OKLC, OKLL
     - Finnhub calendar: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
-- ✅ [[VST]] Vistra Corp. · time not given · 2x: VSTL
+- ✅ [[VST]] Vistra Corp. · before open · 2x: VSTL
     - Finnhub calendar: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
-- ✅ [[WULF]] TeraWulf Inc. · time not given · 2x: WULX
+- ✅ [[WULF]] TeraWulf Inc. · before open · 2x: WULX
     - Finnhub calendar: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
 

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ANIK)
 
-- ❓ **Fri Nov 6** · ANIK · Earnings
+- ❓ **Fri Nov 6** · ANIK · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
