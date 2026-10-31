@@ -1,7 +1,7 @@
 # Binary Days vault
 
 Rebuilt every 30 minutes from the Binary Days data (SEC filings, news, your spreadsheet, earnings and lock-up calendars).
-Last update: Sat Oct 31, 01:26 AM CT.
+Last update: Sat Oct 31, 08:00 AM CT.
 
 - [[Today]]: today, tomorrow and the rest of this week on one page
 - [[What changed]]: new catalysts, moved dates, ones that dropped off (2 weeks of history)
