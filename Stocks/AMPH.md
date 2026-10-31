@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AMPH)
 
-- ❓ **Mon Nov 9** · AMPH · Earnings
+- ❓ **Thu Nov 5** · AMPH · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

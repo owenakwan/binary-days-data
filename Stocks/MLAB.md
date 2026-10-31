@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MLAB)
 
-- ❓ **Thu Nov 5** · MLAB · Earnings
+- ❓ **Mon Nov 9** · MLAB · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

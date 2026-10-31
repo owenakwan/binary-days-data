@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sat Oct 31, 08:00 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Oct 31, 12:37 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 26
@@ -366,7 +366,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Mon Nov 2** · [[IDYA]] · Earnings
 - ❓ **Mon Nov 2** · [[JAZZ]] · Earnings (after close)
 - ❓ **Mon Nov 2** · [[KRYS]] · Earnings (before open)
-- ❓ **Mon Nov 2** · [[NBIX]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[ALKS]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[ALMR]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[AMGN]] · Earnings (after close)
@@ -394,6 +393,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 3** · [[RYTM]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[SHC]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[STVN]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[TARS]] · Earnings
 - ❓ **Tue Nov 3** · [[TECH]] · Earnings
 - ❓ **Tue Nov 3** · [[TPST]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[TYRA]] · Earnings

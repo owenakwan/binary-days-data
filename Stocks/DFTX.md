@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DFTX)
 
-- ❓ **Thu Nov 5** · DFTX · Earnings
+- ❓ **Mon Nov 9** · DFTX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

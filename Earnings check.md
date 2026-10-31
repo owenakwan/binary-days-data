@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sat Oct 31, 08:04 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sat Oct 31, 12:41 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -21,9 +21,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-02
     - Yahoo (confirmed): 2026-11-02
     - company announcement: 2026-11-02 — [Fabrinet to Announce First Quarter Fiscal Year 2027 Financial Results on November 2, 2026](https://finance.yahoo.com/markets/stocks/articles/fabrinet-announce-first-quarter-fiscal-201500308.html?.tsrc=rss)
-- ✅ [[ON]] ON Semiconductor Corporation · after close · 2x: ONG, ONX
-    - Finnhub calendar: 2026-11-02
-    - Yahoo (confirmed): 2026-11-02
 
 ## Tuesday, November 3
 
@@ -106,6 +103,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[QCOM]] QUALCOMM Incorporated · after close · 2x: QCML, QCMU
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
+- ✅✅ [[RDW]] Redwire Corporation · after close · 2x: RDWU
+    - Finnhub calendar: 2026-11-04
+    - Yahoo (estimate): 2026-11-11
+    - company announcement: 2026-11-04 — [Redwire Corporation to Report Third Quarter 2026 Results on November 4, 2026](https://finnhub.io/api/news?id=8401ccab6e083a36ed2522ce172151c776ec79ea47f9f3d90c18aa6392b906b4)
 - ✅✅ [[SITM]] SiTime Corporation · after close · 2x: SITX
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
@@ -144,7 +145,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[MTSI]] MACOM Technology Solutions Holdings, Inc. · before open · 2x: MTSG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [MACOM to Report Fourth Quarter and Fiscal Year 2026 Financial Results on November 5, 2026](https://finnhub.io/api/news?id=0a748f207771dc8a23b063dfb194f7d3bfcd6a7b2695ad836b82bf84e3d670f6)
+    - company announcement: 2026-11-05 — [MACOM to Report Fourth Quarter and Fiscal Year 2026 Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/macom-report-fourth-quarter-fiscal-123000248.html?.tsrc=rss)
 - ✅ [[OSCR]] Oscar Health, Inc. · before open · 2x: OSCX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -181,6 +182,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[MCHP]] Microchip Technology Incorporated · after close · 2x: MCHG, MCHU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
+- ✅✅ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (estimate): 2027-02-24
+    - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finnhub.io/api/news?id=6d82b0222c8e1d8e899951b203ccf680d45cc336ea3a5698684cd85e80efa6c5)
 - ✅ [[MP]] MP Materials Corp. · after close · 2x: MPG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -287,3 +292,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[SBET]] Sharplink, Inc. · time not given · 2x: SBTU
     - Finnhub calendar: 2026-11-10
     - Yahoo (estimate): 2026-11-10
+- ❓ [[WYFI]] WhiteFiber, Inc. · time not given · 2x: WYFL
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (estimate): 2026-11-12

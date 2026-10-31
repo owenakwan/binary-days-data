@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · RGNX · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [RGNX SEC 8-K (2026-08-06)](https://www.sec.gov/Archives/edgar/data/1590877/000119312526336716/rgnx-ex99_1.htm) — "Topline data from pivotal subretinal wet AMD studies, ATMOSPHERE ® and ASCENT ® , expected in Q4 2026"
-- ❓ **Wed Nov 11** · RGNX · Earnings (after close)
+- ❓ **Thu Nov 5** · RGNX · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

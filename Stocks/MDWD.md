@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MDWD)
 
-- ❓ **Tue Nov 17** · MDWD · Earnings
+- ❓ **Thu Nov 12** · MDWD · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=QTRX)
 
-- ❓ **Tue Nov 10** · QTRX · Earnings
+- ❓ **Mon Nov 9** · QTRX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

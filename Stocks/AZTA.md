@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AZTA)
 
-- ❓ **Tue Nov 17** · AZTA · Earnings (after close)
+- ❓ **Tue Nov 10** · AZTA · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

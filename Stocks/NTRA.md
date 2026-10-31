@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=NTRA)
 
-- ❓ **Wed Nov 11** · NTRA · Earnings (after close)
+- ❓ **Thu Nov 5** · NTRA · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

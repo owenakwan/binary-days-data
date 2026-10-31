@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TARS)
 
-- ❓ **Tue Nov 10** · TARS · Earnings
+- ❓ **Tue Nov 3** · TARS · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
