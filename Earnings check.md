@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sat Oct 31, 03:45 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sat Oct 31, 07:06 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -66,7 +66,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[CAMT]] Camtek Ltd. · before open · 2x: CAMC
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
-    - company announcement: 2026-11-04 — [CAMTEK TO REPORT THIRD QUARTER 2026 FINANCIAL RESULTS ON WEDNESDAY, NOVEMBER 4, 2026](https://finnhub.io/api/news?id=8458565ef0301e6f2f9ffade4dfb0c043102d5e107a9914b61c6d1e2cb9c5dbb)
+    - company announcement: 2026-11-04 — [CAMTEK TO REPORT THIRD QUARTER 2026 FINANCIAL RESULTS ON WEDNESDAY, NOVEMBER 4, 2026](https://finance.yahoo.com/markets/stocks/articles/camtek-report-third-quarter-2026-110000546.html?.tsrc=rss)
 - ✅ [[CRCL]] Circle Internet Group · before open · 2x: CCUP, CIR, CRCG
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
@@ -105,7 +105,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-04
 - ✅✅ [[RDW]] Redwire Corporation · after close · 2x: RDWU
     - Finnhub calendar: 2026-11-04
-    - Yahoo (estimate): 2026-11-11
+    - Yahoo (confirmed): 2026-11-04
     - company announcement: 2026-11-04 — [Redwire Corporation to Report Third Quarter 2026 Results on November 4, 2026](https://finnhub.io/api/news?id=8401ccab6e083a36ed2522ce172151c776ec79ea47f9f3d90c18aa6392b906b4)
 - ✅✅ [[SITM]] SiTime Corporation · after close · 2x: SITX
     - Finnhub calendar: 2026-11-04
@@ -183,7 +183,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ✅✅ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
     - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2027-02-24
+    - Yahoo (confirmed): 2026-11-05
     - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finnhub.io/api/news?id=6d82b0222c8e1d8e899951b203ccf680d45cc336ea3a5698684cd85e80efa6c5)
 - ✅ [[MP]] MP Materials Corp. · after close · 2x: MPG
     - Finnhub calendar: 2026-11-05
@@ -216,7 +216,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (estimate): 2026-11-05
 - ❓ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
     - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2026-11-05
+    - Yahoo (confirmed): 2026-11-06
 - ❓ [[USAR]] USA Rare Earth, Inc. · time not given · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
@@ -291,6 +291,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[SBET]] Sharplink, Inc. · time not given · 2x: SBTU
     - Finnhub calendar: 2026-11-10
     - Yahoo (estimate): 2026-11-10
-- ❓ [[WYFI]] WhiteFiber, Inc. · time not given · 2x: WYFL
+- ✅ [[WYFI]] WhiteFiber, Inc. · time not given · 2x: WYFL
     - Finnhub calendar: 2026-11-10
-    - Yahoo (estimate): 2026-11-12
+    - Yahoo (confirmed): 2026-11-10
