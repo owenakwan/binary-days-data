@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 01, 12:44 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 01, 06:05 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -302,9 +302,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
 - ❓ [[MARA]] MARA Holdings, Inc. · time not given · 2x: MHX, MRAL
-    - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-11
-- ❓ [[NBIS]] Nebius Group N.V. · time not given · 2x: NBIC, NBIG, NBIL
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG

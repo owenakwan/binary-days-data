@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BIOA)
 
-- ❓ **Thu Nov 5** · BIOA · Earnings
+- ❓ **Wed Nov 25** · BIOA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

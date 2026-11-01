@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DYAI)
 
-- ❓ **Wed Nov 11** · DYAI · Earnings
+- ❓ **Thu Nov 12** · DYAI · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
