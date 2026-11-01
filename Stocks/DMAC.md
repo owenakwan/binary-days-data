@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DMAC)
 
-- ❓ **Wed Nov 18** · DMAC · Earnings (after close)
+- ❓ **Tue Nov 10** · DMAC · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

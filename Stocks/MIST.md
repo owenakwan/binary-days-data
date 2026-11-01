@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MIST)
 
-- ❓ **Tue Nov 17** · MIST · Earnings
+- ❓ **Tue Nov 10** · MIST · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

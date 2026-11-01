@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · DTIL · Initial data expected year-end 2026 — _A window the company gave, not an exact day._
     - Source: [DTIL SEC 10-Q (2026-08-06)](https://www.sec.gov/Archives/edgar/data/1357874/000162828026053837/dtil-20260630.htm) — "The study is actively recruiting patients with initial safety data expected for year-end 2026."
-- ❓ **Mon Nov 2** · DTIL · Earnings
+- ❓ **Tue Nov 3** · DTIL · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

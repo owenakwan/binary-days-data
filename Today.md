@@ -1,6 +1,6 @@
 # Today · Sunday, November 1
 
-Updated Sun Nov 01, 11:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 01, 03:56 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
@@ -13,6 +13,6 @@ Updated Sun Nov 01, 11:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Tomorrow · Mon Nov 2
 
 - 📐 **Mon Nov 2** · [[REA]] · IPO lock-up ends
-- 📊 Earnings: [[ABVC]], [[ALDX]], [[AXSM]] (pre), [[BMRN]] (post), [[CMPS]], [[DTIL]], [[EBS]] (post), [[GNLX]], [[HOWL]], [[IDYA]], [[JAZZ]] (post), [[KRYS]] (pre)
+- 📊 Earnings: [[ABVC]], [[ALDX]], [[ALP]], [[AXSM]] (pre), [[BEAM]], [[BMEA]], [[BMRN]] (post), [[CNTX]], [[COGT]], [[DYN]], [[EBS]] (post), [[GNLX]], [[HOWL]]
 
 See also: [[Calendar]] · [[What changed]] · [[Needs a second look]]

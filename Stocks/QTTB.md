@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=QTTB)
 
-- ❓ **Thu Nov 5** · QTTB · Earnings
+- ❓ **Wed Nov 11** · QTTB · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

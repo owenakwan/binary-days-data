@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RANI)
 
-- ❓ **Thu Nov 5** · RANI · Earnings (after close)
+- ❓ **Fri Nov 6** · RANI · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

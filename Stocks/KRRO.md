@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KRRO)
 
-- ❓ **Wed Nov 18** · KRRO · Earnings
+- ❓ **Tue Nov 10** · KRRO · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RLMD)
 
-- ❓ **Thu Nov 5** · RLMD · Earnings
+- ❓ **Wed Nov 11** · RLMD · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SANA)
 
-- ❓ **Thu Nov 5** · SANA · Earnings (after close)
+- ❓ **Wed Nov 4** · SANA · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

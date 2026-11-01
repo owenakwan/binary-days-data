@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=COYA)
 
-- ❓ **Wed Nov 11** · COYA · Earnings
+- ❓ **Tue Nov 10** · COYA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

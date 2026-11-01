@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PMVP)
 
-- ❓ **Thu Nov 5** · PMVP · Earnings
+- ❓ **Tue Nov 10** · PMVP · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · CMPS · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [CMPS SEC 10-Q (2026-08-05)](https://www.sec.gov/Archives/edgar/data/1816590/000181659026000058/cmps-20260630.htm) — "Helus Pharma is conducting a Phase 3 program for its proprietary novel serotonergic agonists (a proprietary deuterated psilocin analog) for the adjunctive treatment of major depressive disorder, which includes two Phase "
-- ❓ **Mon Nov 2** · CMPS · Earnings
+- ❓ **Tue Nov 3** · CMPS · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

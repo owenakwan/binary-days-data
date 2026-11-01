@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=JANX)
 
-- ❓ **Tue Nov 10** · JANX · Earnings (after close)
+- ❓ **Wed Nov 4** · JANX · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

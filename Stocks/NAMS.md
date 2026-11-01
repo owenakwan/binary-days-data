@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · NAMS · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [NAMS SEC 8-K (2026-08-05)](https://www.sec.gov/Archives/edgar/data/1936258/000119312526333827/nams-ex99_1.htm) — "EX-99.1 2 nams-ex99_1.htm EX-99.1 EX-99.1 NewAmsterdam Pharma Provides Corporate Update and Reports Second Quarter Financial Results – Announced positive CHMP opinion recommending marketing authorization for obicetrapib "
-- ❓ **Wed Nov 11** · NAMS · Earnings (before open)
+- ❓ **Tue Nov 3** · NAMS · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

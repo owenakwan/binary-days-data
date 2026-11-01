@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GLUE)
 
-- ❓ **Thu Nov 5** · GLUE · Earnings
+- ❓ **Wed Nov 4** · GLUE · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

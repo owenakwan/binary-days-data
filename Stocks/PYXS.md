@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · PYXS · Data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [PYXS SEC 8-K (2026-09-09)](https://www.sec.gov/Archives/edgar/data/1782223/000119312526385901/pyxs-ex99_1.htm) — "Combination with KEYTRUDA® (pembrolizumab) Pyxis Oncology expects to report updated data from the ongoing Phase 1/2 combination dose escalation study of MICVO and Merck’s (known as MSD outside of the US and Canada) anti-"
-- ❓ **Tue Nov 17** · PYXS · Earnings (before open)
-    - Source: Finnhub earnings calendar
 
 ## My notes
 

@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sun Nov 01, 11:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 01, 03:56 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 26
@@ -92,10 +92,10 @@ Updated Sun Nov 01, 11:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Week of Nov 30
 - 📐 **Mon Nov 30** · [[AADX]] · IPO lock-up ends
 - ✅ **Mon Nov 30** · [[COGT]] · FDA decision (bezuclastinib, gist)
-    - 📏 $31.02 · MC $5.3B · options ±29% by Dec 18 · volatility 38% · usual day ±1.9% · biggest day +119% / −9%
+    - 📏 $31.02 · MC $5.3B · options ±23% by Dec 18 · volatility 38% · usual day ±1.9% · biggest day +119% / −9%
 - 📐 **Mon Nov 30** · [[HYPG]] · SPAC merger / direct listing lock-up ends
 - ✅ **Mon Nov 30** · [[VRTX]] · FDA decision
-    - 📏 $558.88 · MC $129.3B · volatility 27% · usual day ±1.4% · biggest day +8% / −5%
+    - 📏 $558.88 · MC $129.3B · options ±10% by Dec 4 · volatility 27% · usual day ±1.4% · biggest day +8% / −5%
 - ✅ **Mon Nov 30** · [[ZLAB]] · FDA decision (april, baff)
     - 📏 $22.07 · options ±23% by Nov 20 · volatility 59% · usual day ±2.7% · biggest day +14% / −9%
 - 📐 **Tue Dec 1** · [[CGEM]] · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 2 submission: Cullinan Therapeutics starts NDA submission for zipaler — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
@@ -118,7 +118,7 @@ Updated Sun Nov 01, 11:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Tue Dec 8** · [[FRBT]] · IPO lock-up ends
 - 📐 **Wed Dec 9** · [[SPCX]] · IPO lock-up ends
 - ✅ **Sat Dec 12** · [[ANAB]] · FDA decision (imsidolimab)
-    - 📏 $48.28 · MC $1.4B · volatility 49% · usual day ±2.0% · biggest day +15% / −14%
+    - 📏 $48.28 · MC $1.4B · options ±27% by Dec 18 · volatility 49% · usual day ±2.0% · biggest day +15% / −14%
 - 📐 **Sat Dec 12** · [[HONA]] · SPAC merger / direct listing lock-up ends
 - ✅ **Sat Dec 12** · [[VNDA]] · FDA decision
     - 📏 $3.79 · MC $260M · options ±42% by Dec 18 · volatility 37% · usual day ±2.0% · biggest day +41% / −18%
@@ -130,7 +130,7 @@ Updated Sun Nov 01, 11:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Tue Dec 15** · [[FISN]] · IPO lock-up ends
 - 📐 **Tue Dec 15** · [[KARD]] · IPO lock-up ends
 - ❓ **Thu Dec 17** · [[CORT]] · FDA decision (relacorilant) — _Only one filing states this date._
-    - 📏 $81.12 · MC $12.7B · options ±32% by Dec 18 · volatility 79% · usual day ±2.3% · biggest day +27% / −50%
+    - 📏 $81.12 · MC $12.7B · options ±29% by Dec 18 · volatility 79% · usual day ±2.3% · biggest day +27% / −50%
 
 ## Week of Dec 21
 - ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat)
@@ -146,7 +146,7 @@ Updated Sun Nov 01, 11:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 
 ## Week of Dec 28
 - ✅ **Wed Dec 30** · [[COGT]] · FDA decision (bezuclastinib)
-    - 📏 $31.02 · MC $5.3B · options ±29% by Dec 18 · volatility 38% · usual day ±1.9% · biggest day +119% / −9%
+    - 📏 $31.02 · MC $5.3B · options ±23% by Dec 18 · volatility 38% · usual day ±1.9% · biggest day +119% / −9%
 
 ## Week of Jan 4
 - ✅ **Mon Jan 4** · [[NUVB]] · FDA decision (ibtrozi, nsclc, ros1, tki-)
@@ -177,7 +177,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[ALMS]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ALZN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ANAB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-    - 📏 $48.28 · MC $1.4B · volatility 49% · usual day ±2.0% · biggest day +15% / −14%
+    - 📏 $48.28 · MC $1.4B · options ±27% by Dec 18 · volatility 49% · usual day ±2.0% · biggest day +15% / −14%
 - ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
     - 📏 $4.05 · MC $646M · options ±26% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%
 - ✅ **now–Dec 31** · [[ANTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -349,16 +349,18 @@ The company gave a window, not a day. Sorted by when the window closes.
 
 - ❓ **Mon Nov 2** · [[ABVC]] · Earnings
 - ❓ **Mon Nov 2** · [[ALDX]] · Earnings
+- ❓ **Mon Nov 2** · [[ALP]] · Earnings
 - ❓ **Mon Nov 2** · [[AXSM]] · Earnings (before open)
+- ❓ **Mon Nov 2** · [[BEAM]] · Earnings
+- ❓ **Mon Nov 2** · [[BMEA]] · Earnings
 - ❓ **Mon Nov 2** · [[BMRN]] · Earnings (after close)
-- ❓ **Mon Nov 2** · [[CMPS]] · Earnings
-- ❓ **Mon Nov 2** · [[DTIL]] · Earnings
+- ❓ **Mon Nov 2** · [[CNTX]] · Earnings
+- ❓ **Mon Nov 2** · [[COGT]] · Earnings
+- ❓ **Mon Nov 2** · [[DYN]] · Earnings
 - ❓ **Mon Nov 2** · [[EBS]] · Earnings (after close)
 - ❓ **Mon Nov 2** · [[GNLX]] · Earnings
 - ❓ **Mon Nov 2** · [[HOWL]] · Earnings
-- ❓ **Mon Nov 2** · [[IDYA]] · Earnings
-- ❓ **Mon Nov 2** · [[JAZZ]] · Earnings (after close)
-- ❓ **Mon Nov 2** · [[KRYS]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[ACET]] · Earnings
 - ❓ **Tue Nov 3** · [[ALKS]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[ALMR]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[AMGN]] · Earnings (after close)
@@ -366,43 +368,58 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 3** · [[AQST]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[ARDX]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[ARVN]] · Earnings (before open)
-- ❓ **Tue Nov 3** · [[BMEA]] · Earnings
 - ❓ **Tue Nov 3** · [[BNTX]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[BOLD]] · Earnings
+- ❓ **Tue Nov 3** · [[CMPS]] · Earnings
+- ❓ **Tue Nov 3** · [[CMPX]] · Earnings
 - ❓ **Tue Nov 3** · [[CNTA]] · Earnings
 - ❓ **Tue Nov 3** · [[CORT]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[CPRX]] · Earnings
+- ❓ **Tue Nov 3** · [[DNLI]] · Earnings
+- ❓ **Tue Nov 3** · [[DNTH]] · Earnings
+- ❓ **Tue Nov 3** · [[DSGN]] · Earnings
+- ❓ **Tue Nov 3** · [[DTIL]] · Earnings
 - ❓ **Tue Nov 3** · [[DVAX]] · Earnings
+- ❓ **Tue Nov 3** · [[FHTX]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[GBIO]] · Earnings
 - ❓ **Tue Nov 3** · [[GOSS]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[IFRX]] · Earnings
+- ❓ **Tue Nov 3** · [[KROS]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[MCRB]] · Earnings
 - ❓ **Tue Nov 3** · [[MDGL]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[MIRM]] · Earnings (after close)
+- ❓ **Tue Nov 3** · [[MLTX]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[NAMS]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[NERV]] · Earnings
 - ❓ **Tue Nov 3** · [[NXTC]] · Earnings
 - ❓ **Tue Nov 3** · [[OCS]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[PFE]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[RARE]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[RVTY]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[RYTM]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[SCYX]] · Earnings
 - ❓ **Tue Nov 3** · [[SHC]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[STVN]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[TARS]] · Earnings
 - ❓ **Tue Nov 3** · [[TECH]] · Earnings
 - ❓ **Tue Nov 3** · [[TPST]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[TYRA]] · Earnings
-- ❓ **Tue Nov 3** · [[VERA]] · Earnings
 - ❓ **Tue Nov 3** · [[WAT]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[XFOR]] · Earnings
+- ❓ **Tue Nov 3** · [[XNCR]] · Earnings
 - ❓ **Tue Nov 3** · [[ZVRA]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[ACAD]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[ACUT]] · Earnings
 - ❓ **Wed Nov 4** · [[ADMA]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[ADPT]] · Earnings (after close)
+- ❓ **Wed Nov 4** · [[ALEC]] · Earnings
 - ❓ **Wed Nov 4** · [[ALGS]] · Earnings
+- ❓ **Wed Nov 4** · [[AMLX]] · Earnings
 - ❓ **Wed Nov 4** · [[APVO]] · Earnings
 - ❓ **Wed Nov 4** · [[ARQT]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[AVTX]] · Earnings
 - ❓ **Wed Nov 4** · [[BCRX]] · Earnings (before open)
+- ❓ **Wed Nov 4** · [[BDTX]] · Earnings
 - ❓ **Wed Nov 4** · [[BIO]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[BLFS]] · Earnings
 - ❓ **Wed Nov 4** · [[BRKR]] · Earnings (before open)
@@ -410,20 +427,3 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Wed Nov 4** · [[CAI]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[CAMP]] · Earnings
 - ❓ **Wed Nov 4** · [[CBIO]] · Earnings
-- ❓ **Wed Nov 4** · [[CCCC]] · Earnings
-- ❓ **Wed Nov 4** · [[CDTX]] · Earnings
-- ❓ **Wed Nov 4** · [[CRIS]] · Earnings
-- ❓ **Wed Nov 4** · [[CRL]] · Earnings (before open)
-- ❓ **Wed Nov 4** · [[CRNX]] · Earnings (after close)
-- ❓ **Wed Nov 4** · [[CRSP]] · Earnings
-- ❓ **Wed Nov 4** · [[CTKB]] · Earnings (after close)
-- ❓ **Wed Nov 4** · [[CYTK]] · Earnings (after close)
-- ❓ **Wed Nov 4** · [[DNLI]] · Earnings
-- ❓ **Wed Nov 4** · [[DWTX]] · Earnings
-- ❓ **Wed Nov 4** · [[EOLS]] · Earnings (after close)
-- ❓ **Wed Nov 4** · [[ESPR]] · Earnings
-- ❓ **Wed Nov 4** · [[EYPT]] · Earnings
-- ❓ **Wed Nov 4** · [[GERN]] · Earnings (before open)
-- ❓ **Wed Nov 4** · [[GPCR]] · Earnings (after close)
-- ❓ **Wed Nov 4** · [[GRAL]] · Earnings (after close)
-- ❓ **Wed Nov 4** · [[HRMY]] · Earnings (before open)

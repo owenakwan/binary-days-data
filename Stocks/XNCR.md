@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=XNCR)
 
-- ❓ **Mon Nov 9** · XNCR · Earnings
+- ❓ **Tue Nov 3** · XNCR · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

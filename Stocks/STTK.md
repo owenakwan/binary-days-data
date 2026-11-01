@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=STTK)
 
-- ❓ **Tue Nov 10** · STTK · Earnings
+- ❓ **Wed Nov 4** · STTK · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

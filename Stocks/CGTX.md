@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CGTX)
 
-- ❓ **Wed Nov 18** · CGTX · Earnings
+- ❓ **Wed Nov 4** · CGTX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

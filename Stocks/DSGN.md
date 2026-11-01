@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DSGN)
 
-- ❓ **Wed Nov 11** · DSGN · Earnings
+- ❓ **Tue Nov 3** · DSGN · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

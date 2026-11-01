@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IFRX)
 
-- ❓ **Mon Nov 9** · IFRX · Earnings
+- ❓ **Tue Nov 3** · IFRX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

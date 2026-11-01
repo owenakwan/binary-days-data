@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CADL)
 
-- ❓ **Thu Nov 5** · CADL · Earnings
+- ❓ **Wed Nov 11** · CADL · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

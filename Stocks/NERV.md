@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=NERV)
 
-- ❓ **Wed Nov 11** · NERV · Earnings
+- ❓ **Tue Nov 3** · NERV · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
