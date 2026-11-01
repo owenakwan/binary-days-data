@@ -2,6 +2,12 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-01 12:40 AM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[GANX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[MANE]] · Data expected later this year — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 11** · [[ABOS]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
+
 ## 2026-10-31 01:26 AM CT
 
 - 📆 Date moved Nov 28 → 📐 **Sun Nov 29** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 30 submission: DBV Technologies Submits FDA Biologics License Applica — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._

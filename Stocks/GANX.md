@@ -8,9 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GANX)
 
-- ✅ **Sat Oct 31** · GANX · Data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $1.13 · MC $55M · options ±35% by Nov 20 · volatility 66% · usual day ±3.0% · biggest day +31% / −44%
-    - Source: [GANX SEC 8-K (2026-08-11)](https://www.sec.gov/Archives/edgar/data/1819411/000110465926094041/ganx-20260811xex99d1.htm) — "Mack continued, “We remain focused on completing the ongoing nine-month extension of our Phase 1b study, with final data expected to be presented at the International Congress of Parkinson’s Disease and Movement Disorder"
+- ✅ **now–Dec 31** · GANX · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - Source: [GANX SEC 8-K (2026-08-11)](https://www.sec.gov/Archives/edgar/data/1819411/000110465926094041/ganx-20260811xex99d1.htm) — "• Final results from Phase 1b clinical study of rexaceract expected in Q4 2026."
 - ❓ **Wed Nov 18** · GANX · Earnings
     - Source: Finnhub earnings calendar
 

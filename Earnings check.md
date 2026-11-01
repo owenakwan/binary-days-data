@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sat Oct 31, 07:06 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 01, 12:44 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -163,6 +163,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[CART]] Maplebear Inc. · after close · 2x: CARX
     - Finnhub calendar: 2026-11-05
+    - Yahoo (estimate): 2026-11-05
 - ✅ [[IONQ]] IonQ, Inc. · after close · 2x: IONC, IONL, IONX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -216,7 +217,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (estimate): 2026-11-05
 - ❓ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
     - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-06
+    - Yahoo (estimate): 2026-11-05
 - ❓ [[USAR]] USA Rare Earth, Inc. · time not given · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
@@ -294,3 +295,21 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[WYFI]] WhiteFiber, Inc. · time not given · 2x: WYFL
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
+
+## Wednesday, November 11
+
+- ❓ [[ECHO]] EchoStar Corporation · time not given · 2x: ECHX
+    - Finnhub calendar: 2026-11-11
+    - Yahoo (estimate): 2026-11-11
+- ❓ [[MARA]] MARA Holdings, Inc. · time not given · 2x: MHX, MRAL
+    - Finnhub calendar: 2026-11-11
+    - Yahoo (estimate): 2026-11-11
+- ❓ [[NBIS]] Nebius Group N.V. · time not given · 2x: NBIC, NBIG, NBIL
+    - Finnhub calendar: 2026-11-11
+    - Yahoo (estimate): 2026-11-11
+- ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
+    - Finnhub calendar: 2026-11-11
+    - Yahoo (estimate): 2026-11-11
+- ❓ [[RCAT]] Red Cat Holdings, Inc. · time not given · 2x: RCAX
+    - Finnhub calendar: 2026-11-11
+    - Yahoo (estimate): 2026-11-11

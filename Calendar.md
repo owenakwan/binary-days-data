@@ -1,19 +1,9 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sat Oct 31, 07:01 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 01, 12:40 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Oct 26
-- ✅ **Sat Oct 31** · [[DMAC]] · Initial data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $9.25 · MC $424M · options ±30% by Nov 20 · volatility 66% · usual day ±2.5% · biggest day +13% / −14%
-- ✅ **Sat Oct 31** · [[GANX]] · Data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $1.13 · MC $55M · options ±35% by Nov 20 · volatility 66% · usual day ±3.0% · biggest day +31% / −44%
-- ✅ **Sat Oct 31** · [[IVVD]] · Data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.58 · MC $179M · options ±55% by Nov 20 · volatility 118% · usual day ±5.1% · biggest day +35% / −21%
-- ✅ **Sat Oct 31** · [[MANE]] · Topline data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $139.69 · options ±13% by Nov 20 · volatility 76% · usual day ±3.0% · biggest day +48% / −14%
-- ✅ **Sat Oct 31** · [[RARE]] · Data expected October 2026 — _A window the company gave, not an exact day._
-    - 📏 $16.10 · MC $1.5B · volatility 51% · usual day ±3.2% · biggest day +16% / −44%
 - ✅ **Sun Nov 1** · [[AGIO]] · FDA decision
     - 📏 $30.55 · MC $1.9B · options ±10% by Nov 20 · volatility 75% · usual day ±2.2% · biggest day +19% / −51%
 - 📐 **Sun Nov 1** · [[PONO]] · SPAC merger / direct listing lock-up ends
@@ -81,6 +71,7 @@ Updated Sat Oct 31, 07:01 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - ✅ **Sun Nov 22** · [[CAPR]] · FDA decision (hope-3)
     - 📏 $6.38 · MC $451M · options ±97% by Nov 27 · volatility 92% · usual day ±6.1% · biggest day +371% / −64%
 - 📐 **Sun Nov 22** · [[GOSS]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 23 submission: Gossamer Bio Submits New Drug Application to U.S. FDA  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - 📏 $10.38 · MC $57M · options ±66% by Jan 15 · volatility 79% · usual day ±4.5% · biggest day +46% / −80%
 - 📐 **Sun Nov 22** · [[KPET]] · SPAC merger / direct listing lock-up ends
 - ✅ **Sun Nov 22** · [[SVRA]] · FDA decision
     - 📏 $4.82 · MC $955M · options ±90% by Dec 18 · volatility 56% · usual day ±2.4% · biggest day +17% / −8%
@@ -167,14 +158,14 @@ Updated Sat Oct 31, 07:01 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 
 The company gave a window, not a day. Sorted by when the window closes.
 
-- ✅ **Nov 1–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
     - 📏 $0.94 · volatility 132% · usual day ±4.6% · biggest day +152% / −23%
-- ✅ **Nov 1–Nov 30** · [[ABOS]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
-- ❓ **now–Nov 30** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
-- ✅ **Nov 1–Nov 30** · [[VANI]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Nov 30** · [[ABOS]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Nov 30** · [[VANI]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
+- ❓ **now–Dec 1** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - ✅ **now–Dec 10** · [[BHVN]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
-- ✅ **now–Dec 11** · [[ABOS]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
 - 📐 **Nov 17–Dec 12** · [[GOSS]] · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
+    - 📏 $10.38 · MC $57M · options ±66% by Jan 15 · volatility 79% · usual day ±4.5% · biggest day +46% / −80%
 - 📐 **Nov 23–Dec 18** · [[DBVT]] · FDA acceptance expected Nov 23–Dec 18, 2026 (submitted Sep 29) — _A window the company gave, not an exact day._
 - 📐 **Nov 24–Dec 19** · [[DBVT]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
 - 📐 **Nov 24–Dec 19** · [[MLTX]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
@@ -223,6 +214,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[EQ]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[EWTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[FDMT]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[GANX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[GPCR]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[GUTS]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[HCWB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -252,6 +244,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[LONA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[LXEO]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[LXRX]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Dec 31** · [[MANE]] · Data expected later this year — _A window the company gave, not an exact day._
 - ✅ **Dec 1–Dec 31** · [[MBRX]] · Data expected December 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[MBX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[MIRM]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
