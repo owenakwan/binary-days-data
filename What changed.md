@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-02 07:14 AM CT
+
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[AXSM]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-01 12:40 AM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[GANX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._

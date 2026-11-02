@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TNYA)
 
-- ❓ **Mon Nov 9** · TNYA · Earnings
+- ❓ **Wed Nov 11** · TNYA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

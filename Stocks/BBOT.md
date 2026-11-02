@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BBOT)
 
-- ❓ **Mon Nov 9** · BBOT · Earnings
+- ❓ **Wed Nov 18** · BBOT · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

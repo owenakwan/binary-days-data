@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KROS)
 
-- ❓ **Tue Nov 3** · KROS · Earnings (after close)
+- ❓ **Wed Nov 11** · KROS · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

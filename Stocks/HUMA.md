@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=HUMA)
 
-- ❓ **Tue Nov 10** · HUMA · Earnings
+- ❓ **Fri Nov 6** · HUMA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

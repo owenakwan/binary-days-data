@@ -14,7 +14,7 @@ tags: [catalyst, biotech]
 - ✅ **Tue Nov 3** · ANNX · Annexon to Host Virtual Investor Event on November 3, 2026: Vonaprument for the Treatment of Geographic Atrophy - Highlighting Key Aspects o
     - 📏 $4.05 · MC $646M · options ±27% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%
     - Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxOSWx0VFpFS0dJaF9ZNzhDUmFnLXkxZFZnODBVa2lBeFg0YXJGWVlhZlZZWWo2ZUR4YkpKU2paTk9rbkh0VVdPMmFEY2M5cUY5eVZnaFVRTlpRX0VYZFNlV19sUTdVRmllMGo5T0FHZ25RY1ZObnJPSldBM2lRNGhuTnNNRGhSdmVZQ0h1U3c1RTkwUmk4ZkpuVnJHcXk?oc=5) — "Annexon to Host Virtual Investor Event on November 3, 2026: Vonaprument for the Treatment of Geographic Atrophy - Highlighting Key Aspects of Phase 3 ARCHER II Trial"
-- ❓ **Mon Nov 9** · ANNX · Earnings
+- ❓ **Mon Nov 16** · ANNX · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · ANNX · Data expected Q1 2027 — _A window the company gave, not an exact day._
     - 📏 $4.05 · MC $646M · options ±27% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%

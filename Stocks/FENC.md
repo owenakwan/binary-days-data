@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=FENC)
 
-- ❓ **Wed Nov 11** · FENC · Earnings
+- ❓ **Thu Nov 5** · FENC · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

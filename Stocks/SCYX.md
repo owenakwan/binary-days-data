@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SCYX)
 
-- ❓ **Tue Nov 3** · SCYX · Earnings
+- ❓ **Wed Nov 11** · SCYX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=VRCA)
 
-- ❓ **Thu Nov 12** · VRCA · Earnings
+- ❓ **Mon Nov 9** · VRCA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

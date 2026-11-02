@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=COGT)
 
-- ❓ **Mon Nov 2** · COGT · Earnings
+- ❓ **Tue Nov 10** · COGT · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Mon Nov 30** · COGT · FDA decision (bezuclastinib, gist)
     - 📏 $31.02 · MC $5.3B · options ±25% by Dec 18 · volatility 38% · usual day ±1.9% · biggest day +119% / −9%

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=FTH)
 
-- ❓ **Thu Nov 12** · FTH · Earnings
+- ❓ **Tue Nov 10** · FTH · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

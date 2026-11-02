@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CUE)
 
-- ❓ **Tue Nov 10** · CUE · Earnings
+- ❓ **Thu Nov 12** · CUE · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

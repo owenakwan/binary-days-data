@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RCEL)
 
-- ❓ **Fri Nov 6** · RCEL · Earnings (after close)
+- ❓ **Thu Nov 5** · RCEL · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

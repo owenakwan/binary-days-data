@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AYTU)
 
-- ❓ **Wed Nov 11** · AYTU · Earnings
+- ❓ **Mon Nov 16** · AYTU · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

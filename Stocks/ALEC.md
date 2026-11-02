@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ALEC)
 
-- ❓ **Wed Nov 4** · ALEC · Earnings
+- ❓ **Tue Nov 10** · ALEC · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

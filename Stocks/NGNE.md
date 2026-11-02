@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=NGNE)
 
-- ❓ **Wed Nov 11** · NGNE · Earnings (before open)
+- ❓ **Mon Nov 23** · NGNE · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

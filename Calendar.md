@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Mon Nov 02, 02:23 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Mon Nov 02, 07:14 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 2
@@ -300,6 +300,7 @@ The company gave a window, not a day. Sorted by when the window closes.
     - 📏 $4.05 · MC $646M · options ±27% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%
 - ✅ **Jan 1–Mar 31** · [[ATYR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[AVIR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✅ **Jan 1–Mar 31** · [[AXSM]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[BMEA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[CBIO]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[CRBP]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
@@ -344,16 +345,13 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Mon Nov 2** · [[ALDX]] · Earnings
 - ❓ **Mon Nov 2** · [[ALP]] · Earnings
 - ❓ **Mon Nov 2** · [[AXSM]] · Earnings (before open)
-- ❓ **Mon Nov 2** · [[BEAM]] · Earnings
-- ❓ **Mon Nov 2** · [[BMEA]] · Earnings
 - ❓ **Mon Nov 2** · [[BMRN]] · Earnings (after close)
-- ❓ **Mon Nov 2** · [[CNTX]] · Earnings
-- ❓ **Mon Nov 2** · [[COGT]] · Earnings
 - ❓ **Mon Nov 2** · [[DYN]] · Earnings
 - ❓ **Mon Nov 2** · [[EBS]] · Earnings (after close)
 - ❓ **Mon Nov 2** · [[GNLX]] · Earnings
 - ❓ **Mon Nov 2** · [[HOWL]] · Earnings
-- ❓ **Tue Nov 3** · [[ACET]] · Earnings
+- ❓ **Mon Nov 2** · [[IDYA]] · Earnings
+- ❓ **Mon Nov 2** · [[JAZZ]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[ALKS]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[ALMR]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[AMGN]] · Earnings (after close)
@@ -361,36 +359,28 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 3** · [[AQST]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[ARDX]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[ARVN]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[BMEA]] · Earnings
 - ❓ **Tue Nov 3** · [[BNTX]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[BOLD]] · Earnings
 - ❓ **Tue Nov 3** · [[CMPS]] · Earnings
-- ❓ **Tue Nov 3** · [[CMPX]] · Earnings
 - ❓ **Tue Nov 3** · [[CNTA]] · Earnings
 - ❓ **Tue Nov 3** · [[CORT]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[CPRX]] · Earnings
 - ❓ **Tue Nov 3** · [[DNLI]] · Earnings
-- ❓ **Tue Nov 3** · [[DNTH]] · Earnings
-- ❓ **Tue Nov 3** · [[DSGN]] · Earnings
 - ❓ **Tue Nov 3** · [[DTIL]] · Earnings
 - ❓ **Tue Nov 3** · [[DVAX]] · Earnings
-- ❓ **Tue Nov 3** · [[FHTX]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[GBIO]] · Earnings
 - ❓ **Tue Nov 3** · [[GOSS]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[IFRX]] · Earnings
-- ❓ **Tue Nov 3** · [[KROS]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[MCRB]] · Earnings
 - ❓ **Tue Nov 3** · [[MDGL]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[MIRM]] · Earnings (after close)
-- ❓ **Tue Nov 3** · [[MLTX]] · Earnings (before open)
-- ❓ **Tue Nov 3** · [[NAMS]] · Earnings (before open)
-- ❓ **Tue Nov 3** · [[NERV]] · Earnings
 - ❓ **Tue Nov 3** · [[NXTC]] · Earnings
 - ❓ **Tue Nov 3** · [[OCS]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[PFE]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[RARE]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[RVTY]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[RYTM]] · Earnings (before open)
-- ❓ **Tue Nov 3** · [[SCYX]] · Earnings
 - ❓ **Tue Nov 3** · [[SHC]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[STVN]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[TARS]] · Earnings
@@ -399,20 +389,16 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 3** · [[TYRA]] · Earnings
 - ❓ **Tue Nov 3** · [[WAT]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[XFOR]] · Earnings
-- ❓ **Tue Nov 3** · [[XNCR]] · Earnings
 - ❓ **Tue Nov 3** · [[ZVRA]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[ACAD]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[ACUT]] · Earnings
 - ❓ **Wed Nov 4** · [[ADMA]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[ADPT]] · Earnings (after close)
-- ❓ **Wed Nov 4** · [[ALEC]] · Earnings
 - ❓ **Wed Nov 4** · [[ALGS]] · Earnings
-- ❓ **Wed Nov 4** · [[AMLX]] · Earnings
 - ❓ **Wed Nov 4** · [[APVO]] · Earnings
 - ❓ **Wed Nov 4** · [[ARQT]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[AVTX]] · Earnings
 - ❓ **Wed Nov 4** · [[BCRX]] · Earnings (before open)
-- ❓ **Wed Nov 4** · [[BDTX]] · Earnings
 - ❓ **Wed Nov 4** · [[BIO]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[BLFS]] · Earnings
 - ❓ **Wed Nov 4** · [[BRKR]] · Earnings (before open)
@@ -420,3 +406,18 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Wed Nov 4** · [[CAI]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[CAMP]] · Earnings
 - ❓ **Wed Nov 4** · [[CBIO]] · Earnings
+- ❓ **Wed Nov 4** · [[CCCC]] · Earnings
+- ❓ **Wed Nov 4** · [[CDTX]] · Earnings
+- ❓ **Wed Nov 4** · [[CRIS]] · Earnings
+- ❓ **Wed Nov 4** · [[CRL]] · Earnings (before open)
+- ❓ **Wed Nov 4** · [[CRNX]] · Earnings (after close)
+- ❓ **Wed Nov 4** · [[CRSP]] · Earnings
+- ❓ **Wed Nov 4** · [[CTKB]] · Earnings (after close)
+- ❓ **Wed Nov 4** · [[CYTK]] · Earnings (after close)
+- ❓ **Wed Nov 4** · [[DWTX]] · Earnings
+- ❓ **Wed Nov 4** · [[EOLS]] · Earnings (after close)
+- ❓ **Wed Nov 4** · [[ESPR]] · Earnings
+- ❓ **Wed Nov 4** · [[EYPT]] · Earnings
+- ❓ **Wed Nov 4** · [[GERN]] · Earnings (before open)
+- ❓ **Wed Nov 4** · [[GPCR]] · Earnings (after close)
+- ❓ **Wed Nov 4** · [[GRAL]] · Earnings (after close)

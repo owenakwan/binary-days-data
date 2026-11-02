@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SEPN)
 
-- ❓ **Mon Nov 9** · SEPN · Earnings
+- ❓ **Wed Nov 25** · SEPN · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

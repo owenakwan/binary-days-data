@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IPSC)
 
-- ❓ **Wed Nov 11** · IPSC · Earnings (before open)
+- ❓ **Thu Nov 5** · IPSC · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
