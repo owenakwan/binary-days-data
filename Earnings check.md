@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Mon Nov 02, 07:17 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Mon Nov 02, 12:21 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -155,8 +155,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[AAOI]] Applied Optoelectronics, Inc. · after close · 2x: AAOG, AAOX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ❓ [[AFRM]] Affirm Holdings, Inc. · after close · 2x: AFRU
+- ✅ [[AFRM]] Affirm Holdings, Inc. · after close · 2x: AFRU
     - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ✅ [[AKAM]] Akamai Technologies, Inc. · after close · 2x: AKAL
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -172,14 +173,15 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[LASR]] nLIGHT, Inc. · after close · 2x: LASC
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅ [[LITE]] Lumentum Holdings Inc. · after close · 2x: LITC, LITG, LITU
+- ❓ [[LITE]] Lumentum Holdings Inc. · after close · 2x: LITC, LITG, LITU
     - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-05
+    - Yahoo (estimate): 2026-11-05
 - ✅ [[MCHP]] Microchip Technology Incorporated · after close · 2x: MCHG, MCHU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅✅ [[MNST]] Monster Beverage Corp · after close · 2x: MNSX
+- ✅✅ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
     - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
     - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finnhub.io/api/news?id=6d82b0222c8e1d8e899951b203ccf680d45cc336ea3a5698684cd85e80efa6c5)
 - ✅ [[MP]] MP Materials Corp. · after close · 2x: MPG
     - Finnhub calendar: 2026-11-05
@@ -193,7 +195,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[QNT]] Quantinuum Inc. · after close · 2x: QNTU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/quantinuum-report-third-quarter-financial-200500029.html?.tsrc=rss)
+    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finance.yahoo.com/news/quantinuum-report-third-quarter-financial-200500172.html?.tsrc=rss)
 - ✅ [[SMR]] NuScale Power Corporation · after close · 2x: SMRX, SMU, SMUP
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -209,10 +211,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[ARM]] Arm Holdings plc · time not given · 2x: ARMA, ARMG
     - Finnhub calendar: 2026-11-05
-    - Yahoo (confirmed): 2026-11-04
+    - Yahoo (estimate): 2026-11-05
 - ❓ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
     - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2026-11-05
+    - Yahoo (estimate): 2026-11-06
 - ❓ [[USAR]] USA Rare Earth, Inc. · time not given · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
@@ -237,18 +239,19 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[PLUG]] Plug Power Inc. · before open · 2x: PLUL
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-- ✅ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
+- ✅✅ [[ACHR]] Archer Aviation Inc. · after close · 2x: ACHX, ARCX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-- ✅ [[ACHR]] Archer Aviation Inc. · time not given · 2x: ACHX, ARCX
+    - company announcement: 2026-11-09 — [Archer To Report Third Quarter 2026 Operating Update and Financial Results on November 9th, 2026](https://finnhub.io/api/news?id=a4380fa43ebbd3ab48fe34f18965036af6cf7cb703886494197ee1d4c7d0c5cb)
+- ✅ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
 - ✅ [[ASTS]] AST SpaceMobile, Inc. · time not given · 2x: ASTG, ASTT, ASTX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-- ✅ [[CEG]] Constellation Energy Corporation · time not given · 2x: CEGX
+- ❓ [[CEG]] Constellation Energy Corporation · time not given · 2x: CEGX
     - Finnhub calendar: 2026-11-09
-    - Yahoo (confirmed): 2026-11-09
+    - Yahoo (estimate): 2026-11-04
 - ✅ [[HIMS]] Hims & Hers Health, Inc. · time not given · 2x: HIMC, HIMZ
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
@@ -259,7 +262,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[QUBT]] Quantum Computing Inc. · time not given · 2x: QUBX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-    - company announcement: 2026-11-09 — [Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026](https://finance.yahoo.com/markets/stocks/articles/quantum-computing-inc-host-third-123000496.html?.tsrc=rss)
+    - company announcement: 2026-11-09 — [Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026](https://finnhub.io/api/news?id=835595cb303078aea649fa9e8c001d624763ce47db00ee1552f20e841435c2ce)
 - ✅ [[RKLB]] Rocket Lab Corporation · time not given · 2x: RKLX, RKX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
@@ -269,6 +272,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[AMPX]] Amprius Technologies, Inc. · after close · 2x: AMPU
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
+- ✅✅ [[RGTI]] Rigetti Computing, Inc. · after close · 2x: RGTC, RGTU, RGTX
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+    - company announcement: 2026-11-10 — [Rigetti Computing to Report Third Quarter 2026 Financial Results and Host Conference Call on November 10, 2026](https://finnhub.io/api/news?id=a144629be548283ada19920d39f68b862f1774dfa286a3c2f0c06ca4d726452e)
 - ✅ [[BTDR]] Bitdeer Technologies Group · time not given · 2x: BTDL
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
@@ -285,14 +292,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[QBTS]] D-Wave Quantum Inc. · time not given · 2x: QBTX, QUA
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finance.yahoo.com/technology/articles/d-wave-quantum-report-third-110000982.html?.tsrc=rss)
-- ✅✅ [[RGTI]] Rigetti Computing, Inc. · time not given · 2x: RGTC, RGTU, RGTX
-    - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-    - company announcement: 2026-11-10 — [Rigetti Computing to Report Third Quarter 2026 Financial Results and Host Conference Call on November 10, 2026](https://finance.yahoo.com/technology/ai/articles/rigetti-computing-report-third-quarter-200500718.html?.tsrc=rss)
+    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finnhub.io/api/news?id=1a4087b269ecc6d22362c434d6a6e59264b8dc0c03ca790bfddba3bdd838a6ea)
 - ❓ [[SBET]] Sharplink, Inc. · time not given · 2x: SBTU
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-06
+    - Yahoo (estimate): 2026-11-10
 - ✅ [[WYFI]] WhiteFiber, Inc. · time not given · 2x: WYFL
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
@@ -301,13 +304,13 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 - ❓ [[ECHO]] EchoStar Corporation · time not given · 2x: ECHX
     - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-05
+    - Yahoo (estimate): 2026-11-04
 - ❓ [[MARA]] MARA Holdings, Inc. · time not given · 2x: MHX, MRAL
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-24
+    - Yahoo (estimate): 2026-11-11
 
 ## Thursday, November 12
 
@@ -325,7 +328,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-12
 - ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
     - Finnhub calendar: 2026-11-12
-    - Yahoo (estimate): 2026-11-11
+    - Yahoo (estimate): 2026-11-12
 - ✅ [[LUNR]] Intuitive Machines, Inc. · time not given · 2x: LUNL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
@@ -335,7 +338,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[ONDS]] Ondas Inc. · time not given · 2x: ONDC, ONDG, ONDL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finance.yahoo.com/markets/stocks/articles/ondas-report-third-quarter-2026-123000922.html?.tsrc=rss)
+    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finnhub.io/api/news?id=2bcc757334ab90e193827c6204aa95aa8c8e19f90d3aab2d1187ea7746a25a20)
 - ❓ [[PANW]] Palo Alto Networks, Inc. · time not given · 2x: PALU, PANG
     - Finnhub calendar: 2026-11-12
     - Yahoo (estimate): 2026-11-12

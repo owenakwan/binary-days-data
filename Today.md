@@ -1,6 +1,6 @@
 # Today · Monday, November 2
 
-Updated Mon Nov 02, 07:14 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Mon Nov 02, 12:17 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
@@ -10,7 +10,7 @@ Updated Mon Nov 02, 07:14 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Tomorrow · Tue Nov 3
 
 - ✅ **Tue Nov 3** · [[ANNX]] · Annexon to Host Virtual Investor Event on November 3, 2026: Vonaprument for the Treatment of Geographic Atrophy - Highlighting Key Aspects o
-    - 📏 $4.05 · MC $646M · options ±27% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%
+    - 📏 $3.94 · MC $646M · options ±29% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%
 - 📐 **Tue Nov 3** · [[HAWK]] · IPO lock-up ends
 - 📐 **Tue Nov 3** · [[SUJA]] · IPO lock-up ends
 - 📊 Earnings: [[ALKS]] (pre), [[ALMR]] (post), [[AMGN]] (post), [[AMRX]] (pre), [[AQST]] (post), [[ARDX]] (post), [[ARVN]] (pre), [[BMEA]], [[BNTX]] (pre), [[BOLD]], [[CMPS]], [[CNTA]], [[CORT]] (post), [[CPRX]], [[DNLI]], [[DTIL]], [[DVAX]], [[GBIO]], [[GOSS]] (pre), [[IFRX]], [[MCRB]], [[MDGL]] (pre), [[MIRM]] (post), [[NXTC]], [[OCS]] (pre), [[PFE]] (pre), [[RARE]] (post), [[RVTY]] (pre), [[RYTM]] (pre), [[SHC]] (pre), [[STVN]] (pre), [[TARS]], [[TECH]], [[TPST]] (post), [[TYRA]], [[WAT]] (pre), [[XFOR]], [[ZVRA]] (post)
@@ -21,9 +21,9 @@ Updated Mon Nov 02, 07:14 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Wed Nov 4** · [[MOBI]] · IPO lock-up ends
 - 📐 **Wed Nov 4** · [[ODTX]] · IPO lock-up ends
 - ✅ **Thu Nov 5** · [[IMUX]] · Immunic to Host Virtual Progressive Multiple Sclerosis R&D Day on November 5, 2026
-    - 📏 $7.51 · MC $101M · options ±37% by Nov 20 · volatility 85% · usual day ±3.6% · biggest day +17% / −15%
+    - 📏 $7.41 · MC $101M · options ±34% by Nov 20 · volatility 85% · usual day ±3.6% · biggest day +17% / −15%
 - 📐 **Sat Nov 7** · [[BLTE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 8 submission: Belite Bio Announces Submission of New Drug Application — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - 📏 $154.74 · MC $6.1B · volatility 41% · usual day ±2.3% · biggest day +13% / −10%
+    - 📏 $154.22 · MC $6.1B · volatility 40% · usual day ±2.3% · biggest day +13% / −10%
 - 📐 **Sat Nov 7** · [[BOT]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[SHFH]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[VDTA]] · SPAC merger / direct listing lock-up ends
