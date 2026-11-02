@@ -147,6 +147,14 @@ def check(t, cal_row, today):
 def main():
     today = dt.datetime.now(CT).date()
     lev = leveraged_map()
+    try:   # a cut-short Nasdaq download once left 64 of 223 stocks: keep the last good map instead
+        with open(os.path.join(OUT_DIR, "leveraged.json"), encoding="utf-8") as f:
+            old = json.load(f).get("items") or {}
+        if len(lev) < 0.8 * len(old):
+            print(f"2x map came back with {len(lev)} stocks vs {len(old)} last time; keeping the last one")
+            lev = old
+    except (OSError, ValueError):
+        pass
     with open(os.path.join(OUT_DIR, "leveraged.json"), "w", encoding="utf-8") as f:
         json.dump({"updated": dt.datetime.now(CT).isoformat(timespec="minutes"), "items": lev}, f, separators=(",", ":"))
     try:
