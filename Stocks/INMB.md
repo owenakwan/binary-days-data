@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=INMB)
 
-- ❓ **Thu Nov 5** · INMB · Earnings
+- ❓ **Thu Nov 5** · INMB · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

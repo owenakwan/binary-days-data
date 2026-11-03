@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TNXP)
 
-- ❓ **Mon Nov 9** · TNXP · Earnings
+- ❓ **Mon Nov 9** · TNXP · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

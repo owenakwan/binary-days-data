@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · DNLI · Data expected end of 2026 — _A window the company gave, not an exact day._
     - Source: [DNLI SEC 8-K (2026-08-06)](https://www.sec.gov/Archives/edgar/data/1714899/000171489926000096/ex991pressreleaseq22026.htm) — "Denali now expects results from the study in 2027, updated from its prior expectation of results by the end of 2026."
-- ❓ **Tue Nov 3** · DNLI · Earnings
+- ❓ **Tue Nov 3** · DNLI · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=HRTX)
 
-- ❓ **Mon Nov 9** · HRTX · Earnings
+- ❓ **Mon Nov 9** · HRTX · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

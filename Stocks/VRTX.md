@@ -8,9 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=VRTX)
 
-- ✅ **Mon Nov 30** · VRTX · FDA decision
-    - 📏 $547.40 · MC $129.3B · options ±9% by Dec 4 · volatility 28% · usual day ±1.4% · biggest day +8% / −5%
-    - Source: [VRTX SEC 10-Q (2026-08-04) + 1 more filing](https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm) — "• The FDA accepted our biologics license application for accelerated approval of povetacicept for adults with IgAN and assigned a PDUFA target action date of November 30, 2026."
+- ✅ **now–Dec 31** · VRTX · Data expected end of 2026 — _A window the company gave, not an exact day._
+    - Source: [VRTX SEC 8-K (2026-11-02)](https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/ex-991_q32026.htm) — "Vertex remains on track to complete enrollment in both Phase 3 studies of suzetrigine in diabetic peripheral neuropathy (DPN), a form of peripheral neuropathic pain (PNP), by the end of 2026 and to share results in mid-2"
 
 ## My notes
 

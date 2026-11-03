@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SIGA)
 
-- ❓ **Mon Nov 9** · SIGA · Earnings
+- ❓ **Mon Nov 9** · SIGA · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

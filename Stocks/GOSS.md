@@ -11,10 +11,10 @@ tags: [catalyst, biotech]
 - ❓ **Tue Nov 3** · GOSS · Earnings (before open)
     - Source: Finnhub earnings calendar
 - 📐 **Nov 17–Dec 12** · GOSS · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
-    - 📏 $9.52 · MC $57M · options ±72% by Jan 15 · volatility 81% · usual day ±4.7% · biggest day +46% / −80%
+    - 📏 $9.45 · MC $57M · options ±73% by Jan 15 · volatility 79% · usual day ±4.5% · biggest day +46% / −80%
     - Source: [GOSS SEC 8-K (2026-09-23)](https://www.sec.gov/Archives/edgar/data/1728117/000172811726000104/goss-20260923.htm) — "On September 23, 2026, Gossamer Bio, Inc. (the “Company”) announced that it submitted a New Drug Application (“NDA”) to the U.S."
 - 📐 **Sun Nov 22** · GOSS · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 23 submission: Gossamer Bio Submits New Drug Application to U.S. FDA  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - 📏 $9.52 · MC $57M · options ±72% by Jan 15 · volatility 81% · usual day ±4.7% · biggest day +46% / −80%
+    - 📏 $9.45 · MC $57M · options ±73% by Jan 15 · volatility 79% · usual day ±4.5% · biggest day +46% / −80%
     - Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbk5XSjBkRE5ZRTZGWHl2LU5sbGRxeVdoSzhYQ19aUzRTWEdfMWsxVFFBX0V0cVJRcWxDQ3V3WW0wVkxXYnhTbjFhSWxyOHh4MlBYeUdhWU1lNW56MlNFejdzSURKdncxQkpvM1lmdHQ2bTdHalhmLWppbXhfX3B6SUZuUXF4ZnNIb01OeTAtd2xrbDA5UDVhOFZRcXpvQzA?oc=5) — "FDA decision on accepting the filing, usually ~day 60-74 after the Sep 23 submission: Gossamer Bio Submits New Drug Application to U.S. FDA for Seralutinib for the Treatment of Pulmonary Arterial Hype"
 
 ## My notes

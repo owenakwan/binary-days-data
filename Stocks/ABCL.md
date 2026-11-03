@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · ABCL · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [ABCL SEC 8-K (2026-08-05)](https://www.sec.gov/Archives/edgar/data/1703057/000170305726000044/q22026earningspressrelease.htm) — "• Completed dosing for the Phase 1 study of ABCL575, with top-line data readout expected in Q4 2026."
-- ❓ **Mon Nov 9** · ABCL · Earnings
+- ❓ **Mon Nov 9** · ABCL · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

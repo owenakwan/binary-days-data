@@ -8,8 +8,10 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SNDX)
 
-- ✅ **now–Dec 31** · SNDX · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-    - Source: [SNDX SEC 8-K (2026-08-04)](https://www.sec.gov/Archives/edgar/data/1395937/000119312526332736/sndx-ex99_1.htm) — "Topline data expected in 4Q26 from Phase 2 trials of axatilimab in IPF and frontline cGVHD –"
+- ✅ **now–Dec 31** · SNDX · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - Source: [SNDX SEC 8-K (2026-11-02)](https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-ex99_1.htm) — "New revumenib data expected in 4Q26 from clinical trials and real-world studies spanning the acute leukemia treatment continuum and multiple genetic subtypes –"
+- ✅ **Jan 1–Mar 31** · SNDX · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+    - Source: [SNDX SEC 8-K (2026-11-02)](https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-ex99_1.htm) — "• The Company expects topline data from the Phase 2 trial of axatilimab in combination with ruxolitinib to be presented at a medical meeting in the first quarter of 2027."
 
 ## My notes
 
