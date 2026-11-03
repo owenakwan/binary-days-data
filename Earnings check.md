@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Nov 03, 10:36 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Tue Nov 03, 04:06 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -177,7 +177,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[QNT]] Quantinuum Inc. · after close · 2x: QNTU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finance.yahoo.com/news/quantinuum-report-third-quarter-financial-200500172.html?.tsrc=rss)
+    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/quantinuum-report-third-quarter-financial-200500029.html?.tsrc=rss)
 - ✅ [[SMR]] NuScale Power Corporation · after close · 2x: SMRX, SMU, SMUP
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -257,10 +257,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[AMPX]] Amprius Technologies, Inc. · after close · 2x: AMPU
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-- ✅✅ [[RGTI]] Rigetti Computing, Inc. · after close · 2x: RGTC, RGTU, RGTX
-    - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-    - company announcement: 2026-11-10 — [Rigetti Computing to Report Third Quarter 2026 Financial Results and Host Conference Call on November 10, 2026](https://finnhub.io/api/news?id=a144629be548283ada19920d39f68b862f1774dfa286a3c2f0c06ca4d726452e)
 - ✅ [[BTDR]] Bitdeer Technologies Group · time not given · 2x: BTDL
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
@@ -274,10 +270,12 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[LWLG]] Lightwave Logic, Inc. · time not given · 2x: LWLX
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-- ✅✅ [[QBTS]] D-Wave Quantum Inc. · time not given · 2x: QBTX, QUA
+- ✅ [[QBTS]] D-Wave Quantum Inc. · time not given · 2x: QBTX, QUA
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finnhub.io/api/news?id=1a4087b269ecc6d22362c434d6a6e59264b8dc0c03ca790bfddba3bdd838a6ea)
+- ✅ [[RGTI]] Rigetti Computing, Inc. · time not given · 2x: RGTC, RGTU, RGTX
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
 - ❓ [[SBET]] Sharplink, Inc. · time not given · 2x: SBTU
     - Finnhub calendar: 2026-11-10
     - Yahoo (estimate): 2026-11-10
