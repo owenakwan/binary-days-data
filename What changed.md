@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-03 02:39 AM CT
+
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - 📏 $3.94 · MC $646M · options ±27% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%
+
 ## 2026-11-02 07:15 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[JAZZ]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._

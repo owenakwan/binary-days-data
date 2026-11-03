@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · JAZZ · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [JAZZ SEC 8-K (2026-11-02)](https://www.sec.gov/Archives/edgar/data/1232524/000123252426000056/a3q26earningsrelease.htm) — "• Expect to present initial patient data at a medical meeting in 4Q26. 2 Capital Structure In the third quarter of 2026, the company completed a private placement of $1.25 billion aggregate principal amount of 1.875% exc"
-- ❓ **Mon Nov 2** · JAZZ · Earnings (after close)
-    - Source: Finnhub earnings calendar
 
 ## My notes
 
