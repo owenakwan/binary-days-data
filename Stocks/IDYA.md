@@ -8,8 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IDYA)
 
-- ✅ **now–Dec 31** · IDYA · Data expected end of 2026 — _A window the company gave, not an exact day._
-    - Source: [IDYA SEC 8-K (2026-08-04)](https://www.sec.gov/Archives/edgar/data/1676725/000119312526331381/idya-ex99_1.htm) — "IDEAYA is having discussions with the FDA to align on the design of a Phase 3 registrational trial of IDE849 in refractory SCLC and/or NEC and plans to provide more detail on the proposed trial design with its data updat"
+- ✅ **now–Dec 31** · IDYA · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+    - Source: [IDYA SEC 8-K (2026-11-03)](https://www.sec.gov/Archives/edgar/data/1676725/000119312526444225/idya-ex99_1.htm) — "Updated data from Hengrui-sponsored Phase 1 trial of IDE849 (DLL3 TOP1 ADC) presented at ESMO 2026 demonstrates robust anti-tumor activity and encouraging survival benefit in relapsed small cell lung cancer (SCLC) and ne"
 
 ## My notes
 

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IMNN)
 
-- ❓ **Mon Nov 16** · IMNN · Earnings
+- ❓ **Thu Nov 12** · IMNN · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

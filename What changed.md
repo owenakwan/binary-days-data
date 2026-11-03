@@ -2,6 +2,12 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-03 10:31 AM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[FTH]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[IDYA]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[IDYA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-03 02:39 AM CT
 
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
