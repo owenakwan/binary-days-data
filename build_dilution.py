@@ -132,6 +132,8 @@ def main():
     items = [{**{k: r[k] for k in ("t", "name", "form", "date", "link", "atm")}, "kind": KIND.get(r["form"], r["form"]), "price": round(px[r["t"]], 2), **cash_of(r["t"])}
              for r in rows if ok(r["t"])]
     items.sort(key=lambda x: (x["date"], x["t"]), reverse=True)
+    seen = set()
+    items = [x for x in items if (x["t"], x["kind"]) not in seen and not seen.add((x["t"], x["kind"]))]   # newest of each kind per stock
     low = [{"t": t, "price": round(px[t], 2), "event": cat[t][0] if t in cat else None, **cash_of(t)} for t in names if ok(t) and (cash_of(t).get("runway") or 99) < 12]
     low.sort(key=lambda x: x["runway"])
     save("dilution.json", {"updated": stamp(), "days": DAYS, "items": items[:150], "low_cash": low[:80]})

@@ -68,7 +68,8 @@ def company_of(display_name):
 
 
 def upcoming_catalysts(days=45):
-    """{ticker: (date, what)} soonest binary event per stock, from the cross-checked list (verified.json)."""
+    """{ticker: (date, what)} soonest binary event per stock, from the cross-checked list (verified.json). A window that has
+    already opened ("by year-end") counts by its last day, so a far-off deadline doesn't look like it's due today."""
     today = now_ct().date().isoformat()
     last = (now_ct().date() + dt.timedelta(days=days)).isoformat()
     out = {}
@@ -77,9 +78,9 @@ def upcoming_catalysts(days=45):
         if not t or e.get("kind") not in ("fda", "readout", "adcom", "acceptance"):
             continue
         end = e.get("end") or d
-        if end < today or d > last:
+        day = d if d >= today else end
+        if end < today or day > last:
             continue
-        day = max(d, today)
         if t not in out or day < out[t][0]:
             out[t] = (day, (e.get("title") or "")[:120])
     return out
