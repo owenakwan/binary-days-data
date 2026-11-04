@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ❓ **Wed Nov 4** · OCGN · Earnings (before open)
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · OCGN · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [OCGN SEC 8-K (2026-10-15)](https://www.sec.gov/Archives/edgar/data/1372299/000110465926115921/tm2627592d1_ex99-1.htm) — "We look forward to working closely with Ocugen to build the diagnosis-to-treatment pathway that gene therapy requires across our markets, and to exploring further collaboration across Ocugen's ophthalmology pipeline." Oc"
+    - Source: [OCGN SEC 10-Q (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1372299/000162828026069835/ocgn-20260930.htm) — "Topline Phase 3 data is expected in the first quarter of 2027, with plans to submit a biologics license application ("BLA") shortly after."
 
 ## My notes
 

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PLX)
 
-- ❓ **Mon Nov 16** · PLX · Earnings
+- ❓ **Tue Nov 10** · PLX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,12 +8,14 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MLTX)
 
-- ✅ **now–Dec 31** · MLTX · Data expected end of 2026 — _A window the company gave, not an exact day._
-    - Source: [MLTX SEC 8-K (2026-08-10)](https://www.sec.gov/Archives/edgar/data/1821586/000121390026086939/ea030119101ex99-1.htm) — "PsA/axial spondyloarthritis (axSpA): Expected to report results from the P-OLARIS trial at the end of 2026 or early 2027 -Ends- 2 MoonLake Immunotherapeutics MoonLake Immunotherapeutics is a clinical-stage biopharmaceuti"
+- ✅ **now–Dec 31** · MLTX · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - Source: [MLTX SEC 8-K (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1821586/000182158626000013/moonlake-pressreleasexq320.htm) — "The Company expects to complete the VELA-TEEN clinical trial in the fourth quarter of 2026 and plans to submit final results for presentation at a scientific conference in the first quarter of 2027."
 - ❓ **Tue Nov 17** · MLTX · Earnings (before open)
     - Source: Finnhub earnings calendar
 - 📐 **Nov 24–Dec 19** · MLTX · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
-    - Source: [MLTX SEC 8-K (2026-09-30)](https://www.sec.gov/Archives/edgar/data/1821586/000121390026105240/ea0307097-8k_moonlake.htm) — "On September 30, 2026, MoonLake Immunotherapeutics (the “Company”) submitted a Biologics License Application (“BLA”) to the U.S."
+    - Source: [MLTX SEC 8-K (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1821586/000182158626000013/moonlake-pressreleasexq320.htm) — "Third Quarter 2026 Business Highlights Hidradenitis suppurativa: On September 30, 2026, the Company submitted a Biologics License Application (BLA) to the U.S."
+- ✅ **Jan 1–Mar 31** · MLTX · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+    - Source: [MLTX SEC 8-K (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1821586/000182158626000013/moonlake-pressreleasexq320.htm) — "Enrollment completed in the Phase 3 IZAR-2 trial in psoriatic arthritis, with initial topline results expected in Q1 2027 following the predefined unblinding protocol"
 
 ## My notes
 
