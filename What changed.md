@@ -2,6 +2,20 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-04 04:36 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[ARQT]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[EOLS]] · Data expected by year-end — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Nov 30** · [[KLRA]] · Data expected November 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[LYEL]] · Data expected by year end — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[SLDB]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[XNCR]] · Data expected by year end — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[ARQT]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[XFOR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ARQT]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[SLDB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Mon Jan 4** · [[NUVB]] · FDA decision (ibtrozi, nsclc, ros1, tki-)
+
 ## 2026-11-04 11:04 AM CT
 
 - 🆕 New: ✅ **now–Nov 30** · [[APRE]] · Data expected November 2026 — _A window the company gave, not an exact day._

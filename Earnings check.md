@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 04, 11:09 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 04, 04:41 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -49,7 +49,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[RDW]] Redwire Corporation · after close · 2x: RDWU
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
-    - company announcement: 2026-11-04 — [Redwire Corporation to Report Third Quarter 2026 Results on November 4, 2026](https://finnhub.io/api/news?id=8401ccab6e083a36ed2522ce172151c776ec79ea47f9f3d90c18aa6392b906b4)
+    - company announcement: 2026-11-04 — [Redwire Corporation to Report Third Quarter 2026 Results on November 4, 2026](https://finance.yahoo.com/markets/stocks/articles/redwire-corporation-report-third-quarter-203000630.html?.tsrc=rss)
 - ✅✅ [[SITM]] SiTime Corporation · after close · 2x: SITX
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
@@ -187,16 +187,16 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[CEG]] Constellation Energy Corporation · before open · 2x: CEGX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-- ✅ [[ACHR]] Archer Aviation Inc. · after close · 2x: ACHX, ARCX
+- ✅✅ [[ACHR]] Archer Aviation Inc. · after close · 2x: ACHX, ARCX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
+    - company announcement: 2026-11-09 — [Archer To Report Third Quarter 2026 Operating Update and Financial Results on November 9th, 2026](https://finnhub.io/api/news?id=a4380fa43ebbd3ab48fe34f18965036af6cf7cb703886494197ee1d4c7d0c5cb)
 - ✅ [[ASTS]] AST SpaceMobile, Inc. · after close · 2x: ASTG, ASTT, ASTX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-- ✅✅ [[HIMS]] Hims & Hers Health, Inc. · after close · 2x: HIMC, HIMZ
+- ✅ [[HIMS]] Hims & Hers Health, Inc. · after close · 2x: HIMC, HIMZ
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-    - company announcement: 2026-11-09 — [Hims & Hers to Announce Third Quarter 2026 Financial Results on November 9, 2026](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVGUwalZkYUs3ZUxpZXhpMU45RktBZElUSERyN2NDT29RVGFZeFVlQjQ5QjVCZlo4N01yaV9fT1kzRmJjRmlHd0xYeGpkMjFtVGNETlhNTk9pcXNXcHFCWENFZTc3NkJvbHlVR0VlM3hid3g1VG5jNnJyN1MwSlNLTk8wVVVwb2MwSVFCU3hiUVRnd2lzay1tUEJsQkh3Z0N5am5XWVR3QlZEdGhBa2k4UjVWdTlRWW5JZjZBTjF0MFhsb1oxdmFaQXBybzdyXzBxZGZHekNYNVE?oc=5)
 - ✅ [[MARA]] MARA Holdings, Inc. · after close · 2x: MHX, MRAL
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
@@ -210,7 +210,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[QUBT]] Quantum Computing Inc. · after close · 2x: QUBX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-    - company announcement: 2026-11-09 — [Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026](https://finance.yahoo.com/markets/stocks/articles/quantum-computing-inc-host-third-123000496.html?.tsrc=rss)
+    - company announcement: 2026-11-09 — [Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026](https://finnhub.io/api/news?id=835595cb303078aea649fa9e8c001d624763ce47db00ee1552f20e841435c2ce)
 - ✅ [[RKLB]] Rocket Lab Corporation · after close · 2x: RKLX, RKX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09

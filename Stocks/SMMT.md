@@ -11,8 +11,8 @@ tags: [catalyst, biotech]
 - ❓ **Wed Nov 11** · SMMT · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Sat Nov 14** · SMMT · FDA decision
-    - 📏 $15.58 · MC $13.8B · options ±32% by Nov 20 · volatility 66% · usual day ±3.5% · biggest day +17% / −25%
-    - Source: [SMMT SEC 8-K (2026-09-29) + 14 more filings](https://www.sec.gov/Archives/edgar/data/1599298/000119312526405776/d178892dex991.htm) — "Detailed results of the study were provided in September 2025, and a Biologics License Application (BLA) was submitted to the United States Food and Drug Administration (FDA) for marketing authorization, which the FDA accepted for filing in January 2026; the g"
+    - 📏 $16.17 · MC $13.8B · options ±26% by Nov 20 · volatility 67% · usual day ±3.5% · biggest day +17% / −25%
+    - Source: [SMMT SEC 8-K (2026-11-04) + 15 more filings](https://www.sec.gov/Archives/edgar/data/1599298/000159929826000088/a2026_prx1105xq32026earn.htm) — "The FDA provided a Prescription Drug User Fee Act (PDUFA) goal action date of November 14, 2026."
     - Source: your sheet
 
 ## My notes
