@@ -125,6 +125,17 @@ jobs:
             git push -q "$REPO" HEAD:vault
           fi
 
+      - name: Site tools (squeeze screener, unusual options, dilution tracker, catalyst track record)
+        continue-on-error: true
+        env:
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+          OUT_DIR: out
+        run: |
+          python build_squeeze.py || echo "squeeze list failed"
+          python build_options_flow.py || echo "options flow failed"
+          python build_dilution.py || echo "dilution tracker failed"
+          python build_track_record.py || echo "track record failed"
+
       - name: Publish to the data branch (one commit, replaced each run)
         run: |
           cd out

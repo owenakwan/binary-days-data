@@ -1,0 +1,28 @@
+name: Test site tools
+# Runs the tool lists on their own without publishing, to check them after a change (SEC blocks other machines).
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - run: git fetch --depth=1 origin data:data && git worktree add out data
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Run the tools
+        env:
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+          OUT_DIR: out
+        run: |
+          python build_squeeze.py
+          python build_dilution.py
+          python build_track_record.py
+          rm -f out/options_flow.json
+          python build_options_flow.py
+      - name: Show samples
+        run: |
+          for f in squeeze dilution track_record options_flow; do echo "== $f"; ls -la out/$f.json; head -c 1800 out/$f.json; echo; done
