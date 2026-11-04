@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ❓ **Tue Nov 3** · CORT · Earnings (after close)
     - Source: Finnhub earnings calendar
 - ✅ **Thu Dec 17** · CORT · FDA decision (easd, important)
-    - 📏 $81.93 · MC $12.7B · options ±30% by Dec 18 · volatility 77% · usual day ±2.2% · biggest day +27% / −50%
+    - 📏 $81.93 · MC $12.7B · options ±30% by Dec 18 · volatility 78% · usual day ±2.2% · biggest day +27% / −50%
     - Source: [CORT SEC 8-K (2026-11-03) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1088856/000162828026069494/cort110326ex991pressrelease.htm) — "Relacorilant for patients with Cushing’s syndrome – Resubmitted New Drug Application Prescription Drug User Fee Act (PDUFA) date of December 17, 2026 “The ADA and EASD consensus statement is an important advance for the many patients whose difficult-to-control"
 
 ## My notes

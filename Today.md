@@ -1,11 +1,11 @@
 # Today · Tuesday, November 3
 
-Updated Tue Nov 03, 06:56 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Nov 03, 07:09 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
 - ✅ **Tue Nov 3** · [[ANNX]] · Annexon to Host Virtual Investor Event on November 3, 2026: Vonaprument for the Treatment of Geographic Atrophy - Highlighting Key Aspects o
-    - 📏 $4.19 · MC $646M · options ±22% by Nov 20 · volatility 76% · usual day ±2.9% · biggest day +27% / −10%
+    - 📏 $4.19 · MC $646M · options ±22% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%
 - 📐 **Tue Nov 3** · [[HAWK]] · IPO lock-up ends
 - 📐 **Tue Nov 3** · [[SUJA]] · IPO lock-up ends
 - 📊 Earnings: [[ALKS]] (pre), [[ALMR]] (post), [[AMGN]] (post), [[AMRX]] (pre), [[AQST]] (post), [[ARDX]] (post), [[ARVN]] (pre), [[BMEA]], [[BNTX]] (pre), [[BOLD]], [[CMPS]] (pre), [[CNTA]], [[CORT]] (post), [[CPRX]], [[DNLI]] (post), [[DTIL]] (pre), [[DVAX]], [[GBIO]], [[GOSS]] (pre), [[IFRX]], [[MCRB]], [[MDGL]] (pre), [[MIRM]] (post), [[NXTC]], [[OCS]] (post), [[PFE]] (pre), [[RARE]] (post), [[RVTY]] (pre), [[RYTM]] (pre), [[SHC]] (pre), [[STVN]] (pre), [[TARS]] (post), [[TECH]], [[TPST]] (post), [[TYRA]], [[WAT]] (pre), [[XFOR]], [[ZVRA]] (post)
@@ -20,7 +20,7 @@ Updated Tue Nov 03, 06:56 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Rest of this week
 
 - ✅ **Thu Nov 5** · [[IMUX]] · Immunic to Host Virtual Progressive Multiple Sclerosis R&D Day on November 5, 2026
-    - 📏 $7.60 · MC $101M · options ±24% by Nov 20 · volatility 86% · usual day ±3.7% · biggest day +17% / −15%
+    - 📏 $7.60 · MC $101M · options ±24% by Nov 20 · volatility 85% · usual day ±3.6% · biggest day +17% / −15%
 - 📐 **Sat Nov 7** · [[BLTE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 8 submission: Belite Bio Announces Submission of New Drug Application — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $152.17 · MC $6.1B · volatility 40% · usual day ±2.3% · biggest day +13% / −10%
 - 📐 **Sat Nov 7** · [[BOT]] · SPAC merger / direct listing lock-up ends
