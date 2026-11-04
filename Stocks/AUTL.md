@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · AUTL · Initial data expected end of 2026 — _A window the company gave, not an exact day._
     - Source: [AUTL SEC 10-K (2026-03-27)](https://www.sec.gov/Archives/edgar/data/1730463/000173046326000038/autl-20251231.htm) — "Initial data from the Phase 1 trial are expected to be reported at the end of 2026."
-- ❓ **Tue Nov 10** · AUTL · Earnings
+- ❓ **Tue Nov 10** · AUTL · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

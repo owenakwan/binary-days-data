@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=OCS)
 
-- ❓ **Tue Nov 3** · OCS · Earnings (before open)
+- ❓ **Tue Nov 3** · OCS · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

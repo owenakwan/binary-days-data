@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Nov 03, 04:06 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Tue Nov 03, 06:49 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -105,6 +105,12 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[VIAV]] Viavi Solutions Inc. · after close · 2x: VIAG
     - Finnhub calendar: 2026-11-04
     - Yahoo (confirmed): 2026-11-04
+- ✅ [[HUT]] Hut 8 Corp. · time not given · 2x: HUTG
+    - Finnhub calendar: 2026-11-04
+    - Yahoo (confirmed): 2026-11-04
+- ✅ [[NVO]] Novo Nordisk A/S · time not given · 2x: NVOC, NVOX
+    - Finnhub calendar: 2026-11-04
+    - Yahoo (confirmed): 2026-11-04
 
 ## Thursday, November 5
 
@@ -197,6 +203,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
+- ✅ [[PURR]] Hyperliquid Strategies Inc. · time not given · 2x: KATT, PUR
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (confirmed): 2026-11-05
 - ❓ [[USAR]] USA Rare Earth, Inc. · time not given · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-05
     - Yahoo (estimate): 2026-11-05
@@ -216,6 +225,12 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
 
+## Saturday, November 7
+
+- ✅ [[BRK-B]] Berkshire Hathaway Inc. · time not given · 2x: BRKL, BRKU
+    - Finnhub calendar: 2026-11-07
+    - Yahoo (confirmed): 2026-11-07
+
 ## Monday, November 9
 
 - ✅ [[CEG]] Constellation Energy Corporation · before open · 2x: CEGX
@@ -229,6 +244,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
 - ✅ [[HIMS]] Hims & Hers Health, Inc. · after close · 2x: HIMC, HIMZ
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (confirmed): 2026-11-09
+- ✅ [[MARA]] MARA Holdings, Inc. · after close · 2x: MHX, MRAL
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
 - ✅✅ [[ONTO]] Onto Innovation Inc. · after close · 2x: ONTX
@@ -248,38 +266,40 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
-- ✅ [[MARA]] MARA Holdings, Inc. · time not given · 2x: MHX, MRAL
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (confirmed): 2026-11-09
 
 ## Tuesday, November 10
 
+- ✅ [[BTDR]] Bitdeer Technologies Group · before open · 2x: BTDL
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+- ✅✅ [[QBTS]] D-Wave Quantum Inc. · before open · 2x: QBTX, QUA
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
+    - company announcement: 2026-11-10 — [D-Wave Quantum to Report Third Quarter 2026 Financial Results on November 10, 2026](https://finnhub.io/api/news?id=1a4087b269ecc6d22362c434d6a6e59264b8dc0c03ca790bfddba3bdd838a6ea)
+- ✅ [[WYFI]] WhiteFiber, Inc. · before open · 2x: WYFL
+    - Finnhub calendar: 2026-11-10
+    - Yahoo (confirmed): 2026-11-10
 - ✅ [[AMPX]] Amprius Technologies, Inc. · after close · 2x: AMPU
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-- ✅ [[BTDR]] Bitdeer Technologies Group · time not given · 2x: BTDL
+- ✅ [[CRWV]] CoreWeave, Inc. · after close · 2x: CRWG, CRWU, CRWX
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-- ✅ [[CRWV]] CoreWeave, Inc. · time not given · 2x: CRWG, CRWU, CRWX
-    - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅✅ [[FLY]] Firefly Aerospace Inc. · time not given · 2x: FLYT
+- ✅✅ [[FLY]] Firefly Aerospace Inc. · after close · 2x: FLYT
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
     - company announcement: 2026-11-10 — [Firefly Aerospace to Announce Third Quarter 2026 Financial Results on November 10, 2026](https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-announce-third-quarter-201500287.html?.tsrc=rss)
-- ✅ [[LWLG]] Lightwave Logic, Inc. · time not given · 2x: LWLX
+- ✅ [[LWLG]] Lightwave Logic, Inc. · after close · 2x: LWLX
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-- ✅ [[QBTS]] D-Wave Quantum Inc. · time not given · 2x: QBTX, QUA
+- ✅✅ [[RGTI]] Rigetti Computing, Inc. · after close · 2x: RGTC, RGTU, RGTX
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-- ✅ [[RGTI]] Rigetti Computing, Inc. · time not given · 2x: RGTC, RGTU, RGTX
-    - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
+    - company announcement: 2026-11-10 — [Rigetti Computing to Report Third Quarter 2026 Financial Results and Host Conference Call on November 10, 2026](https://finnhub.io/api/news?id=a144629be548283ada19920d39f68b862f1774dfa286a3c2f0c06ca4d726452e)
 - ❓ [[SBET]] Sharplink, Inc. · time not given · 2x: SBTU
     - Finnhub calendar: 2026-11-10
     - Yahoo (estimate): 2026-11-10
-- ✅ [[WYFI]] WhiteFiber, Inc. · time not given · 2x: WYFL
+- ✅ [[VELO]] Velo3D, Inc. · time not given · 2x: VELL
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
 
@@ -291,6 +311,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
+- ✅✅ [[XNDU]] Xanadu Quantum Technologies Limited · time not given · 2x: XNDX
+    - Finnhub calendar: 2026-11-11
+    - Yahoo (confirmed): 2026-11-11
+    - company announcement: 2026-11-11 — [Xanadu to Report Third Quarter 2026 Financial Results on November 11th, 2026](https://finnhub.io/api/news?id=f854263f6fcce8d3683552c231b1dc86427d83b46646ee4f24ff974db6d46937)
 
 ## Thursday, November 12
 
@@ -298,6 +322,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
 - ✅ [[CBRS]] Cerebras Systems Inc. · time not given · 2x: CBRG, CBRX
+    - Finnhub calendar: 2026-11-12
+    - Yahoo (confirmed): 2026-11-12
+- ✅ [[CSCO]] Cisco Systems, Inc. · time not given · 2x: CSCL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
 - ✅ [[FIGR]] Figure Technology Solutions, Inc. · time not given · 2x: FGRU

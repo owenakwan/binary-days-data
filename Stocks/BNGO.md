@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BNGO)
 
-- ❓ **Tue Nov 10** · BNGO · Earnings
+- ❓ **Tue Nov 10** · BNGO · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

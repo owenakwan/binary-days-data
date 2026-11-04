@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KMDA)
 
-- ❓ **Mon Nov 9** · KMDA · Earnings
+- ❓ **Mon Nov 9** · KMDA · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

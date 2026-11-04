@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DNA)
 
-- ❓ **Thu Nov 5** · DNA · Earnings
+- ❓ **Thu Nov 5** · DNA · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

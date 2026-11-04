@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Tue Nov 03, 04:01 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Tue Nov 03, 06:44 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 2
@@ -372,7 +372,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 3** · [[MDGL]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[MIRM]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[NXTC]] · Earnings
-- ❓ **Tue Nov 3** · [[OCS]] · Earnings (before open)
+- ❓ **Tue Nov 3** · [[OCS]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[PFE]] · Earnings (before open)
 - ❓ **Tue Nov 3** · [[RARE]] · Earnings (after close)
 - ❓ **Tue Nov 3** · [[RVTY]] · Earnings (before open)

@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · TGTX · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
     - Source: [TGTX SEC 10-Q (2026-08-05)](https://www.sec.gov/Archives/edgar/data/1001316/000143774926025955/tgtx20260630_10q.htm) — "Topline data from the Phase 3 trial is expected around year-end 2026 or first quarter 2027."
-- ❓ **Mon Nov 9** · TGTX · Earnings
+- ❓ **Mon Nov 9** · TGTX · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BCAX)
 
-- ❓ **Mon Nov 9** · BCAX · Earnings
+- ❓ **Mon Nov 9** · BCAX · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
