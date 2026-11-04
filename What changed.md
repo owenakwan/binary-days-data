@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-04 03:10 AM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Sat Dec 19** · [[MTNE]] · SPAC merger / direct listing lock-up ends
+
 ## 2026-11-03 04:01 PM CT
 
 - 🆕 New: ✅ **now–Nov 30** · [[ARVN]] · Data expected November 2026 — _A window the company gave, not an exact day._

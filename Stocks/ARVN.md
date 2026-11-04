@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Nov 30** · ARVN · Data expected November 2026 — _A window the company gave, not an exact day._
     - Source: [ARVN SEC 10-Q (2026-11-03)](https://www.sec.gov/Archives/edgar/data/1655759/000162828026069464/arvn-20260930.htm) — "We plan to present preclinical data where we observed ARV-6723’s superior activity and anti-tumor responses compared to ICIs in checkpoint-resistant models at the Society for Immunotherapy of Cancer Annual Meeting in Nov"
-- ❓ **Tue Nov 3** · ARVN · Earnings (before open)
-    - Source: Finnhub earnings calendar
 
 ## My notes
 
