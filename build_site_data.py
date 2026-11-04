@@ -580,10 +580,14 @@ def earnings(today, names):
     start, end = monday(today), monday(today) + dt.timedelta(days=7 * WEEKS_AHEAD - 1)
     rows, seen = [], set()
     d = start
-    while d <= end:  # one call per week keeps each response small
-        chunk_end = min(d + dt.timedelta(days=6), end)
+    while d <= end:  # one call per day: a week-long call stopped around 1,500 rows in peak weeks and lost PLTR
+        chunk_end = d
         res = finnhub("calendar/earnings", **{"from": d.isoformat(), "to": chunk_end.isoformat()}) or {}
-        for e in res.get("earningsCalendar", []):
+        got = res.get("earningsCalendar", [])
+        log(f"Earnings calendar {d}: {len(got)} rows")
+        if len(got) >= 1400:
+            log(f"[warn] Earnings calendar {d}: {len(got)} rows, the response may be cut short")
+        for e in got:
             s = (e.get("symbol") or "").upper()
             if not ok_sym.match(s) or (s, e.get("date")) in seen:
                 continue

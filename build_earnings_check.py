@@ -29,7 +29,7 @@ API = "https://binary-days-api.binary-days-api.workers.dev"
 NASDAQ_DIR = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqtraded.txt"
 DAYS = 10
 MAX_AGE_H = 3
-CHECK_V = 2   # bump when the checking rules change, so cached results are redone
+CHECK_V = 3   # bump when the checking rules change, so cached results are redone
 ALIAS = {"apple": "AAPL", "alphabet": "GOOGL", "google": "GOOGL", "nvidia": "NVDA", "amazon": "AMZN", "microsoft": "MSFT", "meta": "META",
          "tesla": "TSLA", "netflix": "NFLX", "broadcom": "AVGO", "palantir": "PLTR", "brkb": "BRK-B", "coinbase": "COIN", "oracle": "ORCL"}
 NOT_CO = {"daily", "target", "long", "short", "china", "bitcoin", "ether", "copper", "gold", "silver", "india", "memory", "dram", "space", "quantum"}
@@ -125,8 +125,13 @@ def check(t, cal_row, today):
         ann = None
     srcs = []
     fin_date = cal_row[1] if cal_row else None
+    moved = None
+    if nx.get("confirmed") is True and nx.get("date") and nx["date"] != fin_date:
+        # the stock's own lookup is fresher than the bulk calendar, and Yahoo confirms it (ARM: bulk Nov 5, really Nov 4)
+        moved, fin_date = fin_date, nx["date"]
+        cal_row = None
     if fin_date:
-        srcs.append({"name": "Finnhub calendar", "date": fin_date})
+        srcs.append({"name": "Finnhub calendar" if not moved else "stock's own lookup", "date": fin_date})
     y_conf = nx.get("confirmed") is True and nx.get("date") == fin_date
     if nx.get("date"):
         srcs.append({"name": "Yahoo" + (" (confirmed)" if nx.get("confirmed") else " (estimate)"), "date": nx["date"]})
@@ -139,6 +144,7 @@ def check(t, cal_row, today):
     else:
         status = "confirmed" if y_conf and not failed else "estimate"
     note = (f"Calendars said {fin_date or nx.get('date')}; the company's release says {ann[0]}." if status == "conflict"
+            else f"The bulk calendar said {moved}; Yahoo confirms {fin_date}." if moved
             else "A lookup failed; checking again next run." if failed else "")
     return t, {"date": date, "hour": hour, "status": status, "name": name, "sources": srcs, "note": note,
                "at": 0 if failed else time.time()}   # failed lookups are re-checked on the next run
@@ -164,6 +170,16 @@ def main():
         cal = {}
     end = (today + dt.timedelta(days=DAYS)).isoformat()
     rows = {r[0]: r for r in cal.get("rows") or [] if r[0] in lev and today.isoformat() <= r[1] <= end}
+    # backup: ask directly about 2x stocks the bulk calendar doesn't list (it once lost PLTR). 3 at a time: faster and Yahoo refuses
+    missing = [t for t in lev if t not in rows]
+    def lookup(t):
+        return t, (get("/api/earnings", s=t).get("next") or {})
+    with ThreadPoolExecutor(3) as ex:
+        for t, nx in ex.map(lookup, missing):
+            if nx.get("date") and today.isoformat() <= nx["date"] <= end:
+                rows[t] = [t, nx["date"], nx.get("hour") or ""]
+    print(f"Earnings check: {len(missing)} 2x stocks not in the bulk calendar looked up directly; "
+          f"{sum(len(rows[t]) == 3 for t in rows)} of them report by {end}: {sorted(t for t in rows if len(rows[t]) == 3)}")
     try:
         with open(os.path.join(OUT_DIR, "earnings_check.json"), encoding="utf-8") as f:
             j = json.load(f)
