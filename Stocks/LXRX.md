@@ -13,7 +13,7 @@ tags: [catalyst, biotech]
 - ❓ **Thu Nov 5** · LXRX · Earnings (before open)
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · LXRX · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [LXRX SEC 8-K (2026-08-06)](https://www.sec.gov/Archives/edgar/data/1062822/000106282226000112/pressreleaseearningsq208-0.htm) — "• Lexicon continues to expect topline results in the first quarter of 2027."
+    - Source: [LXRX SEC 8-K (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1062822/000106282226000124/pressreleaseearningsq311-0.htm) — "• Lexicon continues to expect topline results in the first quarter of 2027."
 
 ## My notes
 

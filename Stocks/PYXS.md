@@ -8,10 +8,12 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PYXS)
 
-- ✅ **now–Dec 31** · PYXS · Data expected Q4 2026 — _A window the company gave, not an exact day._
-    - Source: [PYXS SEC 8-K (2026-09-09)](https://www.sec.gov/Archives/edgar/data/1782223/000119312526385901/pyxs-ex99_1.htm) — "Combination with KEYTRUDA® (pembrolizumab) Pyxis Oncology expects to report updated data from the ongoing Phase 1/2 combination dose escalation study of MICVO and Merck’s (known as MSD outside of the US and Canada) anti-"
+- ✅ **now–Nov 30** · PYXS · Data expected November 2026 — _A window the company gave, not an exact day._
+    - Source: [PYXS SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1782223/000119312526448612/pyxs-20260930.htm) — "In November 2026, data from our Phase 1 monotherapy study in previously treated R/M HNSCC are expected to be presented in a late-breaking oral presentation at the 38th EORTC-NCI-AACR Symposium on Molecular Targets and Ca"
 - ❓ **Tue Nov 17** · PYXS · Earnings (before open)
     - Source: Finnhub earnings calendar
+- ✅ **Dec 1–Dec 31** · PYXS · Data expected December 2026 — _A window the company gave, not an exact day._
+    - Source: [PYXS SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1782223/000119312526448612/pyxs-20260930.htm) — "We plan to provide a corporate update in December 2026 that we expect will outline a comprehensive development strategy for MICVO in R/M HNSCC, including how emerging combination data inform potential opportunities acros"
 
 ## My notes
 

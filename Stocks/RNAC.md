@@ -8,8 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RNAC)
 
-- ✅ **Jan 1–Mar 31** · RNAC · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [RNAC SEC 8-K (2026-09-29)](https://www.sec.gov/Archives/edgar/data/1453687/000145368726000105/pressrelease9292026.htm) — "These data strengthen our conviction in Descartes-08 as we approach topline results from our Phase 3 AURORA trial, expected in the first quarter of 2027.” Descartes-08 was previously granted Regenerative Medicine Advance"
+- ✅ **Jan 1–Mar 31** · RNAC · Data expected Q1 2027 — _A window the company gave, not an exact day._
+    - Source: [RNAC SEC 8-K (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1453687/000145368726000110/exhibit991_earningsrelease.htm) — "Phase 3 AURORA Trial of Descartes-08 in Participants with MG Advances Towards Expected Data Readout in 1Q27, with BLA Planned for Mid-2027."
 
 ## My notes
 

@@ -8,8 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DYN)
 
-- ✅ **Jan 1–Mar 31** · DYN · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [DYN SEC 8-K (2026-09-29)](https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-ex99_1.htm) — "The change from baseline in vHOT at 6 months is the primary endpoint of the ACHIEVE REC, from which topline data are expected in Q1 2027 to support a potential Biologics License Application (BLA) submission for U.S."
+- ✅ **Jan 1–Mar 31** · DYN · Data expected Q1 2027 — _A window the company gave, not an exact day._
+    - Source: [DYN SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm) — "We plan to announce data from the REC in the first quarter of 2027 to support a potential BLA submission to the FDA for U.S."
 
 ## My notes
 

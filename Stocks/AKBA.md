@@ -1,17 +1,18 @@
 ---
 ticker: AKBA
-company: "Akebia Therapeutics, Inc."
+company: "Akebia Therapeutics Inc"
 tags: [catalyst, biotech]
 ---
 
-# AKBA · Akebia Therapeutics, Inc.
+# AKBA · Akebia Therapeutics Inc
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AKBA)
 
-- ✅ **now–Dec 31** · AKBA · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-    - Source: [AKBA SEC 8-K (2026-05-07)](https://www.sec.gov/Archives/edgar/data/1517022/000151702226000038/q12026pr.htm) — "• Akebia expects topline data from VOCAL, a Phase 3b trial evaluating three times weekly (TIW) dosing of Vafseo versus ESAs, in Q4 2026 and topline data from VOICE, a large Phase IV trial of over 2,100 patients evaluatin"
 - ❓ **Thu Nov 5** · AKBA · Earnings (before open)
     - Source: Finnhub earnings calendar
+- ❓ **Mon Nov 30** · AKBA · FDA decision (april, baff) — _Only one filing states this date._
+    - 📏 $0.46 · MC $242M · options ±44% by Dec 18 · volatility 146% · usual day ±4.0% · biggest day +16% / −34%
+    - Source: [AKBA SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1517022/000151702226000084/akba-20260930.htm) — "Vertex submitted a BLA for povetacicept, a dual antagonist of the BAFF and APRIL cytokines, for the treatment of IgAN, which was accepted by the FDA for accelerated approval and assigned a November 30, 2026 Prescription Drug User Fee Act target action date."
 
 ## My notes
 

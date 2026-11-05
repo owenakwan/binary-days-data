@@ -13,7 +13,7 @@ tags: [catalyst, biotech]
 - ❓ **Mon Nov 16** · MTVA · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · MTVA · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [MTVA SEC 8-K (2026-09-09)](https://www.sec.gov/Archives/edgar/data/1638287/000110465926106156/mtva-20260909xex99d1.htm) — "We anticipate reporting 16-week topline data in the fourth quarter of this year, followed by 24-week topline results in the first quarter of 2027." ​ The preclinical study data also demonstrated prolonged retention of DA"
+    - Source: [MTVA SEC 8-K (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1638287/000110465926123110/mtva-ex99d2.htm) — "DA-1726 Tirzepatide Retatrutide Mazdutide Survodutide Pemvidutide Mechanism GLP-1/GCG dual agonist 3:1 GLP1R:GCGR ratio GLP-1/GIP dual agonist GLP-1/GIP/GCG triple agonist GLP-1/GCG dual agonist GLP-1/GCG dual agonist GL"
 
 ## My notes
 

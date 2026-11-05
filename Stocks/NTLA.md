@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=NTLA)
 
-- ❓ **Thu Nov 5** · NTLA · Earnings
+- ❓ **Thu Nov 5** · NTLA · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

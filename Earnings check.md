@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Nov 05, 04:57 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Nov 05, 12:25 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -54,10 +54,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[MCHP]] Microchip Technology Incorporated · after close · 2x: MCHG, MCHU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅✅ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
+- ✅ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/monster-beverage-report-financial-results-120500004.html?.tsrc=rss)
 - ✅ [[MP]] MP Materials Corp. · after close · 2x: MPG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -190,7 +189,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 - ❓ [[ECHO]] EchoStar Corporation · time not given · 2x: ECHX
     - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11

@@ -2,6 +2,35 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-05 12:20 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[GLUE]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[PVLA]] · Data expected by year-end — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Nov 30** · [[PYXS]] · Data expected November 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[STTK]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[TRDA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[XERS]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Sun Nov 15** · [[AMLX]] · Data expected November 15, 2026 — _A window the company gave, not an exact day._
+    - 📏 $28.34 · MC $3.4B · options ±13% by Nov 20 · volatility 43% · usual day ±3.5% · biggest day +64% / −8%
+- 🆕 New: ✅ **Tue Nov 17** · [[AGL]] · agilon health to Host Virtual Investor Event “Driving Performance At Scale: The agilon Framework” on November 17, 2026
+    - 📏 $105.78 · MC $1.4B · options ±14% by Nov 20 · volatility 53% · usual day ±2.5% · biggest day +118% / −27%
+- 🆕 New: ❓ **Mon Nov 30** · [[AKBA]] · FDA decision (april, baff) — _Only one filing states this date._
+    - 📏 $0.46 · MC $242M · options ±44% by Dec 18 · volatility 146% · usual day ±4.0% · biggest day +16% / −34%
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[PYXS]] · Data expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Dec 26–Jan 20** · [[AGIO]] · FDA acceptance expected Dec 26–Jan 20, 2027 (submitted Nov 1) — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Dec 30–Jan 24** · [[CLYM]] · FDA acceptance expected Dec 30–Jan 24, 2027 (submitted Nov 5) — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Dec 30–Jan 24** · [[PVLA]] · FDA acceptance expected Dec 30–Jan 24, 2027 (submitted Nov 5) — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[DYN]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[RNAC]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[AKBA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+    - 📏 $0.46 · MC $242M · options ±44% by Dec 18 · volatility 146% · usual day ±4.0% · biggest day +16% / −34%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[PYXS]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TENX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TRDA]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ❓ **Sun Dec 27** · [[VTRS]] · FDA decision — _Only one filing states this date._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[DYN]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[RNAC]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-05 04:52 AM CT
 
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[IMUX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
