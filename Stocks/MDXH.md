@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MDXH)
 
-- ❓ **Thu Nov 12** · MDXH · Earnings
+- ❓ **Thu Nov 12** · MDXH · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

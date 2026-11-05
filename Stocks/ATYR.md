@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ATYR)
 
-- ❓ **Thu Nov 5** · ATYR · Earnings
+- ❓ **Thu Nov 5** · ATYR · Earnings (after close)
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · ATYR · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
     - Source: [ATYR SEC 8-K (2026-08-07)](https://www.sec.gov/Archives/edgar/data/1339970/000133997026000051/atyr-ex99_1.htm) — "Enrollment completed in Phase 2 EFZO-CONNECT™ study of efzofitimod in SSc-ILD; topline results expected in the first quarter of 2027."

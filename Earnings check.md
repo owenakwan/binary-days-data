@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Nov 05, 12:25 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Nov 05, 05:58 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -51,12 +51,16 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[LASR]] nLIGHT, Inc. · after close · 2x: LASC
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
+- ❓ [[LITE]] Lumentum Holdings Inc. · after close · 2x: LITC, LITG, LITU
+    - Finnhub calendar: 2026-11-05
+    - Yahoo (estimate): 2026-11-05
 - ✅ [[MCHP]] Microchip Technology Incorporated · after close · 2x: MCHG, MCHU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-- ✅ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
+- ✅✅ [[MNST]] Monster Beverage Corporation · after close · 2x: MNSX
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
+    - company announcement: 2026-11-05 — [Monster Beverage to Report Financial Results for 2026 Third Quarter on November 5, 2026](https://finnhub.io/api/news?id=6d82b0222c8e1d8e899951b203ccf680d45cc336ea3a5698684cd85e80efa6c5)
 - ✅ [[MP]] MP Materials Corp. · after close · 2x: MPG
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -69,7 +73,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[QNT]] Quantinuum Inc. · after close · 2x: QNTU
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
-    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finance.yahoo.com/markets/stocks/articles/quantinuum-report-third-quarter-financial-200500029.html?.tsrc=rss)
+    - company announcement: 2026-11-05 — [Quantinuum to Report Third Quarter Financial Results on November 5, 2026](https://finance.yahoo.com/news/quantinuum-report-third-quarter-financial-200500172.html?.tsrc=rss)
 - ✅ [[SMR]] NuScale Power Corporation · after close · 2x: SMRX, SMU, SMUP
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -84,7 +88,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-05
 - ❓ [[ARM]] Arm Holdings plc · time not given · 2x: ARMA, ARMG
     - Finnhub calendar: 2026-11-05
-    - Yahoo (estimate): 2027-02-03
+    - Yahoo (estimate): 2026-11-05
 - ✅ [[PURR]] Hyperliquid Strategies Inc. · time not given · 2x: KATT, PUR
     - Finnhub calendar: 2026-11-05
     - Yahoo (confirmed): 2026-11-05
@@ -189,6 +193,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 - ❓ [[ECHO]] EchoStar Corporation · time not given · 2x: ECHX
     - Finnhub calendar: 2026-11-11
+    - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
@@ -199,43 +204,37 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Thursday, November 12
 
+- ✅ [[FIGR]] Figure Technology Solutions, Inc. · before open · 2x: FGRU
+    - Finnhub calendar: 2026-11-12
+    - Yahoo (confirmed): 2026-11-12
+- ✅ [[FPS]] Forgent Power Solutions, Inc. · before open · 2x: FPSX
+    - Finnhub calendar: 2026-11-12
+    - Yahoo (confirmed): 2026-11-12
+- ✅ [[LUNR]] Intuitive Machines, Inc. · before open · 2x: LUNL
+    - Finnhub calendar: 2026-11-12
+    - Yahoo (confirmed): 2026-11-12
+- ✅ [[NBIS]] Nebius Group N.V. · before open · 2x: NBIC, NBIG, NBIL
+    - Finnhub calendar: 2026-11-12
+    - Yahoo (confirmed): 2026-11-12
+- ✅✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
+    - Finnhub calendar: 2026-11-12
+    - Yahoo (confirmed): 2026-11-12
+    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finnhub.io/api/news?id=2bcc757334ab90e193827c6204aa95aa8c8e19f90d3aab2d1187ea7746a25a20)
 - ✅ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-- ✅ [[CBRS]] Cerebras Systems Inc. · time not given · 2x: CBRG, CBRX
+- ✅ [[CBRS]] Cerebras Systems Inc. · after close · 2x: CBRG, CBRX
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-- ✅ [[CSCO]] Cisco Systems, Inc. · time not given · 2x: CSCL
-    - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[FIGR]] Figure Technology Solutions, Inc. · time not given · 2x: FGRU
-    - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[FPS]] Forgent Power Solutions, Inc. · time not given · 2x: FPSX
+- ✅ [[CSCO]] Cisco Systems, Inc. · after close · 2x: CSCL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
 - ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
     - Finnhub calendar: 2026-11-12
     - Yahoo (estimate): 2026-11-12
-- ✅ [[LUNR]] Intuitive Machines, Inc. · time not given · 2x: LUNL
-    - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[NBIS]] Nebius Group N.V. · time not given · 2x: NBIC, NBIG, NBIL
-    - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅✅ [[ONDS]] Ondas Inc. · time not given · 2x: ONDC, ONDG, ONDL
-    - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finnhub.io/api/news?id=2bcc757334ab90e193827c6204aa95aa8c8e19f90d3aab2d1187ea7746a25a20)
 
 ## Friday, November 13
 
 - ❓ [[ASST]] Strive, Inc. · time not given · 2x: ASSX
     - Finnhub calendar: 2026-11-13
     - Yahoo (estimate): 2026-11-13
-
-## Tuesday, February 2
-
-- ✅ [[LITE]] Lumentum Holdings Inc. · time not given · 2x: LITC, LITG, LITU — _The bulk calendar said 2026-11-05; Yahoo confirms 2027-02-02._
-    - stock's own lookup: 2027-02-02
-    - Yahoo (confirmed): 2027-02-02

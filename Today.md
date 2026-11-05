@@ -1,12 +1,12 @@
 # Today · Thursday, November 5
 
-Updated Thu Nov 05, 12:20 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Thu Nov 05, 05:54 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
 - ✅ **Thu Nov 5** · [[IMUX]] · Immunic to Host Virtual Progressive Multiple Sclerosis R&D Day on November 5, 2026
-    - 📏 $7.41 · MC $101M · options ±26% by Nov 20 · volatility 79% · usual day ±3.7% · biggest day +17% / −15%
-- 📊 Earnings: [[ACHV]], [[AGIO]] (pre), [[AKBA]] (pre), [[ALLO]] (post), [[ALXO]], [[AMLX]] (pre), [[AMPH]] (post), [[ANIP]] (pre), [[ANTX]], [[ARCT]] (post), [[ATYR]], [[AURA]] (post), [[BRNS]] (pre), [[CADL]], [[CBDY]], [[CELC]] (post), [[CELZ]], [[CGEM]], [[CGTX]] (pre), [[COLL]] (pre), [[CRVS]] (post), [[CTMX]] (post), [[CYRX]] (post), [[DNA]] (post), [[DNTH]], [[ELUT]] (post), [[ENTX]], [[ERNA]], [[ETON]] (post), [[EWTX]], [[FENC]], [[GHRS]], [[GLUE]] (pre), [[HALO]] (post), [[HRGN]], [[IBRX]], [[IMDX]], [[IMMX]], [[INMB]] (post), [[IOVA]] (pre), [[IPSC]] (pre), [[IRON]] (pre), [[IRWD]] (pre), [[IVVD]], [[KPRX]], [[LBRX]], [[LCTX]], [[LONA]], [[LRMR]] (post), [[LXRX]] (pre), [[MAIA]], [[MAZE]], [[MBIO]], [[MBX]], [[MNKD]] (post), [[MTD]] (post), [[NIKA]], [[NTLA]] (pre), [[NTRA]] (post), [[NVAX]] (pre), [[OGEN]], [[OKUR]], [[ORGO]] (post), [[PBH]] (pre), [[PBYI]] (post), [[PLRX]], [[PMVP]], [[PRME]], [[PRQR]], [[PRTA]] (post), [[PULM]], [[PVLA]] (pre), [[QSI]] (post), [[QTTB]], [[RANI]] (post), [[RAPP]], [[RCEL]] (post), [[RCKT]] (post), [[RDGA]], [[RGNX]] (pre), [[RNXT]] (post), [[RPID]], [[SABS]] (pre), [[SANA]] (post), [[SDEV]], [[SLNCF]], [[SNGX]], [[SPRY]] (post), [[SRPT]] (post), [[SVRA]] (post), [[SYRE]], [[TECX]], [[TRLV]] (pre), [[TXG]] (post), [[UPB]], [[VCEL]] (pre), [[VERA]] (post), [[VTRS]] (pre), [[VXRT]], [[XCUR]], [[XERS]] (pre), [[ZTS]] (pre)
+    - 📏 $7.32 · MC $101M · options ±43% by Nov 20 · volatility 80% · usual day ±3.7% · biggest day +17% / −15%
+- 📊 Earnings: [[ACHV]], [[AGIO]] (pre), [[AKBA]] (pre), [[ALLO]] (post), [[ALXO]], [[AMLX]] (pre), [[AMPH]] (post), [[ANIP]] (pre), [[ANTX]], [[ARCT]] (post), [[ATYR]] (post), [[AURA]] (post), [[BRNS]] (pre), [[CADL]], [[CBDY]], [[CELC]] (post), [[CELZ]], [[CGEM]], [[CGTX]] (pre), [[COLL]] (pre), [[CRVS]] (post), [[CTMX]] (post), [[CYRX]] (post), [[DNA]] (post), [[DNTH]], [[ELUT]] (post), [[ENTX]], [[ERNA]], [[ETON]] (post), [[EWTX]], [[FENC]], [[GHRS]], [[GLUE]] (pre), [[HALO]] (post), [[HRGN]], [[IBRX]], [[IMDX]], [[IMMX]], [[INMB]] (post), [[IOVA]] (pre), [[IPSC]] (pre), [[IRON]] (pre), [[IRWD]] (pre), [[IVVD]], [[KPRX]], [[LBRX]] (post), [[LCTX]], [[LONA]], [[LRMR]] (post), [[LXRX]] (pre), [[MAIA]], [[MAZE]], [[MBIO]], [[MBX]], [[MNKD]] (post), [[MTD]] (post), [[NIKA]], [[NTLA]] (pre), [[NTRA]] (post), [[NVAX]] (pre), [[OGEN]], [[OKUR]], [[ORGO]] (post), [[PBH]] (pre), [[PBYI]] (post), [[PLRX]], [[PMVP]], [[PRME]], [[PRQR]], [[PRTA]] (post), [[PULM]], [[PVLA]] (pre), [[QSI]] (post), [[QTTB]], [[RANI]] (post), [[RAPP]], [[RCEL]] (post), [[RCKT]] (post), [[RDGA]], [[RGNX]] (pre), [[RNXT]] (post), [[RPID]], [[SABS]] (pre), [[SANA]] (post), [[SDEV]], [[SLNCF]], [[SNGX]], [[SPRY]] (post), [[SRPT]] (post), [[SVRA]] (post), [[SYRE]], [[TECX]] (post), [[TRLV]] (pre), [[TXG]] (post), [[UPB]], [[VCEL]] (pre), [[VERA]] (post), [[VTRS]] (pre), [[VXRT]] (post), [[XCUR]], [[XERS]] (pre), [[ZTS]] (pre)
 
 ## Tomorrow · Fri Nov 6
 
@@ -15,7 +15,7 @@ Updated Thu Nov 05, 12:20 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Rest of this week
 
 - 📐 **Sat Nov 7** · [[BLTE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 8 submission: Belite Bio Announces Submission of New Drug Application — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - 📏 $144.04 · MC $6.1B · volatility 43% · usual day ±2.3% · biggest day +13% / −10%
+    - 📏 $143.19 · MC $6.1B · volatility 44% · usual day ±2.3% · biggest day +13% / −10%
 - 📐 **Sat Nov 7** · [[BOT]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[SHFH]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[VDTA]] · SPAC merger / direct listing lock-up ends
@@ -25,6 +25,6 @@ Updated Thu Nov 05, 12:20 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Windows closing within a week (could land any day)
 
 - ✅ **now–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.85 · volatility 136% · usual day ±5.0% · biggest day +152% / −23%
+    - 📏 $0.92 · volatility 132% · usual day ±4.9% · biggest day +152% / −23%
 
 See also: [[Calendar]] · [[What changed]] · [[Needs a second look]]

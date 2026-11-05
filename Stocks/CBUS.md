@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CBUS)
 
-- ❓ **Thu Nov 12** · CBUS · Earnings
+- ❓ **Thu Nov 12** · CBUS · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

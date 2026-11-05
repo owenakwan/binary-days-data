@@ -2,6 +2,31 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-05 05:54 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[BIOA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[INAB]] · Initial data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Nov 30** · [[NKTX]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[SRPT]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[TECX]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[VYGR]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ❓ **Sun Nov 22** · [[TRDA]] · FDA decision (aak1, participant) — _Only one filing states this date._
+    - 📏 $4.55 · MC $177M · options ±84% by Dec 18 · volatility 108% · usual day ±4.3% · biggest day +13% / −57%
+- 🆕 New: ✅ **Mon Nov 30** · [[COGT]] · FDA decision
+    - 📏 $29.58 · MC $5.3B · options ±24% by Dec 18 · volatility 44% · usual day ±2.0% · biggest day +119% / −8%
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[RZLT]] · Topline data expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Thu Dec 3** · [[PROF]] · Data expected December 3, 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[ACET]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[ARCT]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[GYRE]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[SPRY]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[VYGR]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[CLDX]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TECX]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Mon Nov 30** · [[COGT]] · FDA decision (bezuclastinib, gist)
+    - 📏 $29.58 · MC $5.3B · options ±24% by Dec 18 · volatility 44% · usual day ±2.0% · biggest day +119% / −8%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Dec 1–Dec 31** · [[RZLT]] · FDA filing expected December 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-05 12:20 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[GLUE]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._

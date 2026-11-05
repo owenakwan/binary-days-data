@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=FRMM)
 
-- ❓ **Thu Nov 12** · FRMM · Earnings
+- ❓ **Thu Nov 12** · FRMM · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
