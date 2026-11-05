@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · VIR · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [VIR SEC 8-K (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1706431/000162828026070148/a20261104-q3ex991earningsr.htm) — "• Topline data from the pivotal ECLIPSE 1 trial are expected in the fourth quarter of 2026."
-- ❓ **Wed Nov 4** · VIR · Earnings (after close)
-    - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · VIR · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
     - Source: [VIR SEC 8-K (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1706431/000162828026070148/a20261104-q3ex991earningsr.htm) — "• Topline data from the ECLIPSE 2 and ECLIPSE 3 trials are expected in the first quarter of 2027."
 

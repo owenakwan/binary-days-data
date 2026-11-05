@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-05 04:52 AM CT
+
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[IMUX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+    - 📏 $7.94 · MC $101M · options ±25% by Nov 20 · volatility 77% · usual day ±3.6% · biggest day +17% / −15%
+
 ## 2026-11-04 08:45 PM CT
 
 - 🆕 New: ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat, resistant)
