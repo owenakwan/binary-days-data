@@ -10,9 +10,9 @@ tags: [catalyst, biotech]
 
 - ❓ **Wed Nov 4** · MLYS · Earnings (after close)
     - Source: Finnhub earnings calendar
-- ✅ **Tue Dec 22** · MLYS · FDA decision (lorundrostat)
+- ✅ **Tue Dec 22** · MLYS · FDA decision (lorundrostat, resistant)
     - 📏 $17.00 · MC $1.9B · options ±36% by Jan 15 · volatility 81% · usual day ±3.3% · biggest day +17% / −14%
-    - Source: [MLYS SEC 8-K (2026-08-11) + 6 more filings](https://www.sec.gov/Archives/edgar/data/1933414/000193341426000112/mlys2026q28kex991.htm) — "EX-99.1 3 mlys2026q28kex991.htm EX-99.1 Document Exhibit 99.1 Mineralys Therapeutics Reports Second Quarter 2026 Financial Results and Provides Corporate Update – PDUFA target date of December 22, 2026 for lorundrostat; commercial preparations on-track for lau"
+    - Source: [MLYS SEC 8-K (2026-11-04) + 8 more filings](https://www.sec.gov/Archives/edgar/data/1933414/000193341426000142/mlys2026q38kex991.htm) — "EX-99.1 2 mlys2026q38kex991.htm EX-99.1 Document Exhibit 99.1 Mineralys Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate Update – Commercialization plans for lorundrostat are on track ahead of PDUFA target date of December 22, 2"
     - Source: your sheet
 
 ## My notes

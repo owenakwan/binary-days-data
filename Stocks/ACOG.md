@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ACOG)
 
-- ❓ **Wed Nov 11** · ACOG · Earnings
+- ❓ **Wed Nov 11** · ACOG · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

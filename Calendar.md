@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Wed Nov 04, 04:36 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Wed Nov 04, 08:45 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 2
@@ -126,7 +126,7 @@ Updated Wed Nov 04, 04:36 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Sat Dec 19** · [[MTNE]] · SPAC merger / direct listing lock-up ends
 
 ## Week of Dec 21
-- ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat)
+- ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat, resistant)
     - 📏 $17.00 · MC $1.9B · options ±36% by Jan 15 · volatility 81% · usual day ±3.3% · biggest day +17% / −14%
 - ✅ **Wed Dec 23** · [[ACLX]] · FDA decision
 - ✅ **Wed Dec 23** · [[GILD]] · FDA decision
@@ -386,7 +386,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Wed Nov 4** · [[IMCR]] · Earnings (before open)
 - ❓ **Wed Nov 4** · [[INAB]] · Earnings
 - ❓ **Wed Nov 4** · [[INM]] · Earnings
-- ❓ **Wed Nov 4** · [[KLRA]] · Earnings
+- ❓ **Wed Nov 4** · [[KLRA]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[LPCN]] · Earnings
 - ❓ **Wed Nov 4** · [[LSTA]] · Earnings
 - ❓ **Wed Nov 4** · [[MGNX]] · Earnings
@@ -412,7 +412,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Wed Nov 4** · [[RPRX]] · Earnings (before open)
 - ❓ **Wed Nov 4** · [[RVMD]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[RZLT]] · Earnings
-- ❓ **Wed Nov 4** · [[SERA]] · Earnings
+- ❓ **Wed Nov 4** · [[SERA]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[SGMO]] · Earnings (before open)
 - ❓ **Wed Nov 4** · [[TKNO]] · Earnings (after close)
 - ❓ **Wed Nov 4** · [[URGN]] · Earnings (before open)

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MRMD)
 
-- ❓ **Wed Nov 11** · MRMD · Earnings
+- ❓ **Wed Nov 11** · MRMD · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

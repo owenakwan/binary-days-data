@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-04 08:45 PM CT
+
+- 🆕 New: ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat, resistant)
+    - 📏 $17.00 · MC $1.9B · options ±36% by Jan 15 · volatility 81% · usual day ±3.3% · biggest day +17% / −14%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat)
+    - 📏 $17.00 · MC $1.9B · options ±36% by Jan 15 · volatility 81% · usual day ±3.3% · biggest day +17% / −14%
+
 ## 2026-11-04 04:36 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[ARQT]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._

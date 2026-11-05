@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CAPR)
 
-- ❓ **Tue Nov 10** · CAPR · Earnings
+- ❓ **Tue Nov 10** · CAPR · Earnings (after close)
     - Source: Finnhub earnings calendar
 - ✅ **Sun Nov 22** · CAPR · FDA decision (hope-3)
     - 📏 $8.92 · MC $451M · options ±117% by Nov 27 · volatility 107% · usual day ±6.6% · biggest day +371% / −64%

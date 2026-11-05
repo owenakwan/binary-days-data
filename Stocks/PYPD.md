@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PYPD)
 
-- ❓ **Wed Nov 11** · PYPD · Earnings
+- ❓ **Wed Nov 11** · PYPD · Earnings (before open)
     - Source: Finnhub earnings calendar
 - ✅ **Sat Nov 28** · PYPD · FDA decision (fidsa)
     - 📏 $5.82 · MC $105M · volatility 48% · usual day ±2.1% · biggest day +11% / −27%
