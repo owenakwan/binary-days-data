@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Fri Nov 06, 12:12 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Fri Nov 06, 08:09 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -18,6 +18,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-06
 - ✅ [[WULF]] TeraWulf Inc. · before open · 2x: WULX
     - Finnhub calendar: 2026-11-06
+    - Yahoo (confirmed): 2026-11-06
+- ✅ [[ASST]] Strive, Inc. · time not given · 2x: ASSX — _The bulk calendar said 2026-11-13; Yahoo confirms 2026-11-06._
+    - stock's own lookup: 2026-11-06
     - Yahoo (confirmed): 2026-11-06
 
 ## Saturday, November 7
@@ -54,9 +57,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
     - company announcement: 2026-11-09 — [Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026](https://finance.yahoo.com/markets/stocks/articles/quantum-computing-inc-host-third-123000496.html?.tsrc=rss)
-- ✅ [[RKLB]] Rocket Lab Corporation · after close · 2x: RKLX, RKX
+- ✅✅ [[RKLB]] Rocket Lab Corporation · after close · 2x: RKLX, RKX
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
+    - company announcement: 2026-11-09 — [Rocket Lab Will Report Q3 Earnings Next Week on November 9. Ahead of It, Who Owns RKLB Stock?](https://news.google.com/rss/articles/CBMivAFBVV95cUxONm1ZMTBfVXJjOVdrWUZDemwyOHZMYU1HVVdOYTY5VnJrWXh5NERfV2FzcmRoUWFFQ1JaRm1rRnB3WVpwSlFtTHJwQTlqLVNPUzU3dDU5OVpHSV83V3B4VlFZQXZFTWlqYkViYkhBYVY2eHFzWkxtTXFpa2RNQUNvSGJfcndaTXNzV2M2SlgzMEhjdWQ2LXNIYXplbTR3bWZmeUs5dFpKYnFZRHNzR1pBYUdtd2p0NnhnZm9nZA?oc=5)
 - ✅ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
@@ -85,10 +89,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[CRWV]] CoreWeave, Inc. · after close · 2x: CRWG, CRWU, CRWX
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-- ✅✅ [[FLY]] Firefly Aerospace Inc. · after close · 2x: FLYT
+- ✅ [[FLY]] Firefly Aerospace Inc. · after close · 2x: FLYT
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
-    - company announcement: 2026-11-10 — [Firefly Aerospace to Announce Third Quarter 2026 Financial Results on November 10, 2026](https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-announce-third-quarter-201500287.html?.tsrc=rss)
 - ✅ [[LWLG]] Lightwave Logic, Inc. · after close · 2x: LWLX
     - Finnhub calendar: 2026-11-10
     - Yahoo (confirmed): 2026-11-10
@@ -129,7 +132,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finnhub.io/api/news?id=2bcc757334ab90e193827c6204aa95aa8c8e19f90d3aab2d1187ea7746a25a20)
+    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finance.yahoo.com/markets/stocks/articles/ondas-report-third-quarter-2026-123000922.html?.tsrc=rss)
 - ✅ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
@@ -141,13 +144,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-12
 - ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
     - Finnhub calendar: 2026-11-12
-    - Yahoo (estimate): 2026-11-12
-
-## Friday, November 13
-
-- ❓ [[ASST]] Strive, Inc. · time not given · 2x: ASSX
-    - Finnhub calendar: 2026-11-13
-    - Yahoo (estimate): 2026-11-13
+    - Yahoo (estimate): 2026-11-11
 
 ## Monday, November 16
 
@@ -177,4 +174,4 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[FUTU]] Futu Holdings Limited · time not given · 2x: FUTG — _The bulk calendar said 2026-11-16; Yahoo confirms 2026-11-19._
     - stock's own lookup: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/futu-report-third-quarter-2026-080000244.html?.tsrc=rss)
+    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finnhub.io/api/news?id=b84628916b4aa3e423252cf48c2f9207d9e1b1ac664e3e6d70d0e5cd1999f1c7)
