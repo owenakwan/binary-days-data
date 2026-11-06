@@ -1,16 +1,15 @@
 ---
 ticker: IMUX
-company: "Immunic, Inc."
+company: "IMMUNIC, INC."
 tags: [catalyst, biotech]
 ---
 
-# IMUX · Immunic, Inc.
+# IMUX · IMMUNIC, INC.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IMUX)
 
-- ✅ **Thu Nov 5** · IMUX · Immunic to Host Virtual Progressive Multiple Sclerosis R&D Day on November 5, 2026
-    - 📏 $7.32 · MC $101M · options ±43% by Nov 20 · volatility 80% · usual day ±3.7% · biggest day +17% / −15%
-    - Source: [PR Newswire](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRENJRWM4YWliN09OWVVyRHd2VmhldHI3TFY3VGNkWHhVMHkxTzNyeUxJNWRVNTdROXBKSGdrbmJjdF96N2lBbnRESGIzX0JCMm53ZURBMGN1dEltTVRna0JnUUp3dnhIZWhBVElaQTZ3OTR5eXVoVVJzNDdmbDdYS3ZfVEY5bTJNTDVsZlNaS3o0X0hiV09FQldDR1c1ZUE0T1gzLVNObGFhVHpGcFFzRTFXamZacmJmMzRsc0wwZktJd1R0SlRhY1JDOUMzZWdsbVE?oc=5) — "Immunic to Host Virtual Progressive Multiple Sclerosis R&D Day on November 5, 2026"
+- ✅ **now–Dec 31** · IMUX · Topline data expected end of 2026 — _A window the company gave, not an exact day._
+    - Source: [IMUX SEC 8-K (2026-08-11)](https://www.sec.gov/Archives/edgar/data/1280776/000119380526001071/e665684_ex99-2.htm) — "We believe this approach has the potential to deliver meaningful efficacy while maintaining the favorable safety and tolerability profile observed to date, positioning vidofludimus calcium as a potentially important new "
 - ❓ **Wed Nov 11** · IMUX · Earnings (before open)
     - Source: Finnhub earnings calendar
 

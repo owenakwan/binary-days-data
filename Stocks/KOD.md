@@ -1,10 +1,10 @@
 ---
 ticker: KOD
-company: "Kodiak Sciences Inc"
+company: "Kodiak Sciences Inc."
 tags: [catalyst, biotech]
 ---
 
-# KOD · Kodiak Sciences Inc
+# KOD · Kodiak Sciences Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KOD)
 

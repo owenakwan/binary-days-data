@@ -9,8 +9,8 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AGL)
 
 - ✅ **Tue Nov 17** · AGL · agilon health to Host Virtual Investor Event “Driving Performance At Scale: The agilon Framework” on November 17, 2026
-    - 📏 $113.77 · MC $1.4B · options ±13% by Nov 20 · volatility 66% · usual day ±2.6% · biggest day +118% / −27%
-    - Source: [Business Wire](https://news.google.com/rss/articles/CBMigAJBVV95cUxPUnk5STQzMGpQTHpsT2tZNXdUWHd6bzJXUC1tODRNLVR0aXVwTEh4ejI2czVrY29weUJOV3NBdjNwU1lGenlfbUd6MHNOaDVVNU1nV05lanpweXRaOERMaXpVZ2ZCdEJRVjQ4cGJRc2tOc1Z4TFY1blM0OU9hMGI0X0RSWENtMnJZX2EtMzVmTmFjaWVxMDVuOW85NnM5Zzg2U182MmNzTnFMa1lRcjFtemFUYXAtVmlqSUNvZTkzWTR5VjFiV1NmZjJqVXJuOElqd3BsV0RFd2tuQkFsWkZqMTZWR1NYXzdMSVdkbU1SZXNDNDEtRi1XdEZaOTJqTUtD?oc=5) — "agilon health to Host Virtual Investor Event “Driving Performance At Scale: The agilon Framework” on November 17, 2026"
+    - 📏 $113.77 · MC $1.4B · options ±11% by Nov 20 · volatility 66% · usual day ±2.6% · biggest day +118% / −27%
+    - Source: [Stock Titan](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXZnWlN3ZDNCWDdCRm9xUkxSX0xKendrVFV1MVJJNHFwUzF4S18zM0ZIXzdseWFRVEQ5Q1VtLWJZZWFOdUloa2g1aWgtNF8wRVJvU3MtUmZPX3Y1U3AzekVHYURBT19KMnZuTG1pdlotXzRZQkF2dGNMdURXbERjcmNQYml6cjNleXZZQmNHbF8yeU5MdkR1R3FFZjRqOVl4Q0VtSzNPaWNCWDREN050VHlaOFcxQm1ZZXpDaHJ3?oc=5) — "agilon health to Host Virtual Investor Event “Driving Performance At Scale: The agilon Framework” on November 17, 2026"
 
 ## My notes
 

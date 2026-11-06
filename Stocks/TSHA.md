@@ -1,10 +1,10 @@
 ---
 ticker: TSHA
-company: "Taysha Gene Therapies Inc"
+company: "Taysha Gene Therapies, Inc."
 tags: [catalyst, biotech]
 ---
 
-# TSHA · Taysha Gene Therapies Inc
+# TSHA · Taysha Gene Therapies, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TSHA)
 

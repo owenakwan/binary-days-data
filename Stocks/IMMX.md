@@ -1,15 +1,13 @@
 ---
 ticker: IMMX
-company: "Immix Biopharma Inc"
+company: "Immix Biopharma"
 tags: [catalyst, biotech]
 ---
 
-# IMMX · Immix Biopharma Inc
+# IMMX · Immix Biopharma
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IMMX)
 
-- ❓ **Thu Nov 5** · IMMX · Earnings
-    - Source: Finnhub earnings calendar
 - ❓ **Nov 15–Dec 31** · IMMX · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
     - Source: your sheet
 

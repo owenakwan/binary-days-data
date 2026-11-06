@@ -1,10 +1,10 @@
 ---
 ticker: OLMA
-company: "Olema Pharmaceuticals Inc"
+company: "Olema Pharmaceuticals, Inc."
 tags: [catalyst, biotech]
 ---
 
-# OLMA · Olema Pharmaceuticals Inc
+# OLMA · Olema Pharmaceuticals, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=OLMA)
 

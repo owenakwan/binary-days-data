@@ -1,17 +1,17 @@
 ---
 ticker: CAPR
-company: "Capricor Therapeutics Inc"
+company: "Capricor Therapeutics, Inc."
 tags: [catalyst, biotech]
 ---
 
-# CAPR · Capricor Therapeutics Inc
+# CAPR · Capricor Therapeutics, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CAPR)
 
 - ❓ **Tue Nov 10** · CAPR · Earnings (after close)
     - Source: Finnhub earnings calendar
 - ✅ **Sun Nov 22** · CAPR · FDA decision (hope-3)
-    - 📏 $8.60 · MC $451M · options ±120% by Nov 27 · volatility 107% · usual day ±6.5% · biggest day +371% / −64%
+    - 📏 $8.60 · MC $500M · options ±102% by Nov 27 · volatility 107% · usual day ±6.5% · biggest day +371% / −64%
     - Source: [CAPR SEC 8-K (2026-08-24)](https://www.sec.gov/Archives/edgar/data/1133869/000110465926100071/capr-20260824xex99d1.htm) — "EX-99.1 2 capr-20260824xex99d1.htm EX-99.1 Exhibit 99.1 Capricor Therapeutics Announces Extension of PDUFA Target Action Date as FDA Continues Review of Deramiocel BLA – New PDUFA target action date of November 22, 2026 follows submission of additional Phase 3"
     - Source: your sheet
 

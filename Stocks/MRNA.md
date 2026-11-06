@@ -1,10 +1,10 @@
 ---
 ticker: MRNA
-company: "Moderna Inc"
+company: "Moderna, Inc."
 tags: [catalyst, biotech]
 ---
 
-# MRNA · Moderna Inc
+# MRNA · Moderna, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MRNA)
 
