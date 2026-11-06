@@ -1,6 +1,6 @@
 # Today · Friday, November 6
 
-Updated Fri Nov 06, 08:06 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Fri Nov 06, 02:24 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
@@ -9,7 +9,7 @@ Updated Fri Nov 06, 08:06 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Tomorrow · Sat Nov 7
 
 - 📐 **Sat Nov 7** · [[BLTE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 8 submission: Belite Bio Announces Submission of New Drug Application — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - 📏 $143.19 · MC $6.1B · volatility 44% · usual day ±2.3% · biggest day +13% / −10%
+    - 📏 $154.62 · MC $6.1B · volatility 50% · usual day ±2.3% · biggest day +13% / −10%
 - 📐 **Sat Nov 7** · [[BOT]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[SHFH]] · SPAC merger / direct listing lock-up ends
 - 📐 **Sat Nov 7** · [[VDTA]] · SPAC merger / direct listing lock-up ends
@@ -22,6 +22,6 @@ Updated Fri Nov 06, 08:06 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Windows closing within a week (could land any day)
 
 - ✅ **now–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.92 · volatility 132% · usual day ±4.9% · biggest day +152% / −23%
+    - 📏 $0.59 · volatility 180% · usual day ±5.4% · biggest day +152% / −35%
 
 See also: [[Calendar]] · [[What changed]] · [[Needs a second look]]

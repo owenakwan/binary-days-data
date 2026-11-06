@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IBRX)
 
 - ✅ **Wed Jan 6** · IBRX · FDA decision (anktiva, bcg-, nmibc)
-    - 📏 $8.01 · MC $10.5B · options ±36% by Jan 15 · volatility 85% · usual day ±3.7% · biggest day +42% / −21%
+    - 📏 $8.53 · MC $10.5B · options ±40% by Jan 15 · volatility 87% · usual day ±3.8% · biggest day +42% / −21%
     - Source: [IBRX SEC 8-K (2026-08-04) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1326110/000132611026000077/ibrx-202684x8kexhibit991.htm) — "The FDA accepted for review the Company’s supplemental Biologics License Application (sBLA) for ANKTIVA plus BCG in patients with BCG-unresponsive NMIBC with papillary disease without CIS and assigned a PDUFA target action date of January 6, 2027"
 
 ## My notes
