@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-06 06:19 PM CT
+
+- 🆕 New: ✅ **Nov 8–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
+    - 📏 $0.20 · MC $29M · options ±255% by Feb 19 · volatility 71% · usual day ±2.7% · biggest day +13% / −17%
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[IGC]] · Topline data expected December 2026 — _A window the company gave, not an exact day._
+    - 📏 $0.20 · MC $29M · options ±255% by Feb 19 · volatility 71% · usual day ±2.7% · biggest day +13% / −17%
+
 ## 2026-11-06 02:24 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[DWTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._

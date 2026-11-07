@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=QNRX)
 
 - ✅ **now–Dec 31** · QNRX · Topline data expected end of 2026 — _A window the company gave, not an exact day._
-    - Source: [QNRX SEC 8-K (2026-10-20)](https://www.sec.gov/Archives/edgar/data/1671502/000110465926117080/tm2627720d1_ex99-1.htm) — "Quoin expects to complete recruitment of all 20 participants in CL-QRX003-004 by the end of 2026 and report topline data in the second quarter of 2027. “Publication of this paper makes the scientific rationale behind QRX"
+    - Source: [QNRX SEC 8-K (2026-11-06)](https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/tm2629259d1_ex99-1.htm) — "Quoin expects to complete recruitment of all 20 participants by the end of 2026 and to report topline data in the second quarter of 2027."
 
 ## My notes
 

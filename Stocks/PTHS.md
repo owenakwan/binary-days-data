@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PTHS)
 
-- ❓ **Thu Nov 12** · PTHS · Earnings
+- ❓ **Thu Nov 12** · PTHS · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
