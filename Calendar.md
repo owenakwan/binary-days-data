@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sat Nov 07, 12:39 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Nov 07, 07:30 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 2
@@ -433,7 +433,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Mon Nov 9** · [[TGTX]] · Earnings (before open)
 - ❓ **Mon Nov 9** · [[TNXP]] · Earnings (before open)
 - ❓ **Mon Nov 9** · [[TRVI]] · Earnings (after close)
-- ❓ **Mon Nov 9** · [[VRCA]] · Earnings
 - ❓ **Mon Nov 9** · [[XENE]] · Earnings (after close)
 - ❓ **Mon Nov 9** · [[XNCR]] · Earnings
 - ❓ **Mon Nov 9** · [[ZNTL]] · Earnings
@@ -442,7 +441,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 10** · [[ADCT]] · Earnings
 - ❓ **Tue Nov 10** · [[ADVM]] · Earnings
 - ❓ **Tue Nov 10** · [[ALEC]] · Earnings
-- ❓ **Tue Nov 10** · [[ALT]] · Earnings (before open)
 - ❓ **Tue Nov 10** · [[ANAB]] · Earnings (after close)
 - ❓ **Tue Nov 10** · [[ANVS]] · Earnings
 - ❓ **Tue Nov 10** · [[APRE]] · Earnings
@@ -460,3 +458,5 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Nov 10** · [[BYSI]] · Earnings
 - ❓ **Tue Nov 10** · [[CALC]] · Earnings
 - ❓ **Tue Nov 10** · [[CAPR]] · Earnings (after close)
+- ❓ **Tue Nov 10** · [[CDIO]] · Earnings
+- ❓ **Tue Nov 10** · [[CLNN]] · Earnings

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TSHA)
 
-- ❓ **Tue Nov 10** · TSHA · Earnings
+- ❓ **Thu Nov 12** · TSHA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

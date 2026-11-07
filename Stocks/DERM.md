@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DERM)
 
-- ❓ **Wed Nov 11** · DERM · Earnings
+- ❓ **Thu Nov 12** · DERM · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
