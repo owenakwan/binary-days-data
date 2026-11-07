@@ -1,10 +1,10 @@
 ---
 ticker: CTNM
-company: "Contineum Therapeutics Inc"
+company: "Contineum Therapeutics, Inc."
 tags: [catalyst, biotech]
 ---
 
-# CTNM · Contineum Therapeutics Inc
+# CTNM · Contineum Therapeutics, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CTNM)
 

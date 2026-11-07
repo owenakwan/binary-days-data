@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **Tue Nov 17** · AGL · agilon health to Host Virtual Investor Event "Driving Performance At Scale: The agilon Framework" on November 17, 2026
     - 📏 $113.39 · MC $1.4B · options ±12% by Nov 20 · volatility 64% · usual day ±2.5% · biggest day +118% / −27%
-    - Source: [Lelezard](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUkVhaElXUEZ2RVJCTFJueURVVm95V2hnckt0S0NUMXJpVy1YOVY3ZDZSbWVNQUpZanZmY2tuanNWaFlVdFlTZko4NlhVNTJfWFNGMDg2NUtPVnY5TWxPbE1QUXpoTnRPbS01N3djb085QTlsVlI4YXdHS0syUVpSTEh1NGY1ZFcyWlRLMUZjSEUzdlBLN0N3cXY1S2V4N2tHdU5FRDNaQ2pmdVRaRjZYc3J3RVZLaW1kVzM5cmlyRC1ERUZTSTVIaEMyS0JHbUtFOHhRWHh3QjU3V3h0?oc=5) — "agilon health to Host Virtual Investor Event "Driving Performance At Scale: The agilon Framework" on November 17, 2026"
+    - Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3NpQkYxZjJnZ2ZhUjhubXJnUDI2OUZNMlRBZ0xlNTVZNVhnNER1WHJSV2xZOE01dVlYS2ZTanBIV1M0aGxFQXYtN1ZhVEU2eEhYLUowYlUxT2F6Q3JpZEMxZlAzbmc3RnlFNURzdkdwWE1lbVp5Smhkc295S2Ywbzl5WUhsTTBSdUxseUgzYmgtbHBhWS1QaWdYcTM?oc=5) — "agilon health to Host Virtual Investor Event "Driving Performance At Scale: The agilon Framework" on November 17, 2026"
 
 ## My notes
 

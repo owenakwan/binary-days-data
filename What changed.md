@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-07 12:39 AM CT
+
+- 🆕 New: ✅ **Mon Nov 9** · [[NKTX]] · Nkarta Announces November 9, 2026 Webcast to Present Initial NKX019 Clinical Data
+    - 📏 $1.73 · MC $125M · options ±68% by Nov 20 · volatility 74% · usual day ±3.4% · biggest day +24% / −13%
+- 🆕 New: 📐 **Tue Dec 22** · [[DPC]] · IPO lock-up ends
+- 🆕 New: 📐 **Tue Dec 22** · [[DSC]] · IPO lock-up ends
+
 ## 2026-11-06 06:19 PM CT
 
 - 🆕 New: ✅ **Nov 8–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
