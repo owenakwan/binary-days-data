@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IGC)
 
-- ✅ **Nov 8–Nov 24** · IGC · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
+- ✅ **now–Nov 24** · IGC · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
     - 📏 $0.20 · MC $29M · options ±255% by Feb 19 · volatility 71% · usual day ±2.7% · biggest day +13% / −17%
     - Source: [IGC SEC 10-Q (2026-11-06)](https://www.sec.gov/Archives/edgar/data/1326205/000118518526005237/igc10q093026.htm) — "Following the protocol-defined six-week treatment period, final participant dosing is expected to conclude mid-November 2026, after which the Company expects to proceed with database lock, unblinding, and topline analysi"
 - ❓ **Wed Nov 18** · IGC · Earnings

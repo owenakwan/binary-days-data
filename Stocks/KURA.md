@@ -1,10 +1,10 @@
 ---
 ticker: KURA
-company: "Kura Oncology Inc"
+company: "Kura Oncology, Inc."
 tags: [catalyst, biotech]
 ---
 
-# KURA · Kura Oncology Inc
+# KURA · Kura Oncology, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KURA)
 

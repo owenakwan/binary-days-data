@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sat Nov 07, 07:50 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 08, 03:03 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -105,7 +105,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finnhub.io/api/news?id=2bcc757334ab90e193827c6204aa95aa8c8e19f90d3aab2d1187ea7746a25a20)
+    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finance.yahoo.com/markets/stocks/articles/ondas-report-third-quarter-2026-123000922.html?.tsrc=rss)
 - ✅ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
@@ -117,13 +117,12 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-12
 - ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
     - Finnhub calendar: 2026-11-12
-    - Yahoo (estimate): 2026-11-12
+    - Yahoo (estimate): 2026-11-11
 
 ## Friday, November 13
 
 - ❓ [[ASST]] Strive, Inc. · time not given · 2x: ASSX
     - Finnhub calendar: 2026-11-13
-    - Yahoo (estimate): 2026-11-13
 
 ## Monday, November 16
 
@@ -132,7 +131,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-16
 - ❓ [[PDD]] PDD Holdings Inc. · before open · 2x: PDDL
     - Finnhub calendar: 2026-11-16
-    - Yahoo (estimate): 2026-11-16
+    - Yahoo (estimate): 2026-11-18
 - ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
@@ -156,6 +155,16 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[GRAB]] Grab Holdings Limited · time not given · 2x: GRAG
     - Finnhub calendar: 2026-11-17
     - Yahoo (estimate): 2026-11-17
+
+## Wednesday, November 18
+
+- ✅ [[P]] Everpure, Inc. · time not given · 2x: PUL
+    - Finnhub calendar: 2026-11-18
+    - Yahoo (confirmed): 2026-11-18
+- ✅✅ [[PANW]] Palo Alto Networks, Inc. · time not given · 2x: PALU, PANG
+    - Finnhub calendar: 2026-11-18
+    - Yahoo (confirmed): 2026-11-18
+    - company announcement: 2026-11-18 — [Palo Alto Networks to Announce Fiscal First Quarter 2027 Financial Results on Wednesday, November 18, 2026](https://finnhub.io/api/news?id=5d4577c9113f64a3a37e88a9e5433438599c83fd772abcf666f46c8c3e1c09b8)
 
 ## Thursday, November 19
 

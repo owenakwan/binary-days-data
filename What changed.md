@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-08 03:00 AM CT
+
+- 🆕 New: 📐 **Wed Dec 23** · [[MBGL]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Wed Dec 23** · [[MFP]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Wed Dec 23** · [[SIND]] · IPO lock-up ends
+- 🆕 New: 📐 **Wed Dec 23** · [[USDE]] · SPAC merger / direct listing lock-up ends
+
 ## 2026-11-07 12:39 AM CT
 
 - 🆕 New: ✅ **Mon Nov 9** · [[NKTX]] · Nkarta Announces November 9, 2026 Webcast to Present Initial NKX019 Clinical Data

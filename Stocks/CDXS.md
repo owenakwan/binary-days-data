@@ -1,10 +1,10 @@
 ---
 ticker: CDXS
-company: "Codexis Inc"
+company: "Codexis, Inc."
 tags: [catalyst, biotech]
 ---
 
-# CDXS · Codexis Inc
+# CDXS · Codexis, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CDXS)
 

@@ -1,19 +1,20 @@
-# Today · Saturday, November 7
+# Today · Sunday, November 8
 
-Updated Sat Nov 07, 07:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 08, 03:00 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
-- 📐 **Sat Nov 7** · [[BLTE]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 8 submission: Belite Bio Announces Submission of New Drug Application — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - 📏 $154.19 · MC $6.1B · volatility 49% · usual day ±2.3% · biggest day +13% / −10%
-- 📐 **Sat Nov 7** · [[BOT]] · SPAC merger / direct listing lock-up ends
-- 📐 **Sat Nov 7** · [[SHFH]] · SPAC merger / direct listing lock-up ends
-- 📐 **Sat Nov 7** · [[VDTA]] · SPAC merger / direct listing lock-up ends
-- 📐 **Sat Nov 7** · [[WSE]] · SPAC merger / direct listing lock-up ends
-
-## Tomorrow · Sun Nov 8
-
 - 📐 **Sun Nov 8** · [[THYP]] · SPAC merger / direct listing lock-up ends
+
+## Tomorrow · Mon Nov 9
+
+- ✅ **Mon Nov 9** · [[ARTV]] · Data expected November 9, 2026 — _A window the company gave, not an exact day._
+    - 📏 $4.15 · MC $288M · options ±22% by Nov 20 · volatility 118% · usual day ±3.1% · biggest day +91% / −31%
+- 📐 **Mon Nov 9** · [[FRVO]] · IPO lock-up ends
+- 📐 **Mon Nov 9** · [[GMRS]] · IPO lock-up ends
+- ✅ **Mon Nov 9** · [[NKTX]] · Nkarta Announces November 9, 2026 Webcast to Present Initial NKX019 Clinical Data
+    - 📏 $1.73 · MC $125M · options ±68% by Nov 20 · volatility 74% · usual day ±3.4% · biggest day +24% / −13%
+- 📊 Earnings: [[ABCL]] (post), [[AGEN]], [[APGE]], [[ASMB]], [[ASND]] (post), [[ASRT]], [[AVIR]] (post), [[BCAX]] (pre), [[BDTX]], [[BEAM]], [[BIVI]], [[BLTE]], [[CABA]] (pre), [[CGEN]] (pre), [[CHRS]] (post), [[CRBU]], [[CVKD]], [[DFTX]] (post), [[EDIT]], [[EXOZ]], [[GPFT]], [[HROW]] (post), [[HRTX]] (pre), [[IMVT]] (pre), [[INO]], [[JSPR]] (pre), [[KMDA]] (pre), [[KYNB]] (post), [[LXEO]], [[LYEL]], [[MDCX]], [[MLAB]] (post), [[MREO]], [[MTNB]], [[OCUL]] (pre), [[ORIC]], [[PALI]], [[PASG]], [[PCVX]], [[PRAX]] (pre), [[PROK]], [[QTRX]] (pre), [[RSCF]], [[SIGA]] (post), [[SKYE]], [[SNES]], [[SNTI]], [[SPRB]] (post), [[TBPH]], [[TELO]], [[TGTX]] (pre), [[TNXP]] (pre), [[TRVI]] (post), [[XENE]] (post), [[XNCR]], [[ZNTL]], [[ZYME]] (post)
 
 ## Windows closing within a week (could land any day)
 
