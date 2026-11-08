@@ -1,15 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sat Nov 07, 04:19 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sat Nov 07, 07:50 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Saturday, November 7
-
-- ✅ [[BRK-B]] Berkshire Hathaway Inc. · time not given · 2x: BRKL, BRKU
-    - Finnhub calendar: 2026-11-07
-    - Yahoo (confirmed): 2026-11-07
 
 ## Monday, November 9
 
