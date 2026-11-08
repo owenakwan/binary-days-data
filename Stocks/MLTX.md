@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · MLTX · Data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [MLTX SEC 8-K (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1821586/000182158626000013/moonlake-pressreleasexq320.htm) — "The Company expects to complete the VELA-TEEN clinical trial in the fourth quarter of 2026 and plans to submit final results for presentation at a scientific conference in the first quarter of 2027."
-- ❓ **Tue Nov 17** · MLTX · Earnings (before open)
-    - Source: Finnhub earnings calendar
 - 📐 **Nov 24–Dec 19** · MLTX · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
     - Source: [MLTX SEC 8-K (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1821586/000182158626000013/moonlake-pressreleasexq320.htm) — "Third Quarter 2026 Business Highlights Hidradenitis suppurativa: On September 30, 2026, the Company submitted a Biologics License Application (BLA) to the U.S."
 - ✅ **Jan 1–Mar 31** · MLTX · Topline data expected Q1 2027 — _A window the company gave, not an exact day._

@@ -1,7 +1,7 @@
 ---
 ticker: TRAX
 company: "First Tracks Biotherapeutics, Inc."
-tags: [catalyst]
+tags: [catalyst, biotech]
 ---
 
 # TRAX · First Tracks Biotherapeutics, Inc.

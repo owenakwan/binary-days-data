@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 08, 03:03 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 08, 09:59 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -41,6 +41,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[USAR]] USA Rare Earth, Inc. · after close · 2x: USAX, USGG
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
+- ❓ [[BRK-B]] Berkshire Hathaway Inc. · time not given · 2x: BRKL, BRKU
+    - Finnhub calendar: 2026-11-09
+    - Yahoo (estimate): 2026-11-09
 - ✅ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
     - Finnhub calendar: 2026-11-09
     - Yahoo (confirmed): 2026-11-09
@@ -77,9 +80,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Wednesday, November 11
 
-- ❓ [[ECHO]] EchoStar Corporation · time not given · 2x: ECHX
-    - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
@@ -105,7 +105,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finance.yahoo.com/markets/stocks/articles/ondas-report-third-quarter-2026-123000922.html?.tsrc=rss)
+    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finnhub.io/api/news?id=2bcc757334ab90e193827c6204aa95aa8c8e19f90d3aab2d1187ea7746a25a20)
 - ✅ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
@@ -117,12 +117,13 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-12
 - ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
     - Finnhub calendar: 2026-11-12
-    - Yahoo (estimate): 2026-11-11
+    - Yahoo (estimate): 2026-11-12
 
 ## Friday, November 13
 
 - ❓ [[ASST]] Strive, Inc. · time not given · 2x: ASSX
     - Finnhub calendar: 2026-11-13
+    - Yahoo (estimate): 2026-11-13
 
 ## Monday, November 16
 
@@ -131,7 +132,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-16
 - ❓ [[PDD]] PDD Holdings Inc. · before open · 2x: PDDL
     - Finnhub calendar: 2026-11-16
-    - Yahoo (estimate): 2026-11-18
+    - Yahoo (estimate): 2026-11-16
 - ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
@@ -152,9 +153,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[NVDA]] NVIDIA Corporation · after close · 2x: NVC, NVDG, NVDL
     - Finnhub calendar: 2026-11-17
     - Yahoo (confirmed): 2026-11-17
-- ❓ [[GRAB]] Grab Holdings Limited · time not given · 2x: GRAG
-    - Finnhub calendar: 2026-11-17
-    - Yahoo (estimate): 2026-11-17
 
 ## Wednesday, November 18
 

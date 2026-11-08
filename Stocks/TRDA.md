@@ -11,8 +11,6 @@ tags: [catalyst, biotech]
 - ✅ **now–Dec 31** · TRDA · Data expected end of 2026 — _A window the company gave, not an exact day._
     - 📏 $4.89 · MC $177M · options ±78% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
     - Source: [TRDA SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1689375/000168937526000064/trda-20260930.htm) — "In addition to the ELEVATE-45-201 Cohort 1 results included in this Quarterly Report, we anticipate additional ELEVATE-44-201 Cohort 1 open-label data by the end of 2026."
-- ❓ **Tue Nov 10** · TRDA · Earnings (before open)
-    - Source: Finnhub earnings calendar
 - ❓ **Sun Nov 22** · TRDA · FDA decision (aak1, participant) — _Only one filing states this date._
     - 📏 $4.89 · MC $177M · options ±78% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
     - Source: [TRDA SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1689375/000168937526000064/trda-20260930.htm) — "We are also aware of several companies targeting gene editing, such as Precision Biosciences (enrolling a Phase 1/2a open-label trial for ambulatory boys with confirmed mutations within exons 45 through 55 - first participant dosed in August 2026), and non-dys"

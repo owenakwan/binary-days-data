@@ -14,8 +14,6 @@ tags: [catalyst, biotech]
 - ✅ **Mon Nov 9** · NKTX · Nkarta Announces November 9, 2026 Webcast to Present Initial NKX019 Clinical Data
     - 📏 $1.73 · MC $125M · options ±68% by Nov 20 · volatility 74% · usual day ±3.4% · biggest day +24% / −13%
     - Source: [Kalkine Media](https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWJZcXdEVUdlMFFDNjhSdGZZRTZmUzhJWGhQb05YUFVOLUN1MzFKZjBfQ19nTXVPQTFpd0FoeHhUc1c4aUpnTmJrRE5wV19CeHBTTzRSUGlNX3JlMUUzYU8yd1pTZXFFWEUzZjJ4QTIyeFZGZ1Z0WUNOdDR6QXV2THhBOEROWFZEbmlNQktrQjZuOEw4RXVCNV8yLVU0NGo2cTJhZGhEYlZRNFF1Nk1aSnFKM0tOcFFuV3p5UzhPUXhfR2IyQ2c?oc=5) — "Nkarta Announces November 9, 2026 Webcast to Present Initial NKX019 Clinical Data"
-- ❓ **Wed Nov 11** · NKTX · Earnings
-    - Source: Finnhub earnings calendar
 
 ## My notes
 
