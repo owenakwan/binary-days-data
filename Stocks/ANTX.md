@@ -10,6 +10,8 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · ANTX · Data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [ANTX SEC 8-K (2026-05-11)](https://www.sec.gov/Archives/edgar/data/1880438/000119312526216752/antx-ex99_1.htm) — "Subject to regulatory clearance and enrollment progress, the Company expects to provide periodic data readouts beginning as early as the fourth quarter of 2026 and throughout 2027."
+- ❓ **Tue Nov 10** · ANTX · Earnings
+    - Source: Finnhub earnings calendar
 
 ## My notes
 

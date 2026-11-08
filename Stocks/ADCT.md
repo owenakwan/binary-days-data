@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ✅ **now–Dec 31** · ADCT · LOTIS-5 full Phase 3 data
     - Source: your sheet
     - Source: [ADCT SEC 8-K (2026-05-04): end of 2026](https://www.sec.gov/Archives/edgar/data/1771910/000162828026029524/adct-20260331pressrelease.htm) — "The Company anticipates publication of data from both IITs between the end of 2026 and mid-2027."
-- ❓ **Tue Nov 10** · ADCT · Earnings
+- ❓ **Mon Nov 9** · ADCT · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

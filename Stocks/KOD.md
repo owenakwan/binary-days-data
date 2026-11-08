@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KOD)
 
-- ❓ **Thu Nov 12** · KOD · Earnings
+- ❓ **Wed Nov 11** · KOD · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Dec 1–Dec 31** · KOD · Phase 3 PEAK, Pivotal Analysis 1 topline
     - Source: your sheet

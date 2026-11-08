@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=UNCY)
 
-- ❓ **Wed Nov 18** · UNCY · Earnings
+- ❓ **Tue Nov 10** · UNCY · Earnings
     - Source: Finnhub earnings calendar
 - 📐 **Sat Nov 28** · UNCY · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: Unicycive Therapeutics resubmits oxylanthanum carbonat — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $3.55 · MC $98M · volatility 66% · usual day ±2.8% · biggest day +15% / −39%

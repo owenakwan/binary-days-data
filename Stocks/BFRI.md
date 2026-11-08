@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BFRI)
 
-- ❓ **Tue Nov 10** · BFRI · Earnings
+- ❓ **Fri Nov 13** · BFRI · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

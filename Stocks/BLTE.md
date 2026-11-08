@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BLTE)
 
-- ❓ **Mon Nov 9** · BLTE · Earnings
+- ❓ **Thu Nov 12** · BLTE · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

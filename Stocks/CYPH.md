@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CYPH)
 
-- ❓ **Mon Nov 16** · CYPH · Earnings
+- ❓ **Tue Nov 10** · CYPH · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

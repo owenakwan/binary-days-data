@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 08, 09:59 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 08, 02:25 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -80,7 +80,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Wednesday, November 11
 
-- ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
+- ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
 - ✅✅ [[XNDU]] Xanadu Quantum Technologies Limited · time not given · 2x: XNDX
@@ -105,7 +105,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finnhub.io/api/news?id=2bcc757334ab90e193827c6204aa95aa8c8e19f90d3aab2d1187ea7746a25a20)
+    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finance.yahoo.com/markets/stocks/articles/ondas-report-third-quarter-2026-123000922.html?.tsrc=rss)
 - ✅ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
@@ -115,9 +115,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[CSCO]] Cisco Systems, Inc. · after close · 2x: CSCL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-- ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
-    - Finnhub calendar: 2026-11-12
-    - Yahoo (estimate): 2026-11-12
 
 ## Friday, November 13
 
@@ -132,11 +129,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-16
 - ❓ [[PDD]] PDD Holdings Inc. · before open · 2x: PDDL
     - Finnhub calendar: 2026-11-16
-    - Yahoo (estimate): 2026-11-16
-- ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
-    - Finnhub calendar: 2026-11-16
-    - Yahoo (confirmed): 2026-11-16
-    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finnhub.io/api/news?id=5e0720e4e94a4c6b8dd1513409c787f6191ecefd916672bbeb7eefa9dbe984ae)
+    - Yahoo (estimate): 2026-11-18
 - ✅ [[INFQ]] Infleqtion, Inc. · time not given · 2x: INFH
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
@@ -147,6 +140,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[RCAT]] Red Cat Holdings, Inc. · time not given · 2x: RCAX
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
+- ✅✅ [[XPEV]] XPeng Inc. · time not given · 2x: XPEG
+    - Finnhub calendar: 2026-11-16
+    - Yahoo (confirmed): 2026-11-16
+    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finance.yahoo.com/markets/stocks/articles/xpeng-report-third-quarter-2026-090000748.html?.tsrc=rss)
 
 ## Tuesday, November 17
 
@@ -159,14 +156,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[P]] Everpure, Inc. · time not given · 2x: PUL
     - Finnhub calendar: 2026-11-18
     - Yahoo (confirmed): 2026-11-18
-- ✅✅ [[PANW]] Palo Alto Networks, Inc. · time not given · 2x: PALU, PANG
+- ✅ [[PANW]] Palo Alto Networks, Inc. · time not given · 2x: PALU, PANG
     - Finnhub calendar: 2026-11-18
     - Yahoo (confirmed): 2026-11-18
-    - company announcement: 2026-11-18 — [Palo Alto Networks to Announce Fiscal First Quarter 2027 Financial Results on Wednesday, November 18, 2026](https://finnhub.io/api/news?id=5d4577c9113f64a3a37e88a9e5433438599c83fd772abcf666f46c8c3e1c09b8)
-
-## Thursday, November 19
-
-- ✅✅ [[FUTU]] Futu Holdings Limited · time not given · 2x: FUTG — _The bulk calendar said 2026-11-16; Yahoo confirms 2026-11-19._
-    - stock's own lookup: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finnhub.io/api/news?id=b84628916b4aa3e423252cf48c2f9207d9e1b1ac664e3e6d70d0e5cd1999f1c7)

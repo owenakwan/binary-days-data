@@ -1,6 +1,6 @@
 # Today · Sunday, November 8
 
-Updated Sun Nov 08, 09:56 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 08, 02:23 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
@@ -14,7 +14,7 @@ Updated Sun Nov 08, 09:56 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Mon Nov 9** · [[GMRS]] · IPO lock-up ends
 - ✅ **Mon Nov 9** · [[NKTX]] · Nkarta Announces November 9, 2026 Webcast to Present Initial NKX019 Clinical Data
     - 📏 $1.73 · MC $125M · options ±68% by Nov 20 · volatility 74% · usual day ±3.4% · biggest day +24% / −13%
-- 📊 Earnings: [[ABCL]] (post), [[APGE]], [[ASMB]], [[ASND]] (post), [[ASRT]], [[AVIR]] (post), [[BCAX]] (pre), [[BDTX]], [[BIVI]], [[BLTE]], [[CGEN]] (pre), [[CHRS]] (post), [[CVKD]], [[DFTX]] (post), [[EDIT]], [[EXOZ]], [[GPFT]], [[HROW]] (post), [[HRTX]] (pre), [[IMVT]] (pre), [[INO]], [[JSPR]] (pre), [[KMDA]] (pre), [[KYNB]] (post), [[LXEO]], [[MLAB]] (post), [[MREO]], [[MTNB]], [[OCUL]] (pre), [[ORIC]], [[PALI]], [[PASG]], [[PRAX]] (pre), [[PROK]], [[QTRX]] (pre), [[RSCF]], [[SIGA]] (post), [[SKYE]], [[SNES]], [[SNTI]], [[SPRB]] (post), [[TBPH]], [[TELO]], [[TGTX]] (pre), [[TNXP]] (pre), [[TRVI]] (post), [[XENE]] (post), [[ZNTL]], [[ZYME]] (post)
+- 📊 Earnings: [[ABCL]] (post), [[ACUT]], [[ADCT]], [[ANEB]] (post), [[ANNX]], [[APGE]], [[ASMB]], [[ASRT]], [[AVBP]], [[AVIR]] (post), [[BBOT]], [[BCAX]] (pre), [[BDTX]], [[BIVI]], [[BMEA]], [[CGEN]] (pre), [[CHRS]] (post), [[CVKD]], [[DFTX]] (post), [[EDIT]], [[EXOZ]], [[FBLG]], [[FDMT]], [[FHTX]] (pre), [[GPFT]], [[HOWL]], [[HROW]] (post), [[HRTX]] (pre), [[IBO]], [[IMVT]] (pre), [[INO]], [[JSPR]] (pre), [[JTBK]], [[KMDA]] (pre), [[KYNB]] (post), [[LXEO]], [[MGX]], [[MLAB]] (post), [[MREO]], [[MTNB]], [[NKGN]], [[OCUL]] (pre), [[OLMA]], [[PALI]], [[PASG]], [[PRAX]] (pre), [[PROK]], [[QTRX]] (pre), [[RANI]] (post), [[RSCF]], [[SEPN]], [[SER]], [[SIGA]] (post), [[SKYE]], [[SLNCF]], [[SNES]], [[SNTI]], [[SPRB]] (post), [[TBPH]], [[TGTX]] (pre), [[TNGX]], [[TNXP]] (pre), [[TRVI]] (post), [[XENE]] (post), [[ZNTL]], [[ZYME]] (post)
 
 ## Windows closing within a week (could land any day)
 

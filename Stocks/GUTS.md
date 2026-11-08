@@ -1,7 +1,7 @@
 ---
 ticker: GUTS
 company: "FRACTYL HEALTH, INC."
-tags: [catalyst]
+tags: [catalyst, biotech]
 ---
 
 # GUTS · FRACTYL HEALTH, INC.

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ASND)
 
-- ❓ **Mon Nov 9** · ASND · Earnings (after close)
+- ❓ **Thu Nov 12** · ASND · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

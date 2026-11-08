@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=INKT)
 
-- ❓ **Thu Nov 12** · INKT · Earnings (before open)
+- ❓ **Wed Nov 11** · INKT · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

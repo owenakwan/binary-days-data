@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=OLMA)
 
-- ❓ **Tue Nov 10** · OLMA · Earnings
+- ❓ **Mon Nov 9** · OLMA · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · OLMA · OPERA-01 Phase 3 topline
     - Source: your sheet

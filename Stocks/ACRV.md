@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ACRV)
 
-- ❓ **Thu Nov 12** · ACRV · Earnings
+- ❓ **Wed Nov 11** · ACRV · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

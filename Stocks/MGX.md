@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MGX)
 
-- ❓ **Wed Nov 18** · MGX · Earnings
+- ❓ **Mon Nov 9** · MGX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

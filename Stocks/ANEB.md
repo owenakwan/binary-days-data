@@ -8,6 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ANEB)
 
+- ❓ **Mon Nov 9** · ANEB · Earnings (after close)
+    - Source: Finnhub earnings calendar
 - ❓ **Wed Nov 11** · ANEB · Earnings
     - Source: Finnhub earnings calendar
 

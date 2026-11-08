@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AVBP)
 
-- ❓ **Wed Nov 18** · AVBP · Earnings
+- ❓ **Mon Nov 9** · AVBP · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

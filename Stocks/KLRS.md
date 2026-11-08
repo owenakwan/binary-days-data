@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KLRS)
 
-- ❓ **Wed Nov 18** · KLRS · Earnings
+- ❓ **Tue Nov 10** · KLRS · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
