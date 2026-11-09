@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=EMMA)
 
-- ❓ **Thu Nov 12** · EMMA · Earnings
+- ❓ **Wed Nov 18** · EMMA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

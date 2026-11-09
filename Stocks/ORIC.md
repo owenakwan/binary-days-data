@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ORIC)
 
-- ❓ **Wed Nov 11** · ORIC · Earnings
+- ❓ **Mon Nov 9** · ORIC · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

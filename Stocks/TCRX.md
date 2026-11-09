@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TCRX)
 
-- ❓ **Tue Nov 10** · TCRX · Earnings
+- ❓ **Wed Nov 11** · TCRX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

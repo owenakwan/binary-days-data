@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=TNGX)
 
-- ❓ **Mon Nov 9** · TNGX · Earnings
+- ❓ **Tue Nov 10** · TNGX · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

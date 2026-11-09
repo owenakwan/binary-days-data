@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ARMP)
 
-- ❓ **Tue Nov 10** · ARMP · Earnings
+- ❓ **Wed Nov 18** · ARMP · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

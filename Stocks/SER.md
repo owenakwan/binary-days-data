@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SER)
 
-- ❓ **Mon Nov 9** · SER · Earnings
+- ❓ **Wed Nov 18** · SER · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

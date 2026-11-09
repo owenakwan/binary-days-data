@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ORKA)
 
-- ❓ **Tue Nov 10** · ORKA · Earnings
+- ❓ **Wed Nov 18** · ORKA · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Dec 1–Dec 31** · ORKA · Data expected December 2026 — _A window the company gave, not an exact day._
     - Source: [ORKA SEC 8-K (2026-10-26)](https://www.sec.gov/Archives/edgar/data/907654/000121390026112281/ea030959401ex99-1.htm) — "In addition, Oruka expects to share 52-week results from EVERLAST-A in December 2026, as well as 52-week results from EVERLAST-B in the second half of 2027."

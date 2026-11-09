@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=AKBA)
 
 - ❓ **Mon Nov 30** · AKBA · FDA decision (april, baff) — _Only one filing states this date._
-    - 📏 $0.40 · MC $111M · options ±45% by Dec 18 · volatility 163% · usual day ±4.1% · biggest day +16% / −39%
+    - 📏 $0.51 · MC $111M · options ±34% by Dec 18 · volatility 181% · usual day ±4.6% · biggest day +28% / −39%
     - Source: [AKBA SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1517022/000151702226000084/akba-20260930.htm) — "Vertex submitted a BLA for povetacicept, a dual antagonist of the BAFF and APRIL cytokines, for the treatment of IgAN, which was accepted by the FDA for accelerated approval and assigned a November 30, 2026 Prescription Drug User Fee Act target action date."
 
 ## My notes

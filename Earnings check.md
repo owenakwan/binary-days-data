@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 08, 11:46 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Mon Nov 09, 10:03 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -83,6 +83,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-11
+- ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
+    - Finnhub calendar: 2026-11-11
+    - Yahoo (estimate): 2026-11-11
 - ✅✅ [[XNDU]] Xanadu Quantum Technologies Limited · time not given · 2x: XNDX
     - Finnhub calendar: 2026-11-11
     - Yahoo (confirmed): 2026-11-11
@@ -102,10 +105,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[NBIS]] Nebius Group N.V. · before open · 2x: NBIC, NBIG, NBIL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-- ✅✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
+- ✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-    - company announcement: 2026-11-12 — [Ondas to Report Third Quarter 2026 Financial Results on November 12, 2026 at 8:30 AM ET](https://finance.yahoo.com/markets/stocks/articles/ondas-report-third-quarter-2026-123000922.html?.tsrc=rss)
 - ✅ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
@@ -154,3 +156,21 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-18
     - Yahoo (confirmed): 2026-11-18
     - company announcement: 2026-11-18 — [Palo Alto Networks to Announce Fiscal First Quarter 2027 Financial Results on Wednesday, November 18, 2026](https://finnhub.io/api/news?id=5d4577c9113f64a3a37e88a9e5433438599c83fd772abcf666f46c8c3e1c09b8)
+
+## Thursday, November 19
+
+- ✅ [[KEYS]] Keysight Technologies, Inc. · after close · 2x: KEYG, KEYX
+    - Finnhub calendar: 2026-11-19
+    - Yahoo (confirmed): 2026-11-19
+- ✅✅ [[BABA]] Alibaba Group Holding Limited · time not given · 2x: BABC, BABU, BABX
+    - Finnhub calendar: 2026-11-19
+    - Yahoo (confirmed): 2026-11-19
+    - company announcement: 2026-11-19 — [Alibaba Group Will Announce September Quarter 2026 Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/alibaba-group-announce-september-quarter-090000104.html?.tsrc=rss)
+- ✅✅ [[BULL]] Webull Corporation · time not given · 2x: BULG
+    - Finnhub calendar: 2026-11-19
+    - Yahoo (confirmed): 2026-11-19
+    - company announcement: 2026-11-19 — [Webull to Release Third Quarter 2026 Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/webull-release-third-quarter-2026-140000222.html?.tsrc=rss)
+- ✅✅ [[FUTU]] Futu Holdings Limited · time not given · 2x: FUTG
+    - Finnhub calendar: 2026-11-19
+    - Yahoo (confirmed): 2026-11-19
+    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/futu-report-third-quarter-2026-080000244.html?.tsrc=rss)

@@ -1,10 +1,10 @@
 ---
 ticker: IMVT
-company: "Immunovant Inc"
+company: "Immunovant, Inc."
 tags: [catalyst, biotech]
 ---
 
-# IMVT · Immunovant Inc
+# IMVT · Immunovant, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IMVT)
 

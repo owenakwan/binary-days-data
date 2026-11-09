@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PHVS)
 
-- ❓ **Tue Nov 10** · PHVS · Earnings (after close)
+- ❓ **Wed Nov 18** · PHVS · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

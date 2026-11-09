@@ -11,8 +11,8 @@ tags: [catalyst, biotech]
 - ❓ **Mon Nov 9** · PRAX · Earnings (before open)
     - Source: Finnhub earnings calendar
 - ✅ **Sun Dec 27** · PRAX · FDA decision (relutrigine, scn2a, scn8a)
-    - 📏 $277.62 · MC $7.3B · options ±31% by Jan 15 · volatility 59% · usual day ±2.5% · biggest day +31% / −23%
-    - Source: [PRAX SEC 8-K (2026-08-06) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1689548/000168954826000082/praxisq22026pr.htm) — "• Following the submission of additional sensitivity analyses of existing clinical data, which the FDA deemed collectively to be a major amendment, the FDA extended the review period for relutrigine’s NDA for the treatment of SCN2A and SCN8A DEEs and set a new"
+    - 📏 $311.96 · MC $7.3B · options ±40% by Jan 15 · volatility 68% · usual day ±2.7% · biggest day +31% / −23%
+    - Source: [PRAX SEC 8-K (2026-11-09) + 2 more filings](https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm) — "• The NDA for relutrigine for the treatment of SCN2A and SCN8A DEEs remains under FDA review, with a Prescription Drug User Fee Act (PDUFA) target action date of December 27, 2026."
     - Source: your sheet
 
 ## My notes

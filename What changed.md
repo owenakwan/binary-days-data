@@ -2,6 +2,26 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-09 09:59 AM CT
+
+- 🆕 New: ✅ **now–Nov 30** · [[MANE]] · Data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $143.47 · options ±16% by Dec 18 · volatility 83% · usual day ±3.3% · biggest day +48% / −14%
+- 🆕 New: ✅ **Mon Nov 9** · [[TLSA]] · Tiziana Life Sciences to Present at BIO-Europe 2026 and Host KOL Webcast
+    - 📏 $0.68 · volatility 103% · usual day ±4.5% · biggest day +26% / −16%
+- 🆕 New: ✅ **Tue Dec 8** · [[OCS]] · Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline - Carroll County Mirror-Democrat
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[AURA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[INM]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[TTRX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Jan 3–Jan 28** · [[ANTX]] · FDA acceptance expected Jan 3–Jan 28, 2027 (submitted Nov 9) — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 18–Jan 31** · [[TECX]] · Topline data expected end of January 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[FTH]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MANE]] · Data expected later this year — _A window the company gave, not an exact day._
+    - 📏 $143.47 · options ±16% by Dec 18 · volatility 83% · usual day ±3.3% · biggest day +48% / −14%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Nov 30** · [[NKTX]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $1.28 · MC $125M · options ±121% by Nov 20 · volatility 111% · usual day ±3.8% · biggest day +24% / −26%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[VIR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Wed Jan 6** · [[IBRX]] · FDA decision (anktiva, bcg-, nmibc)
+
 ## 2026-11-08 03:00 AM CT
 
 - 🆕 New: 📐 **Wed Dec 23** · [[MBGL]] · SPAC merger / direct listing lock-up ends
