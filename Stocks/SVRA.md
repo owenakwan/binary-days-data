@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SVRA)
 
 - ✅ **Sun Nov 22** · SVRA · FDA decision
-    - 📏 $4.83 · MC $900M · options ±47% by Dec 18 · volatility 63% · usual day ±2.5% · biggest day +17% / −8%
+    - 📏 $4.83 · MC $900M · options ±53% by Dec 18 · volatility 63% · usual day ±2.5% · biggest day +17% / −8%
     - Source: [SVRA SEC 10-Q (2026-08-11) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1160308/000119312526344585/svra-20260630.htm) — "The FDA determined that the Company’s responses to recent information requests by the Agency during their review constituted a major amendment to the BLA, resulting in a three-month extension of the Prescription Drug User Fee Act ("PDUFA") target action date t"
     - Source: your sheet
 

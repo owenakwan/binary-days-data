@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 08, 06:02 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 08, 11:46 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -115,12 +115,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[CSCO]] Cisco Systems, Inc. · after close · 2x: CSCL
     - Finnhub calendar: 2026-11-12
     - Yahoo (confirmed): 2026-11-12
-
-## Friday, November 13
-
-- ❓ [[ASST]] Strive, Inc. · time not given · 2x: ASSX
-    - Finnhub calendar: 2026-11-13
-    - Yahoo (estimate): 2026-11-13
 
 ## Monday, November 16
 

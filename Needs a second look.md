@@ -1,6 +1,6 @@
 # Needs a second look
 
-Updated Sun Nov 08, 05:59 PM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
+Updated Sun Nov 08, 11:43 PM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
 
 
 ## ❓ One source only (6)
@@ -11,4 +11,4 @@ Updated Sun Nov 08, 05:59 PM CT. Dates where sources disagree, only one source s
 - ❓ **Sun Nov 22** · [[TRDA]] · FDA decision (aak1, participant) — _Only one filing states this date._
     - 📏 $4.89 · MC $177M · options ±75% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
 - ❓ **Mon Nov 30** · [[AKBA]] · FDA decision (april, baff) — _Only one filing states this date._
-    - 📏 $0.40 · MC $111M · options ±57% by Dec 18 · volatility 163% · usual day ±4.1% · biggest day +16% / −39%
+    - 📏 $0.40 · MC $111M · options ±45% by Dec 18 · volatility 163% · usual day ±4.1% · biggest day +16% / −39%
