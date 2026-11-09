@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 08, 02:25 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 08, 06:02 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -129,7 +129,11 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-16
 - ❓ [[PDD]] PDD Holdings Inc. · before open · 2x: PDDL
     - Finnhub calendar: 2026-11-16
-    - Yahoo (estimate): 2026-11-18
+    - Yahoo (estimate): 2026-11-16
+- ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
+    - Finnhub calendar: 2026-11-16
+    - Yahoo (confirmed): 2026-11-16
+    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finnhub.io/api/news?id=5e0720e4e94a4c6b8dd1513409c787f6191ecefd916672bbeb7eefa9dbe984ae)
 - ✅ [[INFQ]] Infleqtion, Inc. · time not given · 2x: INFH
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
@@ -140,10 +144,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[RCAT]] Red Cat Holdings, Inc. · time not given · 2x: RCAX
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
-- ✅✅ [[XPEV]] XPeng Inc. · time not given · 2x: XPEG
-    - Finnhub calendar: 2026-11-16
-    - Yahoo (confirmed): 2026-11-16
-    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finance.yahoo.com/markets/stocks/articles/xpeng-report-third-quarter-2026-090000748.html?.tsrc=rss)
 
 ## Tuesday, November 17
 
@@ -156,6 +156,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[P]] Everpure, Inc. · time not given · 2x: PUL
     - Finnhub calendar: 2026-11-18
     - Yahoo (confirmed): 2026-11-18
-- ✅ [[PANW]] Palo Alto Networks, Inc. · time not given · 2x: PALU, PANG
+- ✅✅ [[PANW]] Palo Alto Networks, Inc. · time not given · 2x: PALU, PANG
     - Finnhub calendar: 2026-11-18
     - Yahoo (confirmed): 2026-11-18
+    - company announcement: 2026-11-18 — [Palo Alto Networks to Announce Fiscal First Quarter 2027 Financial Results on Wednesday, November 18, 2026](https://finnhub.io/api/news?id=5d4577c9113f64a3a37e88a9e5433438599c83fd772abcf666f46c8c3e1c09b8)

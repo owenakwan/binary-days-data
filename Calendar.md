@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sun Nov 08, 02:23 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 08, 05:59 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 2
@@ -61,7 +61,7 @@ Updated Sun Nov 08, 02:23 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - ✅ **Sun Nov 22** · [[SVRA]] · FDA decision
     - 📏 $4.83 · MC $900M · options ±47% by Dec 18 · volatility 63% · usual day ±2.5% · biggest day +17% / −8%
 - ❓ **Sun Nov 22** · [[TRDA]] · FDA decision (aak1, participant) — _Only one filing states this date._
-    - 📏 $4.89 · MC $177M · options ±107% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
+    - 📏 $4.89 · MC $177M · options ±75% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
 
 ## Week of Nov 23
 - 📐 **Mon Nov 23** · [[FDXF]] · SPAC merger / direct listing lock-up ends
@@ -297,7 +297,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[TPST]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TRAX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TRDA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
-    - 📏 $4.89 · MC $177M · options ±107% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
+    - 📏 $4.89 · MC $177M · options ±75% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
 - ✅ **now–Dec 31** · [[TRVI]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TVRD]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[TYRA]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -371,7 +371,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **Jan 1–Mar 31** · [[TECX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[TRAX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[TRDA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - 📏 $4.89 · MC $177M · options ±107% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
+    - 📏 $4.89 · MC $177M · options ±75% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +13% / −57%
 - ✅ **Jan 1–Mar 31** · [[UPB]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[VERA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[VIR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
