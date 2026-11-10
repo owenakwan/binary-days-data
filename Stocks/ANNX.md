@@ -9,11 +9,11 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ANNX)
 
 - ✅ **now–Dec 31** · ANNX · Data expected Q4 2026 — _A window the company gave, not an exact day._
-    - Source: [ANNX SEC 8-K (2026-08-12)](https://www.sec.gov/Archives/edgar/data/1528115/000119312526345672/d119960dex992.htm) — "An independent Data Monitoring Committee (DMC) will assess the primary endpoint of the overall study at Month 15, and the Company expects to report the DMC’s assessment in the fourth quarter of 2026."
+    - Source: [ANNX SEC 8-K (2026-11-09)](https://www.sec.gov/Archives/edgar/data/1528115/000119312526453557/annx-ex99_1.htm) — "Month 15 Primary Endpoint Assessment on Track for Q4 2026 ANX1502 Data Support Continued Development of Potential First Oral C1s Inhibitor for Autoimmune Diseases, including gMG;"
 - ❓ **Mon Nov 16** · ANNX · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · ANNX · Data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [ANNX SEC 8-K (2026-08-12)](https://www.sec.gov/Archives/edgar/data/1528115/000119312526345672/d119960dex992.htm) — "Following this assessment, the DMC may recommend that the ARCHER II overall study has met its Month 15 primary endpoint, enabling the planned analysis of the trial’s two sub-studies, with results anticipated in the first"
+    - Source: [ANNX SEC 8-K (2026-11-09)](https://www.sec.gov/Archives/edgar/data/1528115/000119312526453557/annx-ex99_1.htm) — "If the DMC recommends that the endpoint has been met, the DMC will evaluate the two pre-specified sub-studies, with results anticipated in the first quarter of 2027."
 
 ## My notes
 

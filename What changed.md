@@ -2,6 +2,31 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-09 06:17 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[GPCR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[HROW]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[IMNM]] · Data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Nov 30** · [[MBX]] · Data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $54.06 · MC $2.4B · volatility 60% · usual day ±2.7% · biggest day +20% / −11%
+- 🆕 New: ✅ **now–Dec 31** · [[NGNE]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[RANI]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Nov 30** · [[ZNTL]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $1.74 · MC $350M · options ±34% by Dec 18 · volatility 71% · usual day ±3.4% · biggest day +60% / −21%
+- 🆕 New: ✅ **Mon Dec 14** · [[IMNM]] · Data expected December 14, 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Jan 31** · [[HROW]] · Data expected January 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[TRVI]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ATTO]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[GPCR]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[HROW]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MBX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - 📏 $54.06 · MC $2.4B · volatility 60% · usual day ±2.7% · biggest day +20% / −11%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[SRZN]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ZNTL]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+    - 📏 $1.74 · MC $350M · options ±34% by Dec 18 · volatility 71% · usual day ±3.4% · biggest day +60% / −21%
+- ✔️ Dropped off (happened, decided or no longer in any source): 📐 **Dec 22–Jan 16** · [[RFL]] · FDA acceptance expected Dec 22–Jan 16, 2027 (submitted Oct 28) — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): 📐 **Dec 23–Jan 17** · [[RFL]] · FDA acceptance expected Dec 23–Jan 17, 2027 (submitted Oct 29) — _A window the company gave, not an exact day._
+
 ## 2026-11-09 09:59 AM CT
 
 - 🆕 New: ✅ **now–Nov 30** · [[MANE]] · Data expected November 2026 — _A window the company gave, not an exact day._

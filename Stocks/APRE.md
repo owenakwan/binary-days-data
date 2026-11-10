@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=APRE)
 
 - ✅ **now–Nov 30** · APRE · Data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.53 · MC $7M · volatility 92% · usual day ±4.4% · biggest day +35% / −23%
+    - 📏 $0.50 · MC $7M · volatility 91% · usual day ±4.4% · biggest day +35% / −23%
     - Source: [APRE SEC 10-Q (2026-11-04)](https://www.sec.gov/Archives/edgar/data/1781983/000110465926122405/apre-20260930x10q.htm) — "We expect to report the next clinical data update from ACESOT-1051 at the 38 th EORTC-NCI-AACR Symposium in November 2026."
 
 ## My notes
