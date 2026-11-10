@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ATOS)
 
-- ❓ **Tue Nov 10** · ATOS · Earnings
+- ❓ **Tue Nov 10** · ATOS · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -2,6 +2,19 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-10 09:35 AM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[CALC]] · Data expected by year-end — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[CLRB]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[SRRK]] · Topline data expected by year end — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[CGEM]] · Data expected December 2026 — _A window the company gave, not an exact day._
+    - 📏 $11.65 · MC $878M · options ±40% by Dec 18 · volatility 101% · usual day ±3.6% · biggest day +37% / −22%
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[CING]] · FDA filing expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Sun Dec 13** · [[COAG]] · Initial data expected December 13, 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[OVID]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Jan 31** · [[PEPG]] · Initial data expected January 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MIRM]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-10 01:02 AM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[ARTV]] · Data expected Q4 2026 — _A window the company gave, not an exact day._

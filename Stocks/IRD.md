@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IRD)
 
-- ❓ **Tue Nov 10** · IRD · Earnings
+- ❓ **Tue Nov 10** · IRD · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

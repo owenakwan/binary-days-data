@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=UPB)
 
 - ✅ **Jan 1–Mar 31** · UPB · Data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [UPB SEC 10-K (2026-03-26)](https://www.sec.gov/Archives/edgar/data/2022626/000119312526126188/upb-20251231.htm) — "Based on available data from the VALIANT and VIBRANT Phase 2 trials and analysis from approximately 500 participants treated with verekitug across our five completed Phase 1 and 2 clinical trials, we plan to initiate dos"
+    - Source: [UPB SEC 10-Q (2026-11-10)](https://www.sec.gov/Archives/edgar/data/2022626/000119312526454422/upb-20260930.htm) — "the initiation, timing, progress, and results of our planned and future clinical trials for verekitug for the treatment of severe asthma, chronic rhinosinusitis with nasal polyps (“CRSwNP”) and chronic obstructive pulmon"
 
 ## My notes
 

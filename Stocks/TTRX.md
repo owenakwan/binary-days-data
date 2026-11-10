@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ❓ **Thu Nov 12** · TTRX · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · TTRX · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [TTRX SEC 10-Q (2026-11-09)](https://www.sec.gov/Archives/edgar/data/2023016/000121390026117186/ea0308697-10q_turn.htm) — "Topline results from Phase 2b are expected in the first quarter of 2027."
+    - Source: [TTRX SEC 8-K (2026-11-10)](https://www.sec.gov/Archives/edgar/data/2023016/000121390026117781/ea031158701ex99-1.htm) — "IL - 36/IL - 31 Inhibitor – GX - 03 Novel MOA employs precision immunomodulation to prevent unnecessary immune activation and systemic uptake Robust IP including issued composition and method patents, supporting durable "
 
 ## My notes
 

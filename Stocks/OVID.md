@@ -10,6 +10,8 @@ tags: [catalyst, biotech]
 
 - ❓ **Wed Nov 11** · OVID · Earnings
     - Source: Finnhub earnings calendar
+- ✅ **Jan 1–Mar 31** · OVID · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+    - Source: [OVID SEC 8-K (2026-11-10)](https://www.sec.gov/Archives/edgar/data/1636651/000162828026072494/ovidexhibit9912026-q3.htm) — "The study is enrolling, and Ovid anticipates reading out topline data in the first quarter of 2027."
 
 ## My notes
 
