@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · AVIR · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
     - Source: [AVIR SEC 8-K (2026-05-12)](https://www.sec.gov/Archives/edgar/data/1593899/000119312526219507/d12234dex991.htm) — "Topline Results Expected Around Year-End 2026 Encouraging Preclinical Data Support AT-587 as a Potential First-in-Class Therapy for Hepatitis E Virus (HEV);"
-- ❓ **Mon Nov 9** · AVIR · Earnings (after close)
-    - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · AVIR · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
     - Source: [AVIR SEC 10-Q (2026-11-09)](https://www.sec.gov/Archives/edgar/data/1593899/000119312526453807/avir-20260930.htm) — "Currently, the Company expects to report topline results from C-FORWARD in the first quarter of 2027 and, if the C-FORWARD results are positive, the Company is targeting the second quarter of 2027 for submission to the U"
 

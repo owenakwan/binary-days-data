@@ -1,45 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Mon Nov 09, 06:20 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Tue Nov 10, 01:05 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Monday, November 9
-
-- ❓ [[CEG]] Constellation Energy Corporation · before open · 2x: CEGX
-    - Finnhub calendar: 2026-11-09
-- ❓ [[ACHR]] Archer Aviation Inc. · after close · 2x: ACHX, ARCX
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-03-02
-- ❓ [[ASTS]] AST SpaceMobile, Inc. · after close · 2x: ASTG, ASTT, ASTX
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-03-01
-- ❓ [[HIMS]] Hims & Hers Health, Inc. · after close · 2x: HIMC, HIMZ
-    - Finnhub calendar: 2026-11-09
-- ❓ [[MARA]] MARA Holdings, Inc. · after close · 2x: MHX, MRAL
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-02-24
-- ❓ [[ONTO]] Onto Innovation Inc. · after close · 2x: ONTX
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-02-17
-- ❓ [[PLUG]] Plug Power Inc. · after close · 2x: PLUL
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-03-01
-- ✅✅ [[QUBT]] Quantum Computing Inc. · after close · 2x: QUBX
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-03-01
-    - company announcement: 2026-11-09 — [Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026](https://finance.yahoo.com/markets/stocks/articles/quantum-computing-inc-host-third-123000496.html?.tsrc=rss)
-- ❓ [[RKLB]] Rocket Lab Corporation · after close · 2x: RKLX, RKX
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-02-24
-- ❓ [[TTD]] The Trade Desk, Inc. · after close · 2x: TTDU
-    - Finnhub calendar: 2026-11-09
-- ❓ [[USAR]] USA Rare Earth, Inc. · after close · 2x: USAX, USGG
-    - Finnhub calendar: 2026-11-09
-- ❓ [[DJT]] Trump Media & Technology Group Corp. · time not given · 2x: DJTU
-    - Finnhub calendar: 2026-11-09
-    - Yahoo (estimate): 2027-02-25
 
 ## Tuesday, November 10
 
@@ -166,3 +130,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
     - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finnhub.io/api/news?id=b84628916b4aa3e423252cf48c2f9207d9e1b1ac664e3e6d70d0e5cd1999f1c7)
+
+## Friday, November 20
+
+- ❓ [[BMNR]] Bitmine Immersion Technologies, Inc. · time not given · 2x: BMNG, BMNU, BNMC
+    - Finnhub calendar: 2026-11-20
+    - Yahoo (estimate): 2026-11-20

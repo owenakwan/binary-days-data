@@ -9,6 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CGEM)
 
 - 📐 **Tue Dec 1** · CGEM · FDA decision on accepting the filing, usually ~day 60-74 after the Oct 2 submission: Cullinan Therapeutics starts NDA submission for zipaler — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - 📏 $11.73 · MC $878M · options ±43% by Dec 18 · volatility 101% · usual day ±3.6% · biggest day +37% / −22%
     - Source: [TradingView](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaTVlTTdFTkw3cExXd2ItM2lodFFmNkkxOVpEaUpYQzRLYVgyVURuS2JnS1hzX1BvdHo3NVUxVm1vQ1hzQjc0d3R6X0djWERaYzN5NDhNUlFkeWotWE0zSzE3ZEFvWTJPNnRwbzJQWG5RSjhocEZDUFM5aDBCOXpmaHBtbUs3OGY4aHpFN0d5YVlNajZfbmgyZHJrdzd1QmdGdmdqQnZVSy1SQjM3XzVib0V1UUwyQzFUS0hJOEs4VGtSRG4xQkgwZ2dBV2hsZVV5cHRCZWNleGJMbld4bGRwM2Z3?oc=5) — "FDA decision on accepting the filing, usually ~day 60-74 after the Oct 2 submission: Cullinan Therapeutics starts NDA submission for zipalertinib plus chemo under FDA RTOR"
 
 ## My notes

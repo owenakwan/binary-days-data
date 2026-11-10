@@ -2,6 +2,12 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-10 01:02 AM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[ARTV]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Nov 30** · [[NKTX]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $1.59 · MC $125M · volatility 76% · usual day ±3.5% · biggest day +24% / −13%
+
 ## 2026-11-09 06:17 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[GPCR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._

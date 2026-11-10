@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · JSPR · Initial data expected by year-end 2026 — _A window the company gave, not an exact day._
     - Source: [JSPR SEC 8-K (2026-10-15)](https://www.sec.gov/Archives/edgar/data/1788028/000121390026109587/ea030865701ex99-1.htm) — "The Company expects to report initial interim data from the IgAN basket study by year-end 2026."
-- ❓ **Mon Nov 9** · JSPR · Earnings (before open)
-    - Source: Finnhub earnings calendar
 
 ## My notes
 

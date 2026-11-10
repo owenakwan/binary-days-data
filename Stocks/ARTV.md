@@ -8,9 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ARTV)
 
-- ✅ **Mon Nov 9** · ARTV · Data expected November 9, 2026 — _A window the company gave, not an exact day._
-    - 📏 $4.22 · MC $288M · options ±16% by Nov 20 · volatility 118% · usual day ±3.1% · biggest day +91% / −31%
-    - Source: [ARTV SEC 8-K (2026-10-27)](https://www.sec.gov/Archives/edgar/data/1817241/000119312526432806/d102135dex991.htm) — "In light of the decision to discontinue AlloNK development, Artiva no longer plans to present its previously announced clinical data at ACR Convergence 2026 and will cancel its investor webcast scheduled for November 9, "
+- ✅ **now–Dec 31** · ARTV · Data expected Q4 2026 — _A window the company gave, not an exact day._
+    - Source: [ARTV SEC 10-Q (2026-11-09)](https://www.sec.gov/Archives/edgar/data/1817241/000119312526453549/artv-20260930.htm) — "Although we expect our ongoing operating expenses to decrease, we expect to incur substantial Wind Down costs as described under “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Rece"
 - ❓ **Wed Nov 18** · ARTV · Earnings
     - Source: Finnhub earnings calendar
 
