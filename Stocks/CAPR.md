@@ -10,9 +10,9 @@ tags: [catalyst, biotech]
 
 - ❓ **Tue Nov 10** · CAPR · Earnings (after close)
     - Source: Finnhub earnings calendar
-- ✅ **Sun Nov 22** · CAPR · FDA decision (hope-3)
-    - 📏 $9.45 · MC $500M · options ±98% by Nov 27 · volatility 111% · usual day ±5.6% · biggest day +371% / −64%
-    - Source: [CAPR SEC 8-K (2026-08-24)](https://www.sec.gov/Archives/edgar/data/1133869/000110465926100071/capr-20260824xex99d1.htm) — "EX-99.1 2 capr-20260824xex99d1.htm EX-99.1 Exhibit 99.1 Capricor Therapeutics Announces Extension of PDUFA Target Action Date as FDA Continues Review of Deramiocel BLA – New PDUFA target action date of November 22, 2026 follows submission of additional Phase 3"
+- ✅ **Sun Nov 22** · CAPR · FDA decision
+    - 📏 $8.87 · MC $500M · options ±108% by Nov 27 · volatility 115% · usual day ±5.7% · biggest day +371% / −64%
+    - Source: [CAPR SEC 8-K (2026-11-10) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/capr-ex99d1.htm) — "PDUFA target action date of November 22, 2026"
     - Source: your sheet
 
 ## My notes

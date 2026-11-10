@@ -2,6 +2,22 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-10 03:34 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[CALC]] · Data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ❓ **Sat Nov 14** · [[BRVE]] · FDA decision (maple-hcm) — _Only one filing states this date._
+    - 📏 $19.62 · volatility 77% · usual day ±3.9% · biggest day +10% / −14%
+- 🆕 New: ✅ **Sun Nov 22** · [[CAPR]] · FDA decision
+    - 📏 $8.87 · MC $500M · options ±108% by Nov 27 · volatility 115% · usual day ±5.7% · biggest day +371% / −64%
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[COAG]] · Initial data expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[BMEA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[IKT]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[PALI]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[CALC]] · Data expected by year-end — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sun Nov 22** · [[CAPR]] · FDA decision (hope-3)
+    - 📏 $8.87 · MC $500M · options ±108% by Nov 27 · volatility 115% · usual day ±5.7% · biggest day +371% / −64%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[BMEA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-10 09:35 AM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[CALC]] · Data expected by year-end — _A window the company gave, not an exact day._
