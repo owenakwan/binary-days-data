@@ -1,30 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Nov 10, 07:36 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 11, 02:23 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Tuesday, November 10
-
-- ❓ [[BTDR]] Bitdeer Technologies Group · before open · 2x: BTDL
-    - Finnhub calendar: 2026-11-10
-- ❓ [[QBTS]] D-Wave Quantum Inc. · before open · 2x: QBTX, QUA
-    - Finnhub calendar: 2026-11-10
-    - Yahoo (estimate): 2027-02-24
-- ❓ [[WYFI]] WhiteFiber, Inc. · before open · 2x: WYFL
-    - Finnhub calendar: 2026-11-10
-- ❓ [[AMPX]] Amprius Technologies, Inc. · after close · 2x: AMPU
-    - Finnhub calendar: 2026-11-10
-- ❓ [[CRWV]] CoreWeave, Inc. · after close · 2x: CRWG, CRWU, CRWX
-    - Finnhub calendar: 2026-11-10
-- ❓ [[FLY]] Firefly Aerospace Inc. · after close · 2x: FLYT
-    - Finnhub calendar: 2026-11-10
-- ❓ [[LWLG]] Lightwave Logic, Inc. · after close · 2x: LWLX
-    - Finnhub calendar: 2026-11-10
-- ❓ [[RGTI]] Rigetti Computing, Inc. · after close · 2x: RGTC, RGTU, RGTX
-    - Finnhub calendar: 2026-11-10
-    - Yahoo (estimate): 2027-03-02
 
 ## Wednesday, November 11
 
@@ -33,7 +12,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-11
+    - Yahoo (estimate): 2026-11-24
 - ✅✅ [[XNDU]] Xanadu Quantum Technologies Limited · time not given · 2x: XNDX
     - Finnhub calendar: 2026-11-11
     - Yahoo (confirmed): 2026-11-11
