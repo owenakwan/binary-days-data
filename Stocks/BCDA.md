@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BCDA)
 
-- ❓ **Wed Nov 11** · BCDA · Earnings
+- ❓ **Thu Nov 12** · BCDA · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
