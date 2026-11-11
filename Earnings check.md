@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 11, 10:37 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 11, 05:02 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -15,7 +15,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-11
+    - Yahoo (estimate): 2026-11-24
 - ✅✅ [[XNDU]] Xanadu Quantum Technologies Limited · time not given · 2x: XNDX
     - Finnhub calendar: 2026-11-11
     - Yahoo (confirmed): 2026-11-11
@@ -79,10 +79,10 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Wednesday, November 18
 
-- ✅ [[P]] Everpure, Inc. · time not given · 2x: PUL
+- ✅ [[P]] Everpure, Inc. · after close · 2x: PUL
     - Finnhub calendar: 2026-11-18
     - Yahoo (confirmed): 2026-11-18
-- ✅ [[PANW]] Palo Alto Networks, Inc. · time not given · 2x: PALU, PANG
+- ✅ [[PANW]] Palo Alto Networks, Inc. · after close · 2x: PALU, PANG
     - Finnhub calendar: 2026-11-18
     - Yahoo (confirmed): 2026-11-18
 

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=FFR)
 
-- ❓ **Thu Nov 12** · FFR · Earnings
+- ❓ **Thu Nov 12** · FFR · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes
