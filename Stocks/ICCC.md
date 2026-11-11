@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ICCC)
 
-- ❓ **Thu Nov 12** · ICCC · Earnings
+- ❓ **Thu Nov 12** · ICCC · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

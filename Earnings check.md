@@ -1,39 +1,30 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Nov 10, 03:37 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Tue Nov 10, 07:36 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Tuesday, November 10
 
-- ✅ [[BTDR]] Bitdeer Technologies Group · before open · 2x: BTDL
+- ❓ [[BTDR]] Bitdeer Technologies Group · before open · 2x: BTDL
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[QBTS]] D-Wave Quantum Inc. · before open · 2x: QBTX, QUA
+- ❓ [[QBTS]] D-Wave Quantum Inc. · before open · 2x: QBTX, QUA
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[WYFI]] WhiteFiber, Inc. · before open · 2x: WYFL
+    - Yahoo (estimate): 2027-02-24
+- ❓ [[WYFI]] WhiteFiber, Inc. · before open · 2x: WYFL
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[AMPX]] Amprius Technologies, Inc. · after close · 2x: AMPU
+- ❓ [[AMPX]] Amprius Technologies, Inc. · after close · 2x: AMPU
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[CRWV]] CoreWeave, Inc. · after close · 2x: CRWG, CRWU, CRWX
+- ❓ [[CRWV]] CoreWeave, Inc. · after close · 2x: CRWG, CRWU, CRWX
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[FLY]] Firefly Aerospace Inc. · after close · 2x: FLYT
+- ❓ [[FLY]] Firefly Aerospace Inc. · after close · 2x: FLYT
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[LWLG]] Lightwave Logic, Inc. · after close · 2x: LWLX
+- ❓ [[LWLG]] Lightwave Logic, Inc. · after close · 2x: LWLX
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[RGTI]] Rigetti Computing, Inc. · after close · 2x: RGTC, RGTU, RGTX
+- ❓ [[RGTI]] Rigetti Computing, Inc. · after close · 2x: RGTC, RGTU, RGTX
     - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
-- ✅ [[VELO]] Velo3D, Inc. · time not given · 2x: VELL
-    - Finnhub calendar: 2026-11-10
-    - Yahoo (confirmed): 2026-11-10
+    - Yahoo (estimate): 2027-03-02
 
 ## Wednesday, November 11
 
@@ -83,20 +74,20 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[PDD]] PDD Holdings Inc. · before open · 2x: PDDL
     - Finnhub calendar: 2026-11-16
     - Yahoo (estimate): 2026-11-16
-- ✅ [[INFQ]] Infleqtion, Inc. · time not given · 2x: INFH
-    - Finnhub calendar: 2026-11-16
-    - Yahoo (confirmed): 2026-11-16
-- ✅✅ [[POET]] POET Technologies Inc. · time not given · 2x: POEL
+- ✅✅ [[POET]] POET Technologies Inc. · before open · 2x: POEL
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
     - company announcement: 2026-11-16 — [POET Technologies to Report Third Quarter 2026 Financial Results on November 16](https://finance.yahoo.com/technology/ai/articles/poet-technologies-report-third-quarter-110000064.html?.tsrc=rss)
-- ✅ [[RCAT]] Red Cat Holdings, Inc. · time not given · 2x: RCAX
+- ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
-- ✅✅ [[XPEV]] XPeng Inc. · time not given · 2x: XPEG
+    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finnhub.io/api/news?id=5e0720e4e94a4c6b8dd1513409c787f6191ecefd916672bbeb7eefa9dbe984ae)
+- ✅ [[INFQ]] Infleqtion, Inc. · after close · 2x: INFH
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
-    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finance.yahoo.com/markets/stocks/articles/xpeng-report-third-quarter-2026-090000748.html?.tsrc=rss)
+- ✅ [[RCAT]] Red Cat Holdings, Inc. · after close · 2x: RCAX
+    - Finnhub calendar: 2026-11-16
+    - Yahoo (confirmed): 2026-11-16
 
 ## Tuesday, November 17
 

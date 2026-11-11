@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IMDX)
 
-- ❓ **Mon Nov 16** · IMDX · Earnings
+- ❓ **Mon Nov 16** · IMDX · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes
