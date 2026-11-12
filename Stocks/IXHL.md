@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IXHL)
 
-- ❓ **Thu Nov 12** · IXHL · Earnings
+- ❓ **Thu Nov 12** · IXHL · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ELTP)
 
-- ❓ **Thu Nov 12** · ELTP · Earnings
+- ❓ **Thu Nov 12** · ELTP · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

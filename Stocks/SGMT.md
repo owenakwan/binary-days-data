@@ -8,8 +8,9 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SGMT)
 
-- ✅ **now–Dec 31** · SGMT · Data expected end of 2026 — _A window the company gave, not an exact day._
-    - Source: [SGMT SEC 8-K (2026-09-30)](https://www.sec.gov/Archives/edgar/data/1400118/000119312526408224/d96035dex991.htm) — "Phase 1 clinical trial results anticipated in 2026, Phase 2 proof of concept clinical trial anticipated to begin before the end of 2026, subject to regulatory feedback September 2026 4 Strong IP, Cash Position, and Colla"
+- ✅ **now–Nov 30** · SGMT · Data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $10.99 · MC $705M · options ±28% by Dec 18 · volatility 84% · usual day ±3.6% · biggest day +39% / −13%
+    - Source: [SGMT SEC 8-K (2026-11-12)](https://www.sec.gov/Archives/edgar/data/1400118/000119312526457000/d123481dex992.htm) — "Endpoints anticipated to include total and inflammatory lesion count reduction; improvement in the acne global assessment score will be explored November 2026 31 Denifanstat for Treatment of MASH Clinical and Pre-Clinica"
 - ❓ **Thu Nov 12** · SGMT · Earnings (before open)
     - Source: Finnhub earnings calendar
 

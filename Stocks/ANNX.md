@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · ANNX · Data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [ANNX SEC 8-K (2026-11-09)](https://www.sec.gov/Archives/edgar/data/1528115/000119312526453557/annx-ex99_1.htm) — "Month 15 Primary Endpoint Assessment on Track for Q4 2026 ANX1502 Data Support Continued Development of Potential First Oral C1s Inhibitor for Autoimmune Diseases, including gMG;"
-- ❓ **Mon Nov 16** · ANNX · Earnings
-    - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · ANNX · Data expected Q1 2027 — _A window the company gave, not an exact day._
     - Source: [ANNX SEC 8-K (2026-11-09)](https://www.sec.gov/Archives/edgar/data/1528115/000119312526453557/annx-ex99_1.htm) — "If the DMC recommends that the endpoint has been met, the DMC will evaluate the two pre-specified sub-studies, with results anticipated in the first quarter of 2027."
 

@@ -1,15 +1,13 @@
 ---
 ticker: ORKA
-company: "Oruka Therapeutics Inc"
+company: "Oruka Therapeutics, Inc."
 tags: [catalyst, biotech]
 ---
 
-# ORKA · Oruka Therapeutics Inc
+# ORKA · Oruka Therapeutics, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ORKA)
 
-- ❓ **Wed Nov 18** · ORKA · Earnings
-    - Source: Finnhub earnings calendar
 - ✅ **Dec 1–Dec 31** · ORKA · Data expected December 2026 — _A window the company gave, not an exact day._
     - Source: [ORKA SEC 8-K (2026-10-26)](https://www.sec.gov/Archives/edgar/data/907654/000121390026112281/ea030959401ex99-1.htm) — "In addition, Oruka expects to share 52-week results from EVERLAST-A in December 2026, as well as 52-week results from EVERLAST-B in the second half of 2027."
 - ✅ **Jan 1–Mar 31** · ORKA · Data expected Q1 2027 — _A window the company gave, not an exact day._

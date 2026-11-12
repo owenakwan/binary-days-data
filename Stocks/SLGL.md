@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SLGL)
 
-- ❓ **Wed Nov 18** · SLGL · Earnings
+- ❓ **Thu Nov 12** · SLGL · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

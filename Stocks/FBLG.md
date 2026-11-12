@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=FBLG)
 
-- ❓ **Tue Nov 17** · FBLG · Earnings
+- ❓ **Thu Nov 12** · FBLG · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

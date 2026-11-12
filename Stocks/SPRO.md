@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=SPRO)
 
-- ❓ **Mon Nov 16** · SPRO · Earnings
+- ❓ **Thu Nov 12** · SPRO · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

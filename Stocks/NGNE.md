@@ -10,8 +10,6 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · NGNE · Initial data expected end of 2026 — _A window the company gave, not an exact day._
     - Source: [NGNE SEC 10-Q (2026-11-09)](https://www.sec.gov/Archives/edgar/data/1404644/000140464426000069/ngne-20260930.htm) — "We expect to complete the PPQ runs by the end of 2026. -23- Table of Contents In February 2026, we announced that NGN-401 received Breakthrough Therapy designation based on the FDA’s review of interim efficacy and safety"
-- ❓ **Mon Nov 23** · NGNE · Earnings (before open)
-    - Source: Finnhub earnings calendar
 
 ## My notes
 

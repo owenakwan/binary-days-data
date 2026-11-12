@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GRCE)
 
-- ❓ **Mon Nov 16** · GRCE · Earnings
+- ❓ **Thu Nov 12** · GRCE · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

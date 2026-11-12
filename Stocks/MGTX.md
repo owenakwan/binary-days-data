@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MGTX)
 
-- ❓ **Wed Nov 18** · MGTX · Earnings
+- ❓ **Thu Nov 12** · MGTX · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

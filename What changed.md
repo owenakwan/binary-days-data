@@ -2,6 +2,26 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-12 02:43 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[MTVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Nov 30** · [[SGMT]] · Data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $10.99 · MC $705M · options ±28% by Dec 18 · volatility 84% · usual day ±3.6% · biggest day +39% / −13%
+- 🆕 New: ✅ **now–Dec 31** · [[TOVX]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Mon Nov 16** · [[CNSY]] · Cerenome to host conference call on clinical data Monday By Investing.com
+    - 📏 $0.78 · MC $6M · volatility 191% · usual day ±6.0% · biggest day +24% / −38%
+- 🆕 New: ✅ **Sat Nov 28** · [[PYPD]] · FDA decision (corporate, financial, november, polypid)
+    - 📏 $6.37 · MC $105M · volatility 55% · usual day ±2.3% · biggest day +11% / −27%
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[MTVA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Fri Jan 8** · [[LRMR]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 9 submission: Larimar Therapeutics Completes Rolling BLA Submission — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 🆕 New: 📐 **Mon Jan 11** · [[KYTX]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 12 submission: Kyverna Therapeutics Announces Completion of BLA Submi — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MTVA]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[SGMT]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+    - 📏 $10.99 · MC $705M · options ±28% by Dec 18 · volatility 84% · usual day ±3.6% · biggest day +39% / −13%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Nov 28** · [[PYPD]] · FDA decision (fidsa)
+    - 📏 $6.37 · MC $105M · volatility 55% · usual day ±2.3% · biggest day +11% / −27%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[MTVA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-12 06:36 AM CT
 
 - 🆕 New: ✅ **now–Nov 30** · [[ENGN]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
