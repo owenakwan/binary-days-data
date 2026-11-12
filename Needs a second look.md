@@ -1,12 +1,12 @@
 # Needs a second look
 
-Updated Wed Nov 11, 09:45 PM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
+Updated Thu Nov 12, 06:36 AM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
 
 
 ## ❓ One source only (7)
 - ❓ **now–Dec 31** · [[ROIV]] · Phase 3 topline — _Only on your sheet; not in the company's filings._
 - ❓ **now–Dec 31** · [[CYBN]] · Phase 3 APPROACH topline — _Only on your sheet; not in the company's filings._
-- ❓ **now–Dec 11** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
+- ❓ **now–Dec 12** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - ❓ **Sat Nov 14** · [[BRVE]] · FDA decision (maple-hcm) — _Only one filing states this date._
     - 📏 $20.90 · volatility 74% · usual day ±3.9% · biggest day +10% / −14%
 - ❓ **Nov 15–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._

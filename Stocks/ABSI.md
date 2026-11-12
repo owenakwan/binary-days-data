@@ -12,6 +12,8 @@ tags: [catalyst, biotech]
     - Source: [ABSI SEC 8-K (2026-08-11)](https://www.sec.gov/Archives/edgar/data/1672688/000167268826000134/exhibit991-2026q210xqpr.htm) — "With the safety, tolerability, and PK data generated in the ongoing HEADLINE trial, Absci anticipates initiation of a Phase 2 clinical trial for endometriosis in the fourth quarter of 2026, with potential proof-of-concep"
 - ❓ **Thu Nov 12** · ABSI · Earnings (before open)
     - Source: Finnhub earnings calendar
+- ✅ **Dec 1–Dec 31** · ABSI · Initial data expected December 2026 — _A window the company gave, not an exact day._
+    - Source: [ABSI SEC 8-K (2026-11-12)](https://www.sec.gov/Archives/edgar/data/1672688/000167268826000150/exhibit991-2026q310xqpr.htm) — "Absci anticipates reporting 13-week interim proof-of-concept data from this study in December 2026 and full 26-week proof-of-concept data in early 2027."
 
 ## My notes
 

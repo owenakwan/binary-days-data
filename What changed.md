@@ -2,6 +2,19 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-12 06:36 AM CT
+
+- 🆕 New: ✅ **now–Nov 30** · [[ENGN]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $1.80 · options ±42% by Dec 18 · volatility 71% · usual day ±3.1% · biggest day +18% / −81%
+- 🆕 New: ✅ **now–Dec 31** · [[TCRX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[TEVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[ABSI]] · Initial data expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Sun Dec 27** · [[USDW]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[PBLS]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[TCRX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Thu Jan 21** · [[DYN]] · FDA decision
+    - 📏 $17.99 · MC $3.4B · options ±54% by Mar 19 · volatility 59% · usual day ±2.8% · biggest day +19% / −17%
+
 ## 2026-11-11 02:21 AM CT
 
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TEVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
@@ -312,32 +325,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
     - 📏 $14.81 · MC $6.4B · options ±6% by Oct 30 · volatility 100% · usual day ±4.5% · biggest day +43% / −16%
 - 🆕 New: 📐 **Mon Nov 23** · [[NTCS]] · SPAC merger / direct listing lock-up ends
 - 🆕 New: 📐 **Sun Dec 13** · [[BITA]] · SPAC merger / direct listing lock-up ends
-
-## 2026-10-28 07:46 PM CT
-
-- 📆 Date moved Nov 28 → 📐 **Sun Nov 29** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 30 submission: DBV Technologies Submits FDA Biologics License Applica — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-
-## 2026-10-28 03:58 PM CT
-
-- 🆕 New: 📐 **Nov 23–Dec 18** · [[DBVT]] · FDA acceptance expected Nov 23–Dec 18, 2026 (submitted Sep 29) — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Sat Dec 12** · [[VNDA]] · FDA decision (vnda, washington)
-    - 📏 $4.00 · MC $260M · options ±87% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[VNDA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
-    - 📏 $4.00 · MC $260M · options ±87% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Dec 12** · [[VNDA]] · FDA decision
-    - 📏 $4.00 · MC $260M · options ±87% by Dec 18 · volatility 34% · usual day ±2.0% · biggest day +41% / −20%
-
-## 2026-10-28 10:55 AM CT
-
-- 🆕 New: ✅ **Tue Nov 3** · [[ANNX]] · Annexon to Host Virtual Investor Event on November 3, 2026: Vonaprument for the Treatment of Geographic Atrophy - Highlighting Key Aspects o
-    - 📏 $3.99 · MC $646M · options ±43% by Nov 20 · volatility 75% · usual day ±2.8% · biggest day +27% / −10%
-- 🆕 New: ✅ **Sat Nov 28** · [[PYPD]] · FDA decision (fidsa)
-    - 📏 $5.75 · MC $105M · volatility 48% · usual day ±2.1% · biggest day +11% / −27%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Nov 28** · [[PYPD]] · FDA decision
-    - 📏 $5.75 · MC $105M · volatility 48% · usual day ±2.1% · biggest day +11% / −27%
-
-## 2026-10-28 04:09 AM CT
-
-- 🆕 New: 📐 **Sat Dec 12** · [[HONA]] · SPAC merger / direct listing lock-up ends
-- 🆕 New: ✅ **Wed Jan 6** · [[IBRX]] · FDA decision (anktiva, bcg-, nmibc)
-    - 📏 $8.63 · MC $10.5B · options ±39% by Jan 15 · volatility 83% · usual day ±3.4% · biggest day +42% / −21%

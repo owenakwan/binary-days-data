@@ -1,24 +1,20 @@
-# Today · Wednesday, November 11
+# Today · Thursday, November 12
 
-Updated Wed Nov 11, 09:45 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Thu Nov 12, 06:36 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
-- 📐 **Wed Nov 11** · [[BHYP]] · SPAC merger / direct listing lock-up ends
-- 📐 **Wed Nov 11** · [[DUKR]] · IPO lock-up ends
-- 📐 **Wed Nov 11** · [[EXYN]] · IPO lock-up ends
-- ✅ **Wed Nov 11** · [[TEVA]] · Teva Pharmaceutical Industries Ltd. to Host R&D Day on November 11, 2026
-    - 📏 $43.24 · options ±3% by Nov 13 · volatility 27% · usual day ±1.5% · biggest day +12% / −5%
-- 📐 **Wed Nov 11** · [[VIDA]] · IPO lock-up ends
-- 📊 Earnings: [[ABUS]], [[ACOG]] (post), [[ADIL]], [[AKTX]], [[ALVO]] (post), [[ANEB]], [[APTO]], [[ATXI]], [[BCAB]], [[BGMS]], [[CADL]], [[CDT]], [[CLRB]], [[CMPX]], [[CNTX]], [[COYA]], [[DARE]], [[EQ]], [[ERAS]] (post), [[EVFM]], [[EVOK]], [[FDMT]], [[FLNA]], [[GOVX]], [[GRTX]], [[IMUX]] (pre), [[INKT]] (pre), [[INTI]], [[IPSC]] (pre), [[ISCO]], [[JBIO]] (post), [[KTTA]], [[LTRN]], [[MBRX]], [[MIRA]], [[MNOV]], [[MNPR]], [[MRKR]], [[MRMD]] (post), [[NCNA]], [[OMER]], [[ONCO]], [[ORMP]], [[OVID]], [[PTN]], [[PVCT]], [[PYPD]] (pre), [[SBFM]], [[SION]], [[SLBT]], [[STRO]], [[SYBX]], [[TCRX]], [[TIL]], [[TRAW]], [[VTGN]], [[ZSQR]]
-
-## Tomorrow · Thu Nov 12
-
 - ✅ **Thu Nov 12** · [[OBIO]] · Orchestra BioMed to host R&D Day on Nov 12 show...
-    - 📏 $6.01 · MC $328M · options ±19% by Nov 20 · volatility 57% · usual day ±2.8% · biggest day +20% / −9%
+    - 📏 $6.01 · MC $328M · options ±18% by Nov 20 · volatility 57% · usual day ±2.8% · biggest day +20% / −9%
+- ✅ **Thu Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
+    - 📏 $0.52 · volatility 177% · usual day ±5.4% · biggest day +152% / −35%
 - ✅ **Thu Nov 12** · [[ZLAB]] · Zai Lab to Present Data From First Clinical Trial Evaluating ZL-1503, an IL-13/IL-31Rα Bispecific Antibody, for Atopic Diseases
     - 📏 $26.42 · options ±19% by Nov 20 · volatility 70% · usual day ±2.7% · biggest day +14% / −9%
-- 📊 Earnings: [[AARD]], [[ABSI]] (pre), [[ACRV]], [[ACXP]] (pre), [[ALMS]], [[ALT]] (pre), [[ARWR]] (post), [[ASND]] (pre), [[ATNM]], [[AXIM]], [[BCDA]] (post), [[BCLI]], [[BIAF]], [[BLTE]] (post), [[BNTC]], [[BSEM]] (post), [[CASIF]], [[CBUS]] (post), [[CDXS]] (post), [[CELU]], [[CIRC]], [[CLSD]] (post), [[CNSP]], [[COCP]], [[CRMD]] (pre), [[CUE]], [[DCOY]], [[DERM]] (post), [[DMAC]] (post), [[DRMA]], [[DYAI]] (post), [[ELTP]], [[ENLV]], [[ENSC]], [[ENVB]], [[EYPT]] (pre), [[FBIO]], [[FBRX]], [[FENC]] (pre), [[FFR]] (post), [[FRMM]] (pre), [[GLSI]], [[GNPX]], [[GRI]], [[GTBP]], [[HYPD]] (pre), [[ICCC]] (post), [[IKT]], [[IMNN]] (pre), [[INIS]], [[ITRMF]], [[IXHL]], [[JAGX]], [[KOD]], [[LCTX]] (post), [[LIMN]], [[LITS]], [[LNAI]], [[MDWD]] (pre), [[MDXH]] (post), [[NEUP]], [[NKTR]] (post), [[NWBO]], [[PDSB]], [[PMN]] (post), [[PTHS]] (pre), [[RLMD]] (post), [[RNTX]], [[SCLX]], [[SGMT]] (pre), [[TCRT]], [[TLPH]] (post), [[TSHA]] (pre), [[TTRX]], [[TVGN]], [[TVRD]], [[TWST]] (pre), [[VRCA]] (post)
+- 📊 Earnings: [[AARD]], [[ABSI]] (pre), [[ACRV]], [[ACXP]] (pre), [[ALMS]], [[ALT]] (pre), [[ARWR]] (post), [[ASND]] (pre), [[ATNM]], [[AXIM]], [[BCDA]] (post), [[BCLI]], [[BIAF]], [[BLTE]] (pre), [[BNTC]], [[BSEM]] (post), [[CASIF]], [[CBUS]] (post), [[CDXS]] (post), [[CELU]], [[CIRC]], [[CLSD]] (post), [[CNSP]], [[COCP]], [[CRMD]] (pre), [[CUE]], [[DCOY]], [[DERM]] (post), [[DMAC]] (post), [[DRMA]], [[DYAI]] (post), [[ELTP]], [[ENLV]], [[ENSC]], [[ENVB]], [[EYPT]] (pre), [[FBIO]], [[FBRX]], [[FENC]] (pre), [[FFR]] (post), [[FRMM]] (pre), [[GLSI]], [[GNPX]], [[GRI]], [[GTBP]], [[HYPD]] (pre), [[ICCC]] (post), [[IKT]], [[IMNN]] (pre), [[INIS]], [[ITRMF]], [[IXHL]], [[JAGX]], [[KOD]], [[LCTX]] (post), [[LIMN]], [[LITS]], [[LNAI]], [[MDWD]] (pre), [[MDXH]] (post), [[NEUP]], [[NKTR]] (post), [[NWBO]], [[PDSB]], [[PMN]] (post), [[PTHS]] (pre), [[RLMD]] (post), [[RNTX]], [[SCLX]], [[SGMT]] (pre), [[TCRT]], [[TLPH]] (post), [[TSHA]] (pre), [[TTRX]], [[TVGN]], [[TVRD]], [[TWST]] (pre), [[VRCA]] (post)
+
+## Tomorrow · Fri Nov 13
+
+- 📊 Earnings: [[ACTU]], [[BFRI]] (pre), [[GRML]], [[HURA]], [[INBX]], [[MIST]] (pre), [[OSTX]]
 
 ## Rest of this week
 
@@ -26,18 +22,13 @@ Updated Wed Nov 11, 09:45 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
     - 📏 $20.90 · volatility 74% · usual day ±3.9% · biggest day +10% / −14%
 - ✅ **Sat Nov 14** · [[BTAI]] · FDA decision (bxcl501, serenity)
 - ✅ **Sat Nov 14** · [[CRBP]] · Corbus Pharmaceuticals to Present Late Breaking CRB-913 Data from Canyon-1 Study at Obesity Week® 2026
-    - 📏 $4.00 · MC $86M · options ±48% by Nov 20 · volatility 104% · usual day ±4.2% · biggest day +19% / −30%
+    - 📏 $4.00 · MC $86M · options ±49% by Nov 20 · volatility 104% · usual day ±4.2% · biggest day +19% / −30%
 - ✅ **Sat Nov 14** · [[CYTK]] · FDA decision
-    - 📏 $58.53 · MC $7.5B · options ±8% by Nov 20 · volatility 51% · usual day ±1.8% · biggest day +17% / −13%
+    - 📏 $58.53 · MC $7.5B · options ±7% by Nov 20 · volatility 51% · usual day ±1.8% · biggest day +17% / −13%
 - ✅ **Sat Nov 14** · [[SMMT]] · FDA decision
-    - 📏 $16.64 · MC $11.3B · options ±23% by Nov 20 · volatility 90% · usual day ±4.0% · biggest day +17% / −25%
+    - 📏 $16.64 · MC $11.3B · options ±28% by Nov 20 · volatility 90% · usual day ±4.0% · biggest day +17% / −25%
 - ✅ **Sun Nov 15** · [[AMLX]] · Data expected November 15, 2026 — _A window the company gave, not an exact day._
-    - 📏 $31.80 · MC $3.4B · options ±6% by Nov 20 · volatility 50% · usual day ±2.5% · biggest day +64% / −8%
-- 📊 Earnings: [[ACTU]], [[BFRI]] (pre), [[GRML]], [[HURA]], [[INBX]], [[MIST]] (pre), [[OSTX]], [[ALLR]]
-
-## Windows closing within a week (could land any day)
-
-- ✅ **now–Nov 12** · [[SXTP]] · Data expected early November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.52 · volatility 177% · usual day ±5.4% · biggest day +152% / −35%
+    - 📏 $31.80 · MC $3.4B · options ±11% by Nov 20 · volatility 50% · usual day ±2.5% · biggest day +64% / −8%
+- 📊 Earnings: [[ALLR]]
 
 See also: [[Calendar]] · [[What changed]] · [[Needs a second look]]

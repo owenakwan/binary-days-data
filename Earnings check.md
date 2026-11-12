@@ -1,15 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 11, 09:47 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Nov 12, 06:38 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Wednesday, November 11
-
-- ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
-    - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-24
 
 ## Thursday, November 12
 

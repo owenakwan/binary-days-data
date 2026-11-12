@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=OMER)
 
-- ❓ **Wed Nov 11** · OMER · Earnings
+- ❓ **Mon Nov 16** · OMER · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
