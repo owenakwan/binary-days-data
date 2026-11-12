@@ -1,25 +1,15 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 11, 05:02 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 11, 09:47 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Wednesday, November 11
 
-- ❓ [[GRO]] Brazil Potash Corp. · time not given · 2x: BRZU, BRZX
-    - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-11
-- ❓ [[LWLG]] Lightwave Logic, Inc. · time not given · 2x: LWLX
-    - Finnhub calendar: 2026-11-11
-    - Yahoo (estimate): 2026-11-11
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-11
     - Yahoo (estimate): 2026-11-24
-- ✅✅ [[XNDU]] Xanadu Quantum Technologies Limited · time not given · 2x: XNDX
-    - Finnhub calendar: 2026-11-11
-    - Yahoo (confirmed): 2026-11-11
-    - company announcement: 2026-11-11 — [Xanadu to Report Third Quarter 2026 Financial Results on November 11th, 2026](https://finance.yahoo.com/technology/ai/articles/xanadu-report-third-quarter-2026-202000369.html?.tsrc=rss)
 
 ## Thursday, November 12
 
@@ -55,7 +45,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-16
 - ❓ [[PDD]] PDD Holdings Inc. · before open · 2x: PDDL
     - Finnhub calendar: 2026-11-16
-    - Yahoo (estimate): 2026-11-18
+    - Yahoo (estimate): 2026-11-16
 - ✅✅ [[POET]] POET Technologies Inc. · before open · 2x: POEL
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
@@ -63,7 +53,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
-    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finance.yahoo.com/markets/stocks/articles/xpeng-report-third-quarter-2026-090000748.html?.tsrc=rss)
+    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finnhub.io/api/news?id=5e0720e4e94a4c6b8dd1513409c787f6191ecefd916672bbeb7eefa9dbe984ae)
 - ✅ [[INFQ]] Infleqtion, Inc. · after close · 2x: INFH
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
