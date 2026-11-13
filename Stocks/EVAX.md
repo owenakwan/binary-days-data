@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=EVAX)
 
-- ❓ **Thu Nov 19** · EVAX · Earnings
+- ❓ **Thu Nov 19** · EVAX · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

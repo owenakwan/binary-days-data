@@ -2,6 +2,23 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-12 07:41 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[ALMS]] · FDA filing expected end of 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[CBIO]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[DMAC]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Sat Dec 12** · [[ANAB]] · FDA decision
+    - 📏 $47.77 · MC $1.5B · options ±27% by Dec 18 · volatility 49% · usual day ±1.9% · biggest day +15% / −13%
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[DMAC]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[EVMN]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[LCTX]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[OBX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: 📐 **Jan 6–Jan 31** · [[ARWR]] · FDA acceptance expected Jan 6–Jan 31, 2027 (submitted Nov 12) — _A window the company gave, not an exact day._
+- 📆 Date moved Dec 1 → 📐 **Mon Jan 11** · [[CGEM]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 12 submission: Cullinan Therapeutics completes FDA NDA submission for — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ALMS]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Dec 12** · [[ANAB]] · FDA decision (imsidolimab)
+    - 📏 $47.77 · MC $1.5B · options ±27% by Dec 18 · volatility 49% · usual day ±1.9% · biggest day +15% / −13%
+
 ## 2026-11-12 02:43 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[MTVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._

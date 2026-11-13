@@ -8,9 +8,9 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ALMS)
 
-- ✅ **now–Dec 31** · ALMS · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
-    - Source: [ALMS SEC 8-K (2026-09-01)](https://www.sec.gov/Archives/edgar/data/1847367/000110465926104145/tm2624540d1_ex99-1.htm) — "Alumis has reported positive results from its Phase 3 ONWARD program of envudeucitinib in moderate-to-severe plaque psoriasis and plans to file an NDA in moderate-to-severe plaque psoriasis in the fourth quarter of 2026."
-- ❓ **Thu Nov 12** · ALMS · Earnings
+- ✅ **now–Dec 31** · ALMS · FDA filing expected end of 2026 — _A window the company gave, not an exact day._
+    - Source: [ALMS SEC 10-Q (2026-11-12)](https://www.sec.gov/Archives/edgar/data/1847367/000184736726000024/alms-20260930x10q.htm) — "The increase was primarily due to higher professional services costs incurred to support the envu clinical program related to reporting of topline results for the pivotal Phase 3 ONWARD1 and ONWARD2 clinical trials and d"
+- ❓ **Thu Nov 12** · ALMS · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

@@ -1,36 +1,32 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Nov 12, 02:46 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Nov 12, 07:43 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Thursday, November 12
 
-- ✅ [[FIGR]] Figure Technology Solutions, Inc. · before open · 2x: FGRU
+- ❓ [[FIGR]] Figure Technology Solutions, Inc. · before open · 2x: FGRU
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[FPS]] Forgent Power Solutions, Inc. · before open · 2x: FPSX
+    - Yahoo (estimate): 2027-02-26
+- ❓ [[FPS]] Forgent Power Solutions, Inc. · before open · 2x: FPSX
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[LUNR]] Intuitive Machines, Inc. · before open · 2x: LUNL
+- ❓ [[LUNR]] Intuitive Machines, Inc. · before open · 2x: LUNL
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[NBIS]] Nebius Group N.V. · before open · 2x: NBIC, NBIG, NBIL
+- ❓ [[NBIS]] Nebius Group N.V. · before open · 2x: NBIC, NBIG, NBIL
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
+    - Yahoo (estimate): 2027-02-10
+- ❓ [[ONDS]] Ondas Inc. · before open · 2x: ONDC, ONDG, ONDL
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
+- ❓ [[AMAT]] Applied Materials, Inc. · after close · 2x: AMA, AMAU, APMI
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[CBRS]] Cerebras Systems Inc. · after close · 2x: CBRG, CBRX
+    - Yahoo (estimate): 2027-02-10
+- ❓ [[CBRS]] Cerebras Systems Inc. · after close · 2x: CBRG, CBRX
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
-- ✅ [[CSCO]] Cisco Systems, Inc. · after close · 2x: CSCL
+- ❓ [[CSCO]] Cisco Systems, Inc. · after close · 2x: CSCL
     - Finnhub calendar: 2026-11-12
-    - Yahoo (confirmed): 2026-11-12
+    - Yahoo (estimate): 2027-02-09
 
 ## Monday, November 16
 
@@ -44,7 +40,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
-    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finnhub.io/api/news?id=5e0720e4e94a4c6b8dd1513409c787f6191ecefd916672bbeb7eefa9dbe984ae)
+    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finance.yahoo.com/markets/stocks/articles/xpeng-report-third-quarter-2026-090000748.html?.tsrc=rss)
 - ✅ [[INFQ]] Infleqtion, Inc. · after close · 2x: INFH
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
@@ -69,27 +65,20 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Thursday, November 19
 
-- ✅✅ [[BULL]] Webull Corporation · after close · 2x: BULG
+- ✅ [[BABA]] Alibaba Group Holding Limited · before open · 2x: BABC, BABU, BABX
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [Webull to Release Third Quarter 2026 Results on November 19, 2026](https://finnhub.io/api/news?id=43a96a9d205f6a94bcfeec94b5c47d97b387a9e5f84c906d163fa1917170d4a3)
+- ✅✅ [[FUTU]] Futu Holdings Limited · before open · 2x: FUTG
+    - Finnhub calendar: 2026-11-19
+    - Yahoo (confirmed): 2026-11-19
+    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/futu-report-third-quarter-2026-080000244.html?.tsrc=rss)
+- ✅ [[BULL]] Webull Corporation · after close · 2x: BULG
+    - Finnhub calendar: 2026-11-19
+    - Yahoo (confirmed): 2026-11-19
 - ✅ [[KEYS]] Keysight Technologies, Inc. · after close · 2x: KEYG, KEYX
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
-- ✅ [[BABA]] Alibaba Group Holding Limited · time not given · 2x: BABC, BABU, BABX
-    - Finnhub calendar: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
-- ✅✅ [[FUTU]] Futu Holdings Limited · time not given · 2x: FUTG
-    - Finnhub calendar: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finnhub.io/api/news?id=b84628916b4aa3e423252cf48c2f9207d9e1b1ac664e3e6d70d0e5cd1999f1c7)
 - ✅✅ [[PDD]] PDD Holdings Inc. · time not given · 2x: PDDL — _The bulk calendar said 2026-11-16; Yahoo confirms 2026-11-19._
     - stock's own lookup: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
     - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Unaudited Financial Results on November 19, 2026](https://finnhub.io/api/news?id=6efd149dfe04754d9b9cbdd546a85482c03466c3de7a9a839a5cc8fec9f2c744)
-
-## Friday, November 20
-
-- ❓ [[BMNR]] Bitmine Immersion Technologies, Inc. · time not given · 2x: BMNG, BMNU, BNMC
-    - Finnhub calendar: 2026-11-20
-    - Yahoo (estimate): 2026-11-20

@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · FDMT · Data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [FDMT SEC 8-K (2026-08-13)](https://www.sec.gov/Archives/edgar/data/1650648/000119312526349160/fdmt-ex99_1.htm) — "SPECTRA clinical trial 2-year data expected in Q4 2026"
-- ❓ **Thu Nov 12** · FDMT · Earnings
+- ❓ **Thu Nov 12** · FDMT · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

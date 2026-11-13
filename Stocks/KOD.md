@@ -8,12 +8,12 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=KOD)
 
-- ❓ **Thu Nov 12** · KOD · Earnings
+- ❓ **Thu Nov 12** · KOD · Earnings (after close)
     - Source: Finnhub earnings calendar
 - ✅ **Dec 1–Dec 31** · KOD · Phase 3 PEAK, Pivotal Analysis 1 topline
     - Source: your sheet
-    - Source: [KOD SEC 8-K (2026-09-28): later this year](https://www.sec.gov/Archives/edgar/data/1468748/000119312526403481/d185059dex991.htm) — "Together with our Phase 3 results in diabetic retinopathy and macular edema secondary to retinal vein occlusion, we now have five successful pivotal studies supporting Zenkuda’s broad potential across major retinal vascu"
-    - Source: [KOD SEC 8-K (2026-09-28): December 2026](https://www.sec.gov/Archives/edgar/data/1468748/000119312526403481/d185059dex991.htm) — "Our third late-stage asset, KSI-101, is being developed for macular edema secondary to inflammation, or MESI, with our first topline readout from its Phase 3 program expected in December 2026."
+    - Source: [KOD SEC 8-K (2026-11-12): Q4 2026](https://www.sec.gov/Archives/edgar/data/1468748/000119312526458248/kod-ex99_1.htm) — "• Completion of enrollment in the second pivotal cohort evaluating 600 subjects across the PEAK and PINNACLE studies is expected in the fourth quarter of 2026, with topline clinical data release anticipated in the second"
+    - Source: [KOD SEC 8-K (2026-11-12): December 2026](https://www.sec.gov/Archives/edgar/data/1468748/000119312526458248/kod-ex99_1.htm) — "Phase 3 PEAK Study (KSI-101) – Pivotal Analysis 1 Topline Data Expected December 2026"
 
 ## My notes
 

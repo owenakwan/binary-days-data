@@ -10,6 +10,8 @@ tags: [catalyst, biotech]
 
 - ❓ **Thu Nov 12** · LCTX · Earnings (after close)
     - Source: Finnhub earnings calendar
+- ✅ **Jan 1–Mar 31** · LCTX · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+    - Source: [LCTX SEC 8-K (2026-11-12)](https://www.sec.gov/Archives/edgar/data/876343/000119312526458377/lctx-ex99_1.htm) — "Initial Data Expected in Q1 2027"
 
 ## My notes
 

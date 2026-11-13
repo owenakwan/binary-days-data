@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GOVX)
 
-- ❓ **Thu Nov 12** · GOVX · Earnings
+- ❓ **Thu Nov 12** · GOVX · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes
