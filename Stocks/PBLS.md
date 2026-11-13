@@ -1,15 +1,13 @@
 ---
 ticker: PBLS
-company: "Parabilis Medicines Inc"
+company: "Parabilis Medicines, Inc."
 tags: [catalyst, biotech]
 ---
 
-# PBLS · Parabilis Medicines Inc
+# PBLS · Parabilis Medicines, Inc.
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PBLS)
 
-- ❓ **Thu Nov 12** · PBLS · Earnings (before open)
-    - Source: Finnhub earnings calendar
 - 📐 **Mon Dec 7** · PBLS · IPO lock-up ends
     - Source: SEC listing date + 180 days
 - ✅ **Jan 1–Mar 31** · PBLS · Data expected Q1 2027 — _A window the company gave, not an exact day._

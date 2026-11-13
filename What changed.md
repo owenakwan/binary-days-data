@@ -2,6 +2,14 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-13 02:46 AM CT
+
+- 🆕 New: 📐 **Mon Dec 28** · [[BSP]] · IPO lock-up ends
+- 🆕 New: 📐 **Mon Dec 28** · [[ITG]] · IPO lock-up ends
+- 🆕 New: 📐 **Mon Dec 28** · [[LIME]] · IPO lock-up ends
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[PROK]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[VRCA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-12 07:41 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[ALMS]] · FDA filing expected end of 2026 — _A window the company gave, not an exact day._
@@ -325,40 +333,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 ## 2026-10-30 04:58 AM CT
 
 - 🆕 New: 📐 **Mon Dec 14** · [[CAES]] · IPO lock-up ends
-
-## 2026-10-29 06:35 PM CT
-
-- 🆕 New: ✅ **now–Dec 10** · [[BHVN]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[IMRX]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Fri Nov 27** · [[BBIO]] · FDA decision (ascend-attr, bbp-418, lgmd2i, participant)
-    - 📏 $70.73 · MC $13.1B · options ±15% by Dec 18 · volatility 31% · usual day ±1.4% · biggest day +15% / −15%
-- 📆 Date moved Nov 29 → 📐 **Sat Nov 28** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: DBV Technologies Announces Submission of Biologics Lic — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[RZLT]] · FDA filing expected December 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[EXEL]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[PTCT]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Fri Nov 27** · [[BBIO]] · FDA decision (bbp-418, lgmd2i)
-    - 📏 $70.73 · MC $13.1B · options ±15% by Dec 18 · volatility 31% · usual day ±1.4% · biggest day +15% / −15%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Thu Dec 3** · [[EXEL]] · FDA decision
-
-## 2026-10-29 09:05 AM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[INSM]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[KYMR]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Thu Nov 5** · [[IMUX]] · Immunic to Host Virtual Progressive Multiple Sclerosis R&D Day on November 5, 2026
-    - 📏 $8.08 · MC $101M · options ±33% by Nov 20 · volatility 86% · usual day ±3.6% · biggest day +17% / −15%
-- 🆕 New: ✅ **Sat Dec 12** · [[VNDA]] · FDA decision
-    - 📏 $4.21 · MC $260M · options ±35% by Dec 18 · volatility 37% · usual day ±2.0% · biggest day +41% / −20%
-- 🆕 New: 📐 **Dec 22–Jan 16** · [[RFL]] · FDA acceptance expected Dec 22–Jan 16, 2027 (submitted Oct 28) — _A window the company gave, not an exact day._
-- 🆕 New: 📐 **Dec 23–Jan 17** · [[RFL]] · FDA acceptance expected Dec 23–Jan 17, 2027 (submitted Oct 29) — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[INCY]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[KYMR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[RFL]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Dec 12** · [[VNDA]] · FDA decision (vnda, washington)
-    - 📏 $4.21 · MC $260M · options ±35% by Dec 18 · volatility 37% · usual day ±2.0% · biggest day +41% / −20%
-
-## 2026-10-29 02:05 AM CT
-
-- 🆕 New: ✅ **Thu Oct 29** · [[IOVA]] · Iovance Biotherapeutics to Host Webcast on Positive Data for TIL Therapy in Metastatic Non-Small Cell Lung Cancer (mNSCLC) and Broader Preci
-    - 📏 $14.81 · MC $6.4B · options ±6% by Oct 30 · volatility 100% · usual day ±4.5% · biggest day +43% / −16%
-- 🆕 New: 📐 **Mon Nov 23** · [[NTCS]] · SPAC merger / direct listing lock-up ends
-- 🆕 New: 📐 **Sun Dec 13** · [[BITA]] · SPAC merger / direct listing lock-up ends
