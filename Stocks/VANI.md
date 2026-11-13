@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=VANI)
 
 - ✅ **now–Nov 30** · VANI · Topline data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.91 · MC $100M · volatility 61% · usual day ±2.4% · biggest day +19% / −13%
+    - 📏 $1.01 · MC $100M · volatility 58% · usual day ±2.4% · biggest day +19% / −13%
     - Source: [VANI SEC 8-K (2026-08-13)](https://www.sec.gov/Archives/edgar/data/1266806/000175392626001482/ex991_1.htm) — "Top-line data from SLIM-1 are expected in November 2026, which the Company anticipates will pave the way for initiation of a Phase 2 dose-ranging trial in 2027."
 
 ## My notes

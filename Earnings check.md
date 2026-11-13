@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Fri Nov 13, 11:13 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Fri Nov 13, 05:08 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -48,10 +48,11 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[FUTU]] Futu Holdings Limited · before open · 2x: FUTG
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/futu-report-third-quarter-2026-080000244.html?.tsrc=rss)
-- ✅ [[BULL]] Webull Corporation · after close · 2x: BULG
+    - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finnhub.io/api/news?id=b84628916b4aa3e423252cf48c2f9207d9e1b1ac664e3e6d70d0e5cd1999f1c7)
+- ✅✅ [[BULL]] Webull Corporation · after close · 2x: BULG
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
+    - company announcement: 2026-11-19 — [Webull to Release Third Quarter 2026 Results on November 19, 2026](https://finnhub.io/api/news?id=43a96a9d205f6a94bcfeec94b5c47d97b387a9e5f84c906d163fa1917170d4a3)
 - ✅ [[KEYS]] Keysight Technologies, Inc. · after close · 2x: KEYG, KEYX
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
