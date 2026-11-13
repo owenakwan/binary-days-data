@@ -13,7 +13,7 @@ tags: [catalyst, biotech]
 - ❓ **Mon Nov 16** · MTVA · Earnings
     - Source: Finnhub earnings calendar
 - ✅ **Jan 1–Mar 31** · MTVA · Data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [MTVA SEC 8-K (2026-11-12)](https://www.sec.gov/Archives/edgar/data/1638287/000110465926125964/mtva-ex99d1.htm) — "We expect to report full data from Part 3A and Part 3B in the first quarter of 2027 and are planning a 48-week, non-biopsy Phase 2 study in up to 150 subjects with MetALD and ALD, targeted to begin in the second half of "
+    - Source: [MTVA SEC 10-Q (2026-11-13)](https://www.sec.gov/Archives/edgar/data/1638287/000110465926126541/mtva-20260930x10q.htm) — "We expect to report full data from Part 3a and Part 3b in the first quarter of 2027."
 
 ## My notes
 

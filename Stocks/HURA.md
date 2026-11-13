@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=HURA)
 
-- ❓ **Fri Nov 13** · HURA · Earnings
+- ❓ **Fri Nov 13** · HURA · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

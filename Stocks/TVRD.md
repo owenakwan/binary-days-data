@@ -10,6 +10,8 @@ tags: [catalyst, biotech]
 
 - ✅ **now–Dec 31** · TVRD · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
     - Source: [TVRD SEC 10-Q (2026-08-14)](https://www.sec.gov/Archives/edgar/data/1346830/000110465926096424/tvrd-20260630x10q.htm) — "We expect to report topline data of TTI-101 across the three cohorts of the REVERT LIVER CANCER Phase 1b/2 clinical trial in patients with HCC in the fourth quarter of 2026."
+- ✅ **Jan 1–Mar 31** · TVRD · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+    - Source: [TVRD SEC 8-K (2026-11-13)](https://www.sec.gov/Archives/edgar/data/1346830/000110465926126507/tvrd-ex99d1.htm) — "The Company expects to report topline data early in the first quarter of 2027 to allow for complete cohort evaluation."
 
 ## My notes
 

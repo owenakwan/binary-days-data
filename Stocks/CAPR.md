@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CAPR)
 
 - ✅ **Sun Nov 22** · CAPR · FDA decision
-    - 📏 $10.24 · MC $500M · options ±99% by Nov 27 · volatility 132% · usual day ±6.0% · biggest day +371% / −64%
+    - 📏 $9.54 · MC $500M · options ±97% by Nov 27 · volatility 134% · usual day ±5.9% · biggest day +371% / −64%
     - Source: [CAPR SEC 8-K (2026-11-10) + 2 more filings](https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/capr-ex99d1.htm) — "PDUFA target action date of November 22, 2026"
     - Source: your sheet
 

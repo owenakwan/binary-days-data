@@ -8,9 +8,9 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=CNSY)
 
-- ✅ **Mon Nov 16** · CNSY · Cerenome to host conference call on clinical data Monday
-    - 📏 $0.77 · MC $6M · volatility 191% · usual day ±6.0% · biggest day +24% / −38%
-    - Source: [Investing.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlZSdWFST3g4UlVaSlZPakk0N2ZQbnhEQS1WUlRDYUNGLWRvZ0QyZE9oSlhIQmRhYU1xeTM0cjRud05GLWxCZlo0VUpvVU91Z2pCZ3dMMTRVZDdPbEU3QXVYTUhuWEtWMGJ6cDYtRkdvZmFFM2NXSS0yMGpqZU9ic3lGdEhCM0hBTkdVcGdFQ3kzUTNrWjNqQmp3TDY1M3dnZExBWWFvR3BuaXZyVVFVM3FNRQ?oc=5) — "Cerenome to host conference call on clinical data Monday"
+- ✅ **Mon Nov 16** · CNSY · Cerenome to host conference call on clinical data Monday By Investing.com
+    - 📏 $1.11 · MC $6M · volatility 221% · usual day ±6.7% · biggest day +44% / −38%
+    - Source: [Investing.com Nigeria](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR3h0bE5Bc1dPd1dDY3Jhci1jWU9Hcmh0QTU0T250T1dMb0YzU1NCZnMyV1dOTlYwaEVrTU9CN09hV1F6OHBmSUtkOWI4SEFMRFpueDRUTGc1Q0tSXzM0UjZVYUc3UmlEWVJLMnRPa3JiTlVEN3hLYV81R0RJUURWakVDWTBjQUZZYnlXbEFSRXI2VlZzak44QjJaQ1VPNzBNUG5KeENlQS1KQklKRVBSLTNBalFMM3BR?oc=5) — "Cerenome to host conference call on clinical data Monday By Investing.com"
 - ❓ **Mon Nov 16** · CNSY · Earnings
     - Source: Finnhub earnings calendar
 

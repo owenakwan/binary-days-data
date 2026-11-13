@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=JBIO)
 
 - ✅ **now–Dec 31** · JBIO · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
-    - Source: [JBIO SEC 8-K (2026-08-10)](https://www.sec.gov/Archives/edgar/data/1798749/000119312526341229/d40629dex991.htm) — "JADE301, a potentially best-in-class, half-life–extended anti-IFN-ß for dermatomyositis, now expected to initiate a Phase 1 healthy volunteer trial in the fourth quarter of 2026, with interim data anticipated in second h"
+    - Source: [JBIO SEC 8-K (2026-11-13)](https://www.sec.gov/Archives/edgar/data/1798749/000119312526459287/d157312dex991.htm) — "JADE301 Phase 1 clinical trial in dermatomyositis expected to initiate in the fourth quarter of 2026, with interim data expected in the second half of 2027"
 
 ## My notes
 

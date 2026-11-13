@@ -2,6 +2,15 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-13 11:10 AM CT
+
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[IMUX]] · Topline data expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Dec 8–Dec 24** · [[RZLT]] · Data expected mid December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[AARD]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[RVPH]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[TVRD]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Dec 8–Dec 24** · [[RZLT]] · Topline data expected mid December 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-13 02:46 AM CT
 
 - 🆕 New: 📐 **Mon Dec 28** · [[BSP]] · IPO lock-up ends
