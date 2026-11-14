@@ -1,10 +1,10 @@
 # Today · Friday, November 13
 
-Updated Fri Nov 13, 05:05 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Fri Nov 13, 08:52 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
-- 📊 Earnings: [[ACTU]], [[BFRI]] (pre), [[GRML]], [[HURA]] (pre), [[INBX]], [[MIST]] (pre), [[OSTX]]
+- 📊 Earnings: [[ACTU]] (post), [[BFRI]] (post), [[GRML]], [[HURA]] (pre), [[INBX]] (post), [[MIST]] (pre), [[OSTX]]
 
 ## Tomorrow · Sat Nov 14
 

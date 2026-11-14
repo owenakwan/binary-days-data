@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ACTU)
 
-- ❓ **Fri Nov 13** · ACTU · Earnings
+- ❓ **Fri Nov 13** · ACTU · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes

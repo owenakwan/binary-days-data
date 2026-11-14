@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-13 08:52 PM CT
+
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[CRIS]] · Initial data expected December 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-13 05:05 PM CT
 
 - 🆕 New: ✅ **Dec 1–Dec 31** · [[CRIS]] · Initial data expected December 2026 — _A window the company gave, not an exact day._

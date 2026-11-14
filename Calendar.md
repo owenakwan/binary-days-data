@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Fri Nov 13, 05:05 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Fri Nov 13, 08:52 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 9
@@ -420,11 +420,11 @@ The company gave a window, not a day. Sorted by when the window closes.
 
 ## Drug-company earnings
 
-- ❓ **Fri Nov 13** · [[ACTU]] · Earnings
-- ❓ **Fri Nov 13** · [[BFRI]] · Earnings (before open)
+- ❓ **Fri Nov 13** · [[ACTU]] · Earnings (after close)
+- ❓ **Fri Nov 13** · [[BFRI]] · Earnings (after close)
 - ❓ **Fri Nov 13** · [[GRML]] · Earnings
 - ❓ **Fri Nov 13** · [[HURA]] · Earnings (before open)
-- ❓ **Fri Nov 13** · [[INBX]] · Earnings
+- ❓ **Fri Nov 13** · [[INBX]] · Earnings (after close)
 - ❓ **Fri Nov 13** · [[MIST]] · Earnings (before open)
 - ❓ **Fri Nov 13** · [[OSTX]] · Earnings
 - ❓ **Sat Nov 14** · [[ALLR]] · Earnings
