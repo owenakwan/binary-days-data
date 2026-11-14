@@ -1,12 +1,8 @@
-# Today · Friday, November 13
+# Today · Saturday, November 14
 
-Updated Fri Nov 13, 08:52 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Nov 14, 04:08 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
-
-- 📊 Earnings: [[ACTU]] (post), [[BFRI]] (post), [[GRML]], [[HURA]] (pre), [[INBX]] (post), [[MIST]] (pre), [[OSTX]]
-
-## Tomorrow · Sat Nov 14
 
 - ❓ **Sat Nov 14** · [[BRVE]] · FDA decision (maple-hcm) — _Only one filing states this date._
     - 📏 $19.62 · MC $1.8B · volatility 74% · usual day ±3.8% · biggest day +10% / −14%
@@ -19,7 +15,7 @@ Updated Fri Nov 13, 08:52 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
     - 📏 $14.15 · MC $11.3B · options ±26% by Nov 20 · volatility 96% · usual day ±4.1% · biggest day +17% / −25%
 - 📊 Earnings: [[ALLR]]
 
-## Rest of this week
+## Tomorrow · Sun Nov 15
 
 - ✅ **Sun Nov 15** · [[AMLX]] · Data expected November 15, 2026 — _A window the company gave, not an exact day._
     - 📏 $30.29 · MC $3.4B · options ±9% by Nov 20 · volatility 52% · usual day ±2.5% · biggest day +64% / −8%

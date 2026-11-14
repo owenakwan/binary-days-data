@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-14 04:08 AM CT
+
+- 🆕 New: 📐 **Sun Dec 13** · [[TCRG]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Tue Dec 29** · [[SECZ]] · SPAC merger / direct listing lock-up ends
+
 ## 2026-11-13 08:52 PM CT
 
 - 🆕 New: ✅ **Dec 1–Dec 31** · [[CRIS]] · Initial data expected December 2026 — _A window the company gave, not an exact day._
@@ -341,12 +346,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 - 🆕 New: 📐 **Tue Dec 15** · [[FCBM]] · IPO lock-up ends
 - 🆕 New: 📐 **Tue Dec 15** · [[FISN]] · IPO lock-up ends
 - 🆕 New: 📐 **Tue Dec 15** · [[KARD]] · IPO lock-up ends
-
-## 2026-10-30 11:42 AM CT
-
-- 🆕 New: ✅ **now–Dec 11** · [[ABOS]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Wed Nov 25** · [[SNY]] · FDA decision
-
-## 2026-10-30 04:58 AM CT
-
-- 🆕 New: 📐 **Mon Dec 14** · [[CAES]] · IPO lock-up ends
