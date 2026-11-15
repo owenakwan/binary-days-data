@@ -1,23 +1,22 @@
-# Today · Saturday, November 14
+# Today · Sunday, November 15
 
-Updated Sat Nov 14, 06:59 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 15, 01:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
-- ❓ **Sat Nov 14** · [[BRVE]] · FDA decision (maple-hcm) — _Only one filing states this date._
-    - 📏 $19.62 · MC $1.8B · volatility 74% · usual day ±3.8% · biggest day +10% / −14%
-- ✅ **Sat Nov 14** · [[BTAI]] · FDA decision (bxcl501, serenity)
-- ✅ **Sat Nov 14** · [[CRBP]] · Corbus Pharmaceuticals to Present Late Breaking CRB-913 Data from Canyon-1 Study at Obesity Week® 2026
-    - 📏 $3.39 · MC $86M · options ±50% by Nov 20 · volatility 111% · usual day ±4.4% · biggest day +19% / −30%
-- ✅ **Sat Nov 14** · [[CYTK]] · FDA decision
-    - 📏 $56.13 · MC $7.5B · options ±8% by Nov 20 · volatility 52% · usual day ±1.8% · biggest day +17% / −13%
-- ✅ **Sat Nov 14** · [[SMMT]] · FDA decision
-    - 📏 $14.15 · MC $11.3B · options ±26% by Nov 20 · volatility 96% · usual day ±4.1% · biggest day +17% / −25%
-- 📊 Earnings: [[ALLR]]
-
-## Tomorrow · Sun Nov 15
-
 - ✅ **Sun Nov 15** · [[AMLX]] · Data expected November 15, 2026 — _A window the company gave, not an exact day._
     - 📏 $30.29 · MC $3.4B · options ±9% by Nov 20 · volatility 52% · usual day ±2.5% · biggest day +64% / −8%
+
+## Tomorrow · Mon Nov 16
+
+- 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
+- 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits NDA for Anaphylm Subl — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - 📏 $3.91 · MC $579M · options ±24% by Nov 20 · volatility 63% · usual day ±2.7% · biggest day +39% / −37%
+- ✅ **Mon Nov 16** · [[CNSY]] · Cerenome to host conference call on clinical data Monday By Investing.com
+    - 📏 $0.95 · MC $6M · volatility 201% · usual day ±6.3% · biggest day +24% / −38%
+- 📐 **Mon Nov 16** · [[LCLN]] · IPO lock-up ends
+- 📐 **Mon Nov 16** · [[OPTH]] · IPO lock-up ends
+- 📐 **Mon Nov 16** · [[RACC]] · IPO lock-up ends
+- 📊 Earnings: [[ADTX]], [[AIM]], [[AYTU]] (post), [[CNSY]], [[CYPH]] (pre), [[DARE]] (post), [[ENTA]] (post), [[GALT]], [[GELS]], [[IMDX]] (post), [[KYNB]] (post), [[MTVA]], [[NRXP]], [[OMER]] (post), [[OTLC]], [[RVPH]]
 
 See also: [[Calendar]] · [[What changed]] · [[Needs a second look]]

@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=IMMX)
 
-- ❓ **Nov 15–Dec 31** · IMMX · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
+- ❓ **now–Dec 31** · IMMX · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
     - Source: your sheet
 
 ## My notes

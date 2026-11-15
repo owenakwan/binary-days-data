@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sat Nov 14, 07:02 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 15, 01:53 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -14,10 +14,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
     - company announcement: 2026-11-16 — [POET Technologies to Report Third Quarter 2026 Financial Results on November 16](https://finance.yahoo.com/technology/ai/articles/poet-technologies-report-third-quarter-110000064.html?.tsrc=rss)
-- ✅✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
+- ✅ [[XPEV]] XPeng Inc. · before open · 2x: XPEG
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16
-    - company announcement: 2026-11-16 — [XPENG to Report Third Quarter 2026 Financial Results on Monday, November 16, 2026](https://finance.yahoo.com/markets/stocks/articles/xpeng-report-third-quarter-2026-090000748.html?.tsrc=rss)
 - ✅ [[INFQ]] Infleqtion, Inc. · after close · 2x: INFH
     - Finnhub calendar: 2026-11-16
     - Yahoo (confirmed): 2026-11-16

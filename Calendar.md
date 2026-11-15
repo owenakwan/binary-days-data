@@ -1,22 +1,13 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sat Nov 14, 06:59 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 15, 01:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 9
-- ❓ **Sat Nov 14** · [[BRVE]] · FDA decision (maple-hcm) — _Only one filing states this date._
-    - 📏 $19.62 · MC $1.8B · volatility 74% · usual day ±3.8% · biggest day +10% / −14%
-- ✅ **Sat Nov 14** · [[BTAI]] · FDA decision (bxcl501, serenity)
-- ✅ **Sat Nov 14** · [[CRBP]] · Corbus Pharmaceuticals to Present Late Breaking CRB-913 Data from Canyon-1 Study at Obesity Week® 2026
-    - 📏 $3.39 · MC $86M · options ±50% by Nov 20 · volatility 111% · usual day ±4.4% · biggest day +19% / −30%
-- ✅ **Sat Nov 14** · [[CYTK]] · FDA decision
-    - 📏 $56.13 · MC $7.5B · options ±8% by Nov 20 · volatility 52% · usual day ±1.8% · biggest day +17% / −13%
-- ✅ **now–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.18 · MC $29M · volatility 76% · usual day ±2.6% · biggest day +13% / −17%
-- ✅ **Sat Nov 14** · [[SMMT]] · FDA decision
-    - 📏 $14.15 · MC $11.3B · options ±26% by Nov 20 · volatility 96% · usual day ±4.1% · biggest day +17% / −25%
 - ✅ **Sun Nov 15** · [[AMLX]] · Data expected November 15, 2026 — _A window the company gave, not an exact day._
     - 📏 $30.29 · MC $3.4B · options ±9% by Nov 20 · volatility 52% · usual day ±2.5% · biggest day +64% / −8%
+- ✅ **now–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
+    - 📏 $0.18 · MC $29M · volatility 76% · usual day ±2.6% · biggest day +13% / −17%
 
 ## Week of Nov 16
 - 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
@@ -165,7 +156,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Nov 30** · [[MANE]] · Data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $129.66 · MC $5.7B · options ±15% by Dec 18 · volatility 95% · usual day ±3.5% · biggest day +48% / −14%
 - ✅ **now–Nov 30** · [[MBX]] · Data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $55.94 · MC $2.4B · options ±33% by Dec 18 · volatility 63% · usual day ±2.8% · biggest day +20% / −11%
+    - 📏 $55.94 · MC $2.8B · options ±33% by Dec 18 · volatility 63% · usual day ±2.8% · biggest day +20% / −11%
 - ✅ **now–Nov 30** · [[NKTX]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $1.19 · MC $125M · options ±136% by Dec 18 · volatility 102% · usual day ±4.1% · biggest day +24% / −15%
 - ✅ **now–Nov 30** · [[PYXS]] · Data expected November 2026 — _A window the company gave, not an exact day._
@@ -179,7 +170,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 10** · [[BHVN]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
 - 📐 **Nov 17–Dec 12** · [[GOSS]] · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
     - 📏 $10.97 · MC $69M · options ±63% by Jan 15 · volatility 87% · usual day ±4.7% · biggest day +46% / −80%
-- ❓ **now–Dec 14** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
+- ❓ **now–Dec 15** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - 📐 **Nov 23–Dec 18** · [[DBVT]] · FDA acceptance expected Nov 23–Dec 18, 2026 (submitted Sep 29) — _A window the company gave, not an exact day._
     - 📏 $11.02 · options ±66% by Feb 19 · volatility 66% · usual day ±3.2% · biggest day +25% / −12%
 - 📐 **Nov 24–Dec 19** · [[DBVT]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
@@ -224,7 +215,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **now–Dec 31** · [[CYBN]] · Phase 3 APPROACH topline — _Only on your sheet; not in the company's filings._
 - ✅ **now–Dec 31** · [[CYCN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[CYTK]] · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
-    - 📏 $56.13 · MC $7.5B · options ±8% by Nov 20 · volatility 52% · usual day ±1.8% · biggest day +17% / −13%
 - ✅ **now–Dec 31** · [[DMAC]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[DNLI]] · Data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[DTIL]] · Initial data expected year-end 2026 — _A window the company gave, not an exact day._
@@ -248,7 +238,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **Dec 1–Dec 31** · [[IGC]] · Topline data expected December 2026 — _A window the company gave, not an exact day._
     - 📏 $0.18 · MC $29M · volatility 76% · usual day ±2.6% · biggest day +13% / −17%
 - ✅ **now–Dec 31** · [[IMCR]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
-- ❓ **Nov 15–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
+- ❓ **now–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
 - ✅ **now–Dec 31** · [[IMNM]] · Data expected by year-end 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[IMRX]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[IMUX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
@@ -358,7 +348,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **Jan 1–Mar 31** · [[BMEA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[CBIO]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[CRBP]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-    - 📏 $3.39 · MC $86M · options ±50% by Nov 20 · volatility 111% · usual day ±4.4% · biggest day +19% / −30%
 - ✅ **Jan 1–Mar 31** · [[CRVO]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[DMAC]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
 - ✅ **Jan 1–Mar 31** · [[DNLI]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
@@ -422,7 +411,6 @@ The company gave a window, not a day. Sorted by when the window closes.
 
 ## Drug-company earnings
 
-- ❓ **Sat Nov 14** · [[ALLR]] · Earnings
 - ❓ **Mon Nov 16** · [[ADTX]] · Earnings
 - ❓ **Mon Nov 16** · [[AIM]] · Earnings
 - ❓ **Mon Nov 16** · [[AYTU]] · Earnings (after close)
