@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sun Nov 15, 01:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 15, 09:35 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 9
@@ -13,7 +13,7 @@ Updated Sun Nov 15, 01:51 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Mon Nov 16** · [[AMSS]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[AQST]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 17 submission: Aquestive Therapeutics Resubmits NDA for Anaphylm Subl — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $3.91 · MC $579M · options ±24% by Nov 20 · volatility 63% · usual day ±2.7% · biggest day +39% / −37%
-- ✅ **Mon Nov 16** · [[CNSY]] · Cerenome to host conference call on clinical data Monday By Investing.com
+- ✅ **Mon Nov 16** · [[CNSY]] · Cerenome to host conference call on clinical data Monday
     - 📏 $0.95 · MC $6M · volatility 201% · usual day ±6.3% · biggest day +24% / −38%
 - 📐 **Mon Nov 16** · [[LCLN]] · IPO lock-up ends
 - 📐 **Mon Nov 16** · [[OPTH]] · IPO lock-up ends
