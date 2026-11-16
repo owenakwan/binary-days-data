@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-16 11:26 AM CT
+
+- 🆕 New: ✅ **Dec 1–Dec 31** · [[ALXO]] · Data expected December 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[HCWB]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-16 01:16 AM CT
 
 - 🆕 New: ✅ **Mon Nov 16** · [[HELP]] · Helus Pharma to Present Topline Results from Phase 3 APPROACH Study...

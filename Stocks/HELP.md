@@ -8,9 +8,9 @@ tags: [catalyst]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=HELP)
 
-- ✅ **Mon Nov 16** · HELP · Helus Pharma to Present Topline Results from Phase 3 APPROACH Study...
-    - 📏 $8.87 · options ±33% by Nov 20 · volatility 83% · usual day ±3.8% · biggest day +18% / −34%
-    - Source: [Quantisnow](https://news.google.com/rss/articles/CBMipwFBVV95cUxORnk0TWY4ZzBFZ3VkeThFTlMzOEIyVHVDQ3pDNWxGTUxlX3dTejlkbktyd3JrQTF5dnFaazlab01mZnF0aDJRbUE2ZmxFTkptUU10TDlCWGVweFZ6ZmNFZmsxSFNVNDdpVnRmcEktdnMzYzMtU09Sdi1Sc0MtQTBOZU5vMGx1MkFUVlM2ZmFsU2lmeXVabDZyMGhKaG1xR0NBUzMzQXpfcw?oc=5) — "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study..."
+- ✅ **Mon Nov 16** · HELP · Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder o
+    - 📏 $7.94 · options ±19% by Nov 20 · volatility 88% · usual day ±4.0% · biggest day +18% / −34%
+    - Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxQVW9SVWlnRmZ2aTdEbDhjaUJyblpRM095M2IwdWZ4UHZFMUVBdm53bEJsQ0x1RkJhSTBtYzBfUGdMQ3VnR1FoaFFwRi1uOHNkYnZ6akM2U3BoTjBVR0FQQ210NjZ2S3hLZTk0OXJ1amNwRVFpNW1SNjVCU1Q5ZjJHSjh3NnZRUV84Z3B1eWhQWVlXZ21kRGtDS1MyRWliZw?oc=5) — "Helus Pharma to Present Topline Results from Phase 3 APPROACH Study Evaluating HLP003 as Adjunctive Treatment in Major Depressive Disorder on November 16, 2026"
 
 ## My notes
 

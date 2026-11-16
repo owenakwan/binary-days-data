@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=RFL)
 
-- ❓ **Wed Dec 9** · RFL · Earnings
+- ❓ **Wed Dec 16** · RFL · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes

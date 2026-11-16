@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GALT)
 
-- ❓ **Mon Nov 16** · GALT · Earnings
+- ❓ **Mon Nov 16** · GALT · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
