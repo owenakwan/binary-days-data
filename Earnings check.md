@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 15, 06:20 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Mon Nov 16, 01:19 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -57,7 +57,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[PDD]] PDD Holdings Inc. · time not given · 2x: PDDL — _The bulk calendar said 2026-11-16; Yahoo confirms 2026-11-19._
     - stock's own lookup: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Unaudited Financial Results on November 19, 2026](https://finnhub.io/api/news?id=6efd149dfe04754d9b9cbdd546a85482c03466c3de7a9a839a5cc8fec9f2c744)
+    - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Unaudited Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-report-third-quarter-131500643.html?.tsrc=rss)
 
 ## Monday, November 23
 
@@ -82,3 +82,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ❓ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-11-24
     - Yahoo (estimate): 2026-11-24
+
+## Tuesday, December 1
+
+- ✅ [[MRVL]] Marvell Technology, Inc. · time not given · 2x: MRVU, MRVX, MVLL — _The bulk calendar said 2026-11-26; Yahoo confirms 2026-12-01._
+    - stock's own lookup: 2026-12-01
+    - Yahoo (confirmed): 2026-12-01

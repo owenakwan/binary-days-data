@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-16 01:16 AM CT
+
+- 🆕 New: ✅ **Mon Nov 16** · [[HELP]] · Helus Pharma to Present Topline Results from Phase 3 APPROACH Study...
+    - 📏 $8.87 · options ±33% by Nov 20 · volatility 83% · usual day ±3.8% · biggest day +18% / −34%
+
 ## 2026-11-14 04:08 AM CT
 
 - 🆕 New: 📐 **Sun Dec 13** · [[TCRG]] · SPAC merger / direct listing lock-up ends
@@ -333,9 +338,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 ## 2026-11-02 07:14 AM CT
 
 - 🆕 New: ✅ **Jan 1–Mar 31** · [[AXSM]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-
-## 2026-11-01 12:40 AM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[GANX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[MANE]] · Data expected later this year — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 11** · [[ABOS]] · Data expected in the coming weeks — _A window the company gave, not an exact day._
