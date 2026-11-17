@@ -9,10 +9,8 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DARE)
 
 - ✅ **now–Nov 30** · DARE · Initial data expected this month — _A window the company gave, not an exact day._
-    - 📏 $0.58 · MC $14M · volatility 50% · usual day ±2.7% · biggest day +52% / −32%
+    - 📏 $0.58 · MC $14M · volatility 59% · usual day ±2.9% · biggest day +52% / −32%
     - Source: [DARE SEC 8-K (2026-11-16)](https://www.sec.gov/Archives/edgar/data/1401914/000149315226052334/ex99-1.htm) — "Our outsourcing facility partner has been working to manufacture supply at a scale to meet anticipated demand, and, with product now on route to Medvantx, we expect prescription dispensing to commence later this month,” "
-- ❓ **Mon Nov 16** · DARE · Earnings (after close)
-    - Source: Finnhub earnings calendar
 
 ## My notes
 
