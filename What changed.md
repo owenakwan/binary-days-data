@@ -2,6 +2,16 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-16 07:13 PM CT
+
+- 🆕 New: ✅ **now–Nov 30** · [[DARE]] · Initial data expected this month — _A window the company gave, not an exact day._
+    - 📏 $0.58 · MC $14M · volatility 50% · usual day ±2.7% · biggest day +52% / −32%
+- 🆕 New: ✅ **now–Dec 31** · [[ENTA]] · Data expected by year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[HROW]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[ENTA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ENTA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[HROW]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-16 11:26 AM CT
 
 - 🆕 New: ✅ **Dec 1–Dec 31** · [[ALXO]] · Data expected December 2026 — _A window the company gave, not an exact day._

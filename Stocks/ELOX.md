@@ -1,13 +1,15 @@
 ---
 ticker: ELOX
-company: "Eloxx Pharmaceuticals, Inc."
-tags: [catalyst]
+company: "Eloxx Pharmaceuticals Inc"
+tags: [catalyst, biotech]
 ---
 
-# ELOX · Eloxx Pharmaceuticals, Inc.
+# ELOX · Eloxx Pharmaceuticals Inc
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=ELOX)
 
+- ❓ **Mon Nov 16** · ELOX · Earnings (before open)
+    - Source: Finnhub earnings calendar
 - 📐 **Sun Dec 6** · ELOX · IPO lock-up ends
     - Source: SEC listing date + 180 days
 

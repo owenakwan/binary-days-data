@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=QCLS)
 
-- ❓ **Tue Nov 17** · QCLS · Earnings
+- ❓ **Mon Nov 16** · QCLS · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
