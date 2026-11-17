@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-17 12:28 PM CT
+
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[MTVA]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[MTVA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-17 03:04 AM CT
 
 - 🆕 New: ✅ **Fri Nov 20** · [[ERAS]] · Erasca to Host Virtual Investor Event Highlighting Clinical Momentum Across Its RAS-Targeting Franchise

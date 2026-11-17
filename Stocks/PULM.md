@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PULM)
 
-- ❓ **Tue Nov 17** · PULM · Earnings
+- ❓ **Tue Nov 17** · PULM · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes

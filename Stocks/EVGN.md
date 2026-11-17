@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=EVGN)
 
-- ❓ **Thu Nov 19** · EVGN · Earnings (before open)
+- ❓ **Wed Nov 18** · EVGN · Earnings (before open)
     - Source: Finnhub earnings calendar
 
 ## My notes
