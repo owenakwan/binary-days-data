@@ -1,15 +1,14 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Nov 17, 12:30 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Tue Nov 17, 07:24 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Tuesday, November 17
 
-- ✅ [[NVDA]] NVIDIA Corporation · after close · 2x: NVC, NVDG, NVDL
+- ❓ [[NVDA]] NVIDIA Corporation · after close · 2x: NVC, NVDG, NVDL
     - Finnhub calendar: 2026-11-17
-    - Yahoo (confirmed): 2026-11-17
 
 ## Wednesday, November 18
 
@@ -51,15 +50,15 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Tuesday, November 24
 
-- ✅ [[ADI]] Analog Devices, Inc. · after close · 2x: ADIU
+- ✅ [[ADI]] Analog Devices, Inc. · before open · 2x: ADIU
+    - Finnhub calendar: 2026-11-24
+    - Yahoo (confirmed): 2026-11-24
+- ✅ [[DELL]] Dell Technologies Inc. · after close · 2x: DLLL
     - Finnhub calendar: 2026-11-24
     - Yahoo (confirmed): 2026-11-24
 - ❓ [[CLSK]] CleanSpark, Inc. · time not given · 2x: CLSX
     - Finnhub calendar: 2026-11-24
     - Yahoo (estimate): 2026-11-24
-- ✅ [[DELL]] Dell Technologies Inc. · time not given · 2x: DLLL
-    - Finnhub calendar: 2026-11-24
-    - Yahoo (confirmed): 2026-11-24
 
 ## Tuesday, December 1
 

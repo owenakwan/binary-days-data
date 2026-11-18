@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-17 07:22 PM CT
+
+- 🆕 New: 📐 **Sat Jan 16** · [[IDYA]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 17 submission: Ideaya Biosciences: Staying Bullish On Darovasertib ND — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+
 ## 2026-11-17 12:28 PM CT
 
 - 🆕 New: ✅ **Jan 1–Mar 31** · [[MTVA]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._

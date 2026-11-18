@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=LTRN)
 
-- ❓ **Tue Nov 17** · LTRN · Earnings
+- ❓ **Tue Nov 17** · LTRN · Earnings (after close)
     - Source: Finnhub earnings calendar
 
 ## My notes
