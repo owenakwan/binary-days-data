@@ -11,7 +11,7 @@ tags: [catalyst, biotech]
 - ✅ **now–Dec 31** · ENTA · Data expected by year-end 2026 — _A window the company gave, not an exact day._
     - Source: [ENTA SEC 8-K (2026-11-16)](https://www.sec.gov/Archives/edgar/data/1177648/000119312526463508/enta-ex99_1.htm) — "We expect to complete dosing in the EDP-978 Phase 1 trial by year-end 2026 and now plan to report data in the first quarter of 2027."
 - ✅ **Jan 1–Mar 31** · ENTA · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-    - Source: [ENTA SEC 8-K (2026-11-16)](https://www.sec.gov/Archives/edgar/data/1177648/000119312526463508/enta-ex99_1.htm) — "Topline Data Expected in 1Q 2027"
+    - Source: [ENTA SEC 10-K (2026-11-18)](https://www.sec.gov/Archives/edgar/data/1177648/000119312526466170/enta-20260930.htm) — "Topline data from LOTUS are expected in the first quarter of 2027."
 
 ## My notes
 
