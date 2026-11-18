@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-18 03:06 AM CT
+
+- 🆕 New: 📐 **Sat Jan 2** · [[VCRE]] · SPAC merger / direct listing lock-up ends
+
 ## 2026-11-17 07:22 PM CT
 
 - 🆕 New: 📐 **Sat Jan 16** · [[IDYA]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 17 submission: Ideaya Biosciences: Staying Bullish On Darovasertib ND — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
@@ -327,30 +331,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 
 - 🆕 New: ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - 🆕 New: 📐 **Sat Dec 19** · [[MTNE]] · SPAC merger / direct listing lock-up ends
-
-## 2026-11-03 04:01 PM CT
-
-- 🆕 New: ✅ **now–Nov 30** · [[ARVN]] · Data expected November 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[RARE]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[TRAX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Mon Nov 30** · [[VRTX]] · FDA decision
-    - 📏 $530.76 · MC $129.3B · options ±9% by Dec 4 · volatility 30% · usual day ±1.4% · biggest day +8% / −5%
-- 🆕 New: ✅ **Mon Nov 30** · [[VRTX]] · FDA filing expected November 30, 2026 — _A window the company gave, not an exact day._
-    - 📏 $530.76 · MC $129.3B · options ±9% by Dec 4 · volatility 30% · usual day ±1.4% · biggest day +8% / −5%
-- 🆕 New: ✅ **Thu Dec 17** · [[CORT]] · FDA decision (easd, important)
-    - 📏 $81.93 · MC $12.7B · options ±30% by Dec 18 · volatility 77% · usual day ±2.2% · biggest day +27% / −50%
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[DNLI]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ARVN]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ❓ **Thu Dec 17** · [[CORT]] · FDA decision (relacorilant) — _Only one filing states this date._
-    - 📏 $81.93 · MC $12.7B · options ±30% by Dec 18 · volatility 77% · usual day ±2.2% · biggest day +27% / −50%
-
-## 2026-11-03 10:31 AM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[FTH]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[IDYA]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[IDYA]] · Data expected end of 2026 — _A window the company gave, not an exact day._
-
-## 2026-11-03 02:39 AM CT
-
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-    - 📏 $3.94 · MC $646M · options ±27% by Nov 20 · volatility 74% · usual day ±2.8% · biggest day +27% / −10%

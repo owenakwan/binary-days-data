@@ -1,14 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Nov 17, 07:24 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 18, 03:08 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Tuesday, November 17
-
-- ❓ [[NVDA]] NVIDIA Corporation · after close · 2x: NVC, NVDG, NVDL
-    - Finnhub calendar: 2026-11-17
 
 ## Wednesday, November 18
 
@@ -37,7 +32,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[PDD]] PDD Holdings Inc. · time not given · 2x: PDDL
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Unaudited Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-report-third-quarter-131500643.html?.tsrc=rss)
+    - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Financial Results on November 19](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGYwS3V6ZTJXcWRKSnJlYlZfdEgtY09VMTFjcHUzQ2xHRndWaVVUWjhoZkIwNTlmQWk3OWJPNV9QQTJoQmQ4Y1U3Ny1RZDFiRXpDaENBQVRsbkdWV0t5dllFLV9iUWlVMTVreElqRHBQZ3RsSWpzMG1UTHZ3MjFrTS1vOURVaG00ZWpuUEJoSFA4N3oyTjBITlZaeW9pRGYycWJGZjhKdk5VYjA?oc=5)
 
 ## Monday, November 23
 
