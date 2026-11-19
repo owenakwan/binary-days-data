@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=BHVN)
 
 - ✅ **now–Dec 10** · BHVN · Data expected in the coming weeks — _A window the company gave, not an exact day._
-    - 📏 $14.06 · MC $1.6B · options ±22% by Dec 18 · volatility 97% · usual day ±4.0% · biggest day +25% / −15%
+    - 📏 $13.65 · MC $1.6B · options ±22% by Dec 18 · volatility 96% · usual day ±3.9% · biggest day +25% / −15%
     - Source: [BHVN SEC 10-Q (2026-10-29)](https://www.sec.gov/Archives/edgar/data/1935979/000193597926000092/bhvn-20260930.htm) — "• RISE 2 will also continue dosing but new enrollment is paused pending nonclinical data that is expected in the coming weeks to further elucidate findings related to this metabolite that has uncertain significance in hu"
 
 ## My notes
