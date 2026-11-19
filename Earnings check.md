@@ -1,18 +1,16 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 18, 12:06 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 18, 06:17 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Wednesday, November 18
 
-- ✅ [[P]] Everpure, Inc. · after close · 2x: PUL
+- ❓ [[P]] Everpure, Inc. · after close · 2x: PUL
     - Finnhub calendar: 2026-11-18
-    - Yahoo (confirmed): 2026-11-18
-- ✅ [[PANW]] Palo Alto Networks, Inc. · after close · 2x: PALU, PANG
+- ❓ [[PANW]] Palo Alto Networks, Inc. · after close · 2x: PALU, PANG
     - Finnhub calendar: 2026-11-18
-    - Yahoo (confirmed): 2026-11-18
 
 ## Thursday, November 19
 
@@ -32,7 +30,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[PDD]] PDD Holdings Inc. · time not given · 2x: PDDL
     - Finnhub calendar: 2026-11-19
     - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Unaudited Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-report-third-quarter-131500643.html?.tsrc=rss)
+    - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Unaudited Financial Results on November 19, 2026](https://finnhub.io/api/news?id=6efd149dfe04754d9b9cbdd546a85482c03466c3de7a9a839a5cc8fec9f2c744)
 
 ## Monday, November 23
 
@@ -51,6 +49,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[DELL]] Dell Technologies Inc. · after close · 2x: DLLL
     - Finnhub calendar: 2026-11-24
     - Yahoo (confirmed): 2026-11-24
+- ❓ [[CLSK]] CleanSpark, Inc. · time not given · 2x: CLSX
+    - Finnhub calendar: 2026-11-24
+    - Yahoo (estimate): 2026-11-24
 
 ## Tuesday, December 1
 
