@@ -2,6 +2,15 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-19 01:20 AM CT
+
+- 🆕 New: ✅ **Thu Nov 19** · [[PYXS]] · Pyxis Oncology to Host Live Webcast on Updated MICVO Phase 1...
+    - 📏 $1.41 · MC $242M · options ±15% by Nov 20 · volatility 71% · usual day ±4.2% · biggest day +26% / −49%
+- 🆕 New: ✅ **Thu Jan 28** · [[INSM]] · FDA decision (arikayce, macld, pmda)
+    - 📏 $119.80 · MC $23.0B · options ±34% by Feb 19 · volatility 54% · usual day ±2.2% · biggest day +34% / −23%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Nov 30** · [[PYXS]] · Data expected November 2026 — _A window the company gave, not an exact day._
+    - 📏 $1.41 · MC $242M · options ±15% by Nov 20 · volatility 71% · usual day ±4.2% · biggest day +26% / −49%
+
 ## 2026-11-18 03:06 AM CT
 
 - 🆕 New: 📐 **Sat Jan 2** · [[VCRE]] · SPAC merger / direct listing lock-up ends
@@ -292,42 +301,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[IMUX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
     - 📏 $7.94 · MC $101M · options ±25% by Nov 20 · volatility 77% · usual day ±3.6% · biggest day +17% / −15%
-
-## 2026-11-04 08:45 PM CT
-
-- 🆕 New: ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat, resistant)
-    - 📏 $17.00 · MC $1.9B · options ±36% by Jan 15 · volatility 81% · usual day ±3.3% · biggest day +17% / −14%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Tue Dec 22** · [[MLYS]] · FDA decision (lorundrostat)
-    - 📏 $17.00 · MC $1.9B · options ±36% by Jan 15 · volatility 81% · usual day ±3.3% · biggest day +17% / −14%
-
-## 2026-11-04 04:36 PM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[ARQT]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[EOLS]] · Data expected by year-end — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Nov 30** · [[KLRA]] · Data expected November 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[LYEL]] · Data expected by year end — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[SLDB]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[XNCR]] · Data expected by year end — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[ARQT]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[XFOR]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ARQT]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[SLDB]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Mon Jan 4** · [[NUVB]] · FDA decision (ibtrozi, nsclc, ros1, tki-)
-
-## 2026-11-04 11:04 AM CT
-
-- 🆕 New: ✅ **now–Nov 30** · [[APRE]] · Data expected November 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[BCRX]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[MLTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[NAMS]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[HRMY]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[MLTX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[APRE]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[BCRX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MLTX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[NAMS]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-
-## 2026-11-04 03:10 AM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[ANNX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: 📐 **Sat Dec 19** · [[MTNE]] · SPAC merger / direct listing lock-up ends

@@ -1,12 +1,12 @@
 # Needs a second look
 
-Updated Wed Nov 18, 06:14 PM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
+Updated Thu Nov 19, 01:20 AM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
 
 
 ## ❓ One source only (6)
 - ❓ **now–Dec 31** · [[ROIV]] · Phase 3 topline — _Only on your sheet; not in the company's filings._
 - ❓ **now–Dec 31** · [[CYBN]] · Phase 3 APPROACH topline — _Only on your sheet; not in the company's filings._
-- ❓ **now–Dec 18** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
+- ❓ **now–Dec 19** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - ❓ **now–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
 - ❓ **Sun Nov 22** · [[TRDA]] · FDA decision (aak1, participant) — _Only one filing states this date._
     - 📏 $5.03 · MC $177M · options ±42% by Dec 18 · volatility 112% · usual day ±4.6% · biggest day +13% / −57%

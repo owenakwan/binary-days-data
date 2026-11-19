@@ -1,16 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 18, 06:17 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Nov 19, 01:21 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Wednesday, November 18
-
-- ❓ [[P]] Everpure, Inc. · after close · 2x: PUL
-    - Finnhub calendar: 2026-11-18
-- ❓ [[PANW]] Palo Alto Networks, Inc. · after close · 2x: PALU, PANG
-    - Finnhub calendar: 2026-11-18
 
 ## Thursday, November 19
 
