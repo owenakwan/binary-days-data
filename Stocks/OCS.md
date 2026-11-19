@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=OCS)
 
 - ✅ **Tue Dec 8** · OCS · Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline
-    - 📏 $7.39 · MC $443M · volatility 58% · usual day ±2.6% · biggest day +11% / −36%
+    - 📏 $7.38 · MC $443M · volatility 58% · usual day ±2.6% · biggest day +11% / −36%
     - Source: [mykxlg.com](https://news.google.com/rss/articles/CBMilAJBVV95cUxPanBVMjVhbENTejBUNVlyZmhSTURucHA0Q29xRmJpTXl3VU5fZmliUFNlTFB6djRHSFRBeVotT0tHZzBPSnh1bWQ5YWNfSG5uWjJwb04xbVFKOXBaMk94a0daSkdfeVBPR1J0Y3FjTVFDcml5aWplS0E2Z0I2Y2dIdVB1MUdielZkNFVKRERGTTVPaTlMeXl5ZDc2NUsyUzZxTVVuMko0M3djMjhvc2UtQjFxNGVYUTZkVE9aR3UxZ2xvZThDc2NnZzBWWGxuLURWNi1hd3lFaHZaVFRKWVNnWkYwR00wWFEyWk5CaERjMnlJdWx5WkctcHZzaUpzUEhIdGJ5cmZKb3I3RVpVZ1lhdXluaFU?oc=5) — "Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline"
 
 ## My notes

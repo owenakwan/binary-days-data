@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Nov 19, 01:21 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Nov 19, 11:00 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -42,9 +42,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[DELL]] Dell Technologies Inc. · after close · 2x: DLLL
     - Finnhub calendar: 2026-11-24
     - Yahoo (confirmed): 2026-11-24
-- ❓ [[CLSK]] CleanSpark, Inc. · time not given · 2x: CLSX
-    - Finnhub calendar: 2026-11-24
-    - Yahoo (estimate): 2026-11-24
 
 ## Tuesday, December 1
 
