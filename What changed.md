@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-20 03:34 PM CT
+
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TPST]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-20 07:37 AM CT
 
 - 🆕 New: ✅ **now–Nov 30** · [[PYXS]] · Data expected November 2026 — _A window the company gave, not an exact day._
