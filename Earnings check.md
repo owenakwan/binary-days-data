@@ -1,29 +1,21 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Thu Nov 19, 05:40 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Thu Nov 19, 10:19 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Thursday, November 19
 
-- ✅ [[BABA]] Alibaba Group Holding Limited · before open · 2x: BABC, BABU, BABX
+- ❓ [[BABA]] Alibaba Group Holding Limited · before open · 2x: BABC, BABU, BABX
     - Finnhub calendar: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
 - ✅✅ [[FUTU]] Futu Holdings Limited · before open · 2x: FUTG
     - Finnhub calendar: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
     - company announcement: 2026-11-19 — [Futu to Report Third Quarter 2026 Financial Results on November 19, 2026](https://finance.yahoo.com/markets/stocks/articles/futu-report-third-quarter-2026-080000244.html?.tsrc=rss)
-- ✅ [[BULL]] Webull Corporation · after close · 2x: BULG
+- ❓ [[BULL]] Webull Corporation · after close · 2x: BULG
     - Finnhub calendar: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
-- ✅ [[KEYS]] Keysight Technologies, Inc. · after close · 2x: KEYG, KEYX
+- ❓ [[KEYS]] Keysight Technologies, Inc. · after close · 2x: KEYG, KEYX
     - Finnhub calendar: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
-- ✅✅ [[PDD]] PDD Holdings Inc. · time not given · 2x: PDDL
-    - Finnhub calendar: 2026-11-19
-    - Yahoo (confirmed): 2026-11-19
-    - company announcement: 2026-11-19 — [PDD Holdings to Report Third Quarter 2026 Unaudited Financial Results on November 19, 2026](https://finnhub.io/api/news?id=6efd149dfe04754d9b9cbdd546a85482c03466c3de7a9a839a5cc8fec9f2c744)
 
 ## Monday, November 23
 
