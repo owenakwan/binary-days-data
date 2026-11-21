@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sat Nov 21, 11:58 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Nov 21, 05:03 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 16
@@ -411,11 +411,25 @@ The company gave a window, not a day. Sorted by when the window closes.
 ## Drug-company earnings
 
 - ❓ **Mon Nov 23** · [[A]] · Earnings (after close)
+- ❓ **Mon Nov 23** · [[ANEB]] · Earnings
 - ❓ **Mon Nov 23** · [[AVXL]] · Earnings (after close)
+- ❓ **Mon Nov 23** · [[BNR]] · Earnings
+- ❓ **Mon Nov 23** · [[BRTX]] · Earnings
+- ❓ **Mon Nov 23** · [[BSPK]] · Earnings
+- ❓ **Mon Nov 23** · [[BTAI]] · Earnings
+- ❓ **Mon Nov 23** · [[CBIH]] · Earnings
+- ❓ **Mon Nov 23** · [[LIMN]] · Earnings
+- ❓ **Mon Nov 23** · [[NKGN]] · Earnings
+- ❓ **Mon Nov 23** · [[RSCF]] · Earnings
+- ❓ **Mon Nov 23** · [[ZVSA]] · Earnings
+- ❓ **Tue Nov 24** · [[ALP]] · Earnings
+- ❓ **Tue Nov 24** · [[BZYR]] · Earnings
+- ❓ **Tue Nov 24** · [[CIRC]] · Earnings
 - ❓ **Tue Nov 24** · [[CLGN]] · Earnings
 - ❓ **Tue Nov 24** · [[EOCN]] · Earnings
 - ❓ **Thu Nov 26** · [[LEXX]] · Earnings (after close)
 - ❓ **Thu Nov 26** · [[PHBI]] · Earnings
+- ❓ **Fri Nov 27** · [[SCLX]] · Earnings
 - ❓ **Mon Nov 30** · [[CNBX]] · Earnings
 - ❓ **Tue Dec 1** · [[NOTV]] · Earnings (after close)
 - ❓ **Mon Dec 7** · [[ALZN]] · Earnings

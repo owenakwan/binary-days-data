@@ -1,7 +1,7 @@
 ---
 ticker: SXTP
 company: "60 DEGREES PHARMACEUTICALS, INC."
-tags: [catalyst]
+tags: [catalyst, biotech]
 ---
 
 # SXTP · 60 DEGREES PHARMACEUTICALS, INC.
