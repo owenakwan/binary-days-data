@@ -1,13 +1,8 @@
-# Today · Friday, November 20
+# Today · Saturday, November 21
 
-Updated Fri Nov 20, 08:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Nov 21, 04:56 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
-## Today
-
-- ✅ **Fri Nov 20** · [[ERAS]] · Erasca to Host Virtual Investor Event Highlighting Clinical Momentum Across Its RAS-Targeting Franchise
-    - 📏 $13.61 · MC $4.8B · options ±24% by Dec 18 · volatility 81% · usual day ±3.4% · biggest day +42% / −48%
-
-## Rest of this week
+## Tomorrow · Sun Nov 22
 
 - ✅ **Sun Nov 22** · [[CAPR]] · FDA decision
     - 📏 $7.59 · MC $500M · options ±105% by Nov 27 · volatility 135% · usual day ±5.4% · biggest day +371% / −64%

@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-21 04:56 AM CT
+
+- 🆕 New: ✅ **Thu Dec 10** · [[CDIO]] · Cardio Diagnostics to Unveil Non-Obstructive Coronary Artery Disease Data, FDA Breakthrough Device Designation Strategy, and India Launch Up
+    - 📏 $1.60 · MC $5M · volatility 58% · usual day ±2.6% · biggest day +79% / −39%
+- 🆕 New: ✅ **Sat Jan 30** · [[PHAR]] · FDA decision
+    - 📏 $11.54 · MC $619M · volatility 59% · usual day ±2.5% · biggest day +11% / −27%
+
 ## 2026-11-20 08:47 PM CT
 
 - 📆 Date moved Jan 8 → 📐 **Fri Jan 15** · [[LRMR]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 16 submission: Larimar Therapeutics Announces Completion of BLA Submi — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
@@ -242,18 +249,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
     - 📏 $1.73 · MC $125M · options ±68% by Nov 20 · volatility 74% · usual day ±3.4% · biggest day +24% / −13%
 - 🆕 New: 📐 **Tue Dec 22** · [[DPC]] · IPO lock-up ends
 - 🆕 New: 📐 **Tue Dec 22** · [[DSC]] · IPO lock-up ends
-
-## 2026-11-06 06:19 PM CT
-
-- 🆕 New: ✅ **Nov 8–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.20 · MC $29M · options ±255% by Feb 19 · volatility 71% · usual day ±2.7% · biggest day +13% / −17%
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[IGC]] · Topline data expected December 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.20 · MC $29M · options ±255% by Feb 19 · volatility 71% · usual day ±2.7% · biggest day +13% / −17%
-
-## 2026-11-06 02:24 PM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[DWTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-
-## 2026-11-06 12:08 AM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[IMUX]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._

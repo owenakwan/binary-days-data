@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Fri Nov 20, 08:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Nov 21, 04:56 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 16
@@ -11,11 +11,9 @@ Updated Fri Nov 20, 08:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - ✅ **now–Nov 30** · [[ARVN]] · Data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $6.46 · MC $446M · options ±17% by Dec 18 · volatility 66% · usual day ±2.4% · biggest day +12% / −12%
 - ✅ **now–Nov 30** · [[DARE]] · Initial data expected this month — _A window the company gave, not an exact day._
-    - 📏 $0.41 · MC $14M · volatility 109% · usual day ±3.3% · biggest day +52% / −32%
+    - 📏 $0.41 · MC $8M · volatility 109% · usual day ±3.3% · biggest day +52% / −32%
 - ✅ **now–Nov 30** · [[ENGN]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $1.74 · options ±26% by Dec 18 · volatility 128% · usual day ±4.0% · biggest day +27% / −81%
-- ✅ **Fri Nov 20** · [[ERAS]] · Erasca to Host Virtual Investor Event Highlighting Clinical Momentum Across Its RAS-Targeting Franchise
-    - 📏 $13.61 · MC $4.8B · options ±24% by Dec 18 · volatility 81% · usual day ±3.4% · biggest day +42% / −48%
 - ✅ **now–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
     - 📏 $0.17 · MC $29M · volatility 79% · usual day ±2.4% · biggest day +13% / −17%
 - ✅ **now–Nov 30** · [[KLRA]] · Data expected November 2026 — _A window the company gave, not an exact day._
@@ -95,6 +93,8 @@ Updated Fri Nov 20, 08:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - ✅ **Tue Dec 8** · [[OCS]] · Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline
     - 📏 $7.06 · MC $443M · volatility 59% · usual day ±2.6% · biggest day +11% / −36%
 - 📐 **Wed Dec 9** · [[SPCX]] · IPO lock-up ends
+- ✅ **Thu Dec 10** · [[CDIO]] · Cardio Diagnostics to Unveil Non-Obstructive Coronary Artery Disease Data, FDA Breakthrough Device Designation Strategy, and India Launch Up
+    - 📏 $1.60 · MC $5M · volatility 58% · usual day ±2.6% · biggest day +79% / −39%
 - ✅ **Sat Dec 12** · [[ANAB]] · FDA decision
     - 📏 $46.63 · MC $1.5B · options ±24% by Dec 18 · volatility 48% · usual day ±1.9% · biggest day +15% / −13%
 - 📐 **Sat Dec 12** · [[HONA]] · SPAC merger / direct listing lock-up ends
@@ -155,6 +155,8 @@ Updated Fri Nov 20, 08:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
     - 📏 $141.33 · MC $23.0B · options ±22% by Feb 19 · volatility 76% · usual day ±2.6% · biggest day +34% / −23%
 - ✅ **Fri Jan 29** · [[PRAX]] · FDA decision (ulixacaltamide)
     - 📏 $300.43 · MC $7.3B · options ±32% by Jan 15 · volatility 80% · usual day ±2.8% · biggest day +31% / −23%
+- ✅ **Sat Jan 30** · [[PHAR]] · FDA decision
+    - 📏 $11.54 · MC $619M · volatility 59% · usual day ±2.5% · biggest day +11% / −27%
 
 ## Open windows: could land any day
 
@@ -169,7 +171,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - 📐 **Nov 24–Dec 19** · [[DBVT]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
     - 📏 $9.02 · options ±81% by Feb 19 · volatility 70% · usual day ±3.3% · biggest day +25% / −12%
 - 📐 **Nov 24–Dec 19** · [[MLTX]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
-- ❓ **now–Dec 20** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
+- ❓ **now–Dec 21** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - ✅ **Dec 8–Dec 24** · [[RZLT]] · Data expected mid December 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ABCL]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[ABSI]] · Data expected Q4 2026 — _A window the company gave, not an exact day._

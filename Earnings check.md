@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Fri Nov 20, 08:50 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sat Nov 21, 04:58 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -25,3 +25,25 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[DELL]] Dell Technologies Inc. · after close · 2x: DLLL
     - Finnhub calendar: 2026-11-24
     - Yahoo (confirmed): 2026-11-24
+
+## Tuesday, December 1
+
+- ✅ [[CRDO]] Credo Technology Group Holding Ltd · time not given · 2x: CRD, CRDU
+    - Finnhub calendar: 2026-12-01
+    - Yahoo (confirmed): 2026-12-01
+- ✅ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL
+    - Finnhub calendar: 2026-12-01
+    - Yahoo (confirmed): 2026-12-01
+- ✅ [[MRVL]] Marvell Technology, Inc. · time not given · 2x: MRVU, MRVX, MVLL
+    - Finnhub calendar: 2026-12-01
+    - Yahoo (confirmed): 2026-12-01
+- ✅✅ [[NIO]] NIO Inc. · time not given · 2x: NIOG
+    - Finnhub calendar: 2026-12-01
+    - Yahoo (confirmed): 2026-12-01
+    - company announcement: 2026-12-01 — [NIO Inc. to Report Unaudited Third Quarter 2026 Financial Results on Tuesday, December 1, 2026](https://finance.yahoo.com/markets/stocks/articles/nio-inc-report-unaudited-third-093000032.html?.tsrc=rss)
+- ✅ [[NTAP]] NetApp, Inc. · time not given · 2x: NTAL
+    - Finnhub calendar: 2026-12-01
+    - Yahoo (confirmed): 2026-12-01
+- ✅ [[OKTA]] Okta, Inc. · time not given · 2x: OKTG
+    - Finnhub calendar: 2026-12-01
+    - Yahoo (confirmed): 2026-12-01
