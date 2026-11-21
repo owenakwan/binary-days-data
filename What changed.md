@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-20 08:47 PM CT
+
+- 📆 Date moved Jan 8 → 📐 **Fri Jan 15** · [[LRMR]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 16 submission: Larimar Therapeutics Announces Completion of BLA Submi — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+
 ## 2026-11-20 03:34 PM CT
 
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TPST]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._

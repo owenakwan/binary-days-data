@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Fri Nov 20, 03:34 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Fri Nov 20, 08:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 16
@@ -9,15 +9,15 @@ Updated Fri Nov 20, 03:34 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - ✅ **now–Nov 30** · [[APRE]] · Data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $0.23 · MC $7M · volatility 241% · usual day ±4.8% · biggest day +35% / −54%
 - ✅ **now–Nov 30** · [[ARVN]] · Data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $6.46 · MC $446M · options ±31% by Dec 18 · volatility 66% · usual day ±2.4% · biggest day +12% / −12%
+    - 📏 $6.46 · MC $446M · options ±17% by Dec 18 · volatility 66% · usual day ±2.4% · biggest day +12% / −12%
 - ✅ **now–Nov 30** · [[DARE]] · Initial data expected this month — _A window the company gave, not an exact day._
     - 📏 $0.41 · MC $14M · volatility 109% · usual day ±3.3% · biggest day +52% / −32%
 - ✅ **now–Nov 30** · [[ENGN]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $1.74 · options ±26% by Dec 18 · volatility 128% · usual day ±4.0% · biggest day +27% / −81%
 - ✅ **Fri Nov 20** · [[ERAS]] · Erasca to Host Virtual Investor Event Highlighting Clinical Momentum Across Its RAS-Targeting Franchise
-    - 📏 $13.61 · MC $4.8B · options ±7% by Nov 20 · volatility 81% · usual day ±3.4% · biggest day +42% / −48%
+    - 📏 $13.61 · MC $4.8B · options ±24% by Dec 18 · volatility 81% · usual day ±3.4% · biggest day +42% / −48%
 - ✅ **now–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.17 · MC $29M · volatility 79% · usual day ±2.5% · biggest day +13% / −17%
+    - 📏 $0.17 · MC $29M · volatility 79% · usual day ±2.4% · biggest day +13% / −17%
 - ✅ **now–Nov 30** · [[KLRA]] · Data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $11.02 · MC $1.4B · volatility 74% · usual day ±4.1% · biggest day +16% / −13%
 - ✅ **now–Nov 30** · [[MANE]] · Data expected November 2026 — _A window the company gave, not an exact day._
@@ -140,12 +140,10 @@ Updated Fri Nov 20, 03:34 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
     - 📏 $26.71 · MC $5.1B · options ±26% by Dec 18 · volatility 58% · usual day ±2.2% · biggest day +10% / −8%
 - 📐 **Sat Jan 2** · [[VCRE]] · SPAC merger / direct listing lock-up ends
 
-## Week of Jan 4
-- 📐 **Fri Jan 8** · [[LRMR]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 9 submission: Larimar Therapeutics Completes Rolling BLA Submission — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-
 ## Week of Jan 11
 - 📐 **Mon Jan 11** · [[CGEM]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 12 submission: Cullinan Therapeutics completes FDA NDA submission for — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - 📐 **Mon Jan 11** · [[KYTX]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 12 submission: Kyverna Therapeutics Announces Completion of BLA Submi — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Fri Jan 15** · [[LRMR]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 16 submission: Larimar Therapeutics Announces Completion of BLA Submi — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - 📐 **Sat Jan 16** · [[IDYA]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 17 submission: Ideaya Biosciences: Staying Bullish On Darovasertib ND — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 
 ## Week of Jan 18
@@ -233,7 +231,7 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ✅ **now–Dec 31** · [[HROW]] · Data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **now–Dec 31** · [[IDYA]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
 - ✅ **Dec 1–Dec 31** · [[IGC]] · Topline data expected December 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.17 · MC $29M · volatility 79% · usual day ±2.5% · biggest day +13% / −17%
+    - 📏 $0.17 · MC $29M · volatility 79% · usual day ±2.4% · biggest day +13% / −17%
 - ✅ **now–Dec 31** · [[IMCR]] · Topline data expected end of 2026 — _A window the company gave, not an exact day._
 - ❓ **now–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
 - ✅ **now–Dec 31** · [[IMNM]] · Data expected by year-end 2026 — _A window the company gave, not an exact day._

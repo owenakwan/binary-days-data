@@ -1,11 +1,11 @@
 # Today · Friday, November 20
 
-Updated Fri Nov 20, 03:34 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Fri Nov 20, 08:47 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
 - ✅ **Fri Nov 20** · [[ERAS]] · Erasca to Host Virtual Investor Event Highlighting Clinical Momentum Across Its RAS-Targeting Franchise
-    - 📏 $13.61 · MC $4.8B · options ±7% by Nov 20 · volatility 81% · usual day ±3.4% · biggest day +42% / −48%
+    - 📏 $13.61 · MC $4.8B · options ±24% by Dec 18 · volatility 81% · usual day ±3.4% · biggest day +42% / −48%
 
 ## Rest of this week
 
@@ -22,6 +22,6 @@ Updated Fri Nov 20, 03:34 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Windows closing within a week (could land any day)
 
 - ✅ **now–Nov 24** · [[IGC]] · Topline data expected mid November 2026 — _A window the company gave, not an exact day._
-    - 📏 $0.17 · MC $29M · volatility 79% · usual day ±2.5% · biggest day +13% / −17%
+    - 📏 $0.17 · MC $29M · volatility 79% · usual day ±2.4% · biggest day +13% / −17%
 
 See also: [[Calendar]] · [[What changed]] · [[Needs a second look]]
