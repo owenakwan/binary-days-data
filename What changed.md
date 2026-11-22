@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-22 05:49 PM CT
+
+- 🆕 New: ✅ **Mon Nov 23** · [[IVVD]] · Invivyd to Host Conference Call to Announce Results from Interim Analysis of Phase 3 DECLARATION Clinical Trial on November 23, 2026
+    - 📏 $0.41 · MC $158M · options ±38% by Dec 18 · volatility 81% · usual day ±4.9% · biggest day +35% / −21%
+
 ## 2026-11-22 05:06 AM CT
 
 - 🆕 New: 📐 **Wed Jan 6** · [[DBHL]] · SPAC merger / direct listing lock-up ends

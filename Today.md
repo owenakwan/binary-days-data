@@ -1,6 +1,6 @@
 # Today · Sunday, November 22
 
-Updated Sun Nov 22, 12:25 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 22, 05:49 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
 
@@ -17,6 +17,8 @@ Updated Sun Nov 22, 12:25 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Tomorrow · Mon Nov 23
 
 - 📐 **Mon Nov 23** · [[FDXF]] · SPAC merger / direct listing lock-up ends
+- ✅ **Mon Nov 23** · [[IVVD]] · Invivyd to Host Conference Call to Announce Results from Interim Analysis of Phase 3 DECLARATION Clinical Trial on November 23, 2026
+    - 📏 $0.41 · MC $158M · options ±38% by Dec 18 · volatility 81% · usual day ±4.9% · biggest day +35% / −21%
 - 📐 **Mon Nov 23** · [[NTCS]] · SPAC merger / direct listing lock-up ends
 - 📐 **Mon Nov 23** · [[PWRL]] · SPAC merger / direct listing lock-up ends
 - 📊 Earnings: [[A]] (post), [[ANEB]], [[AVXL]] (post), [[BNR]], [[BRTX]], [[BSPK]], [[BTAI]], [[CBIH]], [[LIMN]], [[NKGN]], [[RSCF]], [[ZVSA]]

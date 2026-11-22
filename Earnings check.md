@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sun Nov 22, 12:28 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 22, 05:51 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -40,7 +40,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
-    - company announcement: 2026-12-01 — [NIO Inc. to Report Unaudited Third Quarter 2026 Financial Results on Tuesday, December 1, 2026](https://finnhub.io/api/news?id=bd01205818406ed8b909c9432c134bfebe25e535e9724c01033ec6be48689fb2)
+    - company announcement: 2026-12-01 — [NIO Inc. to Report Unaudited Third Quarter 2026 Financial Results on Tuesday, December 1, 2026](https://finance.yahoo.com/markets/stocks/articles/nio-inc-report-unaudited-third-093000032.html?.tsrc=rss)
 - ✅ [[NTAP]] NetApp, Inc. · time not given · 2x: NTAL
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
@@ -53,6 +53,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[CRM]] Salesforce, Inc. · after close · 2x: CRMG
     - Finnhub calendar: 2026-12-02
     - Yahoo (confirmed): 2026-12-02
-- ✅ [[SNOW]] Snowflake Inc. · after close · 2x: SNOU
+- ❓ [[SNOW]] Snowflake Inc. · after close · 2x: SNOU
     - Finnhub calendar: 2026-12-02
-    - Yahoo (confirmed): 2026-12-02
+    - Yahoo (estimate): 2026-12-03

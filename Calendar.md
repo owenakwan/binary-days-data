@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sun Nov 22, 12:25 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 22, 05:49 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 16
@@ -44,6 +44,8 @@ Updated Sun Nov 22, 12:25 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 
 ## Week of Nov 23
 - 📐 **Mon Nov 23** · [[FDXF]] · SPAC merger / direct listing lock-up ends
+- ✅ **Mon Nov 23** · [[IVVD]] · Invivyd to Host Conference Call to Announce Results from Interim Analysis of Phase 3 DECLARATION Clinical Trial on November 23, 2026
+    - 📏 $0.41 · MC $158M · options ±38% by Dec 18 · volatility 81% · usual day ±4.9% · biggest day +35% / −21%
 - 📐 **Mon Nov 23** · [[NTCS]] · SPAC merger / direct listing lock-up ends
 - 📐 **Mon Nov 23** · [[PWRL]] · SPAC merger / direct listing lock-up ends
 - 📐 **Wed Nov 25** · [[OBNK]] · SPAC merger / direct listing lock-up ends
