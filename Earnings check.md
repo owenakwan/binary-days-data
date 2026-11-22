@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Sat Nov 21, 09:02 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sun Nov 22, 05:08 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -28,8 +28,8 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 ## Tuesday, December 1
 
-- ✅ [[CRDO]] Credo Technology Group Holding Ltd · time not given · 2x: CRD, CRDU
-    - Finnhub calendar: 2026-12-01
+- ✅ [[CRDO]] Credo Technology Group Holding Ltd · time not given · 2x: CRD, CRDU — _The bulk calendar said 2026-12-02; Yahoo confirms 2026-12-01._
+    - stock's own lookup: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
 - ✅ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL
     - Finnhub calendar: 2026-12-01
@@ -47,3 +47,12 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[OKTA]] Okta, Inc. · time not given · 2x: OKTG
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
+
+## Wednesday, December 2
+
+- ✅ [[CRM]] Salesforce, Inc. · after close · 2x: CRMG
+    - Finnhub calendar: 2026-12-02
+    - Yahoo (confirmed): 2026-12-02
+- ✅ [[SNOW]] Snowflake Inc. · time not given · 2x: SNOU
+    - Finnhub calendar: 2026-12-02
+    - Yahoo (confirmed): 2026-12-02

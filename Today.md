@@ -1,8 +1,8 @@
-# Today · Saturday, November 21
+# Today · Sunday, November 22
 
-Updated Sat Nov 21, 08:59 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 22, 05:06 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
-## Tomorrow · Sun Nov 22
+## Today
 
 - ✅ **Sun Nov 22** · [[CAPR]] · FDA decision
     - 📏 $7.59 · MC $500M · options ±105% by Nov 27 · volatility 135% · usual day ±5.4% · biggest day +371% / −64%
@@ -13,6 +13,13 @@ Updated Sat Nov 21, 08:59 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
     - 📏 $4.26 · MC $900M · options ±31% by Dec 18 · volatility 93% · usual day ±3.1% · biggest day +17% / −18%
 - ❓ **Sun Nov 22** · [[TRDA]] · FDA decision (aak1, participant) — _Only one filing states this date._
     - 📏 $4.35 · MC $177M · options ±49% by Dec 18 · volatility 115% · usual day ±4.6% · biggest day +13% / −57%
+
+## Tomorrow · Mon Nov 23
+
+- 📐 **Mon Nov 23** · [[FDXF]] · SPAC merger / direct listing lock-up ends
+- 📐 **Mon Nov 23** · [[NTCS]] · SPAC merger / direct listing lock-up ends
+- 📐 **Mon Nov 23** · [[PWRL]] · SPAC merger / direct listing lock-up ends
+- 📊 Earnings: [[A]] (post), [[ANEB]], [[AVXL]] (post), [[BNR]], [[BRTX]], [[BSPK]], [[BTAI]], [[CBIH]], [[LIMN]], [[NKGN]], [[RSCF]], [[ZVSA]]
 
 ## Windows closing within a week (could land any day)
 

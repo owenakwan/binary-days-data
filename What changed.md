@@ -2,6 +2,13 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-22 05:06 AM CT
+
+- 🆕 New: 📐 **Wed Jan 6** · [[DBHL]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Wed Jan 6** · [[SKHY]] · IPO lock-up ends
+- ✔️ Dropped off (happened, decided or no longer in any source): 📐 **now–Dec 12** · [[GOSS]] · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
+    - 📏 $10.72 · MC $69M · options ±64% by Jan 15 · volatility 84% · usual day ±4.0% · biggest day +46% / −80%
+
 ## 2026-11-21 08:59 PM CT
 
 - 🆕 New: ✅ **Tue Dec 1** · [[NUWE]] · Nuwellis to Host Webinar Discussing ULTRA-Peds Registry Results and Aquadex Performance in Critically Ill Pediatric Patients
@@ -247,10 +254,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 - 🆕 New: 📐 **Wed Dec 23** · [[MFP]] · SPAC merger / direct listing lock-up ends
 - 🆕 New: 📐 **Wed Dec 23** · [[SIND]] · IPO lock-up ends
 - 🆕 New: 📐 **Wed Dec 23** · [[USDE]] · SPAC merger / direct listing lock-up ends
-
-## 2026-11-07 12:39 AM CT
-
-- 🆕 New: ✅ **Mon Nov 9** · [[NKTX]] · Nkarta Announces November 9, 2026 Webcast to Present Initial NKX019 Clinical Data
-    - 📏 $1.73 · MC $125M · options ±68% by Nov 20 · volatility 74% · usual day ±3.4% · biggest day +24% / −13%
-- 🆕 New: 📐 **Tue Dec 22** · [[DPC]] · IPO lock-up ends
-- 🆕 New: 📐 **Tue Dec 22** · [[DSC]] · IPO lock-up ends
