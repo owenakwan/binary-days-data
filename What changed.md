@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-21 08:59 PM CT
+
+- 🆕 New: ✅ **Tue Dec 1** · [[NUWE]] · Nuwellis to Host Webinar Discussing ULTRA-Peds Registry Results and Aquadex Performance in Critically Ill Pediatric Patients
+    - 📏 $3.41 · MC $2M · volatility 846% · usual day ±32.3% · biggest day +1591% / −61%
+
 ## 2026-11-21 04:56 AM CT
 
 - 🆕 New: ✅ **Thu Dec 10** · [[CDIO]] · Cardio Diagnostics to Unveil Non-Obstructive Coronary Artery Disease Data, FDA Breakthrough Device Designation Strategy, and India Launch Up

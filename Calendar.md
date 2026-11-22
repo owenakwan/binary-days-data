@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sat Nov 21, 05:03 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Nov 21, 08:59 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 16
@@ -73,6 +73,8 @@ Updated Sat Nov 21, 05:03 PM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 - 📐 **Tue Dec 1** · [[ETSS]] · SPAC merger / direct listing lock-up ends
 - 📐 **Tue Dec 1** · [[INIO]] · IPO lock-up ends
 - 📐 **Tue Dec 1** · [[LFTO]] · IPO lock-up ends
+- ✅ **Tue Dec 1** · [[NUWE]] · Nuwellis to Host Webinar Discussing ULTRA-Peds Registry Results and Aquadex Performance in Critically Ill Pediatric Patients
+    - 📏 $3.41 · MC $2M · volatility 846% · usual day ±32.3% · biggest day +1591% / −61%
 - 📐 **Tue Dec 1** · [[QNT]] · IPO lock-up ends
 - 📐 **Tue Dec 1** · [[SSMR]] · IPO lock-up ends
 - ✅ **Thu Dec 3** · [[PROF]] · Data expected December 3, 2026 — _A window the company gave, not an exact day._
@@ -434,8 +436,8 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Dec 1** · [[NOTV]] · Earnings (after close)
 - ❓ **Mon Dec 7** · [[ALZN]] · Earnings
 - ❓ **Wed Dec 9** · [[NTRB]] · Earnings
+- ❓ **Wed Dec 9** · [[RFL]] · Earnings
 - ❓ **Thu Dec 10** · [[EDSA]] · Earnings (after close)
-- ❓ **Thu Dec 10** · [[HYFT]] · Earnings
+- ❓ **Mon Dec 14** · [[HYFT]] · Earnings
 - ❓ **Wed Dec 16** · [[PKTX]] · Earnings
-- ❓ **Wed Dec 16** · [[RFL]] · Earnings
 - ❓ **Thu Dec 17** · [[BYSI]] · Earnings
