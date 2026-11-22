@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Sun Nov 22, 05:06 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sun Nov 22, 12:25 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 16
@@ -440,8 +440,8 @@ The company gave a window, not a day. Sorted by when the window closes.
 - ❓ **Tue Dec 1** · [[NOTV]] · Earnings (after close)
 - ❓ **Mon Dec 7** · [[ALZN]] · Earnings
 - ❓ **Wed Dec 9** · [[NTRB]] · Earnings
-- ❓ **Wed Dec 9** · [[RFL]] · Earnings
 - ❓ **Thu Dec 10** · [[EDSA]] · Earnings (after close)
-- ❓ **Mon Dec 14** · [[HYFT]] · Earnings
+- ❓ **Thu Dec 10** · [[HYFT]] · Earnings
 - ❓ **Wed Dec 16** · [[PKTX]] · Earnings
+- ❓ **Wed Dec 16** · [[RFL]] · Earnings
 - ❓ **Thu Dec 17** · [[BYSI]] · Earnings

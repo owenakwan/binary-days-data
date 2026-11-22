@@ -8,7 +8,7 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=HYFT)
 
-- ❓ **Mon Dec 14** · HYFT · Earnings
+- ❓ **Thu Dec 10** · HYFT · Earnings
     - Source: Finnhub earnings calendar
 
 ## My notes
