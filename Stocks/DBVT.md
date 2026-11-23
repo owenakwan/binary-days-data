@@ -8,7 +8,7 @@ tags: [catalyst]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DBVT)
 
-- 📐 **Nov 23–Dec 18** · DBVT · FDA acceptance expected Nov 23–Dec 18, 2026 (submitted Sep 29) — _A window the company gave, not an exact day._
+- 📐 **now–Dec 18** · DBVT · FDA acceptance expected Nov 23–Dec 18, 2026 (submitted Sep 29) — _A window the company gave, not an exact day._
     - 📏 $9.02 · options ±81% by Feb 19 · volatility 70% · usual day ±3.3% · biggest day +25% / −12%
     - Source: [DBVT SEC 10-Q (2026-10-28)](https://www.sec.gov/Archives/edgar/data/1613780/000162828026067930/dbvt-20260930.htm) — "Submission of BLA FDA for the VIASKIN® Peanut Patch in Children Aged 4-7 Years On September 29, 2026, the Company announced the submission of a BLA to FDA seeking approval of the VIASKIN® Peanut patch for the treatment o"
 - 📐 **Nov 24–Dec 19** · DBVT · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._

@@ -14,6 +14,9 @@ tags: [catalyst, biotech]
 - ✅ **Sun Dec 13** · COAG · Initial data expected December 13, 2026 — _A window the company gave, not an exact day._
     - 📏 $39.29 · MC $2.1B · volatility 80% · usual day ±3.4% · biggest day +17% / −25%
     - Source: [COAG SEC 8-K (2026-11-10)](https://www.sec.gov/Archives/edgar/data/2114044/000119312526454414/d22670dex991.htm) — "The Company will present these data as a poster at the 68th ASH Annual Meeting and Exposition on December 13, 2026, and expects initial clinical data from the ongoing Phase 1 trial in mid-2027."
+- ✅ **Feb 1–Feb 28** · COAG · Data expected February 2027 — _A window the company gave, not an exact day._
+    - 📏 $39.29 · MC $2.1B · volatility 80% · usual day ±3.4% · biggest day +17% / −25%
+    - Source: [COAG SEC 8-K (2026-11-10)](https://www.sec.gov/Archives/edgar/data/2114044/000119312526454414/d22670dex991.htm) — "• The Company expects to report additional data from the trial at the 20th EAHAD (European Association for Haemophilia and Allied Disorders) Congress in February 2027."
 
 ## My notes
 

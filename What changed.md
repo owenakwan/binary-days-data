@@ -2,6 +2,18 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-23 01:02 AM CT
+
+- 🆕 New: 📐 **now–Dec 12** · [[GOSS]] · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
+    - 📏 $10.72 · MC $69M · options ±64% by Jan 15 · volatility 84% · usual day ±4.0% · biggest day +46% / −80%
+- 🆕 New: ✅ **Mon Feb 1** · [[AGIO]] · FDA decision
+    - 📏 $27.60 · MC $1.8B · options ±41% by Feb 19 · volatility 86% · usual day ±2.6% · biggest day +19% / −23%
+- 🆕 New: ✅ **Feb 1–Feb 28** · [[ALNY]] · Data expected February 2027 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Feb 1–Feb 28** · [[COAG]] · Data expected February 2027 — _A window the company gave, not an exact day._
+    - 📏 $39.29 · MC $2.1B · volatility 80% · usual day ±3.4% · biggest day +17% / −25%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[AUTL]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ENTX]] · Data expected end of 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-22 05:49 PM CT
 
 - 🆕 New: ✅ **Mon Nov 23** · [[IVVD]] · Invivyd to Host Conference Call to Announce Results from Interim Analysis of Phase 3 DECLARATION Clinical Trial on November 23, 2026
@@ -252,10 +264,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
     - 📏 $1.28 · MC $125M · options ±121% by Nov 20 · volatility 111% · usual day ±3.8% · biggest day +24% / −26%
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[VIR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Wed Jan 6** · [[IBRX]] · FDA decision (anktiva, bcg-, nmibc)
-
-## 2026-11-08 03:00 AM CT
-
-- 🆕 New: 📐 **Wed Dec 23** · [[MBGL]] · SPAC merger / direct listing lock-up ends
-- 🆕 New: 📐 **Wed Dec 23** · [[MFP]] · SPAC merger / direct listing lock-up ends
-- 🆕 New: 📐 **Wed Dec 23** · [[SIND]] · IPO lock-up ends
-- 🆕 New: 📐 **Wed Dec 23** · [[USDE]] · SPAC merger / direct listing lock-up ends
