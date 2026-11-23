@@ -9,11 +9,11 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PRAX)
 
 - ✅ **Sun Dec 27** · PRAX · FDA decision (relutrigine, scn2a, scn8a)
-    - 📏 $300.43 · MC $7.3B · options ±30% by Jan 15 · volatility 80% · usual day ±2.8% · biggest day +31% / −23%
+    - 📏 $310.00 · MC $7.3B · options ±30% by Jan 15 · volatility 80% · usual day ±2.8% · biggest day +31% / −23%
     - Source: [PRAX SEC 8-K (2026-11-09) + 3 more filings](https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm) — "• The NDA for relutrigine for the treatment of SCN2A and SCN8A DEEs remains under FDA review, with a Prescription Drug User Fee Act (PDUFA) target action date of December 27, 2026."
     - Source: your sheet
 - ✅ **Fri Jan 29** · PRAX · FDA decision (ulixacaltamide)
-    - 📏 $300.43 · MC $7.3B · options ±30% by Jan 15 · volatility 80% · usual day ±2.8% · biggest day +31% / −23%
+    - 📏 $310.00 · MC $7.3B · options ±30% by Jan 15 · volatility 80% · usual day ±2.8% · biggest day +31% / −23%
     - Source: [PRAX SEC 8-K (2026-11-09) + 6 more filings](https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/praxisq32026pr.htm) — "• The New Drug Application (NDA) for ulixacaltamide remains under FDA review, with a Prescription Drug User Fee Act (PDUFA) target action date of January 29, 2027."
 
 ## My notes

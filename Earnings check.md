@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Mon Nov 23, 01:05 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Mon Nov 23, 01:19 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -12,6 +12,9 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-11-23
 - ✅ [[SMTC]] Semtech Corporation · after close · 2x: SMTG
     - Finnhub calendar: 2026-11-23
+    - Yahoo (confirmed): 2026-11-23
+- ✅ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL — _The bulk calendar said 2026-12-01; Yahoo confirms 2026-11-23._
+    - stock's own lookup: 2026-11-23
     - Yahoo (confirmed): 2026-11-23
 
 ## Tuesday, November 24
@@ -31,16 +34,13 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[CRDO]] Credo Technology Group Holding Ltd · time not given · 2x: CRD, CRDU
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
-- ✅ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL
-    - Finnhub calendar: 2026-12-01
-    - Yahoo (confirmed): 2026-12-01
 - ✅ [[MRVL]] Marvell Technology, Inc. · time not given · 2x: MRVU, MRVX, MVLL
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
 - ✅✅ [[NIO]] NIO Inc. · time not given · 2x: NIOG
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
-    - company announcement: 2026-12-01 — [NIO Inc. to Report Unaudited Third Quarter 2026 Financial Results on Tuesday, December 1, 2026](https://finnhub.io/api/news?id=bd01205818406ed8b909c9432c134bfebe25e535e9724c01033ec6be48689fb2)
+    - company announcement: 2026-12-01 — [NIO Inc. to Report Unaudited Third Quarter 2026 Financial Results on Tuesday, December 1, 2026](https://finance.yahoo.com/markets/stocks/articles/nio-inc-report-unaudited-third-093000032.html?.tsrc=rss)
 - ✅ [[NTAP]] NetApp, Inc. · time not given · 2x: NTAL
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01

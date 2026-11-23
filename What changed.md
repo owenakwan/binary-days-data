@@ -2,6 +2,15 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-23 01:14 PM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[CLYD]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **now–Dec 31** · [[KYMR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
+- 🆕 New: ✅ **Jan 1–Mar 31** · [[IVVD]] · FDA filing expected Q1 2027 — _A window the company gave, not an exact day._
+    - 📏 $0.51 · MC $158M · options ±34% by Dec 18 · volatility 103% · usual day ±5.2% · biggest day +35% / −21%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[DWTX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[KYMR]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
+
 ## 2026-11-23 01:02 AM CT
 
 - 🆕 New: 📐 **now–Dec 12** · [[GOSS]] · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
