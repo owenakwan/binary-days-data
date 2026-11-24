@@ -9,10 +9,10 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=INSM)
 
 - ✅ **now–Dec 31** · INSM · FDA filing expected Q4 2026 — _A window the company gave, not an exact day._
-    - 📏 $147.63 · MC $23.0B · options ±20% by Feb 19 · volatility 76% · usual day ±2.6% · biggest day +34% / −23%
+    - 📏 $149.09 · MC $23.0B · options ±21% by Feb 19 · volatility 76% · usual day ±2.6% · biggest day +34% / −23%
     - Source: [INSM SEC 8-K (2026-10-29)](https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_ex99-1.htm) — "• Insmed plans to submit data from the Phase 3 ENCORE study to Japan’s Pharmaceuticals and Medical Devices Agency (PMDA) in the fourth quarter of 2026 to support potential ARIKAYCE label expansion to all patients with MA"
 - ✅ **Thu Jan 28** · INSM · FDA decision (arikayce, macld, pmda)
-    - 📏 $147.63 · MC $23.0B · options ±20% by Feb 19 · volatility 76% · usual day ±2.6% · biggest day +34% / −23%
+    - 📏 $149.09 · MC $23.0B · options ±21% by Feb 19 · volatility 76% · usual day ±2.6% · biggest day +34% / −23%
     - Source: [INSM SEC 8-K (2026-10-29) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_ex99-2.htm) — "Note: Refractory MAC patients included in all MACLD TAM estimates | * if expanded label for ARIKAYCE is approved in the U.S. and Japan Potential Label Expansion* Q3 2026 Revenue† U.S. $75.5M +2% Int’l $48.9M +21% Worldwide $124.4M +9% sNDA granted priority rev"
 
 ## My notes

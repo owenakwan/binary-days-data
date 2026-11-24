@@ -2,6 +2,15 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-23 10:22 PM CT
+
+- 🆕 New: ✅ **Mon Nov 23** · [[KYMR]] · Kymera Therapeutics to Report BROADEN2 Phase 2b Results for KT-621 in Atopic Dermatitis on November 23, 2026
+    - 📏 $150.37 · MC $9.0B · options ±13% by Dec 18 · volatility 92% · usual day ±2.5% · biggest day +42% / −9%
+- 📆 Date moved Jan 15 → 📐 **Sat Jan 9** · [[LRMR]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 10 submission: Larimar Therapeutics completes rolling BLA submission  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 🆕 New: 📐 **Fri Jan 22** · [[ENLV]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 23 submission: Enlivex to Align with FDA on Allocetra™ Clinical Path  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[KYMR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
+    - 📏 $150.37 · MC $9.0B · options ±13% by Dec 18 · volatility 92% · usual day ±2.5% · biggest day +42% / −9%
+
 ## 2026-11-23 01:14 PM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[CLYD]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._

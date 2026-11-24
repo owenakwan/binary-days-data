@@ -1,21 +1,17 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Mon Nov 23, 01:19 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Mon Nov 23, 10:23 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
 
 ## Monday, November 23
 
-- ✅ [[HPE]] Hewlett Packard Enterprise Company · after close · 2x: HPEL
+- ❓ [[HPE]] Hewlett Packard Enterprise Company · after close · 2x: HPEL
     - Finnhub calendar: 2026-11-23
-    - Yahoo (confirmed): 2026-11-23
-- ✅ [[SMTC]] Semtech Corporation · after close · 2x: SMTG
+- ❓ [[SMTC]] Semtech Corporation · after close · 2x: SMTG
     - Finnhub calendar: 2026-11-23
-    - Yahoo (confirmed): 2026-11-23
-- ✅ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL — _The bulk calendar said 2026-12-01; Yahoo confirms 2026-11-23._
-    - stock's own lookup: 2026-11-23
-    - Yahoo (confirmed): 2026-11-23
+    - Yahoo (estimate): 2027-03-15
 
 ## Tuesday, November 24
 
@@ -34,6 +30,8 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅ [[CRDO]] Credo Technology Group Holding Ltd · time not given · 2x: CRD, CRDU
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
+- ❓ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL
+    - Finnhub calendar: 2026-12-01
 - ✅ [[MRVL]] Marvell Technology, Inc. · time not given · 2x: MRVU, MRVX, MVLL
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01

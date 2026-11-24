@@ -8,8 +8,8 @@ tags: [catalyst, biotech]
 
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=LRMR)
 
-- 📐 **Fri Jan 15** · LRMR · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 16 submission: Larimar Therapeutics Announces Completion of BLA Submi — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - Source: [Quiver Quantitative](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2ZxRHl2cDRKazRtY1hXcGRfbDF1dXM1UGJXZDNTWGJlMzhLbFkwWUJYU2tWWWwyaTBOSU9lbE1OckpDN0FtLUlhUFltMS1pNjBqQlpWYk5jc1FyMHY1eVFmdVg0SHF6V1BOZ0d4U2owcWctdHg2ZVdXb19hUlVzZG5zRnRXX2NlQ3h3dTdOUDBBeXBVZFNNaWtsbDJlX0FocVVrTU9Sb1NQekpONmZNSFhfVUl3LVpTbDFKOEF0dHFfTS1nMHhZTV9uRG1fR0NqOTAtbVFn?oc=5) — "FDA decision on accepting the filing, usually ~day 60-74 after the Nov 16 submission: Larimar Therapeutics Announces Completion of BLA Submission for Nomlabofusp in Friedreich’s Ataxia"
+- 📐 **Sat Jan 9** · LRMR · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 10 submission: Larimar Therapeutics completes rolling BLA submission  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+    - Source: [TipRanks](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdzF6TWxiTTZBNHhFMU1GanVKWnZLZk5kcmpKaHllUFJ0c1NKd00waGxjTTRfbG00V3dvT2dHeWRzYzZkQ3JwbV8yRWJuTGcxYXVnbWdVNkhRU01ORHM0dU1VQ2NLS0hqcnNkbEtHMElHWHdCNGtZSzlKSDhadlkyWkJvSlkzeVozMG5IcUIxNVMxRHJ4ZHlKVmhBa1hidmh2anJoeERaX0RvYVcyQkJuQVlob3BzTHZxdk43Z2RWempYaXNT?oc=5) — "FDA decision on accepting the filing, usually ~day 60-74 after the Nov 10 submission: Larimar Therapeutics completes rolling BLA submission to FDA for nomlabofusp"
 
 ## My notes
 
