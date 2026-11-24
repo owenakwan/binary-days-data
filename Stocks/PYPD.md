@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PYPD)
 
 - ✅ **Sat Nov 28** · PYPD · FDA decision (corporate, financial, november, polypid)
-    - 📏 $5.77 · MC $105M · options ±35% by Dec 18 · volatility 62% · usual day ±2.5% · biggest day +11% / −27%
+    - 📏 $5.58 · MC $105M · options ±50% by Dec 18 · volatility 62% · usual day ±2.6% · biggest day +11% / −27%
     - Source: [PYPD SEC 6-K (2026-11-12) + 4 more filings](https://www.sec.gov/Archives/edgar/data/1611842/000121390026118486/ea031183401ex99-1.htm) — "ON NOVEMBER 11, 2026, TITLED "POLYPID PROVIDES CORPORATE UPDATE AND REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS." Exhibit 99.1 PolyPid Provides Corporate Update and Reports Third Quarter 2026 Financial Results D-PLEX₁₀₀ NDA Under FDA Priority Review with PDUF"
 
 ## My notes

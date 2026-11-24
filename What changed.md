@@ -2,6 +2,15 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-24 09:21 AM CT
+
+- 🆕 New: ✅ **now–Dec 31** · [[KYMR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._
+- 📆 Date moved Dec 23 → ✅ **Tue Feb 2** · [[GILD]] · FDA decision
+    - 📏 $176.53 · MC $178.8B · options ±8% by Dec 24 · volatility 32% · usual day ±1.4% · biggest day +6% / −4%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[DMAC]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): 📐 **now–Dec 19** · [[DBVT]] · FDA acceptance expected Nov 24–Dec 19, 2026 (submitted Sep 30) — _A window the company gave, not an exact day._
+    - 📏 $9.76 · options ±75% by Feb 19 · volatility 70% · usual day ±3.3% · biggest day +25% / −12%
+
 ## 2026-11-23 10:22 PM CT
 
 - 🆕 New: ✅ **Mon Nov 23** · [[KYMR]] · Kymera Therapeutics to Report BROADEN2 Phase 2b Results for KT-621 in Atopic Dermatitis on November 23, 2026
@@ -237,48 +246,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 - 🆕 New: ✅ **now–Dec 31** · [[ARTV]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
 - 🆕 New: ✅ **now–Nov 30** · [[NKTX]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
     - 📏 $1.59 · MC $125M · volatility 76% · usual day ±3.5% · biggest day +24% / −13%
-
-## 2026-11-09 06:17 PM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[GPCR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[HROW]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[IMNM]] · Data expected by year-end 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Nov 30** · [[MBX]] · Data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $54.06 · MC $2.4B · volatility 60% · usual day ±2.7% · biggest day +20% / −11%
-- 🆕 New: ✅ **now–Dec 31** · [[NGNE]] · Initial data expected end of 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[RANI]] · Data expected end of 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Nov 30** · [[ZNTL]] · Topline data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $1.74 · MC $350M · options ±34% by Dec 18 · volatility 71% · usual day ±3.4% · biggest day +60% / −21%
-- 🆕 New: ✅ **Mon Dec 14** · [[IMNM]] · Data expected December 14, 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Jan 31** · [[HROW]] · Data expected January 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[TRVI]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ATTO]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[GPCR]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[HROW]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MBX]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-    - 📏 $54.06 · MC $2.4B · volatility 60% · usual day ±2.7% · biggest day +20% / −11%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[SRZN]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[ZNTL]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
-    - 📏 $1.74 · MC $350M · options ±34% by Dec 18 · volatility 71% · usual day ±3.4% · biggest day +60% / −21%
-- ✔️ Dropped off (happened, decided or no longer in any source): 📐 **Dec 22–Jan 16** · [[RFL]] · FDA acceptance expected Dec 22–Jan 16, 2027 (submitted Oct 28) — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): 📐 **Dec 23–Jan 17** · [[RFL]] · FDA acceptance expected Dec 23–Jan 17, 2027 (submitted Oct 29) — _A window the company gave, not an exact day._
-
-## 2026-11-09 09:59 AM CT
-
-- 🆕 New: ✅ **now–Nov 30** · [[MANE]] · Data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $143.47 · options ±16% by Dec 18 · volatility 83% · usual day ±3.3% · biggest day +48% / −14%
-- 🆕 New: ✅ **Mon Nov 9** · [[TLSA]] · Tiziana Life Sciences to Present at BIO-Europe 2026 and Host KOL Webcast
-    - 📏 $0.68 · volatility 103% · usual day ±4.5% · biggest day +26% / −16%
-- 🆕 New: ✅ **Tue Dec 8** · [[OCS]] · Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline - Carroll County Mirror-Democrat
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[AURA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[INM]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[TTRX]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: 📐 **Jan 3–Jan 28** · [[ANTX]] · FDA acceptance expected Jan 3–Jan 28, 2027 (submitted Nov 9) — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 18–Jan 31** · [[TECX]] · Topline data expected end of January 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[FTH]] · Topline data expected by year-end 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MANE]] · Data expected later this year — _A window the company gave, not an exact day._
-    - 📏 $143.47 · options ±16% by Dec 18 · volatility 83% · usual day ±3.3% · biggest day +48% / −14%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Nov 30** · [[NKTX]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $1.28 · MC $125M · options ±121% by Nov 20 · volatility 111% · usual day ±3.8% · biggest day +24% / −26%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[VIR]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Wed Jan 6** · [[IBRX]] · FDA decision (anktiva, bcg-, nmibc)

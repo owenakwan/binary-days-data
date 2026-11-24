@@ -13,7 +13,7 @@ tags: [catalyst, biotech]
 - ✅ **Dec 1–Dec 31** · RZLT · Topline data expected December 2026 — _A window the company gave, not an exact day._
     - Source: [RZLT SEC 10-Q (2026-11-05)](https://www.sec.gov/Archives/edgar/data/1509261/000110465926123364/rzlt-20260930x10q.htm) — "We have completed enrollment in the Phase 3 upLIFT study and expect to report topline results in December 2026."
 - ✅ **Dec 8–Dec 24** · RZLT · Data expected mid December 2026 — _A window the company gave, not an exact day._
-    - Source: [RZLT SEC 8-K (2026-11-13)](https://www.sec.gov/Archives/edgar/data/1509261/000110465926126502/tm2627558d10_ex99-1.htm) — "Results for the completed study, including statistical analysis of the primary endpoint, are expected by mid-December 2026. “We are thrilled with this outcome and what it means for individuals living with tumor hyperinsu"
+    - Source: [RZLT SEC 8-K (2026-11-24)](https://www.sec.gov/Archives/edgar/data/1509261/000110465926131220/tm2630524d1_ex99-1.htm) — "Results for the completed study, including statistical analysis of the primary endpoint, are expected by mid-December 2026"
 
 ## My notes
 
