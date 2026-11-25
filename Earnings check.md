@@ -1,18 +1,9 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Tue Nov 24, 06:16 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 25, 02:03 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
-
-## Tuesday, November 24
-
-- ❓ [[ADI]] Analog Devices, Inc. · before open · 2x: ADIU
-    - Finnhub calendar: 2026-11-24
-- ❓ [[CLSK]] CleanSpark, Inc. · after close · 2x: CLSX
-    - Finnhub calendar: 2026-11-24
-- ❓ [[DELL]] Dell Technologies Inc. · after close · 2x: DLLL
-    - Finnhub calendar: 2026-11-24
 
 ## Tuesday, December 1
 

@@ -2,6 +2,12 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-25 02:00 AM CT
+
+- 🆕 New: ✅ **Wed Dec 2** · [[HELP]] · Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders
+    - 📏 $7.67 · options ±24% by Dec 18 · volatility 108% · usual day ±4.4% · biggest day +22% / −34%
+- 🆕 New: 📐 **Sat Jan 9** · [[RACD]] · IPO lock-up ends
+
 ## 2026-11-24 06:12 PM CT
 
 - 🆕 New: 📐 **Sat Jan 23** · [[ABVX]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 24 submission: Abivax Announces Additional Investor Fireside Chat as  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
@@ -216,38 +222,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TEVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
     - 📏 $42.40 · options ±3% by Nov 13 · volatility 26% · usual day ±1.5% · biggest day +12% / −5%
-
-## 2026-11-10 03:34 PM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[CALC]] · Data expected by year-end 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ❓ **Sat Nov 14** · [[BRVE]] · FDA decision (maple-hcm) — _Only one filing states this date._
-    - 📏 $19.62 · volatility 77% · usual day ±3.9% · biggest day +10% / −14%
-- 🆕 New: ✅ **Sun Nov 22** · [[CAPR]] · FDA decision
-    - 📏 $8.87 · MC $500M · options ±108% by Nov 27 · volatility 115% · usual day ±5.7% · biggest day +371% / −64%
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[COAG]] · Initial data expected December 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[BMEA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[IKT]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[PALI]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[CALC]] · Data expected by year-end — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sun Nov 22** · [[CAPR]] · FDA decision (hope-3)
-    - 📏 $8.87 · MC $500M · options ±108% by Nov 27 · volatility 115% · usual day ±5.7% · biggest day +371% / −64%
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[BMEA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-
-## 2026-11-10 09:35 AM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[CALC]] · Data expected by year-end — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[CLRB]] · Initial data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Dec 31** · [[SRRK]] · Topline data expected by year end — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[CGEM]] · Data expected December 2026 — _A window the company gave, not an exact day._
-    - 📏 $11.65 · MC $878M · options ±40% by Dec 18 · volatility 101% · usual day ±3.6% · biggest day +37% / −22%
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[CING]] · FDA filing expected December 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Sun Dec 13** · [[COAG]] · Initial data expected December 13, 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[OVID]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Jan 31** · [[PEPG]] · Initial data expected January 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[MIRM]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
-
-## 2026-11-10 01:02 AM CT
-
-- 🆕 New: ✅ **now–Dec 31** · [[ARTV]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **now–Nov 30** · [[NKTX]] · Initial data expected November 2026 — _A window the company gave, not an exact day._
-    - 📏 $1.59 · MC $125M · volatility 76% · usual day ±3.5% · biggest day +24% / −13%
