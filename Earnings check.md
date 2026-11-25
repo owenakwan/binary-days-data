@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 25, 02:03 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 25, 12:45 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -25,7 +25,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-12-01
 - ❓ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL
     - Finnhub calendar: 2026-12-01
-    - Yahoo (estimate): 2026-12-01
 
 ## Wednesday, December 2
 

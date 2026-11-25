@@ -1,6 +1,6 @@
 # Needs a second look
 
-Updated Wed Nov 25, 02:00 AM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
+Updated Wed Nov 25, 12:41 PM CT. Dates where sources disagree, only one source says it, or the sheet was corrected.
 
 
 ## ❓ One source only (5)
@@ -9,4 +9,4 @@ Updated Wed Nov 25, 02:00 AM CT. Dates where sources disagree, only one source s
 - ❓ **now–Dec 25** · [[MNOV]] · Phase 2 topline, overdue from late Sept — _Only on your sheet; not in the company's filings._
 - ❓ **now–Dec 31** · [[IMMX]] · NEXICART-2 cohort expansion readouts — _Only on your sheet; not in the company's filings._
 - ❓ **Mon Nov 30** · [[AKBA]] · FDA decision (april, baff) — _Only one filing states this date._
-    - 📏 $0.45 · MC $111M · options ±29% by Dec 18 · volatility 197% · usual day ±5.2% · biggest day +33% / −39%
+    - 📏 $0.42 · MC $111M · options ±31% by Dec 18 · volatility 197% · usual day ±5.3% · biggest day +33% / −39%
