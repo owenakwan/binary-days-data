@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-24 06:12 PM CT
+
+- 🆕 New: 📐 **Sat Jan 23** · [[ABVX]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 24 submission: Abivax Announces Additional Investor Fireside Chat as  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Sat Nov 28** · [[PYPD]] · FDA decision (corporate, financial, november, polypid)
+
 ## 2026-11-24 09:21 AM CT
 
 - 🆕 New: ✅ **now–Dec 31** · [[KYMR]] · Topline data expected year-end 2026 — _A window the company gave, not an exact day._

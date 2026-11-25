@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=MLYS)
 
 - ✅ **Tue Dec 22** · MLYS · FDA decision (lorundrostat, resistant)
-    - 📏 $14.68 · MC $1.3B · options ±45% by Jan 15 · volatility 87% · usual day ±3.7% · biggest day +15% / −14%
+    - 📏 $15.63 · MC $1.3B · options ±46% by Jan 15 · volatility 92% · usual day ±3.8% · biggest day +15% / −14%
     - Source: [MLYS SEC 8-K (2026-11-04) + 8 more filings](https://www.sec.gov/Archives/edgar/data/1933414/000193341426000142/mlys2026q38kex991.htm) — "EX-99.1 2 mlys2026q38kex991.htm EX-99.1 Document Exhibit 99.1 Mineralys Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate Update – Commercialization plans for lorundrostat are on track ahead of PDUFA target date of December 22, 2"
     - Source: your sheet
 

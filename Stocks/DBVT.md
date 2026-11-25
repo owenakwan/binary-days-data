@@ -9,10 +9,10 @@ tags: [catalyst]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=DBVT)
 
 - 📐 **now–Dec 18** · DBVT · FDA acceptance expected Nov 23–Dec 18, 2026 (submitted Sep 29) — _A window the company gave, not an exact day._
-    - 📏 $9.76 · options ±75% by Feb 19 · volatility 70% · usual day ±3.3% · biggest day +25% / −12%
+    - 📏 $10.03 · options ±73% by Feb 19 · volatility 73% · usual day ±3.3% · biggest day +25% / −12%
     - Source: [DBVT SEC 10-Q (2026-10-28)](https://www.sec.gov/Archives/edgar/data/1613780/000162828026067930/dbvt-20260930.htm) — "Submission of BLA FDA for the VIASKIN® Peanut Patch in Children Aged 4-7 Years On September 29, 2026, the Company announced the submission of a BLA to FDA seeking approval of the VIASKIN® Peanut patch for the treatment o"
 - 📐 **Sun Nov 29** · DBVT · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 30 submission: DBV Technologies Submits FDA Biologics License Applica — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
-    - 📏 $9.76 · options ±75% by Feb 19 · volatility 70% · usual day ±3.3% · biggest day +25% / −12%
+    - 📏 $10.03 · options ±73% by Feb 19 · volatility 73% · usual day ±3.3% · biggest day +25% / −12%
     - Source: [Kalkine Media](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWm5hSEh4SFJiMWNndk5meHpGZC1qZmd4elpIcUJRSl8yRFpNWkI1YkVwRnZwT19BNVY2ZUZDbUoyNC03Z2I3RzlJTEdnd0NDdVZ5SER3aUk1em5tSU84eUZFczVZQTdacFhDdURObm02cHI0ci1pRmhtTi0ybWNiMExDNWxUVTM3V3dMMGVicUdXcG8xZ0cxZlVtclNGUXlEb3Z2bzlWLVdNSUtGZHF3d0lTcUtHbXF3bXlxdEpwNW94Y294cW8yZnJhVUtMZTMtSXZRckZqb2NHU0VkWXBDMVQyUnRJQQ?oc=5) — "FDA decision on accepting the filing, usually ~day 60-74 after the Sep 30 submission: DBV Technologies Submits FDA Biologics License Application for VIASKIN Peanut Patch in Children Ages 4-7"
 
 ## My notes
