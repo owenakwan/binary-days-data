@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Thu Nov 26, 04:47 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Thu Nov 26, 02:06 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 23
@@ -140,7 +140,7 @@ Updated Thu Nov 26, 04:47 AM CT. ✅ confirmed · 🔧 corrected (sheet was wron
 ## Week of Jan 18
 - ✅ **Thu Jan 21** · [[DYN]] · FDA decision
     - 📏 $17.74 · MC $3.4B · options ±56% by Mar 19 · volatility 65% · usual day ±3.1% · biggest day +19% / −17%
-- 📐 **Fri Jan 22** · [[ENLV]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 23 submission: Enlivex Ltd. Aligns With FDA On Allocetra Clinical Pat — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
+- 📐 **Fri Jan 22** · [[ENLV]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 23 submission: Enlivex to Align with FDA on Allocetra™ Clinical Path  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 - 📐 **Sat Jan 23** · [[ABVX]] · FDA decision on accepting the filing, usually ~day 60-74 after the Nov 24 submission: Abivax Announces Additional Investor Fireside Chat as  — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
 
 ## Week of Jan 25
