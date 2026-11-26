@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=GOSS)
 
 - 📐 **now–Dec 12** · GOSS · FDA acceptance expected Nov 17–Dec 12, 2026 (submitted Sep 23) — _A window the company gave, not an exact day._
-    - 📏 $14.07 · MC $69M · options ±49% by Jan 15 · volatility 95% · usual day ±4.4% · biggest day +46% / −80%
+    - 📏 $14.07 · MC $69M · options ±49% by Jan 15 · volatility 92% · usual day ±4.5% · biggest day +46% / −80%
     - Source: [GOSS SEC 8-K (2026-09-23)](https://www.sec.gov/Archives/edgar/data/1728117/000172811726000104/goss-20260923.htm) — "On September 23, 2026, Gossamer Bio, Inc. (the “Company”) announced that it submitted a New Drug Application (“NDA”) to the U.S."
 
 ## My notes

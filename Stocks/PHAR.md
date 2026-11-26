@@ -9,7 +9,7 @@ tags: [catalyst, biotech]
 [Open on Binary Days](https://golden-fox-642e38.netlify.app/stock.html?s=PHAR)
 
 - ✅ **Sat Jan 30** · PHAR · FDA decision
-    - 📏 $10.05 · MC $619M · volatility 63% · usual day ±2.7% · biggest day +11% / −27%
+    - 📏 $10.05 · MC $619M · volatility 104% · usual day ±3.0% · biggest day +11% / −27%
     - Source: [PHAR SEC 6-K (2026-10-27) + 1 more filing](https://www.sec.gov/Archives/edgar/data/1828316/000182831626000049/a2026q3pressrelease.htm) — "On September 28, 2026, we announced that the FDA had accepted this sNDA and granted the application Priority Review and assigned a Prescription Drug User Fee Act (PDUFA) target action date of January 30, 2027."
 
 ## My notes

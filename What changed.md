@@ -2,6 +2,16 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-26 04:47 AM CT
+
+- 🆕 New: 📐 **Sun Jan 10** · [[APTN]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Sun Jan 10** · [[OYCG]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: ✅ **Thu Feb 4** · [[BBIO]] · FDA decision (infigratinib)
+    - 📏 $89.79 · MC $14.5B · options ±10% by Dec 18 · volatility 44% · usual day ±1.8% · biggest day +15% / −15%
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[CYCN]] · Topline data expected Q4 2026 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[AKTS]] · Initial data expected Q1 2027 — _A window the company gave, not an exact day._
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Jan 1–Mar 31** · [[NMRA]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
+
 ## 2026-11-25 08:03 PM CT
 
 - ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Nov 30** · [[DARE]] · Initial data expected this month — _A window the company gave, not an exact day._
@@ -221,8 +231,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 - 🆕 New: ✅ **Jan 1–Mar 31** · [[TCRX]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
 - 🆕 New: ✅ **Thu Jan 21** · [[DYN]] · FDA decision
     - 📏 $17.99 · MC $3.4B · options ±54% by Mar 19 · volatility 59% · usual day ±2.8% · biggest day +19% / −17%
-
-## 2026-11-11 02:21 AM CT
-
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Dec 31** · [[TEVA]] · Data expected Q4 2026 — _A window the company gave, not an exact day._
-    - 📏 $42.40 · options ±3% by Nov 13 · volatility 26% · usual day ±1.5% · biggest day +12% / −5%
