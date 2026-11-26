@@ -2,6 +2,10 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-25 08:03 PM CT
+
+- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **now–Nov 30** · [[DARE]] · Initial data expected this month — _A window the company gave, not an exact day._
+
 ## 2026-11-25 02:00 AM CT
 
 - 🆕 New: ✅ **Wed Dec 2** · [[HELP]] · Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders

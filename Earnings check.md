@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Wed Nov 25, 12:45 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Wed Nov 25, 08:06 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -10,7 +10,7 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 - ✅✅ [[NIO]] NIO Inc. · before open · 2x: NIOG
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
-    - company announcement: 2026-12-01 — [NIO Inc. to Report Unaudited Third Quarter 2026 Financial Results on Tuesday, December 1, 2026](https://finnhub.io/api/news?id=bd01205818406ed8b909c9432c134bfebe25e535e9724c01033ec6be48689fb2)
+    - company announcement: 2026-12-01 — [NIO Inc. to Report Unaudited Third Quarter 2026 Financial Results on Tuesday, December 1, 2026](https://finance.yahoo.com/markets/stocks/articles/nio-inc-report-unaudited-third-093000032.html?.tsrc=rss)
 - ✅ [[CRDO]] Credo Technology Group Holding Ltd · after close · 2x: CRD, CRDU
     - Finnhub calendar: 2026-12-01
     - Yahoo (confirmed): 2026-12-01
