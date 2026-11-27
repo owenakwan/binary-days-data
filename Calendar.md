@@ -1,6 +1,6 @@
 # Catalyst calendar (next 10 weeks)
 
-Updated Thu Nov 26, 02:06 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Thu Nov 26, 08:48 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 
 ## Week of Nov 23
