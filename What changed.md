@@ -2,6 +2,11 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-27 03:05 PM CT
+
+- 🆕 New: ✅ **Mon Nov 30** · [[SLGL]] · Sol-Gel Technologies to Host Conference Call on November 30 to Discuss Top-Line Phase 3 Results for SGT-610 in Gorlin Syndrome
+    - 📏 $54.78 · MC $223M · volatility 55% · usual day ±2.7% · biggest day +21% / −13%
+
 ## 2026-11-26 04:47 AM CT
 
 - 🆕 New: 📐 **Sun Jan 10** · [[APTN]] · SPAC merger / direct listing lock-up ends
