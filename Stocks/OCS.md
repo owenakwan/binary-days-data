@@ -10,7 +10,7 @@ tags: [catalyst, biotech]
 
 - ✅ **Tue Dec 8** · OCS · Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline
     - 📏 $8.47 · MC $443M · volatility 62% · usual day ±2.9% · biggest day +11% / −36%
-    - Source: [mykxlg.com](https://news.google.com/rss/articles/CBMilAJBVV95cUxPanBVMjVhbENTejBUNVlyZmhSTURucHA0Q29xRmJpTXl3VU5fZmliUFNlTFB6djRHSFRBeVotT0tHZzBPSnh1bWQ5YWNfSG5uWjJwb04xbVFKOXBaMk94a0daSkdfeVBPR1J0Y3FjTVFDcml5aWplS0E2Z0I2Y2dIdVB1MUdielZkNFVKRERGTTVPaTlMeXl5ZDc2NUsyUzZxTVVuMko0M3djMjhvc2UtQjFxNGVYUTZkVE9aR3UxZ2xvZThDc2NnZzBWWGxuLURWNi1hd3lFaHZaVFRKWVNnWkYwR00wWFEyWk5CaERjMnlJdWx5WkctcHZzaUpzUEhIdGJ5cmZKb3I3RVpVZ1lhdXluaFU?oc=5) — "Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline"
+    - Source: [Quantisnow](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTFaWkc1MHN1MnNmSlctZlVpZXRFSklKOFhNYWFtWlZYMnNHaEUzeUFETWxPQjg5ZHdvMnhQcjZkRmNWTzZKTy14bDJva2MxSnk0ajBIM1lJR2wweGVQQXlvdzZkOThiT25FOThqRzZuZVhoeE95RFZKZU1UMU04OUZrT1JjbGphbU8zRFJfMTU3ZHlwNVJ0Y1RBSzEzc3M?oc=5) — "Oculis to Host In-Person and Virtual R&D Day: Advancing a Differentiated Late-Stage Development Pipeline"
 
 ## My notes
 

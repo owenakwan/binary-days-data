@@ -10,7 +10,7 @@ tags: [catalyst]
 
 - ✅ **Wed Dec 2** · HELP · Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders
     - 📏 $8.13 · options ±26% by Dec 18 · volatility 110% · usual day ±4.4% · biggest day +22% / −34%
-    - Source: [GlobeNewswire](https://news.google.com/rss/articles/CBMiigJBVV95cUxQdlJBcUtWa0ZIaUxDOHE0LUVVbFVMcHpCa1VRdWZIa1JhVGhVTTJ3QkxpanZxRW1YVUlfUzhyQmdNc3dGSzRwY2dOZXRZdzlFZjYtSnZEcS1QVU01TWY4alV6aTlNc2hZdkZhYzdPRWVQTzg0VUpfcDJOQjZwUDRmOF9LRlJ2SUNaQkNGRkdjZnJNWXZsUVR0Yng4UjVIOUc0aWFzMktBd1AzT1RtbVlvV3ZjbXJSQWZmZ3luMDlXZHVrNVoybU1hblZZd0tmVzJ6UTN2eVRheWJ2SFdJeEVDQ3JCMHIwZ19XaFhqYjBrajNiamsySk1NQ1hzb0FwLUJGT1dvUHBJbFNQQQ?oc=5) — "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders"
+    - Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxNX0xOT2tKcGNSM2dLNzAwUVdwSjZacnk2YnVWcXZ2WkN5bVZ0ZW54RzZpVF9GNkw0dXh0dC1udElTczkxVXRGVXJSaGlOa1ZNV1diU1VwMDgteEp3VWtPWGNpSVBoM1lnQXlEdmlXOXFDRjdLeHZSQTVXaTNhbHBkbWZJZHBTOFpLb2I1dzFLNkhQekJvUjNhajhFVHJRekJ5R0E?oc=5) — "Helus Pharma to Host Clinical Perspectives Discussion on APPROACH Topline Results with Key Opinion Leaders"
 
 ## My notes
 
