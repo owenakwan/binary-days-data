@@ -1,6 +1,6 @@
 # Earnings check (stocks with 2x ETFs)
 
-Updated Fri Nov 27, 09:19 PM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
+Updated Sat Nov 28, 06:21 AM CT. Next 10 days. ✅✅ company announced · ✅ calendars agree, Yahoo confirmed · ⚠️ company says a different date · ❓ not confirmed
 
 Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's date. ❓ is left out.
 
@@ -24,7 +24,6 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
     - Yahoo (confirmed): 2026-12-01
 - ❓ [[CRWD]] CrowdStrike Holdings, Inc. · time not given · 2x: CRWC, CRWL
     - Finnhub calendar: 2026-12-01
-    - Yahoo (estimate): 2026-12-01
 
 ## Wednesday, December 2
 
@@ -45,4 +44,13 @@ Only ✅✅ and ✅ go in the 6:30am earnings email. ⚠️ uses the company's d
 
 - ❓ [[GME]] GameStop Corp. · time not given · 2x: GMEC, GMEU
     - Finnhub calendar: 2026-12-07
-    - Yahoo (estimate): 2026-12-07
+    - Yahoo (estimate): 2026-12-08
+
+## Tuesday, December 8
+
+- ✅ [[AVAV]] AeroVironment, Inc. · time not given · 2x: AVXX
+    - Finnhub calendar: 2026-12-08
+    - Yahoo (confirmed): 2026-12-08
+- ✅ [[LULU]] lululemon athletica inc. · time not given · 2x: LULG
+    - Finnhub calendar: 2026-12-08
+    - Yahoo (confirmed): 2026-12-08

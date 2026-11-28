@@ -2,6 +2,15 @@
 
 New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 weeks.
 
+## 2026-11-28 06:19 AM CT
+
+- 🆕 New: 📐 **Tue Jan 12** · [[CSQR]] · IPO lock-up ends
+- 🆕 New: 📐 **Tue Jan 12** · [[QMLS]] · IPO lock-up ends
+- 🆕 New: 📐 **Tue Jan 12** · [[STDN]] · IPO lock-up ends
+- 🆕 New: 📐 **Tue Jan 12** · [[TKNZ]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Tue Jan 12** · [[YSAG]] · SPAC merger / direct listing lock-up ends
+- 🆕 New: 📐 **Tue Jan 12** · [[YSAU]] · SPAC merger / direct listing lock-up ends
+
 ## 2026-11-27 03:05 PM CT
 
 - 🆕 New: ✅ **Mon Nov 30** · [[SLGL]] · Sol-Gel Technologies to Host Conference Call on November 30 to Discuss Top-Line Phase 3 Results for SGT-610 in Gorlin Syndrome
@@ -161,28 +170,3 @@ New catalysts, moved dates and ones that dropped off, newest first. Kept for 2 w
 
 - 🆕 New: 📐 **Sun Dec 13** · [[TCRG]] · SPAC merger / direct listing lock-up ends
 - 🆕 New: 📐 **Tue Dec 29** · [[SECZ]] · SPAC merger / direct listing lock-up ends
-
-## 2026-11-13 08:52 PM CT
-
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[CRIS]] · Initial data expected December 2026 — _A window the company gave, not an exact day._
-
-## 2026-11-13 05:05 PM CT
-
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[CRIS]] · Initial data expected December 2026 — _A window the company gave, not an exact day._
-
-## 2026-11-13 11:10 AM CT
-
-- 🆕 New: ✅ **Dec 1–Dec 31** · [[IMUX]] · Topline data expected December 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Dec 8–Dec 24** · [[RZLT]] · Data expected mid December 2026 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[AARD]] · Data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[RVPH]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[TVRD]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- ✔️ Dropped off (happened, decided or no longer in any source): ✅ **Dec 8–Dec 24** · [[RZLT]] · Topline data expected mid December 2026 — _A window the company gave, not an exact day._
-
-## 2026-11-13 02:46 AM CT
-
-- 🆕 New: 📐 **Mon Dec 28** · [[BSP]] · IPO lock-up ends
-- 🆕 New: 📐 **Mon Dec 28** · [[ITG]] · IPO lock-up ends
-- 🆕 New: 📐 **Mon Dec 28** · [[LIME]] · IPO lock-up ends
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[PROK]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._
-- 🆕 New: ✅ **Jan 1–Mar 31** · [[VRCA]] · Topline data expected Q1 2027 — _A window the company gave, not an exact day._

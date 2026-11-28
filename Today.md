@@ -1,19 +1,13 @@
-# Today · Friday, November 27
+# Today · Saturday, November 28
 
-Updated Fri Nov 27, 09:16 PM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
+Updated Sat Nov 28, 06:19 AM CT. ✅ confirmed · 🔧 corrected (sheet was wrong) · ⚠️ sources disagree · ❓ one source only · 📐 estimated date
 
 ## Today
-
-- ✅ **Fri Nov 27** · [[BBIO]] · FDA decision (ascend-attr, bbp-418, lgmd2i, participant)
-    - 📏 $91.12 · MC $14.5B · options ±10% by Dec 18 · volatility 43% · usual day ±1.8% · biggest day +15% / −15%
-- 📊 Earnings: [[SCLX]]
-
-## Tomorrow · Sat Nov 28
 
 - 📐 **Sat Nov 28** · [[UNCY]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 29 submission: Unicycive Therapeutics resubmits oxylanthanum carbonat — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $3.96 · MC $104M · options ±33% by Dec 18 · volatility 70% · usual day ±3.0% · biggest day +15% / −39%
 
-## Rest of this week
+## Tomorrow · Sun Nov 29
 
 - 📐 **Sun Nov 29** · [[DBVT]] · FDA decision on accepting the filing, usually ~day 60-74 after the Sep 30 submission: DBV Technologies Submits FDA Biologics License Applica — _FDA usually says whether it accepts a filing ~60-74 days after submission; companies announce it around then._
     - 📏 $10.42 · options ±70% by Feb 19 · volatility 73% · usual day ±3.3% · biggest day +25% / −12%
